@@ -1,0 +1,863 @@
+id,file,context,source,target,status,max_len
+vntext.sq#3116,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3119,vntext.sq,CODYYEN,Very funny. The sign on your door says the Hotbox is still open.,"Очень смешно. На табличке на твоей двери написано, что Hotbox всё ещё открыт.",translated,64
+vntext.sq#3120,vntext.sq,CODYYEN,"Besides, I thought we've already established some sort of camaraderie. Or has that changed, for some reason?","К тому же, я думал, между нами уже установилось что-то вроде товарищества. Или это по какой-то причине изменилось?",translated,108
+vntext.sq#3121,vntext.sq,CODYYEN,I recently caught my brother smiling while texting someone. Could it be that you're worried about my approval?,"Недавно я застукал брата за тем, как он улыбается, переписываясь с кем-то. Может, ты переживаешь из-за моего одобрения?",translated,110
+vntext.sq#3123,vntext.sq,CODYYEN,"Not in the mood to lose, you mean. I could train you, you know.","Не в настроении проигрывать, ты хочешь сказать. Я, знаешь ли, мог бы тебя натренировать.",translated,63
+vntext.sq#3125,vntext.sq,CODYYEN,"It would make you more decisive, for one. And as for my reason... I'm just bored, really.","Во-первых, это сделало бы тебя решительнее. А что до причины... если честно, мне просто скучно.",translated,89
+vntext.sq#3131,vntext.sq,CODYYEN,"Madame Antoinette's...? Oh, I did hear about [i] that. [/i]","У мадам Антуанетты...? О, [i] об этом [/i] я наслышан.",translated,59
+vntext.sq#3132,vntext.sq,CODYYEN,"Are you sure, though? At the very least, a game of 1SA with me would not leave you retching.","Ты правда уверен, впрочем? По крайней мере, партия в 1SA со мной не заставит тебя блевать.",translated,92
+vntext.sq#3139,vntext.sq,CODYYEN,"Haha, there we go. I knew you wouldn't pass up this opportunity.","Ха-ха, вот так-то. Я знал, что ты не упустишь такую возможность.",translated,64
+vntext.sq#3141,vntext.sq,CODYYEN,"It's not pretend, {$mcName}. We used to argue a lot, if you recall.","Это не притворство, {$mcName}. Мы ведь раньше много спорили, если помнишь.",translated,67
+vntext.sq#3142,vntext.sq,CODYYEN,"And us lawyers, we learn a lot about people based on how they argue. It is part of our job, after all.","А мы, юристы, многое узнаём о людях по тому, как они спорят. Это часть нашей работы, в конце концов.",translated,102
+vntext.sq#3146,vntext.sq,CODYYEN,Of course. You have my word.,Конечно. Даю слово.,translated,28
+vntext.sq#3147,vntext.sq,CODYYEN,Not bad. You've improved a lot.,Неплохо. Ты сильно продвинулся.,translated,31
+vntext.sq#3148,vntext.sq,CODYYEN,You don't pass your turns as much as you used to. Seems like you've become less risk averse.,"Ты уже не так часто пропускаешь ходы, как раньше. Похоже, стал меньше избегать риска.",translated,92
+vntext.sq#3150,vntext.sq,CODYYEN,"Glad I can be of service to your character development, then.","Что ж, рад посодействовать твоему развитию как личности.",translated,61
+vntext.sq#3152,vntext.sq,CODYYEN,And...,И...,translated,6
+vntext.sq#3153,vntext.sq,CODYYEN,[i] 1SA. [/i],[i] 1SA. [/i],translated,13
+vntext.sq#3155,vntext.sq,CODYYEN,"Come on now, don't look so glum. It's all about experience, really.","Ну, ну, не будь таким унылым. Это всё дело опыта, на самом деле.",translated,67
+vntext.sq#3157,vntext.sq,CODYYEN,"Well, there's the fact that as a party game, it's silly and gets people riled up. I always do enjoy that.","Что ж, как в компанейской игре, в ней есть доля глупости, которая заводит людей. Мне это всегда нравится.",translated,105
+vntext.sq#3159,vntext.sq,CODYYEN,"But it's also about the high of anticipating your opponent's movements, and reacting in the best way you can.",Но дело ещё и в кайфе от предугадывания ходов соперника и реакции на них наилучшим образом.,translated,109
+vntext.sq#3160,vntext.sq,CODYYEN,"I used to box, you see. It was my way of getting that adrenaline rush. But... let's just say I've had to take a break from it, so this is the next best thing.","Видишь ли, я раньше занимался боксом. Это был мой способ получить тот же выброс адреналина. Но... скажем так, мне пришлось сделать в этом перерыв, так что это — следующий по крутости вариант.",translated,158
+vntext.sq#3162,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3163,vntext.sq,CODYYEN,Maybe next time. It's getting late.,"Может, в другой раз. Уже поздно.",translated,35
+vntext.sq#3165,vntext.sq,CODYYEN,On nights when I didn't have to wake up early the next morning.,"В те ночи, когда мне не нужно было рано вставать на следующее утро.",translated,63
+vntext.sq#3173,vntext.sq,CODYYEN,Really? Are you serious?,Серьёзно? Ты издеваешься?,translated,24
+vntext.sq#3175,vntext.sq,CODYYEN,Look at this donut and tell me what you think is wrong.,"Посмотри на этот пончик и скажи мне, что, по-твоему, здесь не так.",translated,55
+vntext.sq#3179,vntext.sq,CODYYEN,Fine. But try not to make this a habit.,Ладно. Но постарайся не превращать это в привычку.,translated,39
+vntext.sq#3182,vntext.sq,CODYYEN,"Ah, that {$flavors:matchajuana} flavor. That's the calming sensation I was looking for.","Ах, этот вкус {$flavors:matchajuana}. Именно то успокаивающее ощущение, которое я искал.",translated,87
+vntext.sq#3184,vntext.sq,CODYYEN,"Oh? I don’t remember asking for {$flavors:chococaine}. I need to go to bed early, not get in the mood for work.","О? Не помню, чтобы просил {$flavors:chococaine}. Мне нужно лечь пораньше, а не настраиваться на работу.",translated,111
+vntext.sq#3185,vntext.sq,CODYYEN,Hm. I suddenly have a couple of ideas for work… I should write them down before going to bed.,Хм. У меня внезапно появилось несколько идей для работы… Надо их записать перед сном.,translated,93
+vntext.sq#3186,vntext.sq,CODYYEN,This flavor is getting me riled up about a recent case — not ideal if I want to go to bed early.,"Этот вкус будоражит меня насчёт недавнего дела — не лучший вариант, если я хочу лечь пораньше.",translated,96
+vntext.sq#3187,vntext.sq,CODYYEN,...Not exactly the ${relaxing} sensation I was looking for. I'd appreciate this more on days when I need to talk to certain people.,"...Не совсем то {relaxing} ощущение, которое я искал. Оценил бы это в дни, когда мне нужно поговорить с определёнными людьми.",translated,131
+vntext.sq#3188,vntext.sq,CODYYEN,Why do you think I need to reminisce about the past tonight?,"С чего ты взял, что мне сегодня нужно предаваться воспоминаниям о прошлом?",translated,60
+vntext.sq#3189,vntext.sq,CODYYEN,"Hm. This ${cheerful} mood isn't unwelcome, but it [i] is [/i] a bit distracting.","Хм. Это {cheerful} настроение не то чтобы нежеланное, но оно [i] и [/i] правда немного отвлекает.",translated,80
+vntext.sq#3190,vntext.sq,CODYYEN,"Think this can get me to tell you why I quit boxing? Not tonight, {$mcName}. I did say maybe next time, though, and I mean [i] that. [/i]","Думаешь, это заставит меня рассказать, почему я бросил бокс? Не сегодня, {$mcName}. Хотя я сказал «может быть, в другой раз», и я [i] это [/i] и имел в виду.",translated,137
+vntext.sq#3191,vntext.sq,CODYYEN,What could I possibly need this burst of {$moods:courage} for tonight?,Для чего мне вообще сегодня этот всплеск {$moods:courage}?,translated,70
+vntext.sq#3192,vntext.sq,CODYYEN,"Not your finest work, but I'll take it.","Не лучшая твоя работа, но я это приму.",translated,39
+vntext.sq#3193,vntext.sq,CODYYEN,I'm glad I came here. I'll be able to sleep better tonight.,"Рад, что зашёл сюда. Сегодня буду спать лучше.",translated,59
+vntext.sq#3194,vntext.sq,CODYYEN,...I'll have to do my best to sleep this off.,"...Придётся постараться, чтобы это переспать.",translated,45
+vntext.sq#3195,vntext.sq,CODYYEN,"Anyway, it's about time I get going.","В любом случае, мне пора идти.",translated,36
+vntext.sq#3197,vntext.sq,CODYYEN,Likewise.,Взаимно.,translated,9
+vntext.sq#3199,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3202,vntext.sq,CODYYEN,I wasn't gonna ask. I did say I'll tell you more about why I quit boxing.,"Я и не собирался просить. Я обещал рассказать тебе побольше о том, почему бросил бокс.",translated,73
+vntext.sq#3203,vntext.sq,CODYYEN,Or have you lost interest in that?,Или ты уже потерял к этому интерес?,translated,34
+vntext.sq#3205,vntext.sq,CODYYEN,"...It's not my 'backstory' or whatever it is kids these days say. Just something that happened, that's all.","...Это не 'предыстория' или как там это называет нынешняя молодёжь. Просто то, что случилось, вот и всё.",translated,107
+vntext.sq#3207,vntext.sq,CODYYEN,"All right, sure. Let me just order before we talk about it.","Ладно, хорошо. Дай мне сперва сделать заказ, прежде чем мы об этом поговорим.",translated,59
+vntext.sq#3216,vntext.sq,CODYYEN,Awful. This is just awful!,Ужасно. Это просто ужасно!,translated,26
+vntext.sq#3218,vntext.sq,CODYYEN,I need a Fixer-upper.,Мне нужен Fixer-upper.,translated,21
+vntext.sq#3223,vntext.sq,CODYYEN,"Hm. {$flavors:strawpium}. While I do not wish to talk about the past with rose-tinted glasses, I do have a lot of good memories with boxing...","Хм. {$flavors:strawpium}. Хоть я и не хочу говорить о прошлом через розовые очки, у меня правда много хороших воспоминаний о боксе...",translated,142
+vntext.sq#3224,vntext.sq,CODYYEN,"{$flavors:methberry}. Of course. Very well, I'll tell you about it as honestly as I can... memories can be incredibly biased, so do remember that.","{$flavors:methberry}. Конечно. Что ж, расскажу об этом настолько честно, насколько смогу... воспоминания могут быть очень предвзятыми, так что учти это.",translated,146
+vntext.sq#3225,vntext.sq,CODYYEN,Excellent choice. I think this should work very well.,"Отличный выбор. Думаю, это должно хорошо сработать.",translated,53
+vntext.sq#3227,vntext.sq,CODYYEN,What an odd choice. I thought you wanted to hear about why I quit boxing. This is distracting me with work related thoughts instead.,"Какой странный выбор. Я думал, ты хочешь услышать, почему я бросил бокс. А это вместо этого отвлекает меня мыслями о работе.",translated,132
+vntext.sq#3228,vntext.sq,CODYYEN,... Why do I need to be ${inspired} when telling this story? Are you suggesting I should pick-up boxing again?,"...Зачем мне быть {inspired}, чтобы рассказать эту историю? Ты что, намекаешь, что мне стоит снова заняться боксом?",translated,110
+vntext.sq#3229,vntext.sq,CODYYEN,"Hm. I do not like this one. It's getting me too... ${passionate}. I'm here to tell a story, not vent.","Хм. Мне это не нравится. Это делает меня слишком... {passionate}. Я здесь, чтобы рассказать историю, а не излить душу.",translated,101
+vntext.sq#3230,vntext.sq,CODYYEN,Interesting choice. Why {$flavors:pumpketamine}? Do I need {$moods:patience} to tell you a story?,"Интересный выбор. Почему {$flavors:pumpketamine}? Мне что, нужен {$moods:patience}, чтобы рассказать тебе историю?",translated,97
+vntext.sq#3231,vntext.sq,CODYYEN,...Too ${relaxing}. Not the right mood for storytelling.,...Слишком {relaxing}. Не то настроение для рассказа.,translated,56
+vntext.sq#3232,vntext.sq,CODYYEN,...Too ${cheerful}. Not the right mood for this story.,...Слишком {cheerful}. Не то настроение для этой истории.,translated,54
+vntext.sq#3233,vntext.sq,CODYYEN,"I don't think I need {$moods:courage} to tell this story, {$mcName}.","Не думаю, что мне нужен {$moods:courage}, чтобы рассказать эту историю, {$mcName}.",translated,68
+vntext.sq#3234,vntext.sq,CODYYEN,I need a Fixer-upper.,Мне нужен Fixer-upper.,translated,21
+vntext.sq#3237,vntext.sq,CODYYEN,Thanks. That's a lot better.,Спасибо. Так намного лучше.,translated,28
+vntext.sq#3238,vntext.sq,CODYYEN,All right. You ready to hear about it?,Ну хорошо. Готов услышать эту историю?,translated,38
+vntext.sq#3239,vntext.sq,CODYYEN,... I'm afraid I'm not in the mood for a long talk anymore. How about we take a rain check tonight?,"...Боюсь, у меня уже нет настроения для долгого разговора. Может, отложим до другого раза?",translated,99
+vntext.sq#3240,vntext.sq,CODYYEN,"Make sure you get my donut right next time, okay?","Смотри, в следующий раз не перепутай мой пончик, ладно?",translated,49
+vntext.sq#3243,vntext.sq,CODYYEN,Great. Where to start...,Отлично. С чего бы начать...,translated,24
+vntext.sq#3244,vntext.sq,CODYYEN,"You see, I've done martial arts and boxing most of my life. In fact, there was a time when I even considered doing it as a career.","Видишь ли, я занимался боевыми искусствами и боксом почти всю жизнь. Было время, когда я даже подумывал сделать это карьерой.",translated,130
+vntext.sq#3246,vntext.sq,CODYYEN,Money. That's the reason I tell most people.,"Деньги. Это причина, которую я называю большинству людей.",translated,44
+vntext.sq#3247,vntext.sq,CODYYEN,But the truth is that I thought I'd be able to make more of a difference as a lawyer. Save lives and all that.,"Но правда в том, что я думал, что смогу принести больше пользы как юрист. Спасать жизни и всё такое.",translated,110
+vntext.sq#3249,vntext.sq,CODYYEN,"Surprise, surprise, {$mcName}.","Сюрприз, сюрприз, {$mcName}.",translated,30
+vntext.sq#3251,vntext.sq,CODYYEN,"Eager to get to the meat of the story, aren't you? Very well.","Не терпится добраться до сути истории, да? Ну хорошо.",translated,61
+vntext.sq#3252,vntext.sq,CODYYEN,"Someone in my gym was accused of harassment. I didn't like the guy, so I believed the accuser and let my rage get ahead of me.","Одного человека в моём зале обвинили в домогательствах. Мне этот парень не нравился, так что я поверил обвинительнице и дал гневу взять надо мной верх.",translated,126
+vntext.sq#3253,vntext.sq,CODYYEN,"When I got the chance to spar with him, I took it out on him real hard. The guy had to go to the hospital for a broken nose.","Когда мне выпал шанс спарринговать с ним, я оторвался на нём по-настоящему сильно. Парню пришлось лечь в больницу со сломанным носом.",translated,124
+vntext.sq#3254,vntext.sq,CODYYEN,"The next day, I found out that the accuser was spreading lies. All because she didn't like the guy either.","На следующий день выяснилось, что обвинительница распространяла ложь. Просто потому, что он ей тоже не нравился.",translated,106
+vntext.sq#3256,vntext.sq,CODYYEN,Yeah.,Да.,translated,5
+vntext.sq#3257,vntext.sq,CODYYEN,"This is pretty recent, mind you. It's also why I started reflecting on how I acted around you back in the day.","И учти, это случилось совсем недавно. Именно из-за этого я и начал переосмысливать, как вёл себя с тобой в прошлом.",translated,110
+vntext.sq#3259,vntext.sq,CODYYEN,"If I simply messed up, then reparations would be easy. But that rage I felt... that's deeper than just messing up.","Если бы я просто облажался, загладить вину было бы легко. Но тот гнев, что я почувствовал... это глубже, чем просто ошибка.",translated,114
+vntext.sq#3260,vntext.sq,CODYYEN,"It's always very easy for wannabe heroes to become the villain. They sometimes use the same weapons, after all.","Начинающим героям всегда очень легко превратиться в злодея. В конце концов, иногда они пользуются тем же оружием.",translated,111
+vntext.sq#3263,vntext.sq,CODYYEN,"Just felt like it, I suppose.","Просто захотелось, наверное.",translated,29
+vntext.sq#3266,vntext.sq,CODYYEN,Maybe. But I might need to come back here more often to get {$flavors:pumpketamine} donuts.,"Может быть. Но, возможно, мне придётся заходить сюда почаще ради пончиков {$flavors:pumpketamine}.",translated,91
+vntext.sq#3272,vntext.sq,CODYYEN,Heh. I guess so.,"Хех. Пожалуй, да.",translated,16
+vntext.sq#3273,vntext.sq,CODYYEN,"Hey, {$mcName}... I'm... really sorry. About how I acted back in the day.","Слушай, {$mcName}... я... правда сожалею. О том, как я себя вёл в прошлом.",translated,73
+vntext.sq#3275,vntext.sq,CODYYEN,"Yes, but I'm older than you. I'm supposed to know better.","Да, но я старше тебя. Я должен быть мудрее.",translated,57
+vntext.sq#3277,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3278,vntext.sq,CODYYEN,You're right.,Ты прав.,translated,13
+vntext.sq#3279,vntext.sq,CODYYEN,But I do mean it. Really.,Но я правда это имею в виду. Серьёзно.,translated,25
+vntext.sq#3280,vntext.sq,CODYYEN,...Thanks for the talk. I should go.,...Спасибо за разговор. Мне пора.,translated,36
+vntext.sq#3282,vntext.sq,CODYYEN,Hm?,Хм?,translated,3
+vntext.sq#3284,vntext.sq,CODYYEN,You can count on it.,Можешь на это рассчитывать.,translated,20
+vntext.sq#3286,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3287,vntext.sq,CODYYEN,"Evening, {$mcName}.","Добрый вечер, {$mcName}.",translated,19
+vntext.sq#3289,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3290,vntext.sq,CODYYEN,Just some work stuff. You've heard me rant about this before.,"Так, рабочие дела. Ты уже слышал, как я об этом ворчу.",translated,61
+vntext.sq#3292,vntext.sq,CODYYEN,"Yes. If you don't recall, Harry was here too. I talked about the Human Rights Summit, and how they had the audacity to give special [i] thanks [/i] to Senator Caldwell.","Да. Если не помнишь, Гарри тоже тут был. Я рассказывал про Саммит по правам человека, и как у них хватило наглости выразить особую [i] благодарность [/i] сенатору Колдуэллу.",translated,168
+vntext.sq#3294,vntext.sq,CODYYEN,"Well, keep this between you and me, but there are rumors of him working with Mayor Stern. Yes, [i] that [/i] Mayor Stern.","Что ж, пусть это останется между нами, но ходят слухи, что он работает с мэром Стерном. Да, [i] с тем самым [/i] мэром Стерном.",translated,121
+vntext.sq#3297,vntext.sq,CODYYEN,"That's what I've been looking into. I don't know much yet, but what I do know is that it won't be any good.","Вот это я и пытаюсь выяснить. Пока знаю немного, но точно знаю, что ничем хорошим это не кончится.",translated,107
+vntext.sq#3299,vntext.sq,CODYYEN,... That's the thing. I couldn't get answers out of my partner... so I yelled at them.,...Вот в чём дело. Я не смог добиться ответов от своего партнёра... и наорал на него.,translated,86
+vntext.sq#3301,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3302,vntext.sq,CODYYEN,Is there a donut I can eat to cope with shame and guilt?,"Есть какой-нибудь пончик, который поможет справиться со стыдом и виной?",translated,56
+vntext.sq#3308,vntext.sq,CODYYEN,...${Cheering} myself up wouldn't feel right.,...{Cheering} себя было бы неправильно.,translated,45
+vntext.sq#3311,vntext.sq,CODYYEN,...I could do that. But the current case I'm working on requires a meeting with my partner.,"...Мог бы. Но для текущего дела, над которым я работаю, нужна встреча с партнёром.",translated,91
+vntext.sq#3314,vntext.sq,CODYYEN,...I refuse to do that.,...Отказываюсь это делать.,translated,23
+vntext.sq#3316,vntext.sq,CODYYEN,You did say donut dependence is ruining society. I suppose any sort of dependence would just be harmful.,"Ты же сам говорил, что зависимость от пончиков губит общество. Полагаю, любая зависимость только вредит.",translated,104
+vntext.sq#3317,vntext.sq,CODYYEN,But I can't help but wonder what else is there for me to do.,"Но я не могу перестать думать, что мне ещё остаётся делать.",translated,60
+vntext.sq#3318,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3321,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3322,vntext.sq,CODYYEN,[i] Ihateconversationslikethat. [/i],[i] Ненавижутакиеразговоры. [/i],translated,36
+vntext.sq#3324,vntext.sq,CODYYEN,Nothing.,Ничего.,translated,8
+vntext.sq#3325,vntext.sq,CODYYEN,"I just... I just need to find a place for all of this rage. It's unfair to have taken it out on you, and it's unfair to take it out on my partner. Or even that horrible man from the boxing gym.","Просто... мне нужно найти место для всего этого гнева. Несправедливо было срываться на тебе, и несправедливо срываться на партнёре. Или даже на том ужасном человеке из боксёрского зала.",translated,193
+vntext.sq#3328,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3345,vntext.sq,CODYYEN,"I've often associated {$flavors:lemon_acid} with work ideas, but this is challenging me to look at things with a new perspective. I quite like it.","Я часто ассоциирую {$flavors:lemon_acid} с рабочими идеями, но это заставляет меня взглянуть на вещи под новым углом. Мне даже нравится.",translated,146
+vntext.sq#3346,vntext.sq,CODYYEN,"A {$flavors:pumpketamine} donut, huh... I did say I wanted to come back often for this. Perhaps there is some merit to the idea.","Пончик {$flavors:pumpketamine}, хм... я же говорил, что хочу заходить за ним почаще. Возможно, в этой идее что-то есть.",translated,128
+vntext.sq#3347,vntext.sq,CODYYEN,"I suppose I understand why you chose {$flavors:methberry}... if I can talk to my partner ${sincerely}, it might help resolve things.","Полагаю, понимаю, почему ты выбрал {$flavors:methberry}... если я смогу поговорить с партнёром {sincerely}, это может помочь всё уладить.",translated,132
+vntext.sq#3348,vntext.sq,CODYYEN,"This is an interesting choice... perhaps you're onto something here. I can't control my anger, and it's due to my fears getting to me.","Интересный выбор... возможно, ты на что-то напал. Я не могу совладать со своим гневом, и всё из-за того, что мои страхи берут надо мной верх.",translated,134
+vntext.sq#3349,vntext.sq,CODYYEN,Thank you. You chose well.,Спасибо. Ты выбрал хорошо.,translated,26
+vntext.sq#3351,vntext.sq,CODYYEN,I suppose I should just {$moods:focus} on getting work done.,"Полагаю, мне стоит просто взять {$moods:focus} и заняться работой.",translated,60
+vntext.sq#3352,vntext.sq,CODYYEN,I have such strong feelings about this... I can't just let it go.,У меня такие сильные чувства по этому поводу... я не могу просто это отпустить.,translated,65
+vntext.sq#3353,vntext.sq,CODYYEN,I don't know how ${nostalgic} memories would help with this.,"Не понимаю, чем тут помогут {nostalgic} воспоминания.",translated,60
+vntext.sq#3354,vntext.sq,CODYYEN,This {$flavors:matchajuana} flavor... I'm getting a bit too ${relaxed}.,Этот вкус {$flavors:matchajuana}... я становлюсь слишком {relaxed}.,translated,71
+vntext.sq#3355,vntext.sq,CODYYEN,"I feel better, but won't this just make me forget about the shame?","Мне стало лучше, но разве это не заставит меня просто забыть про стыд?",translated,66
+vntext.sq#3356,vntext.sq,CODYYEN,"I think you misunderstood what I needed, {$mcName}.","Кажется, ты не так понял, что мне было нужно, {$mcName}.",translated,51
+vntext.sq#3359,vntext.sq,CODYYEN,It's about time I go. Thanks for the donut and the conversation. They're both helping.,Мне уже пора. Спасибо за пончик и разговор. Оба помогли.,translated,86
+vntext.sq#3360,vntext.sq,CODYYEN,"It's about time I go. A shame about the donut, but thanks for the conversation.","Мне уже пора. Жаль насчёт пончика, но спасибо за разговор.",translated,79
+vntext.sq#3363,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3364,vntext.sq,CODYYEN,"Evening, {$mcName}. I got you something.","Добрый вечер, {$mcName}. Я кое-что тебе принёс.",translated,40
+vntext.sq#3366,vntext.sq,CODYYEN,It's a thank you gift. For helping me out.,"Это подарок в благодарность. За то, что помог мне.",translated,42
+vntext.sq#3369,vntext.sq,CODYYEN,You were doing your job well. That's important.,Ты хорошо делал свою работу. Это важно.,translated,47
+vntext.sq#3372,vntext.sq,CODYYEN,All thanks to you. My partner and I are good now — I apologized to them.,Всё благодаря тебе. У нас с партнёром теперь всё хорошо — я извинился перед ним.,translated,72
+vntext.sq#3373,vntext.sq,CODYYEN,"Thanks to that {$flavors:lemon_acid} donut, I was able to get some ideas on how to make it up to my partner.","Благодаря тому пончику {$flavors:lemon_acid} у меня появились идеи, как загладить вину перед партнёром.",translated,108
+vntext.sq#3374,vntext.sq,CODYYEN,"Thanks to that {$flavors:pumpketamine} donut, I was ${patient} not just with my partner, but with myself as well. I understood better that my standards can be unreasonable at times.","Благодаря тому пончику {$flavors:pumpketamine} я стал {patient} не только с партнёром, но и с самим собой. Я лучше понял, что мои стандарты порой бывают неразумны.",translated,181
+vntext.sq#3375,vntext.sq,CODYYEN,"Thanks to that {$flavors:methberry} donut, I was able to share my honest thoughts with my partner — but with more gentleness, of course.","Благодаря тому пончику {$flavors:methberry} я смог поделиться с партнёром честными мыслями — но, конечно, помягче.",translated,136
+vntext.sq#3376,vntext.sq,CODYYEN,"Thanks to that {$flavors:roid_velvet} donut, I was able to discuss my fears with my partner — things I normally hate to share with anyone, but especially in professional settings.","Благодаря тому пончику {$flavors:roid_velvet} я смог обсудить с партнёром свои страхи — вещи, которыми обычно терпеть не могу делиться с кем-либо, особенно в рабочей обстановке.",translated,179
+vntext.sq#3378,vntext.sq,CODYYEN,"It's... progressing. Not as quickly as I'd like, but sometimes you have to play the long game.","Оно... продвигается. Не так быстро, как хотелось бы, но иногда приходится играть вдолгую.",translated,94
+vntext.sq#3379,vntext.sq,CODYYEN,"Anyway, enough about work. I thought I'd drop by here to invite you somewhere after your shift.","В общем, хватит о работе. Я решил заглянуть сюда, чтобы пригласить тебя кое-куда после смены.",translated,95
+vntext.sq#3381,vntext.sq,CODYYEN,"No, it's not. It's an aikido dojo I found near the area. They have night classes, which works well with my schedule.","Нет, не это. Это додзё айкидо неподалёку, которое я нашёл. У них есть вечерние занятия, что хорошо вписывается в моё расписание.",translated,116
+vntext.sq#3382,vntext.sq,CODYYEN,"I know I've talked about not wanting to go back to martial arts and boxing, but...","Я знаю, что говорил, что не хочу возвращаться к боевым искусствам и боксу, но...",translated,82
+vntext.sq#3383,vntext.sq,CODYYEN,I do think they were good for me. It's not the art's fault that I couldn't control myself.,"Я правда думаю, что они шли мне на пользу. Не искусство виновато в том, что я не смог совладать с собой.",translated,90
+vntext.sq#3384,vntext.sq,CODYYEN,And I can't face me if I pretend that avoiding martial arts would solve the problem.,"И я не смогу смотреть себе в глаза, если буду делать вид, что избегание боевых искусств решит проблему.",translated,84
+vntext.sq#3386,vntext.sq,CODYYEN,That's fair. But do let me know if you ever change your mind.,"Справедливо. Но дай знать, если вдруг передумаешь.",translated,61
+vntext.sq#3387,vntext.sq,CODYYEN,"If I can get you and Harry to come with me, I'm sure the two of you would enjoy an intense... sparring session.","Если получится вытащить тебя и Гарри со мной, уверен, вам обоим понравится напряжённый... спарринг.",translated,111
+vntext.sq#3391,vntext.sq,CODYYEN,"For now, yes. After all, my schedule has been quite hectic these days. But I do want to go back to all the other martial arts I used to do.","Пока да. В конце концов, у меня в последнее время довольно плотный график. Но я хочу вернуться и ко всем остальным боевым искусствам, которыми занимался раньше.",translated,139
+vntext.sq#3393,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3394,vntext.sq,CODYYEN,"I think it's unfair to the martial art if that's all it is to me. No, it's more than that. Of course, a part of it is understanding how rage has a place [i] inside of me, [/i] and how I can learn to deal with that better.","Думаю, было бы несправедливо по отношению к боевому искусству, если бы для меня это было только этим. Нет, это нечто большее. Конечно, часть этого — понимание того, как гнев находит место [i] внутри меня [/i] и как мне научиться лучше с ним справляться.",translated,221
+vntext.sq#3395,vntext.sq,CODYYEN,"But also, I simply enjoy martial arts. The elegance of it, the fluidity of movement, the way I feel the most like myself at the gym or dojo...","Но ещё мне просто нравятся боевые искусства. Их элегантность, плавность движений, то, как я больше всего чувствую себя собой в зале или додзё...",translated,142
+vntext.sq#3396,vntext.sq,CODYYEN,"In a way, it's as exciting as going up against a good lawyer. Or a good 1SA player, which sadly, I have yet to experience.","В каком-то смысле это так же увлекательно, как сразиться с хорошим юристом. Или с хорошим игроком в 1SA, чего мне, к сожалению, пока испытать не довелось.",translated,122
+vntext.sq#3398,vntext.sq,CODYYEN,Heh. Why not rise up to the challenge?,Хех. А почему бы не принять вызов?,translated,38
+vntext.sq#3403,vntext.sq,CODYYEN,"That's a shame. Doesn't make riling you up any less fun, though.",Жаль. Хотя это не делает менее весёлым тебя заводить.,translated,64
+vntext.sq#3405,vntext.sq,CODYYEN,That's the spirit. I'll make a 1SA champion out of you just yet.,Вот это дух. Я всё-таки сделаю из тебя чемпиона по 1SA.,translated,64
+vntext.sq#3406,vntext.sq,CODYYEN,"Well, I should go get something.","Что ж, пойду возьму что-нибудь.",translated,32
+vntext.sq#3420,vntext.sq,CODYYEN,"No, thank you. This too shall pass.","Нет, спасибо. И это пройдёт.",translated,35
+vntext.sq#3423,vntext.sq,CODYYEN,"{$moods:passion} isn't such a bad thing to have, is it? I may have too much of it, but that's what keeps me going.","{$moods:passion} — не такая уж плохая штука, разве нет? Может, у меня его слишком много, но именно это меня и держит на плаву.",translated,114
+vntext.sq#3424,vntext.sq,CODYYEN,"Hm. Finding joy and pleasure is important in anything that we do — whether it's work, or a martial art.","Хм. Находить радость и удовольствие важно во всём, что мы делаем — будь то работа или боевое искусство.",translated,103
+vntext.sq#3425,vntext.sq,CODYYEN,"One of the key tenets in martial arts is to stay ${focused}. The same goes for law, especially during court hearings. I think I tend to be focused myself... but I guess this won't hurt.","Один из ключевых принципов боевых искусств — оставаться {focused}. То же касается и права, особенно на судебных заседаниях. Думаю, я и сам обычно сосредоточен... но, полагаю, это не помешает.",translated,185
+vntext.sq#3426,vntext.sq,CODYYEN,Heh. Getting ${inspired} while doing aikido... I can get behind that.,Хех. Быть {inspired} во время айкидо... это я вполне поддерживаю.,translated,69
+vntext.sq#3427,vntext.sq,CODYYEN,"Interesting. I guess {$moods:courage} is necessary for a martial artist, as long as I don't let it cloud my judgment...","Интересно. Полагаю, {$moods:courage} необходим бойцу, лишь бы он не затуманивал мне рассудок...",translated,119
+vntext.sq#3428,vntext.sq,CODYYEN,I'd say that's a brilliant choice. I appreciate it.,"Сказал бы, что это блестящий выбор. Ценю это.",translated,51
+vntext.sq#3430,vntext.sq,CODYYEN,"{$moods:nostalgia}, though useful at times, only serves as a distraction during moments when alertness is necessary.","{$moods:nostalgia}, хоть иногда и полезна, лишь отвлекает в моменты, когда нужна бдительность.",translated,116
+vntext.sq#3431,vntext.sq,CODYYEN,"While it's good to relax so that our muscles don't tense up, alertness is important in doing martial arts... and this might get in the way of that.","Хоть и хорошо расслабиться, чтобы мышцы не были зажаты, бдительность важна в боевых искусствах... и это может этому помешать.",translated,147
+vntext.sq#3432,vntext.sq,CODYYEN,"An interesting choice, and one I definitely might have needed in the past... but tonight is supposed to be about making the most out of the class.","Интересный выбор, и тот, что определённо мог бы пригодиться мне в прошлом... но сегодня вечером речь о том, чтобы выжать максимум из занятия.",translated,146
+vntext.sq#3433,vntext.sq,CODYYEN,"I wonder... will {$moods:sincerity} help me spar better, {$mcName}?","Интересно... поможет ли мне {$moods:sincerity} лучше спарринговать, {$mcName}?",translated,67
+vntext.sq#3434,vntext.sq,CODYYEN,"I don't think this is what I needed, {$mcName}.","Не думаю, что это то, что мне было нужно, {$mcName}.",translated,47
+vntext.sq#3436,vntext.sq,CODYYEN,"No, thanks. I'll get by.","Нет, спасибо. Как-нибудь справлюсь.",translated,24
+vntext.sq#3437,vntext.sq,CODYYEN,"All right, I should get going. Class should be starting soon, and I'm feeling quite excited for it! Thank you so much, {$mcName}. See you next time!","Ну ладно, мне пора. Занятие вот-вот начнётся, и я аж взволнован! Огромное спасибо, {$mcName}. До следующего раза!",translated,148
+vntext.sq#3438,vntext.sq,CODYYEN,"All right, I should get going. Class should be starting soon. A shame about the donut, but I did enjoy stopping by here. See you, then.","Ну ладно, мне пора. Занятие вот-вот начнётся. Жаль насчёт пончика, но мне понравилось сюда заглянуть. Тогда увидимся.",translated,135
+vntext.sq#3441,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3442,vntext.sq,CODYYEN,"Good evening, {$mcName}.","Добрый вечер, {$mcName}.",translated,24
+vntext.sq#3453,vntext.sq,CODYYEN,Thanks.,Спасибо.,translated,7
+vntext.sq#3455,vntext.sq,CODYYEN,"This is awful, {$mcName}. I'd like a refund.","Это ужасно, {$mcName}. Хочу возврат денег.",translated,44
+vntext.sq#3462,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#3463,vntext.sq,CODYYEN,{$flavors:vanilla_sky} and {$flavors:methberry} go well together. The sweetness of {$flavors:vanilla_sky} is balanced by the {$flavors:methberry}'s sour flavor...,{$flavors:vanilla_sky} и {$flavors:methberry} хорошо сочетаются. Сладость {$flavors:vanilla_sky} уравновешивается кислым вкусом {$flavors:methberry}...,translated,162
+vntext.sq#3464,vntext.sq,CODYYEN,"Joyfulness, going hand in hand with clarity about truth, about one's emotions...","Радость, идущая рука об руку с ясностью насчёт правды, насчёт собственных эмоций...",translated,80
+vntext.sq#3465,vntext.sq,CODYYEN,"Well done, {$mcName}. This is a remarkable donut.","Отлично сработано, {$mcName}. Замечательный пончик.",translated,49
+vntext.sq#3467,vntext.sq,CODYYEN,"It's missing the {$flavors:methberry} required in {$recipe:winter_wonderland}... without it, there's no clarity. This is a donut that says, 'Ignorance is bliss.'","Не хватает {$flavors:methberry}, необходимого для {$recipe:winter_wonderland}... без него нет ясности. Это пончик, который говорит: «Неведение — это блаженство».",translated,161
+vntext.sq#3468,vntext.sq,CODYYEN,"It's missing the {$flavors:vanilla_sky} required in {$recipe:winter_wonderland}... without it, there's no joy. This is a donut that is suffering from knowing too much.","Не хватает {$flavors:vanilla_sky}, необходимого для {$recipe:winter_wonderland}... без него нет радости. Это пончик, страдающий от того, что знает слишком много.",translated,167
+vntext.sq#3469,vntext.sq,CODYYEN,"Seems like you think I need to {$moods:focus} tonight. Why's that? I specifically asked for a {$recipe:winter_wonderland}, though.","Похоже, ты думаешь, что мне сегодня нужен {$moods:focus}. С чего бы это? Я же чётко просил {$recipe:winter_wonderland}.",translated,130
+vntext.sq#3470,vntext.sq,CODYYEN,"Some other night, I would probably appreciate the ideas this is giving me... but not tonight.","В другую ночь я бы, наверное, оценил идеи, что это мне навевает... но не сегодня.",translated,93
+vntext.sq#3471,vntext.sq,CODYYEN,I wonder what you think I need {$moods:passion} for tonight. I thought I was clear about my order.,"Интересно, зачем, по-твоему, мне сегодня {$moods:passion}. Я думал, что чётко объяснил заказ.",translated,98
+vntext.sq#3472,vntext.sq,CODYYEN,"No, I don't think {$moods:nostalgia} is what I need tonight.","Нет, не думаю, что сегодня мне нужна {$moods:nostalgia}.",translated,60
+vntext.sq#3473,vntext.sq,CODYYEN,This {$recipe:winter_wonderland} is looking a bit more {$colors:green} than expected... and is making me feel too ${relaxed}. Was that your intention?,"Этот {$recipe:winter_wonderland} выглядит немного более {$colors:green}, чем ожидалось... и заставляет меня чувствовать себя слишком {relaxed}. Это было намеренно?",translated,150
+vntext.sq#3474,vntext.sq,CODYYEN,"I suppose this enhancer really is effective, because I'm feeling extra ${patient} about this {$colors:orange} donut that's pretending to be a {$recipe:winter_wonderland}.","Полагаю, этот усилитель и правда эффективен, потому что я чувствую себя необычайно {patient} по отношению к этому {$colors:orange} пончику, притворяющемуся {$recipe:winter_wonderland}.",translated,170
+vntext.sq#3475,vntext.sq,CODYYEN,"{$flavors:roid_velvet} isn't a bad flavor, but the burst of {$moods:courage} is unnecessary and, frankly, not what I asked for.","{$flavors:roid_velvet} — неплохой вкус, но всплеск {$moods:courage} тут ни к чему и, честно говоря, я не это просил.",translated,127
+vntext.sq#3477,vntext.sq,CODYYEN,"Yes, I would appreciate it.","Да, был бы признателен.",translated,27
+vntext.sq#3480,vntext.sq,CODYYEN,Much better. Thank you.,Гораздо лучше. Спасибо.,translated,23
+vntext.sq#3481,vntext.sq,CODYYEN,I'm going to miss these donuts of yours when I go back to Attleset.,"Буду скучать по твоим пончикам, когда вернусь в Аттлсет.",translated,67
+vntext.sq#3482,vntext.sq,CODYYEN,"Though your donut was not... up to par tonight, I will miss this place when I go back to Attleset.","Хоть твой пончик сегодня был... не на высоте, буду скучать по этому месту, когда вернусь в Аттлсет.",translated,98
+vntext.sq#3484,vntext.sq,CODYYEN,"...I'm not sure. The case I'm currently handling is a lot trickier than I thought. I might need more time here, but it won't be forever.","...Не уверен. Дело, которым я сейчас занимаюсь, гораздо запутаннее, чем я думал. Возможно, мне понадобится больше времени здесь, но не навсегда.",translated,136
+vntext.sq#3486,vntext.sq,CODYYEN,I most definitely will.,Обязательно так и сделаю.,translated,23
+vntext.sq#3487,vntext.sq,CODYYEN,"Our relationship has improved a lot. We trust each other more now. Somehow I doubt he and I will ever be 'best friends' like how some siblings are, but I'll always be proud of him.","Наши отношения сильно улучшились. Теперь мы больше доверяем друг другу. Почему-то сомневаюсь, что мы с ним когда-нибудь станем 'лучшими друзьями', как некоторые братья, но я всегда буду им гордиться.",translated,180
+vntext.sq#3488,vntext.sq,CODYYEN,"And you too, by the way. I'm glad you two are together — you'll bring out the best of each other.","И тобой тоже, кстати. Рад, что вы вместе — вы раскрываете друг в друге лучшее.",translated,97
+vntext.sq#3492,vntext.sq,CODYYEN,"Heh. It's surprising, honestly. I've always thought of this place as too... 'fancy' for me. Everyone's a celebrity, or at least trying to be one.","Хех. Если честно, это удивительно. Я всегда считал это место слишком... 'шикарным' для меня. Тут все знаменитости, или хотя бы пытаются ими стать.",translated,145
+vntext.sq#3493,vntext.sq,CODYYEN,And the ones who aren't... I just hope they make enough to pay for San Mazo rent.,"А те, кто нет... я просто надеюсь, что они зарабатывают достаточно, чтобы платить за аренду в Сан-Мазо.",translated,81
+vntext.sq#3495,vntext.sq,CODYYEN,Heh. I'm glad to hear it.,Хех. Рад это слышать.,translated,25
+vntext.sq#3496,vntext.sq,CODYYEN,Do you see yourself staying here for a long time?,Ты представляешь себя тут надолго?,translated,49
+vntext.sq#3501,vntext.sq,CODYYEN,"Hm. Well, that'll give me more cities to visit, then.","Хм. Что ж, значит, у меня будет больше городов, куда можно заглянуть.",translated,53
+vntext.sq#3503,vntext.sq,CODYYEN,"Home, huh. Well, that makes visiting you easier.","Дом, значит. Что ж, так тебя будет проще навещать.",translated,48
+vntext.sq#3504,vntext.sq,CODYYEN,"With Harry moving here... I've been wondering about my options too. Unfortunately, with my line of work, it's a lot harder.","С переездом Гарри сюда... я тоже задумался о своих вариантах. К сожалению, с моей работой это гораздо сложнее.",translated,123
+vntext.sq#3505,vntext.sq,CODYYEN,"While I do get travel opportunities every now and then, like right now, everything I do is still for Attleset.","Хоть у меня время от времени и бывают поездки, как сейчас, всё, что я делаю, до сих пор ради Аттлсета.",translated,110
+vntext.sq#3506,vntext.sq,CODYYEN,"And I'm not gonna stop — the systemic problems in Attleset are difficult, but [i] I [/i] am even more difficult.","И я не собираюсь останавливаться — системные проблемы Аттлсета трудны, но [i] я [/i] ещё труднее.",translated,112
+vntext.sq#3508,vntext.sq,CODYYEN,"Is that so? I need to amp it up, then.",Вот как? Тогда мне нужно поднажать.,translated,38
+vntext.sq#3509,vntext.sq,CODYYEN,"I'm not giving up on your competitive spirit, {$mcName}.","Я не сдамся насчёт твоего духа соперничества, {$mcName}.",translated,56
+vntext.sq#3511,vntext.sq,CODYYEN,"Well, it's a good thing I'm learning the value of patience, isn't it?","Что ж, хорошо, что я учусь ценить терпение, не так ли?",translated,69
+vntext.sq#3512,vntext.sq,CODYYEN,"Anyway, I got some work stuff to do, so I should get going.","В общем, у меня есть кое-какие рабочие дела, так что мне пора.",translated,59
+vntext.sq#3513,vntext.sq,CODYYEN,"See you around, {$mcName}.","Увидимся, {$mcName}.",translated,26
+vntext.sq#3515,vntext.sq,CODYYEN,"How about a game of 1SA? I've been looking forward to you destroying me, as you so proudly said.","Как насчёт партии в 1SA? Всё жду, когда ты меня раздавишь, как так гордо обещал.",translated,96
+vntext.sq#3517,vntext.sq,CODYYEN,"I do look forward to crying because I always win [i] so easily. [/i] Oh, the tragedy. When will I ever find a worthy opponent?","Жду не дождусь слёз, ведь я всегда побеждаю [i] так легко. [/i] Ох, какая трагедия. Когда же я найду достойного соперника?",translated,126
+vntext.sq#3519,vntext.sq,CODYYEN,Gladly.,С радостью.,translated,7
+vntext.sq#3522,vntext.sq,CODYYEN,"Heh, come on now. You don't have to look so scared or guarded every time I enter this place, {$mcName}.","Хех, да ладно тебе. Не обязательно выглядеть таким испуганным или настороженным каждый раз, когда я захожу сюда, {$mcName}.",translated,103
+vntext.sq#3524,vntext.sq,CODYYEN,This wonderful exchange we're having isn't enough?,Этого чудесного обмена любезностями недостаточно?,translated,50
+vntext.sq#3531,vntext.sq,CODYYEN,"It gets exhausting, reading up on all these cases of exploitation.",Утомительно читать про все эти случаи эксплуатации.,translated,66
+vntext.sq#3533,vntext.sq,CODYYEN,"Tell me something I don't know, {$mcName}.","Скажи мне что-нибудь, чего я не знаю, {$mcName}.",translated,42
+vntext.sq#3534,vntext.sq,CODYYEN,"I'm not complaining, simply stating a fact. And also trying to subtly hint that you have nothing to worry about — I'm too tired to play a game of 1SA.","Я не жалуюсь, просто констатирую факт. А ещё пытаюсь тонко намекнуть, что тебе не о чем волноваться — я слишком устал для партии в 1SA.",translated,150
+vntext.sq#3535,vntext.sq,CODYYEN,But subtle does not seem to be your preferred language.,"Но тонкость, кажется, не твой любимый язык.",translated,55
+vntext.sq#3537,vntext.sq,CODYYEN,Hahaha! Very funny. I'll be sure to speak SilentCodynese once I'm done with my order.,"Ха-ха-ха! Очень смешно. Обязательно заговорю на молчаливо-кодийском, как только сделаю заказ.",translated,85
+vntext.sq#3545,vntext.sq,CODYYEN,"Heh. Not in that way, if that comforts you.","Хех. Не в этом смысле, если тебя это утешит.",translated,43
+vntext.sq#3546,vntext.sq,CODYYEN,"Besides, I don't like to share with my brother. Although, if you were single...","К тому же, я не люблю делиться с братом. Хотя, если бы ты был свободен...",translated,79
+vntext.sq#3548,vntext.sq,CODYYEN,"All right, if you say so.","Ладно, как скажешь.",translated,25
+vntext.sq#3550,vntext.sq,CODYYEN,"Well, I've been thinking... since that conversation we had about my boxing days, I wanna try feeling that level of {$moods:passion} again.","Что ж, я тут подумал... после того разговора о моих боксёрских днях мне хочется снова почувствовать тот уровень {$moods:passion}.",translated,138
+vntext.sq#3557,vntext.sq,CODYYEN,"Don't worry, I'm not staying for too long. Got an important case I'm working on.","Не переживай, я ненадолго. У меня важное дело в работе.",translated,80
+vntext.sq#3572,vntext.sq,CODYYEN,"My partner and I still have yet to talk — there's a different case that needs my attention right now, and it's honestly really frustrating.","Мы с партнёром так ещё и не поговорили — сейчас моего внимания требует другое дело, и, если честно, это правда выматывает.",translated,139
+vntext.sq#3573,vntext.sq,CODYYEN,"It's one of those crime syndicate cases. They seem simple enough on the outside, but when you're up against people who are very good at obfuscating justice...","Это одно из тех дел про преступный синдикат. Снаружи они кажутся достаточно простыми, но когда сталкиваешься с людьми, которые отлично умеют запутывать правосудие...",translated,158
+vntext.sq#3574,vntext.sq,CODYYEN,I can't talk about it too much. You know how it is.,"Не могу говорить об этом слишком много. Ты понимаешь, как это бывает.",translated,51
+vntext.sq#3582,vntext.sq,CODYYEN,I'm having a hard time scheduling a talk with my partner. I suppose I'll just have to focus on work for now.,"Мне трудно найти время для разговора с партнёром. Полагаю, пока просто сосредоточусь на работе.",translated,108
+vntext.sq#3589,vntext.sq,CODYYEN,Good evening.,Добрый вечер.,translated,13
+vntext.sq#3590,vntext.sq,CODYYEN,"I'm off to go boxing after this, so I'm having a donut to get pumped up.","После этого я иду на бокс, так что беру пончик, чтобы взбодриться.",translated,72
+vntext.sq#3592,vntext.sq,CODYYEN,"[i] Gasp. [/i] Is that concern I hear from you, {$mcName}? You're actually beginning to care for me?","[i] Ах. [/i] Это что, беспокойство я слышу от тебя, {$mcName}? Ты и правда начинаешь обо мне заботиться?",translated,100
+vntext.sq#3594,vntext.sq,CODYYEN,"Don't be so in denial, {$mcName}.","Не отрицай так упорно, {$mcName}.",translated,33
+vntext.sq#3601,vntext.sq,CODYYEN,"...What does '{$recipe:unicorn_bash}' mean, exactly? A 'bash' as in a party, or 'to bash' as in the act of violence?","...Что вообще значит '{$recipe:unicorn_bash}'? 'Bash' как вечеринка, или 'bash' как акт насилия?",translated,116
+vntext.sq#3603,vntext.sq,CODYYEN,"And can this simple, lowly Mood Confectioner not answer the question? What a shame, I was actually interested in the creative process behind the name.","И этот простой, скромный Кондитер настроения не может ответить на вопрос? Как жаль, мне правда было интересно, что за творческий процесс стоит за этим названием.",translated,150
+vntext.sq#3605,vntext.sq,CODYYEN,"{$mcName}, my dear, stop sidestepping me with false disinterest. You and I both know there's a real answer, and you just happen to have this... reaction whenever you see me.","{$mcName}, дорогой, хватит уходить от темы с этим наигранным равнодушием. Мы оба знаем, что есть настоящий ответ, и у тебя просто, знаешь ли, случается такая... реакция каждый раз, когда ты меня видишь.",translated,173
+vntext.sq#3606,vntext.sq,CODYYEN,Aren't we friends already?,Разве мы уже не друзья?,translated,26
+vntext.sq#3613,vntext.sq,CODYYEN,I think you and I should form a duo and aim for the 1SA Nationals.,"Думаю, нам с тобой стоит сколотить дуэт и замахнуться на Национальный чемпионат по 1SA.",translated,66
+vntext.sq#3615,vntext.sq,CODYYEN,"Maybe so, but he still has a lot more fun learning more about 1SA champions all over the world.","Может, и так, но ему куда больше нравится узнавать про чемпионов по 1SA со всего мира.",translated,95
+vntext.sq#3616,vntext.sq,CODYYEN,"Whereas you and I... we have the drive, the [i] spirit [/i] to [i] be [/i] 1SA champions.","А вот у нас с тобой... у нас есть та настойчивость, тот [i] дух, [/i] чтобы [i] стать [/i] чемпионами по 1SA.",translated,89
+vntext.sq#3618,vntext.sq,CODYYEN,"No? All right, then. Guess it'll just be me.","Нет? Ну хорошо. Значит, буду один.",translated,44
+vntext.sq#3620,vntext.sq,CODYYEN,"Why is it so surprising? Of course I'd trust the one person who I've sparred with. I know how you fight, and you fought well.","Почему это так удивительно? Конечно, я доверяю тому единственному человеку, с кем спарринговал. Я знаю, как ты дерёшься, и дрался ты хорошо.",translated,125
+vntext.sq#3627,vntext.sq,CODYYEN,There really is a part of me that thinks you'd have made a great lawyer.,"Есть во мне такая часть, которая правда думает, что из тебя вышел бы отличный юрист.",translated,72
+vntext.sq#3629,vntext.sq,CODYYEN,"Oh, I know. And your dad would have tried to take advantage of that too.","О, я знаю. И твой отец попытался бы этим тоже воспользоваться.",translated,72
+vntext.sq#3630,vntext.sq,CODYYEN,All this to say... I really respect the fight you got in you. Keep at it.,"К чему я это всё... я правда уважаю тот боевой дух, что в тебе есть. Не сдавайся.",translated,73
+vntext.sq#3633,vntext.sq,CODYYEN,"Hey, I'm just stating facts.","Эй, я просто констатирую факты.",translated,28
+vntext.sq#3646,vntext.sq,CODYYEN,{$recipe:velvety_ube} is one of your best. I'll have one.,{$recipe:velvety_ube} — один из твоих лучших. Возьму один.,translated,57
+vntext.sq#3657,vntext.sq,CODYYEN,This {$recipe:eclair} is reliable. Just what I'm looking for in donuts and in people. Please make one for me.,"Этот {$recipe:eclair} надёжен. Именно то, что я ищу в пончиках и в людях. Сделай мне один, пожалуйста.",translated,109
+vntext.sq#3668,vntext.sq,CODYYEN,"One {$recipe:fight_club}, please. You'd think these flavors wouldn't go together, but it's one of my favorites.","Один {$recipe:fight_club}, пожалуйста. Казалось бы, эти вкусы не должны сочетаться, но это один из моих любимых.",translated,111
+vntext.sq#3672,vntext.sq,CODYYEN,Good evening. Thought I'd pay my favorite 1SA opponent a visit.,Добрый вечер. Решил навестить своего любимого соперника по 1SA.,translated,63
+vntext.sq#3674,vntext.sq,CODYYEN,"Oh, he has nothing to worry about — he's my second favorite.","О, ему не о чем волноваться — он у меня на втором месте.",translated,60
+vntext.sq#3676,vntext.sq,CODYYEN,Heh. You take first place because your reactions are more fun.,"Хех. Ты на первом месте, потому что твои реакции куда забавнее.",translated,62
+vntext.sq#3677,vntext.sq,CODYYEN,"Anyway, no 1SA game tonight. I'm just here to get one of my favorite donuts.","В общем, сегодня без 1SA. Я просто зашёл за одним из своих любимых пончиков.",translated,76
+vntext.sq#3679,vntext.sq,CODYYEN,Heh. Something about {$recipe:velvet_devil} just amuses me so much. I'll have one.,Хех. Что-то в {$recipe:velvet_devil} меня прямо забавляет. Возьму один.,translated,82
+vntext.sq#21871,vntext.sq,CODYYEN,"I can't decide which is better for ${relaxation} — a donut, or taking it out on a punching bag? Hm.","Не могу решить, что лучше для ${relaxation} — пончик или груша для битья? Хм.",translated,99
+vntext.sq#21872,vntext.sq,CODYYEN,"Heh, {$moods:patience}... not one of my strengths. But it's so much more accessible now thanks to this donut.","Хех, {$moods:patience}... не самая сильная моя сторона. Но с этим пончиком она стала намного доступнее.",translated,109
+vntext.sq#21873,vntext.sq,CODYYEN,"Optimism has never been my strength... though I must admit, this {$flavors:vanilla_sky} donut makes it easier.","Оптимизм никогда не был моей сильной стороной... хотя должен признать, этот пончик {$flavors:vanilla_sky} облегчает задачу.",translated,110
+vntext.sq#21874,vntext.sq,CODYYEN,"{$moods:passion}, to me, is a friend. {$flavors:ubecstacy} is more of a stranger... but a delicious and appropriate flavor for strong desires and beliefs.",{$moods:passion} для меня — друг. {$flavors:ubecstacy} — скорее незнакомец... но вкусный и подходящий вкус для сильных желаний и убеждений.,translated,154
+vntext.sq#21875,vntext.sq,CODYYEN,The sour {$flavors:lemon_acid} flavor tends to make one pause — the shock making way for new thoughts and perspectives.,Кислый вкус {$flavors:lemon_acid} обычно заставляет остановиться — шок открывает путь новым мыслям и взглядам.,translated,119
+vntext.sq#21876,vntext.sq,CODYYEN,{$moods:courage} is a must when you have a job like mine... but I must admit I don't often feel so bold. This {$flavors:roid_velvet} reminds me of what it's like to be truly brave.,"{$moods:courage} необходима при моей работе... но должен признать, смелым я себя ощущаю нечасто. Этот {$flavors:roid_velvet} напоминает мне, каково это — быть по-настоящему храбрым.",translated,180
+vntext.sq#21877,vntext.sq,CODYYEN,{$flavors:methberry} is a family favorite. Though when it comes to {$moods:sincerity}... I must admit it comes more naturally to my parents than to me and my younger brother.,"{$flavors:methberry} — семейный фаворит. Хотя когда дело доходит до {$moods:sincerity}... должен признать, моим родителям она даётся куда естественнее, чем мне и младшему брату.",translated,174
+vntext.sq#21878,vntext.sq,CODYYEN,"Ah, {$flavors:chococaine}. The {$moods:focus} is hitting like a good workout in the morning.","Ах, {$flavors:chococaine}. {$moods:focus} накрывает, как хорошая утренняя тренировка.",translated,92
+vntext.sq#21879,vntext.sq,CODYYEN,"{$moods:nostalgia} isn't something I usually sit with. I've always preferred to move forward, for better or for worse. With this donut, I don't have a choice.","{$moods:nostalgia} — не то, с чем я обычно сижу подолгу. Я всегда предпочитал двигаться вперёд, к лучшему или к худшему. С этим пончиком выбора у меня нет.",translated,158
+vntext.sq#21881,vntext.sq,CODYYEN,...Excellent work. Looks like I made the right decision coming here today.,"...Отличная работа. Похоже, я не зря решил зайти сюда сегодня.",translated,74
+vntext.sq#21882,vntext.sq,CODYYEN,"...It's good, but not your best. What's stopping you from making a perfect donut?","...Хорошо, но не твоя лучшая работа. Что мешает тебе сделать идеальный пончик?",translated,81
+vntext.sq#21883,vntext.sq,CODYYEN,Hmph. But please pay attention next time. This is not the donut I ordered.,"Хмф. Но, пожалуйста, будь внимательнее в следующий раз. Это не тот пончик, который я заказывал.",translated,74
+vntext.sq#21884,vntext.sq,CODYYEN,"Anyway, I'll get out of your hair for now. Good evening.","В общем, не буду больше отвлекать. Доброго вечера.",translated,56
+vntext.sq#21887,vntext.sq,CODYYEN,Thanks.,Спасибо.,translated,7
+vntext.sq#21888,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#21889,vntext.sq,CODYYEN,I can't eat this. This isn't any good at all.,Я не могу это есть. Это совсем никуда не годится.,translated,45
+vntext.sq#21893,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#21894,vntext.sq,CODYYEN,"{$flavors:matchajuana} for ${relaxation}... an excellent choice. Something about the {$flavors:matchajuana} taste makes me feel like I'm in a grassy field, just enjoying the breeze.","{$flavors:matchajuana} для ${relaxation}... отличный выбор. Что-то во вкусе {$flavors:matchajuana} заставляет меня чувствовать, будто я на лугу, просто наслаждаюсь ветерком.",translated,181
+vntext.sq#21895,vntext.sq,CODYYEN,I've been taught all it takes to summon {$moods:patience} is to take deep breaths... but having a donut for it is much better.,"Меня учили, что для {$moods:patience} достаточно просто глубоко дышать... но пончик для этого куда лучше.",translated,126
+vntext.sq#21896,vntext.sq,CODYYEN,Heh... I often heard from my parents that I need to 'lighten up'. Now I'm hearing it from this donut too.,"Хех... я часто слышал от родителей, что мне нужно «расслабиться». Теперь то же самое говорит и этот пончик.",translated,105
+vntext.sq#21897,vntext.sq,CODYYEN,"Even though I didn't grow up with {$flavors:ubecstacy}, this sensation is familiar to me. Perhaps {$moods:passion} is just the mood I come home to.","Хоть я и не рос с {$flavors:ubecstacy}, это ощущение мне знакомо. Возможно, {$moods:passion} — просто то настроение, к которому я всегда возвращаюсь.",translated,147
+vntext.sq#21898,vntext.sq,CODYYEN,"This is getting me to look at my current cases from different angles, to see if I'm missing anything.",Это заставляет меня взглянуть на мои текущие дела под другим углом — вдруг я что-то упускаю.,translated,101
+vntext.sq#21899,vntext.sq,CODYYEN,{$flavors:roid_velvet} as the flavor to represent bravery is an interesting choice... for what is bravery if not a more intentional type of focus?,"{$flavors:roid_velvet} как вкус, представляющий храбрость, — интересный выбор... ведь что такое храбрость, если не более осознанная форма сосредоточенности?",translated,146
+vntext.sq#21900,vntext.sq,CODYYEN,"{$moods:sincerity} is something a lot of people want, but not everyone is willing to be ${sincere}. Perhaps we all need to have a piece of this donut.","{$moods:sincerity} — то, чего хотят многие, но не все готовы быть ${sincere}. Возможно, всем нам стоит съесть кусочек этого пончика.",translated,150
+vntext.sq#21901,vntext.sq,CODYYEN,{$flavors:chococaine} is often associated with indulgence... but this is having the opposite effect on me. I can't just indulge — I must [i] do something. [/i],{$flavors:chococaine} часто ассоциируется с потаканием себе... но на меня это действует прямо противоположно. Я не могу просто наслаждаться — мне нужно [i] что-то делать. [/i],translated,159
+vntext.sq#21902,vntext.sq,CODYYEN,This donut is getting me to think about some memories... Interesting.,Этот пончик заставляет меня вспоминать кое-что... Интересно.,translated,69
+vntext.sq#21903,vntext.sq,CODYYEN,A donut without any mood enhancers — I suppose it's good to return to the basics once in a while.,"Пончик без каких-либо усилителей настроения — полагаю, иногда полезно возвращаться к основам.",translated,97
+vntext.sq#21904,vntext.sq,CODYYEN,"Hmph. Wonderful work. As expected from you, Mood Confectioner.","Хмф. Прекрасная работа. Как я и ожидал от тебя, Кондитер настроения.",translated,62
+vntext.sq#21905,vntext.sq,CODYYEN,"...Not putting in your one hundred percent tonight, I take it? This is probably just 85%.","...Полагаю, сегодня ты выкладываешься не на все сто? Это, наверное, процентов на 85.",translated,89
+vntext.sq#21906,vntext.sq,CODYYEN,"...Even if you're having a bad day, you should still serve the correct donut.","...Даже если у тебя плохой день, ты всё равно должен подавать правильный пончик.",translated,77
+vntext.sq#21907,vntext.sq,CODYYEN,"Well, I'll be going now. Good night.","Что ж, пожалуй, пойду. Доброй ночи.",translated,36
+vntext.sq#24406,vntext.sq,CODYYEN,"Well it may seem like a chore, but informed citizenry is an obligation, as is critical thinking.","Что ж, это может казаться рутиной, но осведомлённость гражданина — это обязанность, как и критическое мышление.",translated,96
+vntext.sq#24407,vntext.sq,CODYYEN,Wouldn't you agree?,Разве ты не согласен?,translated,19
+vntext.sq#24424,vntext.sq,CODYYEN,What did I just say about being friendly?,Что я только что сказал насчёт дружелюбия?,translated,41
+vntext.sq#24435,vntext.sq,CODYYEN,Do you usually quiz your customers like that?,Ты всегда так допрашиваешь своих клиентов?,translated,45
+vntext.sq#24436,vntext.sq,CODYYEN,I like blueberries. I don't think I have to explain myself further.,"Мне нравится черника. Не думаю, что мне нужно объяснять что-то ещё.",translated,67
+vntext.sq#24450,vntext.sq,CODYYEN,You gave me something I never asked for. A donut with zero mood enhancers.,"Ты дал мне то, о чём я никогда не просил. Пончик без единого усилителя настроения.",translated,74
+vntext.sq#24545,vntext.sq,CODYYEN,Of course. An expelled student is forced to leave the institution. A student who has dropped out left voluntarily.,"Конечно. Отчисленного студента заставляют покинуть учебное заведение. Студент, бросивший учёбу, уходит добровольно.",translated,114
+vntext.sq#24546,vntext.sq,CODYYEN,"Either way, it is a failure to continue one's education.","В любом случае, это неспособность продолжить образование.",translated,56
+vntext.sq#24547,vntext.sq,CODYYEN,"Lawyers know the difference. But ultimately, we understand the core motivation underneath all the pedantry...",Юристы знают разницу. Но в конечном счёте мы понимаем истинный мотив под всем этим педантизмом...,translated,109
+vntext.sq#24548,vntext.sq,CODYYEN,Or... shall I say... the [i] lack of motivation? [/i],Или... как бы это сказать... [i] отсутствие [/i] мотива?,translated,53
+vntext.sq#24551,vntext.sq,CODYYEN,"Usually, you say. But what about special guests like Harry?","«Обычно», говоришь. А как насчёт особых гостей вроде Гарри?",translated,59
+vntext.sq#24553,vntext.sq,CODYYEN,Don't give me that look. I'm just trying to make conversation.,Не смотри на меня так. Я просто пытаюсь поддержать разговор.,translated,62
+vntext.sq#24556,vntext.sq,CODYYEN,"All water under the bridge. It was for Harry's sake, you understand.","Всё это уже быльём поросло. Это было ради Гарри, понимаешь ли.",translated,68
+vntext.sq#24558,vntext.sq,CODYYEN,As you say.,Как скажешь.,translated,11
+vntext.sq#24566,vntext.sq,CODYYEN,Aren't you the least bit curious about what's happening in Attleset?,"Тебе хоть немного не любопытно, что происходит в Аттлсете?",translated,68
+vntext.sq#24569,vntext.sq,CODYYEN,"What exactly do you think I deal with in my job, {$mcName}?","Как думаешь, с чем именно мне приходится иметь дело на моей работе, {$mcName}?",translated,59
+vntext.sq#24571,vntext.sq,CODYYEN,"Hm, pity. We could be getting reacquainted and talking about our lives now.","Хм, жаль. Мы могли бы сейчас заново знакомиться и говорить о наших жизнях.",translated,75
+vntext.sq#24572,vntext.sq,CODYYEN,"After all, I'm interested in hearing how you went from dropping out... to this.","В конце концов, мне интересно узнать, как ты дошёл от отчисления... до вот этого.",translated,79
+vntext.sq#24578,vntext.sq,CODYYEN,...Must it always be an argument with you?,...С тобой всегда обязательно должен быть спор?,translated,42
+vntext.sq#24580,vntext.sq,CODYYEN,Hm. Try me.,Хм. Попробуй объясни.,translated,11
+vntext.sq#24583,vntext.sq,CODYYEN,Your...?,Своему...?,translated,8
+vntext.sq#24584,vntext.sq,CODYYEN,Oh. Hahaha!,О. Ха-ха-ха!,translated,11
+vntext.sq#24585,vntext.sq,CODYYEN,"You were never the best at baking... but I must admit, it is [i] always [/i] amusing to talk to you.","Из тебя никогда не выходил лучший пекарь... но должен признать, разговаривать с тобой [i] всегда [/i] забавно.",translated,100
+vntext.sq#24587,vntext.sq,CODYYEN,Perhaps I should just ask more directly.,"Возможно, мне стоит спросить напрямую.",translated,40
+vntext.sq#24589,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#24590,vntext.sq,CODYYEN,"You've left your family, haven't you? That's why you dropped out... and why you changed the channel.","Ты ведь оставил свою семью, так? Именно поэтому ты бросил учёбу... и именно поэтому переключил канал.",translated,100
+vntext.sq#24592,vntext.sq,CODYYEN,I simply look at the evidence at hand.,Я просто смотрю на имеющиеся факты.,translated,38
+vntext.sq#24595,vntext.sq,CODYYEN,Why not? I had assumed this little reunion of yours was leading to... something more intimate.,"Почему нет? Я предполагал, что это ваше маленькое воссоединение ведёт к... чему-то более близкому.",translated,94
+vntext.sq#24600,vntext.sq,CODYYEN,"Ironically... if you still were, I'd be rooting for you [i] now. [/i]","Как ни странно... если бы это всё ещё было так, я бы [i] теперь [/i] болел за тебя.",translated,69
+vntext.sq#24602,vntext.sq,CODYYEN,"Perhaps it isn't. But I thought I'd let you know... in the event that you wanted to get back together with Harry, I'd be rooting for you [i] now. [/i]","Возможно, не моё. Но я подумал, что стоит тебе сказать... на случай, если ты захочешь снова сойтись с Гарри — теперь я бы за тебя [i] болел. [/i]",translated,150
+vntext.sq#24606,vntext.sq,CODYYEN,"Life isn’t as black and white as you think it is, {$mcName}.","Жизнь не такая чёрно-белая, как тебе кажется, {$mcName}.",translated,60
+vntext.sq#24607,vntext.sq,CODYYEN,"Just like how you think I'm the villain of Harry's story. In truth, I'm only trying to look out for my brother.","Точно так же, как тебе кажется, что я злодей в истории Гарри. На самом деле я просто пытаюсь присматривать за братом.",translated,111
+vntext.sq#24608,vntext.sq,CODYYEN,That's all.,Вот и всё.,translated,11
+vntext.sq#24609,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#24613,vntext.sq,CODYYEN,Hahaha! Always full of bite.,Ха-ха-ха! Всегда с зубками наготове.,translated,28
+vntext.sq#24832,vntext.sq,CODYYEN,I see my timing is impeccable as always.,"Вижу, моё чувство времени, как всегда, безупречно.",translated,40
+vntext.sq#24833,vntext.sq,CODYYEN,Enjoying yourselves?,Развлекаетесь?,translated,20
+vntext.sq#24836,vntext.sq,CODYYEN,"I'm attending a summit, remember?","Я приехал на саммит, забыл?",translated,33
+vntext.sq#24838,vntext.sq,CODYYEN,"The same reason anybody else visits a mood cafe, I suppose.","Полагаю, по той же причине, что и все остальные посетители кафе настроения.",translated,59
+vntext.sq#24839,vntext.sq,CODYYEN,Did I interrupt anything?,Я что-то прервал?,translated,25
+vntext.sq#24845,vntext.sq,CODYYEN,Hm... I guess you two do have a lot to talk about since the breakup.,"Хм... наверное, вам и правда есть о чём поговорить после расставания.",translated,68
+vntext.sq#24847,vntext.sq,CODYYEN,"So, how's your vacation coming along, Harry? Is our Mood Confectioner helping with the itinerary?","Ну как твой отпуск проходит, Гарри? Наш Кондитер настроения помогает с планом поездки?",translated,97
+vntext.sq#24849,vntext.sq,CODYYEN,I see. What a shame. I'm sure {$mcName} here will know the most... intruiging places San Mazo has to offer.,"Понятно. Как жаль. Уверен, {$mcName} знает самые... занятные места, которые может предложить Сан-Мазо.",translated,107
+vntext.sq#24851,vntext.sq,CODYYEN,Do you mind if I join you? I've had a really long day at work.,"Не против, если я присоединюсь? У меня был очень долгий рабочий день.",translated,62
+vntext.sq#24854,vntext.sq,CODYYEN,Thank you.,Спасибо.,translated,10
+vntext.sq#24855,vntext.sq,CODYYEN,"So, how are your [i] med school [/i] friends doing?",Ну как там твои друзья по [i] медшколе [/i] поживают?,translated,51
+vntext.sq#24860,vntext.sq,CODYYEN,"Oh, I see.","О, понятно.",translated,10
+vntext.sq#24861,vntext.sq,CODYYEN,Not a fan of bar-hopping?,Не любитель бар-туров?,translated,25
+vntext.sq#24863,vntext.sq,CODYYEN,That does sound like you.,Похоже на тебя.,translated,25
+vntext.sq#24864,vntext.sq,CODYYEN,"You should join them once in a while. You [i] are [/i] here to mingle, aren't you?","Тебе стоит иногда к ним присоединяться. Ты же [i] здесь, [/i] чтобы общаться, разве нет?",translated,82
+vntext.sq#24865,vntext.sq,CODYYEN,"Have a couple of drinks with them, listen to their stories. It's important to be surrounded by people who are... [i] aligned [/i] with your goals, don't you think?","Выпей с ними пару стаканчиков, послушай их истории. Важно быть окружённым людьми, которые... [i] соответствуют [/i] твоим целям, разве не так?",translated,163
+vntext.sq#24867,vntext.sq,CODYYEN,"Italics? I don't — oh, I see what you mean.","Курсивом? Я не — а, понял, о чём ты.",translated,43
+vntext.sq#24868,vntext.sq,CODYYEN,"I apologize. That wasn't meant to be a jab at you. I do see the appeal of the Hotbox, after all.","Прошу прощения. Это не было выпадом в твой адрес. В конце концов, я и сам понимаю привлекательность Hotbox.",translated,96
+vntext.sq#24869,vntext.sq,CODYYEN,"Relaxing atmosphere, good food... simple pleasures.","Расслабляющая атмосфера, хорошая еда... простые радости.",translated,51
+vntext.sq#24878,vntext.sq,CODYYEN,Take your time.,Не торопитесь.,translated,15
+vntext.sq#24895,vntext.sq,CODYYEN,"Are you two quite finished? Any longer and I'll be done with this entire batch of your blueberries, haha!","Вы двое уже закончили? Ещё немного, и я прикончу всю эту партию вашей черники, ха-ха!",translated,105
+vntext.sq#24898,vntext.sq,CODYYEN,"I've only had a couple just now, don't worry. Needed something to tide me over until our dear Mood Confectioner here remembered to serve me a donut.","Я съел всего парочку, не волнуйтесь. Мне нужно было чем-то перебиться, пока наш дорогой Кондитер настроения не вспомнил, что нужно меня обслужить.",translated,148
+vntext.sq#24899,vntext.sq,CODYYEN,"Which, by the way; very poor customer service. To think we were just talking about that on my first visit...","Кстати, весьма плохое обслуживание клиентов. А ведь мы как раз об этом говорили в мой первый визит...",translated,108
+vntext.sq#24901,vntext.sq,CODYYEN,"Do they, now? Must be why they were rancid. If I weren't starving, I wouldn't have eaten that much.","Да неужели? Наверное, поэтому они были такие прогорклые. Если бы я не был так голоден, я бы столько не съел.",translated,99
+vntext.sq#24902,vntext.sq,CODYYEN,Though I suppose I shouldn't be surprised... something about the service here leaves quite a sour taste in one's mouth.,"Хотя, полагаю, мне не стоило удивляться... что-то в здешнем обслуживании оставляет довольно кислый привкус во рту.",translated,119
+vntext.sq#24907,vntext.sq,CODYYEN,...I've had a long day.,...У меня был долгий день.,translated,23
+vntext.sq#24908,vntext.sq,CODYYEN,It's the Human Rights Summit. But they might as well rename it the Clown Convention for all the tomfoolery they do.,"Это Саммит по правам человека. Хотя с тем количеством клоунады, что там творится, его с тем же успехом можно переименовать в Клоунский Съезд.",translated,115
+vntext.sq#24909,vntext.sq,CODYYEN,My talk — a talk I had prepared [i] months [/i] for — was about uplifting local businesses which utilize sustainable and ethical farming.,"Мой доклад — доклад, к которому я готовился [i] месяцами [/i] — был о поддержке местного бизнеса, использующего устойчивое и этичное фермерство.",translated,137
+vntext.sq#24910,vntext.sq,CODYYEN,"Do you know who they thank at the end of it all? Senator Caldwell, who is notorious for land grabbing through destruction and sabotage — whether it's arson or water pollution, you name it, he's done it all.","Знаешь, кого в итоге благодарят? Сенатора Колдуэлла, печально известного захватом земель через разрушение и саботаж — поджоги, загрязнение воды, что угодно, он всё это проделывал.",translated,206
+vntext.sq#24911,vntext.sq,CODYYEN,And he gets all the flowers at the end of the day.,И в итоге все лавры достаются ему.,translated,50
+vntext.sq#24913,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#24914,vntext.sq,CODYYEN,"I... No, I'm sorry. I don't think I tell you enough how much I appreciate you. How you chose to be in med school because you want to save lives...","Я... нет, это мне жаль. Не думаю, что достаточно часто говорю тебе, как я тебя ценю. То, что ты выбрал медшколу, потому что хочешь спасать жизни...",translated,146
+vntext.sq#24915,vntext.sq,CODYYEN,"You've always been that way, even back when we were kids. You care about people.","Ты всегда был таким, даже когда мы были детьми. Тебе не всё равно на людей.",translated,80
+vntext.sq#24916,vntext.sq,CODYYEN,"That's why... that's why I always worry about the company you keep. Because you're a good one, Harry... and you deserve to be surrounded by good people too.","Именно поэтому... именно поэтому я всегда беспокоюсь о том, с кем ты общаешься. Потому что ты хороший, Гарри... и ты заслуживаешь быть окружённым такими же хорошими людьми.",translated,156
+vntext.sq#24922,vntext.sq,CODYYEN,A shame your friend doesn't seem too happy that I'm here.,"Жаль, что твой друг, похоже, не рад моему присутствию.",translated,57
+vntext.sq#24923,vntext.sq,CODYYEN,"Very well, I'll take my leave.","Что ж, я, пожалуй, откланяюсь.",translated,30
+vntext.sq#24927,vntext.sq,CODYYEN,"Have a good night, both of you.",Доброй ночи вам обоим.,translated,31
+vntext.sq#25469,vntext.sq,CODYYEN,Do we really need another talk about good customer service?,Нам правда снова нужен разговор о хорошем обслуживании клиентов?,translated,59
+vntext.sq#25471,vntext.sq,CODYYEN,"Play nice, you say...","Вести себя прилично, говоришь...",translated,21
+vntext.sq#25472,vntext.sq,CODYYEN,But I [i] am [/i] being nice. I offer you my advice for free.,Но я [i] и правда [/i] веду себя прилично. Я даю тебе советы бесплатно.,translated,61
+vntext.sq#25475,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25476,vntext.sq,CODYYEN,"No, you're right. I'm sorry for coming across so hostile.","Нет, ты прав. Извини, что был таким враждебным.",translated,57
+vntext.sq#25482,vntext.sq,CODYYEN,What a strange question to ask. He's clearly not here.,Странный вопрос. Его же явно здесь нет.,translated,54
+vntext.sq#25483,vntext.sq,CODYYEN,"Like anyone, I'm simply here for your donuts.","Как и все, я здесь просто ради твоих пончиков.",translated,45
+vntext.sq#25485,vntext.sq,CODYYEN,What's so weird?,Что тут странного?,translated,16
+vntext.sq#25487,vntext.sq,CODYYEN,Do you usually grill your customers like this before working on their donuts?,"Ты всегда так допрашиваешь клиентов, прежде чем взяться за их пончики?",translated,77
+vntext.sq#25490,vntext.sq,CODYYEN,Fair enough.,Справедливо.,translated,12
+vntext.sq#25505,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25511,vntext.sq,CODYYEN,Many thanks.,Большое спасибо.,translated,12
+vntext.sq#25512,vntext.sq,CODYYEN,Ugh. This is not edible at all.,Уф. Это совершенно несъедобно.,translated,31
+vntext.sq#25513,vntext.sq,CODYYEN,Hmm? This is missing the mood enhancers. I'm afraid this isn't what I asked for.,"Хм? Тут не хватает усилителей настроения. Боюсь, это не то, что я просил.",translated,80
+vntext.sq#25516,vntext.sq,CODYYEN,Sure. Just hand it over.,Ладно. Просто дай сюда.,translated,24
+vntext.sq#25521,vntext.sq,CODYYEN,Thanks.,Спасибо.,translated,7
+vntext.sq#25522,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25524,vntext.sq,CODYYEN,"A lot better now, thank you.","Теперь намного лучше, спасибо.",translated,28
+vntext.sq#25525,vntext.sq,CODYYEN,"Try not to do that again, okay?","Постарайся больше так не делать, ладно?",translated,31
+vntext.sq#25529,vntext.sq,CODYYEN,It's good.,Хорошо.,translated,10
+vntext.sq#25530,vntext.sq,CODYYEN,Everything about this donut is perfect. You've spared no effort to make this with the very best of your ability.,"Всё в этом пончике идеально. Ты не пожалел усилий, чтобы сделать его настолько хорошо, насколько мог.",translated,112
+vntext.sq#25531,vntext.sq,CODYYEN,"I'm no expert, but I understand this calmness I'm feeling is because of your donut, correct?","Я не эксперт, но, насколько я понимаю, это спокойствие, которое я чувствую, вызвано твоим пончиком, верно?",translated,92
+vntext.sq#25532,vntext.sq,CODYYEN,"It's like when my father bought me my favorite comic book, but I had to wait until the weekend to read it.","Это как когда отец купил мне мой любимый комикс, но мне пришлось ждать выходных, чтобы его прочитать.",translated,106
+vntext.sq#25535,vntext.sq,CODYYEN,Hah. There's a lot of things you don't know about me.,Ха. Обо мне ты много чего не знаешь.,translated,53
+vntext.sq#25540,vntext.sq,CODYYEN,I wouldn't say I'm uncomfortable. It's just... different than what I'm expecting.,"Не сказал бы, что мне неуютно. Просто... это не то, что я ожидал.",translated,81
+vntext.sq#25541,vntext.sq,CODYYEN,"With all the human rights abuses happening all around the world, it never feels right to {$moods:relax}... yet here I am.","С учётом всех нарушений прав человека, происходящих по всему миру, никогда не кажется правильным {$moods:relax}... и всё же вот я здесь.",translated,121
+vntext.sq#25542,vntext.sq,CODYYEN,I've got too much to think about... so I haven't thought about the past in a while.,"У меня слишком много дел, о которых нужно думать... так что о прошлом я давно не задумывался.",translated,83
+vntext.sq#25543,vntext.sq,CODYYEN,"Yet here I am, remembering the strange combination of paint and coffee smells in my parents' house...","И всё же вот я здесь, вспоминаю странное сочетание запахов краски и кофе в доме моих родителей...",translated,101
+vntext.sq#25553,vntext.sq,CODYYEN,I wouldn't say I'm uncomfortable. It's just... a bit distracting.,"Не сказал бы, что мне неуютно. Просто... немного отвлекает.",translated,65
+vntext.sq#25554,vntext.sq,CODYYEN,I keep thinking about all the things I want to teach some of my students... but I just know they wouldn't care.,"Я всё думаю о том, чему хотел бы научить некоторых своих студентов... но точно знаю, что им будет всё равно.",translated,111
+vntext.sq#25555,vntext.sq,CODYYEN,I suppose that's law school for you — an excuse for rich kids to abuse their rights and privileges.,"Полагаю, вот тебе и юрфак — повод для богатых деток злоупотреблять своими правами и привилегиями.",translated,99
+vntext.sq#25556,vntext.sq,CODYYEN,I keep thinking about all the things I'd like to say to Senator Caldwell...,"Я всё думаю обо всём, что хотел бы сказать сенатору Колдуэллу...",translated,75
+vntext.sq#25557,vntext.sq,CODYYEN,"I am tempted to call him up right now, but I know acting brashly could make me lose my job.","Мне так и хочется позвонить ему прямо сейчас, но я знаю, что опрометчивые действия могут стоить мне работы.",translated,91
+vntext.sq#25558,vntext.sq,CODYYEN,"With all the human rights abuses happening all around the world, it feels naive to be optimistic... and yet here I am.","С учётом всех нарушений прав человека, происходящих по всему миру, быть оптимистом кажется наивным... и всё же вот я здесь.",translated,118
+vntext.sq#25565,vntext.sq,CODYYEN,How unexpected.,Как неожиданно.,translated,15
+vntext.sq#25566,vntext.sq,CODYYEN,"I'm no expert, sure, but even I can tell that something's wrong with your donut.","Конечно, я не эксперт, но даже я вижу, что с твоим пончиком что-то не так.",translated,80
+vntext.sq#25568,vntext.sq,CODYYEN,I wouldn't say I'm uncomfortable. It's just... a bit too much.,"Не сказал бы, что мне неуютно. Просто... немного чересчур.",translated,62
+vntext.sq#25569,vntext.sq,CODYYEN,"For one, this enhancer is making me want to pull an all-nighter for a certain case.","Во-первых, этот усилитель заставляет меня хотеть просидеть всю ночь над одним делом.",translated,83
+vntext.sq#25570,vntext.sq,CODYYEN,"For one, I'm getting too many ideas about how to troll Senator Caldwell online. Anonymously, of course.","Во-первых, у меня появляется слишком много идей насчёт того, как потроллить сенатора Колдуэлла в сети. Анонимно, конечно.",translated,103
+vntext.sq#25571,vntext.sq,CODYYEN,"For one, I keep thinking about the summit, and how angry it gets me sometimes...","Во-первых, я всё думаю о саммите и о том, как иногда он меня злит...",translated,80
+vntext.sq#25573,vntext.sq,CODYYEN,"It's an odd feeling, that's for sure. I don't really know what to make of it.","Это точно странное чувство. Я не совсем понимаю, что с ним делать.",translated,77
+vntext.sq#25575,vntext.sq,CODYYEN,I'll be fine. The weird sensation is already beginning to fade.,Со мной всё будет в порядке. Странное ощущение уже начинает проходить.,translated,63
+vntext.sq#25576,vntext.sq,CODYYEN,It's nothing I can't shake off on my own.,"Это то, с чем я и сам справлюсь.",translated,41
+vntext.sq#25580,vntext.sq,CODYYEN,One donut is more than enough.,Одного пончика более чем достаточно.,translated,30
+vntext.sq#25581,vntext.sq,CODYYEN,It was a very good donut too. It would be hard to top that.,Это к тому же был очень хороший пончик. Было бы сложно его превзойти.,translated,59
+vntext.sq#25582,vntext.sq,CODYYEN,"A shame you got my order wrong, but I appreciate the effort nonetheless.","Жаль, что ты напутал с моим заказом, но я всё равно ценю старания.",translated,72
+vntext.sq#25585,vntext.sq,CODYYEN,"...{$mcName}, I've always taken your craft seriously.","...{$mcName}, я всегда воспринимал твоё ремесло всерьёз.",translated,53
+vntext.sq#25586,vntext.sq,CODYYEN,"I just wasn't sure if you did, too.","Просто я не был уверен, воспринимаешь ли ты его так же.",translated,35
+vntext.sq#25589,vntext.sq,CODYYEN,How else was I supposed to interpret your delinquency?,А как ещё мне было истолковывать твоё разгильдяйство?,translated,54
+vntext.sq#25590,vntext.sq,CODYYEN,Harry even cut class to join you.,"Гарри даже прогуливал занятия, чтобы быть с тобой.",translated,33
+vntext.sq#25592,vntext.sq,CODYYEN,"Oh, don't look so surprised. You had my brother wrapped around your fingers.","О, не делай такое удивлённое лицо. Мой брат был у тебя на крючке.",translated,76
+vntext.sq#25593,vntext.sq,CODYYEN,"My brilliant, lawful little brother, lying to his professors and procrastinating...","Мой блестящий, законопослушный младший брат, врущий преподавателям и откладывающий всё на потом...",translated,83
+vntext.sq#25594,vntext.sq,CODYYEN,"I know him very well, {$mcName}. And it all started when he met you.","Я хорошо его знаю, {$mcName}. И всё это началось, когда он с тобой познакомился.",translated,68
+vntext.sq#25596,vntext.sq,CODYYEN,That is true.,Это правда.,translated,13
+vntext.sq#25600,vntext.sq,CODYYEN,"...Of course not. Much as I didn't approve of your character back then, I didn't want Harry to get hurt, either.","...Конечно нет. Как бы я тогда ни не одобрял твой характер, я всё равно не хотел, чтобы Гарри пострадал.",translated,112
+vntext.sq#25602,vntext.sq,CODYYEN,It was never my intention to get him to break up with you... or the other way around.,Я никогда не намеревался заставить его расстаться с тобой... или наоборот.,translated,85
+vntext.sq#25603,vntext.sq,CODYYEN,"I simply wanted to see some sort of direction in your life. Because Harry loved you. But you didn't even love yourself, did you?","Я просто хотел увидеть хоть какое-то направление в твоей жизни. Потому что Гарри любил тебя. Но ты ведь даже себя самого не любил, так?",translated,128
+vntext.sq#25604,vntext.sq,CODYYEN,"If you did... whether it was about your frustrations with him or with yourself, you would've been honest with him.","Если бы любил... неважно, было ли твоё разочарование в нём или в себе, ты был бы с ним честен.",translated,114
+vntext.sq#25607,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25608,vntext.sq,CODYYEN,Has that changed at all?,Это хоть как-то изменилось?,translated,24
+vntext.sq#25619,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25620,vntext.sq,CODYYEN,That's good.,Это хорошо.,translated,12
+vntext.sq#25621,vntext.sq,CODYYEN,Now I just need you to convince me with your actions.,"Теперь мне просто нужно, чтобы ты убедил меня своими поступками.",translated,53
+vntext.sq#25623,vntext.sq,CODYYEN,...No. Perhaps not. But Harry still cares about you.,"...Нет. Возможно, не нужно. Но Гарри всё ещё небезразличен ты.",translated,52
+vntext.sq#25624,vntext.sq,CODYYEN,And I believe I may finally be beginning to understand where he's coming from.,"И полагаю, я наконец начинаю понимать, откуда у него это.",translated,78
+vntext.sq#25626,vntext.sq,CODYYEN,...I won't get in the way of your friendship. But I want to be sure that you won't hurt Harry again.,"...Я не буду мешать вашей дружбе. Но хочу быть уверен, что ты снова не причинишь Гарри боль.",translated,100
+vntext.sq#25627,vntext.sq,CODYYEN,So keep learning to love yourself... and I think you'll do just fine.,"Так что продолжай учиться любить себя... и думаю, у тебя всё получится.",translated,69
+vntext.sq#25630,vntext.sq,CODYYEN,Depends on whether you follow it or not.,"Зависит от того, последуешь ли ты ему.",translated,40
+vntext.sq#25632,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25633,vntext.sq,CODYYEN,I figured as much.,Так я и думал.,translated,18
+vntext.sq#25634,vntext.sq,CODYYEN,"Still, you did end up pursuing this as a career, so... perhaps you do love yourself just a bit more than you used to.","И всё же, в итоге ты сделал это своей карьерой, так что... возможно, ты и правда любишь себя чуть больше, чем раньше.",translated,117
+vntext.sq#25636,vntext.sq,CODYYEN,"Well, keep at it.","Что ж, продолжай в том же духе.",translated,17
+vntext.sq#25640,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25641,vntext.sq,CODYYEN,Interesting. Here I thought you might have given me a better answer.,"Интересно. А я-то думал, ты дашь мне ответ получше.",translated,68
+vntext.sq#25642,vntext.sq,CODYYEN,"But do think about it, {$mcName}.","Но всё же подумай об этом, {$mcName}.",translated,33
+vntext.sq#25643,vntext.sq,CODYYEN,"You're not the only one who'll get hurt if you can't even bear to love yourself, after all.","В конце концов, не только ты пострадаешь, если не сможешь заставить себя любить себя.",translated,91
+vntext.sq#25646,vntext.sq,CODYYEN,"I told you, life's not as black and white as you think it is.","Я же говорил тебе, жизнь не такая чёрно-белая, как ты думаешь.",translated,61
+vntext.sq#25648,vntext.sq,CODYYEN,"Now I understand why you ghosted him. The keyword here, of course, is 'understand' — I still do not approve of what you did.","Теперь я понимаю, почему ты пропал из его жизни без объяснений. Ключевое слово здесь, конечно, «понимаю» — я по-прежнему не одобряю то, что ты сделал.",translated,124
+vntext.sq#25650,vntext.sq,CODYYEN,"Heh. Hindsight [i] is [/i] 20/20, after all.","Хех. В конце концов, задним умом [i] все [/i] крепки.",translated,44
+vntext.sq#25651,vntext.sq,CODYYEN,"Still, it is not too late for a sincere discussion, don't you think?","И всё же ещё не поздно для искреннего разговора, тебе не кажется?",translated,68
+vntext.sq#25653,vntext.sq,CODYYEN,If you must know... Harry [i] did [/i] try to defend you. Perhaps not in the way you wanted...,"Если тебе так интересно... Гарри [i] действительно [/i] пытался тебя защитить. Возможно, не так, как тебе хотелось бы...",translated,94
+vntext.sq#25654,vntext.sq,CODYYEN,But he wouldn't shut up about how good you actually were at baking. About how you were a genius who will someday take over the pastry and mood confection industry.,"Но он не переставал твердить, насколько хорош ты на самом деле в выпечке. О том, что ты гений, который однажды захватит индустрию кондитерского и настроенческого дела.",translated,163
+vntext.sq#25656,vntext.sq,CODYYEN,All I'm saying is that you are not powerless. You just need to be honest.,"Я лишь хочу сказать, что ты не бессилен. Тебе просто нужно быть честным.",translated,73
+vntext.sq#25657,vntext.sq,CODYYEN,"If you dislike the idea of 'loving yourself' as a necessary thing, then you can think of it this way — you alone can champion yourself.","Если тебе не нравится идея «любить себя» как что-то необходимое, тогда можешь думать об этом так — только ты сам можешь за себя постоять.",translated,135
+vntext.sq#25658,vntext.sq,CODYYEN,"Even getting a lawyer to defend you requires speaking up, after all.","В конце концов, даже чтобы нанять адвоката для своей защиты, нужно заговорить.",translated,68
+vntext.sq#25660,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#25661,vntext.sq,CODYYEN,You're really not getting back together with him?,Ты правда не сойдёшься с ним снова?,translated,49
+vntext.sq#25663,vntext.sq,CODYYEN,Hm. I see.,Хм. Понятно.,translated,10
+vntext.sq#25666,vntext.sq,CODYYEN,"Tsk, there you go again, pretending you have no power in the matter.","Тц, вот опять ты за своё, притворяешься, будто у тебя нет никакой власти в этом вопросе.",translated,68
+vntext.sq#25667,vntext.sq,CODYYEN,Do you think he's trying to get back together with you?,"Думаешь, он пытается снова сойтись с тобой?",translated,55
+vntext.sq#25669,vntext.sq,CODYYEN,"Then you two need to figure some stuff out. You're spending a lot of time together, and yet you can't even discuss where you both stand...","Тогда вам двоим нужно кое-что прояснить. Вы проводите вместе кучу времени, и всё же не можете даже обсудить, на чём вы оба стоите...",translated,138
+vntext.sq#25670,vntext.sq,CODYYEN,Doesn't that bother you?,Тебя это не беспокоит?,translated,24
+vntext.sq#25673,vntext.sq,CODYYEN,Hm. Very well. If you say so.,"Хм. Что ж, ладно. Как скажешь.",translated,29
+vntext.sq#25674,vntext.sq,CODYYEN,...I'll get out of your hair for now. I've got an early start tomorrow and there's a book I wanted to finish before bed.,"...Пожалуй, оставлю тебя в покое. Завтра мне рано вставать, да и книгу хочу дочитать перед сном.",translated,120
+vntext.sq#25675,vntext.sq,CODYYEN,Have a good night.,Хорошей ночи.,translated,18
+vntext.sq#26098,vntext.sq,CODYYEN,Good evening.,Добрый вечер.,translated,13
+vntext.sq#26101,vntext.sq,CODYYEN,"What else would I be doing here, Harry? I'd like to order a donut, of course.","Чем ещё мне тут заниматься, Гарри? Хочу заказать пончик, конечно же.",translated,77
+vntext.sq#26103,vntext.sq,CODYYEN,Is that so? Then shall I have some of those donuts instead?,"Вот как? Тогда, может, мне взять один из тех пончиков?",translated,59
+vntext.sq#26105,vntext.sq,CODYYEN,"If that's the case, then a bit of critique wouldn't hurt, would it?","Если так, то немного критики не помешает, разве нет?",translated,67
+vntext.sq#26106,vntext.sq,CODYYEN,"After all, one who takes their craft seriously would be open to such things.","В конце концов, тот, кто серьёзно относится к своему ремеслу, должен быть открыт к такому.",translated,76
+vntext.sq#26115,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26116,vntext.sq,CODYYEN,"Yes, they were.","Да, была.",translated,15
+vntext.sq#26119,vntext.sq,CODYYEN,"Hmm, what a pity. I was really looking forward to sampling some donuts from this place tonight.","Хм, как жаль. Я правда предвкушал сегодня попробовать пончики отсюда.",translated,95
+vntext.sq#26121,vntext.sq,CODYYEN,"It wasn't a bad day, no...","День был не плохой, нет...",translated,26
+vntext.sq#26122,vntext.sq,CODYYEN,I'm just simply curious about our friend's progress when it comes to... [i] baking. [/i],Мне просто любопытен прогресс нашего друга в... [i] выпечке. [/i],translated,88
+vntext.sq#26126,vntext.sq,CODYYEN,"Oh, not too long ago. I just... realized some things, that's all.","Ох, не так давно. Я просто... кое-что осознал, вот и всё.",translated,65
+vntext.sq#26127,vntext.sq,CODYYEN,"And if the two of you get back together, then I must make an effort to know your potential future partner. Isn't that right?","И если вы двое снова сойдётесь, мне придётся постараться узнать твоего потенциального будущего партнёра. Разве не так?",translated,124
+vntext.sq#26131,vntext.sq,CODYYEN,I apologize. I shouldn't have presumed.,Прошу прощения. Не стоило мне делать такие предположения.,translated,39
+vntext.sq#26134,vntext.sq,CODYYEN,"Well... this is getting a bit awkward, so I should probably just leave.","Ну... становится немного неловко, так что мне, наверное, стоит просто уйти.",translated,71
+vntext.sq#26136,vntext.sq,CODYYEN,"Good night, both of you.",Доброй ночи вам обоим.,translated,24
+vntext.sq#26245,vntext.sq,CODYYEN,Good evening.,Добрый вечер.,translated,13
+vntext.sq#26246,vntext.sq,CODYYEN,I was hoping you'd still be open.,"Надеялся, что вы ещё открыты.",translated,33
+vntext.sq#26248,vntext.sq,CODYYEN,I don't know what you're talking about. I really just wanted to stop by for a donut.,"Не знаю, о чём ты. Я правда просто хотел зайти за пончиком.",translated,84
+vntext.sq#26250,vntext.sq,CODYYEN,"So, how are things with you?","Ну, как у тебя дела?",translated,28
+vntext.sq#26252,vntext.sq,CODYYEN,I meant just [i] you. [/i],Я имел в виду просто [i] тебя. [/i],translated,26
+vntext.sq#26255,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26256,vntext.sq,CODYYEN,I'm not just making small talk. I genuinely want to know.,Я не просто поддерживаю разговор. Мне правда интересно.,translated,57
+vntext.sq#26257,vntext.sq,CODYYEN,"After all, you must've had quite the discussion with Harry last time the two of us were here.","В конце концов, у вас с Гарри, наверное, был серьёзный разговор в прошлый раз, когда мы вдвоём здесь были.",translated,93
+vntext.sq#26260,vntext.sq,CODYYEN,...I see.,...Понятно.,translated,9
+vntext.sq#26261,vntext.sq,CODYYEN,This is more challenging than I expected.,"Это сложнее, чем я ожидал.",translated,41
+vntext.sq#26262,vntext.sq,CODYYEN,May I tempt you to go for a drink with me after your shift?,Могу я соблазнить тебя выпить со мной после смены?,translated,59
+vntext.sq#26264,vntext.sq,CODYYEN,"Fine, then. I suppose we can talk here.","Ладно тогда. Полагаю, можем поговорить здесь.",translated,39
+vntext.sq#26266,vntext.sq,CODYYEN,"Just humor me for a bit, will you?","Просто подыграй мне немного, хорошо?",translated,34
+vntext.sq#26268,vntext.sq,CODYYEN,"Hmmm... I could use a donut with two ${glazes}. One flavor should help with feelings of frustration, while the other should have a de-stressing element to it.","Хмм... мне бы пригодился пончик с двумя ${glazes}. Один вкус должен помочь с чувством разочарования, а второй должен иметь элемент снятия стресса.",translated,158
+vntext.sq#26279,vntext.sq,CODYYEN,Many thanks.,Большое спасибо.,translated,12
+vntext.sq#26281,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26282,vntext.sq,CODYYEN,"You're not taking this seriously, are you?","Ты же несерьёзно к этому относишься, да?",translated,42
+vntext.sq#26284,vntext.sq,CODYYEN,You can't possibly be serving something this awful to your customers.,"Не может быть, чтобы ты подавал своим клиентам нечто настолько ужасное.",translated,69
+vntext.sq#26288,vntext.sq,CODYYEN,That won't be necessary. I think I'll be fine.,"В этом нет необходимости. Думаю, со мной всё будет в порядке.",translated,46
+vntext.sq#26289,vntext.sq,CODYYEN,"Pay more attention to your job next time, okay?","В следующий раз будь внимательнее к своей работе, ладно?",translated,47
+vntext.sq#26290,vntext.sq,CODYYEN,Not everyone is as understanding.,Не все такие же понимающие.,translated,33
+vntext.sq#26293,vntext.sq,CODYYEN,Mmm. Delicious.,Ммм. Вкусно.,translated,15
+vntext.sq#26294,vntext.sq,CODYYEN,"Both the {$flavors:pumpketamine} and {$flavors:matchajuana} are in perfect harmony, complemented by the ${savoriness} of the ${toppings}.","И {$flavors:pumpketamine}, и {$flavors:matchajuana} в идеальной гармонии, дополненной ${savoriness} от ${toppings}.",translated,137
+vntext.sq#26295,vntext.sq,CODYYEN,"Yes, this will do. We have much to discuss, and I need to remain patient.","Да, это подойдёт. Нам нужно многое обсудить, и мне нужно сохранять терпение.",translated,73
+vntext.sq#26296,vntext.sq,CODYYEN,You may not be as bad as I remember... but you were testing me just now.,"Возможно, ты не так плох, как я помню... но ты только что меня проверял.",translated,72
+vntext.sq#26297,vntext.sq,CODYYEN,"This donut, however, is helping me relax.",Однако этот пончик помогает мне расслабиться.,translated,41
+vntext.sq#26305,vntext.sq,CODYYEN,"I am feeling a bit more patient with you, but I'm missing the ${relaxing} aspect of the donut.","Я чувствую себя чуть терпеливее с тобой, но мне не хватает ${relaxing} аспекта пончика.",translated,94
+vntext.sq#26318,vntext.sq,CODYYEN,"I am feeling a bit more relaxed, but I'm missing the {$moods:patience} aspect of the donut.","Я чувствую себя чуть более расслабленным, но мне не хватает {$moods:patience} аспекта пончика.",translated,91
+vntext.sq#26319,vntext.sq,CODYYEN,"There's this other mood that's... unnecessary, though not entirely unpleasant.","Есть это другое настроение, которое... лишнее, хотя и не совсем неприятное.",translated,78
+vntext.sq#26320,vntext.sq,CODYYEN,I suppose I could work with this.,"Полагаю, с этим можно работать.",translated,33
+vntext.sq#26331,vntext.sq,CODYYEN,"There is... a lightness in my chest. Distracting at most, but not unpleasant.","Есть... лёгкость в груди. В лучшем случае отвлекает, но не неприятно.",translated,77
+vntext.sq#26332,vntext.sq,CODYYEN,"I feel very self-assured. Not that it's any different from my usual mood, but the added burst of confidence is nice.","Я чувствую себя очень уверенным. Не то чтобы это сильно отличалось от моего обычного настроения, но дополнительный всплеск уверенности приятен.",translated,116
+vntext.sq#26333,vntext.sq,CODYYEN,There's this... mild annoyance with myself.,Есть это... лёгкое раздражение на самого себя.,translated,43
+vntext.sq#26334,vntext.sq,CODYYEN,"It's a bit distracting... but I suppose I've earned that, considering how I should've done this much earlier.","Немного отвлекает... но, полагаю, я это заслужил, учитывая, что мне стоило сделать это гораздо раньше.",translated,109
+vntext.sq#26345,vntext.sq,CODYYEN,I'm reminded of those times I'd visit Harry. I took particular pleasure in torturing you with my arguments.,"Мне вспоминаются те времена, когда я навещал Гарри. Мне доставляло особое удовольствие мучить тебя своими доводами.",translated,107
+vntext.sq#26346,vntext.sq,CODYYEN,"Quite an embarrassing memory considering my immaturity, but it still gets me ${nostalgic}.","Довольно неловкое воспоминание, учитывая мою незрелость, но оно всё равно вызывает у меня ${nostalgic}.",translated,90
+vntext.sq#26347,vntext.sq,CODYYEN,I can work with this mood.,С этим настроением можно работать.,translated,26
+vntext.sq#26352,vntext.sq,CODYYEN,Oh. Hmm.,Ох. Хм.,translated,8
+vntext.sq#26354,vntext.sq,CODYYEN,"Can't say it's what I wanted, but still a good effort.","Не могу сказать, что это то, чего я хотел, но старание всё равно хорошее.",translated,54
+vntext.sq#26357,vntext.sq,CODYYEN,"I should be fine. It's mostly... hmm, how should I put it?","Со мной всё будет нормально. По большей части... хмм, как бы это сказать?",translated,58
+vntext.sq#26358,vntext.sq,CODYYEN,"Focused, definitely. But it's late and I'd rather not work overtime.","Сосредоточенно, определённо. Но уже поздно, и я предпочёл бы не работать сверхурочно.",translated,68
+vntext.sq#26359,vntext.sq,CODYYEN,Though I could make use of this for some other activity...,Хотя я мог бы использовать это для какого-нибудь другого занятия...,translated,58
+vntext.sq#26360,vntext.sq,CODYYEN,"It's like I have a thousand ideas begging to be written down, though there's no overall direction.","Как будто у меня тысяча идей, которые просятся быть записанными, хотя общего направления нет.",translated,98
+vntext.sq#26361,vntext.sq,CODYYEN,"Distracting, but not unpleasant.","Отвлекает, но не неприятно.",translated,32
+vntext.sq#26362,vntext.sq,CODYYEN,I feel like sitting down and writing a strongly-worded essay about the last book I had the misfortune of reading.,"Мне хочется сесть и написать резкое эссе о последней книге, которую мне не посчастливилось прочитать.",translated,113
+vntext.sq#26363,vntext.sq,CODYYEN,"Which is actually a good idea, so I'll keep that for later.","Что вообще-то неплохая идея, так что оставлю это на потом.",translated,59
+vntext.sq#26365,vntext.sq,CODYYEN,"Yes, there is no need. I think a drink like that will only sour the experience.","Да, в этом нет необходимости. Думаю, такой напиток только испортит впечатление.",translated,79
+vntext.sq#26366,vntext.sq,CODYYEN,"Besides, it should fade in time.","К тому же, со временем это должно пройти.",translated,32
+vntext.sq#26368,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26369,vntext.sq,CODYYEN,You've improved a lot. That donut was just what I needed.,"Ты сильно улучшился. Этот пончик был именно тем, что мне было нужно.",translated,57
+vntext.sq#26371,vntext.sq,CODYYEN,"Quite frankly, I'm disappointed you got my order wrong. But I'm just going to assume that you're exhausted instead of acting out of malice.","Откровенно говоря, я разочарован тем, что ты напутал с моим заказом. Но я просто предположу, что ты вымотан, а не действуешь со злым умыслом.",translated,139
+vntext.sq#26373,vntext.sq,CODYYEN,Hm.,Хм.,translated,3
+vntext.sq#26375,vntext.sq,CODYYEN,"Don't be so dismissive. You and I both know that if we do not discuss this, you and Harry will remain unhappy.","Не будь таким пренебрежительным. Мы оба знаем, что если мы это не обсудим, вы с Гарри останетесь несчастны.",translated,110
+vntext.sq#26379,vntext.sq,CODYYEN,"Believe me, I've been asking myself that as well.","Поверь, я тоже задаюсь этим вопросом.",translated,49
+vntext.sq#26380,vntext.sq,CODYYEN,But I suppose that's what happens when you're proven wrong about someone. You begin to empathize with them.,"Но, полагаю, так случается, когда доказывают, что ты был неправ насчёт кого-то. Начинаешь ему сопереживать.",translated,107
+vntext.sq#26382,vntext.sq,CODYYEN,Look... I owe you an apology. For all the things I said back then.,"Слушай... я должен перед тобой извиниться. За всё, что тогда говорил.",translated,66
+vntext.sq#26383,vntext.sq,CODYYEN,"I was quite the zealous type. Still am, if we're being honest.","Я был довольно рьяным типом. До сих пор такой, если честно.",translated,62
+vntext.sq#26387,vntext.sq,CODYYEN,Why not? Do you prefer if I don't at all?,"А почему нет? Ты предпочёл бы, чтобы я вообще не извинялся?",translated,41
+vntext.sq#26389,vntext.sq,CODYYEN,Heh.,Хех.,translated,4
+vntext.sq#26390,vntext.sq,CODYYEN,"I've been going about it the wrong way. I tried to tell you what to do, but I never addressed our past grievances.","Я действовал неправильно. Я пытался указывать тебе, что делать, но никогда не затрагивал наши прошлые обиды.",translated,114
+vntext.sq#26391,vntext.sq,CODYYEN,How could you take me seriously if you weren't sure where I stood?,"Как ты мог воспринимать меня всерьёз, если не был уверен, на чьей я стороне?",translated,66
+vntext.sq#26393,vntext.sq,CODYYEN,Ha.,Ха.,translated,3
+vntext.sq#26406,vntext.sq,CODYYEN,Hmm?,Хм?,translated,4
+vntext.sq#26408,vntext.sq,CODYYEN,Maybe so. But you cared enough to carve your own path... despite losing your father's financial support.,"Может, и так. Но тебе не было всё равно настолько, чтобы проложить свой собственный путь... несмотря на потерю финансовой поддержки отца.",translated,104
+vntext.sq#26409,vntext.sq,CODYYEN,"That's quite commendable, don't you think?","Довольно похвально, тебе не кажется?",translated,42
+vntext.sq#26412,vntext.sq,CODYYEN,Heh. Weren't we all.,Хех. А кто нет.,translated,20
+vntext.sq#26413,vntext.sq,CODYYEN,"When there is injustice, one cannot expect the oppressed to just sit down and take it.","Когда есть несправедливость, нельзя ожидать, что угнетённые просто сядут и стерпят.",translated,86
+vntext.sq#26414,vntext.sq,CODYYEN,They must fight back somehow... even if the methods end up looking questionable.,Им нужно как-то сопротивляться... даже если методы в итоге выглядят сомнительно.,translated,80
+vntext.sq#26416,vntext.sq,CODYYEN,"I was speaking from experience, yes.","Да, я говорил по собственному опыту.",translated,36
+vntext.sq#26418,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26419,vntext.sq,CODYYEN,"I'm afraid my brother's... pretentious utilitarian rants have messed you up, haven't they?","Боюсь, претенциозные утилитаристские тирады моего брата тебя изрядно запутали, да?",translated,90
+vntext.sq#26420,vntext.sq,CODYYEN,"Well... that, and his tendency to never stand up for people.","Ну... это, и его склонность никогда ни за кого не заступаться.",translated,60
+vntext.sq#26421,vntext.sq,CODYYEN,But if you really must know... I don't gain anything from this. At all.,Но если тебе так интересно... я ничего от этого не выигрываю. Совсем ничего.,translated,71
+vntext.sq#26422,vntext.sq,CODYYEN,"In fact, I could be doing better things with my time right now — there are far too many human rights abuses in this world.","Вообще-то, сейчас я мог бы потратить своё время на что-то более полезное — в этом мире слишком много нарушений прав человека.",translated,122
+vntext.sq#26423,vntext.sq,CODYYEN,"But even if I gain nothing from this, at least my brother might be able to gain your trust again.","Но даже если я ничего от этого не выигрываю, по крайней мере, мой брат сможет снова заслужить твоё доверие.",translated,97
+vntext.sq#26426,vntext.sq,CODYYEN,Who knows? All I know is that I contributed to the problems in your relationship.,"Кто знает? Я знаю лишь, что внёс свой вклад в проблемы ваших отношений.",translated,81
+vntext.sq#26427,vntext.sq,CODYYEN,"So by apologizing and mending ours, perhaps yours and Harry's may have a chance as well.","Так что, извинившись и наладив наши отношения, возможно, у ваших с Гарри тоже появится шанс.",translated,88
+vntext.sq#26429,vntext.sq,CODYYEN,So... are we good?,Так что... мы в расчёте?,translated,18
+vntext.sq#26431,vntext.sq,CODYYEN,I'm glad to hear it.,Рад это слышать.,translated,20
+vntext.sq#26432,vntext.sq,CODYYEN,But what about Harry? What do you plan to do now?,А что насчёт Гарри? Что ты теперь планируешь делать?,translated,49
+vntext.sq#26433,vntext.sq,CODYYEN,"You can't just hide behind your baking collaborations forever, you know.","Знаешь, ты не можешь вечно прятаться за совместной выпечкой.",translated,72
+vntext.sq#26447,vntext.sq,CODYYEN,What about the past in particular?,Что именно насчёт прошлого?,translated,34
+vntext.sq#26450,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26451,vntext.sq,CODYYEN,I see.,Понятно.,translated,6
+vntext.sq#26452,vntext.sq,CODYYEN,You might get overwhelmed by that. Take it one step at a time.,"Тебя это может перегрузить. Действуй постепенно, шаг за шагом.",translated,62
+vntext.sq#26455,vntext.sq,CODYYEN,I'm sure you will.,"Уверен, придумаешь.",translated,18
+vntext.sq#26464,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26465,vntext.sq,CODYYEN,I see.,Понятно.,translated,6
+vntext.sq#26466,vntext.sq,CODYYEN,"Yes, I think I know what you mean.","Да, думаю, я понимаю, о чём ты.",translated,34
+vntext.sq#26467,vntext.sq,CODYYEN,So how do you plan on going about it?,Так как ты планируешь это осуществить?,translated,37
+vntext.sq#26470,vntext.sq,CODYYEN,Hm.,Хм.,translated,3
+vntext.sq#26471,vntext.sq,CODYYEN,"When I asked you if you love yourself, you said you were getting there...","Когда я спросил, любишь ли ты себя, ты сказал, что идёшь к этому...",translated,73
+vntext.sq#26472,vntext.sq,CODYYEN,Perhaps you are on the right path after all.,"Возможно, в конце концов, ты на верном пути.",translated,44
+vntext.sq#26473,vntext.sq,CODYYEN,Brave choice.,Смелый выбор.,translated,13
+vntext.sq#26474,vntext.sq,CODYYEN,It is never easy to let someone know when they've hurt you... but it is [i] necessary. [/i],"Никогда не легко дать кому-то понять, что он тебя ранил... но это [i] необходимо. [/i]",translated,91
+vntext.sq#26475,vntext.sq,CODYYEN,"Anyway, I should probably get going. Thank you for the company as always.","В общем, мне, наверное, пора идти. Спасибо за компанию, как всегда.",translated,73
+vntext.sq#26481,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26482,vntext.sq,CODYYEN,What makes you think you're supposed to go [i] back? [/i],"С чего ты взял, что вы должны вернуться [i] назад? [/i]",translated,57
+vntext.sq#26483,vntext.sq,CODYYEN,"It's been years since you broke up. You're not the same people anymore, are you?","Прошли годы с вашего расставания. Вы уже не те же люди, что раньше, так?",translated,80
+vntext.sq#26486,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26487,vntext.sq,CODYYEN,But what about what [i] you [/i] want?,"А как насчёт того, чего хочешь [i] ты [/i]?",translated,38
+vntext.sq#26490,vntext.sq,CODYYEN,Must Harry always be responsible for your feelings?,Гарри всегда должен нести ответственность за твои чувства?,translated,51
+vntext.sq#26491,vntext.sq,CODYYEN,When will [i] you [/i] be responsible for them?,Когда [i] ты [/i] сам возьмёшь за них ответственность?,translated,47
+vntext.sq#26493,vntext.sq,CODYYEN,I think I understand it better now... when you said you don't believe in self-love.,"Кажется, теперь я это лучше понимаю... когда ты сказал, что не веришь в любовь к себе.",translated,83
+vntext.sq#26494,vntext.sq,CODYYEN,"That said, I should probably get going. Thank you for the company as always.","Раз так, мне, наверное, пора идти. Спасибо за компанию, как всегда.",translated,76
+vntext.sq#26495,vntext.sq,CODYYEN,"Whatever happens, I hope it works out well for both you and Harry.","Что бы ни случилось, надеюсь, у вас с Гарри всё сложится хорошо.",translated,66
+vntext.sq#26753,vntext.sq,CODYYEN,"Good evening, {$mcName}.","Добрый вечер, {$mcName}.",translated,24
+vntext.sq#26756,vntext.sq,CODYYEN,Perhaps I've warmed up to your baking.,"Возможно, мне пришлась по душе твоя выпечка.",translated,38
+vntext.sq#26762,vntext.sq,CODYYEN,Don't mind me. I'll get something later.,Не обращай на меня внимания. Я закажу позже.,translated,40
+vntext.sq#26763,vntext.sq,CODYYEN,I'll be out for a quick smoking break. Be right back.,Я выйду ненадолго покурить. Скоро вернусь.,translated,53
+vntext.sq#26825,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26827,vntext.sq,CODYYEN,"Right. You both ready, then?",Так. Вы оба готовы?,translated,28
+vntext.sq#26830,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26831,vntext.sq,CODYYEN,"For a game of 1SA, of course.","К игре в 1SA, конечно же.",translated,29
+vntext.sq#26834,vntext.sq,CODYYEN,"1SA [i] is [/i] important, is it not?","1SA [i] и есть [/i] важно, разве нет?",translated,37
+vntext.sq#26835,vntext.sq,CODYYEN,"When you told me you were struggling with the rules of the game, I figured you could use some training.","Когда ты сказал мне, что испытываешь трудности с правилами игры, я решил, что тебе не помешает потренироваться.",translated,103
+vntext.sq#26844,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26845,vntext.sq,CODYYEN,"[i] Ahem. [/i] Anyway, Harry, you don't have to be on the National Team to train, do you?","[i] Кхм. [/i] В любом случае, Гарри, тебе же не обязательно быть в национальной сборной, чтобы тренироваться, так?",translated,89
+vntext.sq#26846,vntext.sq,CODYYEN,"Besides, you mentioned wanting to play better next time with your friends.","К тому же, ты упоминал, что хочешь лучше играть в следующий раз со своими друзьями.",translated,74
+vntext.sq#26849,vntext.sq,CODYYEN,"Heh. So what about it, you two?","Хех. Так что скажете, вы двое?",translated,31
+vntext.sq#26850,vntext.sq,CODYYEN,Here. I'll deal.,Вот. Я раздам.,translated,16
+vntext.sq#26852,vntext.sq,CODYYEN,"Trust me, this is better than the mind games I've had you participate in.","Поверь, это лучше, чем те психологические игры, в которые я тебя втягивал.",translated,73
+vntext.sq#26861,vntext.sq,CODYYEN,"Tsk tsk tsk. It's a pity you didn't put your card down, {$mcName}.","Тц-тц-тц. Жаль, что ты не выложил карту, {$mcName}.",translated,66
+vntext.sq#26862,vntext.sq,CODYYEN,You could've won this round... but you were too slow.,Ты мог бы выиграть этот раунд... но был слишком медлителен.,translated,53
+vntext.sq#26865,vntext.sq,CODYYEN,"Oh, do I?","Ах, разве?",translated,9
+vntext.sq#26866,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26867,vntext.sq,CODYYEN,"Here's a +9, little brother. Enjoy.","Вот тебе +9, братишка. Наслаждайся.",translated,35
+vntext.sq#26871,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26872,vntext.sq,CODYYEN,"I suppose counting the cards is a sound strategy, but if you take too long to decide on what card to play...","Полагаю, считать карты — разумная стратегия, но если ты слишком долго решаешь, какую карту сыграть...",translated,108
+vntext.sq#26873,vntext.sq,CODYYEN,Then you miss the big picture. And more importantly...,Тогда ты упускаешь общую картину. И что важнее...,translated,54
+vntext.sq#26874,vntext.sq,CODYYEN,You won't be having fun.,Ты не будешь получать удовольствие.,translated,24
+vntext.sq#26876,vntext.sq,CODYYEN,"Your turn, Harry.","Твой ход, Гарри.",translated,17
+vntext.sq#26879,vntext.sq,CODYYEN,1SA.,1SA.,translated,4
+vntext.sq#26882,vntext.sq,CODYYEN,"Hey, what can I say?","Эй, что тут скажешь?",translated,20
+vntext.sq#26883,vntext.sq,CODYYEN,You two just stress out so much that you didn't even see I only had one card left.,"Вы двое так переживали, что даже не заметили, что у меня осталась всего одна карта.",translated,82
+vntext.sq#26884,vntext.sq,CODYYEN,"...That said, good game.","...Тем не менее, хорошая игра.",translated,24
+vntext.sq#26887,vntext.sq,CODYYEN,Fair enough.,Справедливо.,translated,12
+vntext.sq#26888,vntext.sq,CODYYEN,"So, let's review how that game went.","Так, давайте разберём, как прошла игра.",translated,36
+vntext.sq#26890,vntext.sq,CODYYEN,Of course we do.,Конечно обязательно.,translated,16
+vntext.sq#26891,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#26892,vntext.sq,CODYYEN,"Harry, why do you think you lost?","Гарри, как думаешь, почему ты проиграл?",translated,33
+vntext.sq#26895,vntext.sq,CODYYEN,"Seriously, Harry? We'll get back to you later.","Серьёзно, Гарри? Мы вернёмся к тебе позже.",translated,46
+vntext.sq#26896,vntext.sq,CODYYEN,"What's your answer, {$mcName}?","Каков твой ответ, {$mcName}?",translated,30
+vntext.sq#26907,vntext.sq,CODYYEN,"That's the technical reason, yes, but what was it about your behavior that prevented you from acting faster?","Это формальная причина, да, но что в твоём поведении помешало тебе действовать быстрее?",translated,108
+vntext.sq#26910,vntext.sq,CODYYEN,Of course. I wouldn't assume otherwise.,Конечно. Я бы и не подумал иначе.,translated,39
+vntext.sq#26913,vntext.sq,CODYYEN,"So you decided not to put in any effort, then?","Значит, ты решил не прилагать никаких усилий?",translated,46
+vntext.sq#26915,vntext.sq,CODYYEN,Interesting question.,Интересный вопрос.,translated,21
+vntext.sq#26916,vntext.sq,CODYYEN,Perhaps the answer depends on how invested you are in the outcome.,"Возможно, ответ зависит от того, насколько тебе важен результат.",translated,66
+vntext.sq#26918,vntext.sq,CODYYEN,Oh?,О?,translated,3
+vntext.sq#26920,vntext.sq,CODYYEN,...Interesting.,...Интересно.,translated,15
+vntext.sq#26921,vntext.sq,CODYYEN,"So even if you missed a rule and lost because of it, you still believe yourself to be the winner.","То есть, даже упустив правило и проиграв из-за этого, ты всё равно считаешь себя победителем.",translated,97
+vntext.sq#26923,vntext.sq,CODYYEN,"Denial is a common coping mechanism, after all...","В конце концов, отрицание — распространённый механизм психологической защиты...",translated,49
+vntext.sq#26924,vntext.sq,CODYYEN,"So, Harry... is your answer still the same?","Так, Гарри... твой ответ всё ещё тот же?",translated,43
+vntext.sq#26927,vntext.sq,CODYYEN,All right then.,"Что ж, ладно.",translated,15
+vntext.sq#26928,vntext.sq,CODYYEN,"At the end of the day, it all comes down to this—","В конечном счёте, всё сводится к следующему—",translated,49
+vntext.sq#26929,vntext.sq,CODYYEN,"1SA is a game of luck, yes, but it is also a game of trusting the cards in your hand to play them... and paying attention to the people you're playing with.","1SA — игра удачи, да, но это также игра доверия своим картам на руках, чтобы их разыграть... и внимания к тем, с кем ты играешь.",translated,156
+vntext.sq#26930,vntext.sq,CODYYEN,"If you don't act, you miss opportunities...","Если не действовать, упускаешь возможности...",translated,43
+vntext.sq#26931,vntext.sq,CODYYEN,"And if you don't pay attention, you miss what's happening to the people around you.","А если не быть внимательным, упускаешь то, что происходит с людьми вокруг тебя.",translated,83
+vntext.sq#26933,vntext.sq,CODYYEN,"{$mcName}... if you had 'played your card' by telling Harry what you were going through, perhaps you could've gotten the support and reassurance of loyalty that you wanted so much.","{$mcName}... если бы ты «сыграл свою карту», рассказав Гарри, через что ты проходишь, возможно, ты получил бы поддержку и заверение в верности, которых так хотел.",translated,180
+vntext.sq#26935,vntext.sq,CODYYEN,And Harry...,А Гарри...,translated,12
+vntext.sq#26936,vntext.sq,CODYYEN,"If you had been paying attention instead of overthinking every single interaction, you would've realized that our friend here needed you.","Если бы ты был внимателен вместо того, чтобы обдумывать каждое взаимодействие до дыр, ты бы понял, что наш друг здесь в тебе нуждался.",translated,137
+vntext.sq#26938,vntext.sq,CODYYEN,"Right, I'm famished. About time I order, don't you think, {$mcName}?","Так, я умираю с голоду. Не пора ли мне сделать заказ, как думаешь, {$mcName}?",translated,68
+vntext.sq#26939,vntext.sq,CODYYEN,"Although... I think I should have it to go, since I have some cases to review tonight.","Хотя... думаю, стоит взять с собой, поскольку сегодня вечером мне нужно разобрать пару дел.",translated,86
+vntext.sq#26941,vntext.sq,CODYYEN,"Do I always have to push you two? You like to talk about maximizing and using opportunities, little brother...","Мне что, всегда нужно вас двоих подталкивать? Вы же любите рассуждать о максимизации и использовании возможностей, братишка...",translated,110
+vntext.sq#26942,vntext.sq,CODYYEN,So why not seize the moment now?,Так почему бы не воспользоваться моментом прямо сейчас?,translated,32
+vntext.sq#26945,vntext.sq,CODYYEN,Really.,Серьёзно.,translated,7
+vntext.sq#26947,vntext.sq,CODYYEN,"A {$recipe:blueberry_cheer}, please.","{$recipe:blueberry_cheer}, пожалуйста.",translated,36
+vntext.sq#26951,vntext.sq,CODYYEN,Thank you.,Спасибо.,translated,10
+vntext.sq#26952,vntext.sq,CODYYEN,"I believe that's my cue to leave, then. Good night!","Полагаю, это мой сигнал уйти. Доброй ночи!",translated,51
+vntext.sq#27042,vntext.sq,CODYYEN,"Quite the singer, aren't you?","А ты неплохой певец, да?",translated,29
+vntext.sq#27044,vntext.sq,CODYYEN,Heh. Whatever you say.,Хех. Как скажешь.,translated,22
+vntext.sq#27045,vntext.sq,CODYYEN,You seem more relaxed tonight.,Сегодня ты кажешься более расслабленным.,translated,30
+vntext.sq#27048,vntext.sq,CODYYEN,That's fair.,Справедливо.,translated,12
+vntext.sq#27049,vntext.sq,CODYYEN,How did your talk with Harry go?,Как прошёл твой разговор с Гарри?,translated,32
+vntext.sq#27051,vntext.sq,CODYYEN,Hmm...,Хмм...,translated,6
+vntext.sq#27052,vntext.sq,CODYYEN,That's all?,И это всё?,translated,11
+vntext.sq#27057,vntext.sq,CODYYEN,I see.,Понятно.,translated,6
+vntext.sq#27058,vntext.sq,CODYYEN,You should consider visiting him in Attleset. I'm sure he'd appreciate it.,"Тебе стоит подумать о том, чтобы навестить его в Аттлсете. Уверен, он был бы рад.",translated,74
+vntext.sq#27061,vntext.sq,CODYYEN,...I see.,...Понятно.,translated,9
+vntext.sq#27063,vntext.sq,CODYYEN,Pardon?,Прости?,translated,7
+vntext.sq#27065,vntext.sq,CODYYEN,It's... going.,Он... проходит.,translated,14
+vntext.sq#27066,vntext.sq,CODYYEN,I ran into your father's lawyer.,Я столкнулся с адвокатом твоего отца.,translated,32
+vntext.sq#27068,vntext.sq,CODYYEN,"Do relax. I didn't mention you, if you're worried about that.","Расслабься. Я не упоминал тебя, если ты об этом беспокоишься.",translated,61
+vntext.sq#27069,vntext.sq,CODYYEN,"It just had me thinking about family... and the ways we try to protect each other, only to mess up even more.","Это просто заставило меня задуматься о семье... и о том, как мы пытаемся защитить друг друга, а в итоге только сильнее всё портим.",translated,109
+vntext.sq#27071,vntext.sq,CODYYEN,Heh. Perhaps the atmosphere of this place is enough to get one to talk.,"Хех. Возможно, атмосферы этого места достаточно, чтобы разговорить кого угодно.",translated,71
+vntext.sq#27072,vntext.sq,CODYYEN,"I should recommend this place to some of my friends. With a sincerity donut, their clients would speak more honestly.",Мне стоит порекомендовать это место кое-кому из друзей. С пончиком искренности их клиенты говорили бы честнее.,translated,117
+vntext.sq#27074,vntext.sq,CODYYEN,"Hahaha! I was just kidding, {$mcName}.","Хахаха! Я просто пошутил, {$mcName}.",translated,38
+vntext.sq#27076,vntext.sq,CODYYEN,Heh...,Хех...,translated,6
+vntext.sq#27077,vntext.sq,CODYYEN,You've created a safe space here. I wouldn't want to ruin that.,Ты создал здесь безопасное пространство. Мне бы не хотелось это разрушить.,translated,63
+vntext.sq#27079,vntext.sq,CODYYEN,Why do you seem so surprised?,Почему ты выглядишь таким удивлённым?,translated,29
+vntext.sq#27080,vntext.sq,CODYYEN,"That [i] is [/i] the intention behind this place, isn't it?","Ведь именно в этом [i] и [/i] заключается идея этого места, разве нет?",translated,59
+vntext.sq#27082,vntext.sq,CODYYEN,"But that's just how it is, isn't it?","Но так уж всё устроено, разве нет?",translated,36
+vntext.sq#27083,vntext.sq,CODYYEN,"To be able to do good, we have to get our hands dirty too.","Чтобы творить добро, приходится тоже пачкать руки.",translated,58
+vntext.sq#27085,vntext.sq,CODYYEN,Heh. Right. I should get a donut.,Хех. Точно. Мне стоит заказать пончик.,translated,33
+vntext.sq#27087,vntext.sq,CODYYEN,"As an ""emotionally constipated"" customer, what do you think I should have?","Как ""эмоционально зажатому"" клиенту, что мне, по-твоему, стоит взять?",translated,74
+vntext.sq#27089,vntext.sq,CODYYEN,Of course. I trust your baking skills.,Конечно. Я доверяю твоим навыкам выпечки.,translated,38
+vntext.sq#27095,vntext.sq,CODYYEN,Many thanks.,Большое спасибо.,translated,12
+vntext.sq#27096,vntext.sq,CODYYEN,...This drawing... Do you really associate me with this?,...Этот рисунок... Ты правда ассоциируешь меня с этим?,translated,56
+vntext.sq#27097,vntext.sq,CODYYEN,"Not sure how I feel about that. But anyway, let me taste this donut.","Не уверен, как к этому относиться. Но ладно, дай попробовать этот пончик.",translated,68
+vntext.sq#27098,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27099,vntext.sq,CODYYEN,Is this a joke?,Это шутка?,translated,15
+vntext.sq#27100,vntext.sq,CODYYEN,There's no way you'd serve me a donut as awful as this on purpose.,"Не может быть, чтобы ты специально подал мне такой отвратительный пончик.",translated,66
+vntext.sq#27104,vntext.sq,CODYYEN,Thank you.,Спасибо.,translated,10
+vntext.sq#27106,vntext.sq,CODYYEN,"I suppose. It's that really disgusting one, right?","Полагаю, да. Это тот самый по-настоящему отвратительный, да?",translated,50
+vntext.sq#27108,vntext.sq,CODYYEN,Fine.,Ладно.,translated,5
+vntext.sq#27110,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27111,vntext.sq,CODYYEN,I'm feeling better now.,Теперь мне лучше.,translated,23
+vntext.sq#27113,vntext.sq,CODYYEN,"Oh. Going with this one, hm? Interesting choice.","Ох. Выбираешь этот, хм? Интересный выбор.",translated,48
+vntext.sq#27115,vntext.sq,CODYYEN,It does.,Подходит.,translated,8
+vntext.sq#27116,vntext.sq,CODYYEN,I do appreciate having a donut that helps one clarify how they feel.,"Я определённо ценю пончик, который помогает разобраться в своих чувствах.",translated,68
+vntext.sq#27117,vntext.sq,CODYYEN,"Even when you don't necessarily need a heart-to-heart talk, it still helps with self-mastery.","Даже когда откровенный разговор не особо нужен, это всё равно помогает с самообладанием.",translated,93
+vntext.sq#27118,vntext.sq,CODYYEN,"I could do with the playfulness, takes my mind off of things.","Немного игривости мне не помешает, отвлекает от забот.",translated,61
+vntext.sq#27119,vntext.sq,CODYYEN,I don't mind the burst of {$moods:courage}. It's a good confidence booster.,Не против всплеска {$moods:courage}. Хороший заряд уверенности.,translated,75
+vntext.sq#27120,vntext.sq,CODYYEN,"I did come here to wind down after a long day of work, so this relaxed atmosphere is more than welcome.","Я и правда пришёл сюда, чтобы расслабиться после долгого рабочего дня, так что эта расслабленная атмосфера более чем кстати.",translated,103
+vntext.sq#27121,vntext.sq,CODYYEN,{$moods:patience} might be just what I need when I get home. I still have some paperwork to get through.,"{$moods:patience} — это, возможно, именно то, что мне понадобится дома. У меня ещё осталась бумажная работа.",translated,104
+vntext.sq#27122,vntext.sq,CODYYEN,"It's nice to think of simpler times, once in a while.",Приятно иногда вспоминать о более простых временах.,translated,53
+vntext.sq#27123,vntext.sq,CODYYEN,"I do have some paperwork to go through later on, so being a little more ${focused} helps.","У меня ещё осталась бумажная работа на потом, так что немного больше ${focused} мне поможет.",translated,89
+vntext.sq#27124,vntext.sq,CODYYEN,"I'm feeling quite ${inspired}, actually. Another perspective is always welcome in my line of work.","Вообще-то, я чувствую себя довольно ${inspired}. Другая точка зрения всегда кстати в моей работе.",translated,98
+vntext.sq#27125,vntext.sq,CODYYEN,These days I only seem to feel {$moods:passion} in the form of anger.,"В последнее время {$moods:passion}, кажется, приходит ко мне только в форме гнева.",translated,69
+vntext.sq#27126,vntext.sq,CODYYEN,It's good to feel it as an intense desire to help people.,Хорошо ощущать его как сильное желание помогать людям.,translated,57
+vntext.sq#27127,vntext.sq,CODYYEN,"No mood enhancers? Well, then. Perhaps I should remain an 'emotionally constipated' customer after all.","Никаких усилителей настроения? Что ж. Тогда, наверное, мне лучше и дальше оставаться ""эмоционально зажатым"" клиентом.",translated,103
+vntext.sq#27128,vntext.sq,CODYYEN,"You have... quite the sense of humor as always, {$mcName}.","У тебя... как всегда, весьма своеобразное чувство юмора, {$mcName}.",translated,58
+vntext.sq#27129,vntext.sq,CODYYEN,"All in all, a good donut. Thank you for your service.","В целом, хороший пончик. Спасибо за обслуживание.",translated,53
+vntext.sq#27131,vntext.sq,CODYYEN,"Oh, I almost forgot to tell you...","Ох, чуть не забыл тебе сказать...",translated,34
+vntext.sq#27132,vntext.sq,CODYYEN,Harry's on his way here.,Гарри уже в пути сюда.,translated,24
+vntext.sq#27134,vntext.sq,CODYYEN,"I must admit, it is entertaining.","Должен признать, это забавно.",translated,33
+vntext.sq#27135,vntext.sq,CODYYEN,Both you and Harry can be like two wet cats sometimes...,Вы с Гарри порой оба ведёте себя как два мокрых кота...,translated,56
+vntext.sq#27136,vntext.sq,CODYYEN,It makes me wonder how your relationship worked during its more peaceful moments.,"Меня это заставляет задуматься, как ваши отношения вообще работали в более спокойные моменты.",translated,81
+vntext.sq#27144,vntext.sq,CODYYEN,...Interesting.,...Интересно.,translated,15
+vntext.sq#27147,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27148,vntext.sq,CODYYEN,I'm not really that curious anymore.,Мне уже не так уж и любопытно.,translated,36
+vntext.sq#27149,vntext.sq,CODYYEN,We do not need to know [i] that much [/i] about each other.,Нам не нужно знать друг о друге [i] настолько много. [/i],translated,59
+vntext.sq#27152,vntext.sq,CODYYEN,"That's... very sad, for two reasons.","Это... очень грустно, по двум причинам.",translated,36
+vntext.sq#27153,vntext.sq,CODYYEN,"For one, I can tell you're lying.","Во-первых, я вижу, что ты врёшь.",translated,33
+vntext.sq#27154,vntext.sq,CODYYEN,And on the off chance that you aren't... you missed out on all the fun dates you could've been having instead.,"А если вдруг ты не врёшь... значит, ты упустил все весёлые свидания, которые мог бы вместо этого устраивать.",translated,110
+vntext.sq#27156,vntext.sq,CODYYEN,"...Please, I do not want to be a reluctant member in a polycule. Especially not one with my [i] brother. [/i]","...Прошу, я не хочу быть вынужденным участником полиаморной связи. Особенно с моим [i] братом. [/i]",translated,109
+vntext.sq#27157,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27158,vntext.sq,CODYYEN,"He's near. Get your flowers ready, {$mcName}.","Он рядом. Готовь цветы, {$mcName}.",translated,45
+vntext.sq#27161,vntext.sq,CODYYEN,"A pity. If he won't have you, then I will. You've grown on me, after all.","Жаль. Если он тебя не захочет, тогда возьму я. В конце концов, ты мне полюбился.",translated,73
+vntext.sq#27163,vntext.sq,CODYYEN,Hahaha!,Хахаха!,translated,7
+vntext.sq#27165,vntext.sq,CODYYEN,My dad's a theater kid who had a whole playboy phase. Blame him.,"Мой отец — бывший театрал, у которого была целая фаза плейбоя. Вини его.",translated,64
+vntext.sq#27175,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27176,vntext.sq,CODYYEN,"Right then, I'll be taking my leave.","Что ж, тогда я откланяюсь.",translated,36
+vntext.sq#27178,vntext.sq,CODYYEN,Hmm? What for? I thought you just wanted me to go here so that our favorite Mood Confectioner doesn't close up shop early.,"Хм? Зачем? Я думал, ты просто хотел, чтобы я пришёл сюда, дабы наш любимый кондитер настроения не закрывал лавку раньше времени.",translated,122
+vntext.sq#27183,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27184,vntext.sq,CODYYEN,Of course. No problem.,Конечно. Без проблем.,translated,22
+vntext.sq#27203,vntext.sq,CODYYEN,"...I can hear you two, you know.","...Вообще-то, я вас обоих слышу.",translated,32
+vntext.sq#27205,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27206,vntext.sq,CODYYEN,No thanks.,"Нет, спасибо.",translated,10
+vntext.sq#27213,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27214,vntext.sq,CODYYEN,"Delicious. I recall the ${blueberries} being quite strong before, but they're less tart now.","Вкусно. Помню, раньше ${blueberries} были довольно резкими, но теперь они менее терпкие.",translated,92
+vntext.sq#27215,vntext.sq,CODYYEN,I think you've balanced the mood enhancer flavor very well.,"Думаю, ты очень хорошо сбалансировал вкус усилителя настроения.",translated,59
+vntext.sq#27217,vntext.sq,CODYYEN,Perfect. Not too chewy or crunchy.,Идеально. Не слишком тягучий и не слишком хрустящий.,translated,34
+vntext.sq#27247,vntext.sq,CODYYEN,...You two all right there?,...У вас там всё в порядке?,translated,27
+vntext.sq#27249,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27250,vntext.sq,CODYYEN,Just checking.,Просто проверяю.,translated,14
+vntext.sq#27257,vntext.sq,CODYYEN,Delicious. The ${blueberries} are still quite strong — but it works for the donut.,Вкусно. ${blueberries} всё ещё довольно резкие — но для этого пончика это подходит.,translated,82
+vntext.sq#27258,vntext.sq,CODYYEN,It might help to sweeten it a bit more... but it's fine as it is.,"Возможно, стоило бы подсластить чуть сильнее... но и так неплохо.",translated,65
+vntext.sq#27260,vntext.sq,CODYYEN,Just right.,В самый раз.,translated,11
+vntext.sq#27264,vntext.sq,CODYYEN,What are you two waiting for? Dig in. You should enjoy your creation. It's very good.,Чего вы двое ждёте? Налетайте. Вам стоит насладиться своим творением. Это очень вкусно.,translated,85
+vntext.sq#27699,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27700,vntext.sq,CODYYEN,What kind of free donut is it?,Что за бесплатный пончик?,translated,30
+vntext.sq#27702,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27703,vntext.sq,CODYYEN,"No, thank you.","Нет, спасибо.",translated,14
+vntext.sq#27705,vntext.sq,CODYYEN,Donuts do not have emotions.,У пончиков нет чувств.,translated,28
+vntext.sq#27707,vntext.sq,CODYYEN,...??,...??,translated,5
+vntext.sq#27708,vntext.sq,CODYYEN,What even is a... nevermind.,Что вообще такое... неважно.,translated,28
+vntext.sq#27709,vntext.sq,CODYYEN,"Anyway, I'd like to order something else. Are you still open?","В любом случае, я хотел бы заказать что-то ещё. Вы ещё открыты?",translated,61
+vntext.sq#27711,vntext.sq,CODYYEN,"Heh. It's not on your recipe list, but...","Хех. Этого нет в твоём списке рецептов, но...",translated,41
+vntext.sq#27712,vntext.sq,CODYYEN,That donut you two made for me last time was pretty good.,"Тот пончик, что вы двое сделали мне в прошлый раз, был довольно хорош.",translated,57
+vntext.sq#27721,vntext.sq,CODYYEN,"...Well, I'll have one Galaxy Mirror-glazed Donut, then.","...Что ж, тогда мне один пончик «Галактическое зеркало».",translated,56
+vntext.sq#27724,vntext.sq,CODYYEN,Thanks.,Спасибо.,translated,7
+vntext.sq#27725,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27726,vntext.sq,CODYYEN,You two have really outdone yourselves.,Вы двое действительно превзошли самих себя.,translated,39
+vntext.sq#27727,vntext.sq,CODYYEN,But what I want to know is...,"Но что я хочу знать, так это...",translated,29
+vntext.sq#27728,vntext.sq,CODYYEN,How will this donut affect a game of 1SA for you two?,Как этот пончик повлияет на вашу игру в 1SA?,translated,53
+vntext.sq#27731,vntext.sq,CODYYEN,Of course.,Конечно.,translated,10
+vntext.sq#27732,vntext.sq,CODYYEN,"Here, go have some of your donuts. I'll deal.","Вот, идите съешьте своих пончиков. Я раздам карты.",translated,45
+vntext.sq#27735,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#27736,vntext.sq,CODYYEN,"You still got some fight in you, {$mcName}?","В тебе ещё осталось немного бойцовского духа, {$mcName}?",translated,43
+vntext.sq#27737,vntext.sq,CODYYEN,Give me Blue!,Дай мне Синюю!,translated,13
+vntext.sq#27739,vntext.sq,CODYYEN,"Ugh, you got me there... [i] NOT. [/i]","Ух, тут ты меня подловил... [i] НЕТ. [/i]",translated,38
+vntext.sq#27740,vntext.sq,CODYYEN,"You are so easy to read, {$mcName}. REVERSE.","Тебя так легко читать, {$mcName}. РАЗВОРОТ.",translated,44
+vntext.sq#27746,vntext.sq,CODYYEN,"Think you can take me on, brother?","Думаешь, справишься со мной, братишка?",translated,34
+vntext.sq#27751,vntext.sq,CODYYEN,Cute.,Мило.,translated,5
+vntext.sq#27752,vntext.sq,CODYYEN,[i] CANCEL. [/i],[i] ОТМЕНА. [/i],translated,16
+vntext.sq#27754,vntext.sq,CODYYEN,"Stop trying to count the cards and [i] observe, [/i] brother.","Хватит пытаться считать карты и начни [i] наблюдать, [/i] братишка.",translated,61
+vntext.sq#27755,vntext.sq,CODYYEN,Or am I moving too fast for you? Tsk tsk.,Или я двигаюсь для тебя слишком быстро? Тц-тц.,translated,41
+vntext.sq#27760,vntext.sq,CODYYEN,A 'Collect All' card. Of course.,Карта «Собрать всё». Ну конечно.,translated,32
+vntext.sq#27761,vntext.sq,CODYYEN,"Well, would you look at that. Someone's been training hard.","Так-так, вы только посмотрите. Кто-то усердно тренировался.",translated,59
+vntext.sq#27764,vntext.sq,CODYYEN,"Oho, is that so?","Охо, вот как?",translated,16
+vntext.sq#27765,vntext.sq,CODYYEN,"Well, congratulations, brother. You win.","Что ж, поздравляю, братишка. Ты выиграл.",translated,40
+vntext.sq#27766,vntext.sq,CODYYEN,I'm very proud of you. Always have been.,Я очень тобой горжусь. Всегда гордился.,translated,40
+vntext.sq#55699,vntext.sq,CODYYEN,You expect me to eat this?,"Ты ожидаешь, что я это съем?",translated,26
+vntext.sq#55700,vntext.sq,CODYYEN,Maybe you should try making it again. You should not be serving something so... subpar.,"Может, стоит попробовать сделать заново. Не стоит подавать что-то настолько... посредственное.",translated,87
+vntext.sq#55702,vntext.sq,CODYYEN,I'll just come back some other time.,Я просто зайду в другой раз.,translated,36
+vntext.sq#55704,vntext.sq,CODYYEN,...Good evening.,...Добрый вечер.,translated,16
+vntext.sq#55709,vntext.sq,CODYYEN,Hmph. This clearly isn't your night.,Хмф. Сегодня явно не твой вечер.,translated,36
+vntext.sq#55711,vntext.sq,CODYYEN,"Try' is the operative word, isn't it?","«Попытаться» — вот ключевое слово, не так ли?",translated,37
+vntext.sq#55712,vntext.sq,CODYYEN,...Nevermind. Food is food. I suppose this will have to do.,"...Неважно. Еда есть еда. Полагаю, сойдёт и так.",translated,59
+vntext.sq#55714,vntext.sq,CODYYEN,"Heh. Thanks, {$mcName}.","Хех. Спасибо, {$mcName}.",translated,23
+vntext.sq#67865,vntext.sq,CODYYEN,Now where has the glaze on this donut gone?,"Так, куда делась глазурь на этом пончике?",translated,43
+vntext.sq#67867,vntext.sq,CODYYEN,Hmm. Seems like you made a mistake with the glaze.,"Хмм. Похоже, ты ошибся с глазурью.",translated,50
+vntext.sq#67869,vntext.sq,CODYYEN,What's with this glaze? It's barely enough to cover the donut.,"Что с этой глазурью? Её едва хватает, чтобы покрыть пончик.",translated,62
+vntext.sq#67871,vntext.sq,CODYYEN,"Shouldn't this donut have toppings, or am I remembering it incorrectly?","Разве у этого пончика не должно быть топпингов, или я неправильно помню?",translated,71
+vntext.sq#67873,vntext.sq,CODYYEN,Hmm. This is... different from the toppings I asked for.,"Хмм. Это... не те топпинги, что я просила.",translated,56
+vntext.sq#67875,vntext.sq,CODYYEN,There's not a lot of toppings on this donut... hm.,На этом пончике маловато топпингов... хм.,translated,50
+vntext.sq#67877,vntext.sq,CODYYEN,Isn't this supposed to come with some drizzle?,Разве тут не должно быть каких-то потёков?,translated,46
+vntext.sq#67879,vntext.sq,CODYYEN,There's clearly been a mistake. I don't recall this donut having this drizzle...,"Явно произошла ошибка. Не припомню, чтобы у этого пончика были такие потёки...",translated,80
+vntext.sq#67881,vntext.sq,CODYYEN,Hm. You didn't put much drizzle this time...,Хм. В этот раз ты положил маловато потёков...,translated,44
+vntext.sq#67883,vntext.sq,CODYYEN,What a disappointment. There's no filling in this donut.,Какое разочарование. В этом пончике нет начинки.,translated,56
+vntext.sq#67885,vntext.sq,CODYYEN,"Oh, that's not the filling I was expecting. Hm.","Ох, это не та начинка, что я ожидала. Хм.",translated,47
+vntext.sq#67887,vntext.sq,CODYYEN,I thought you'd be a lot better at this. This donut looks like an eyesore.,"Думала, ты гораздо лучше в этом разбираешься. Этот пончик режет глаз.",translated,74
+vntext.sq#67889,vntext.sq,CODYYEN,"My donut's a little crowded, it seems... was this necessary?","Мой пончик, кажется, немного перегружен... это было необходимо?",translated,60
+vntext.sq#67893,vntext.sq,CODYYEN,"Now where is the glaze? This donut should have it, if I remember correctly.","Так где же глазурь? У этого пончика она должна быть, если я правильно помню.",translated,75
+vntext.sq#67895,vntext.sq,CODYYEN,Please double check your donuts before serving them. I asked for a different glaze.,"Пожалуйста, перепроверяй пончики перед подачей. Я просила другую глазурь.",translated,83
+vntext.sq#67897,vntext.sq,CODYYEN,Are you purposefully being stingy with me? There's hardly any glaze.,Ты намеренно скупишься на меня? Глазури почти нет.,translated,68
+vntext.sq#67899,vntext.sq,CODYYEN,"No toppings, hm? The current state of the Hotbox must be more dire than I thought.","Без топпингов, хм? Текущее состояние Хотбокса, должно быть, плачевнее, чем я думала.",translated,82
+vntext.sq#67901,vntext.sq,CODYYEN,Are you distracted? These toppings are different.,Ты отвлёкся? Эти топпинги не те.,translated,49
+vntext.sq#67903,vntext.sq,CODYYEN,Are you saving up on toppings? There's hardly any on this donut.,Ты экономишь на топпингах? На этом пончике их почти нет.,translated,64
+vntext.sq#67905,vntext.sq,CODYYEN,No drizzle at all? How disappointing.,Совсем никаких потёков? Как разочаровывающе.,translated,37
+vntext.sq#67907,vntext.sq,CODYYEN,Shouldn't this donut have a different drizzle?,Разве у этого пончика не должны быть другие потёки?,translated,46
+vntext.sq#67909,vntext.sq,CODYYEN,"Are you saving up on drizzle? Your customers won't appreciate the decrease in quality, you know.","Ты экономишь на потёках? Твои клиенты не оценят снижение качества, знаешь ли.",translated,96
+vntext.sq#67911,vntext.sq,CODYYEN,"You can't serve this without the filling, you know. It's an integral part of the donut.","Нельзя подавать это без начинки, знаешь ли. Это неотъемлемая часть пончика.",translated,87
+vntext.sq#67913,vntext.sq,CODYYEN,Check your donuts next time before serving them. You gave me the wrong filling.,Проверяй пончики перед подачей в следующий раз. Ты дал мне не ту начинку.,translated,79
+vntext.sq#67915,vntext.sq,CODYYEN,Why does your donut look like this? Aren't you a professional?,Почему твой пончик выглядит вот так? Разве ты не профессионал?,translated,62
+vntext.sq#67917,vntext.sq,CODYYEN,"There's no need to put so much on my donut, is there?","Не нужно класть так много на мой пончик, разве нет?",translated,53
+vntext.sq#67921,vntext.sq,CODYYEN,"Slacking off, are you? You forgot to put the glaze on my donut.","Отлыниваешь, да? Ты забыл положить глазурь на мой пончик.",translated,63
+vntext.sq#67923,vntext.sq,CODYYEN,Did I not ask for a donut with a different glaze? What happened to it?,Разве я не просила пончик с другой глазурью? Что с ним случилось?,translated,70
+vntext.sq#67925,vntext.sq,CODYYEN,Hmm. There isn't much of the glaze... how disappointing.,Хмм. Глазури немного... как разочаровывающе.,translated,56
+vntext.sq#67927,vntext.sq,CODYYEN,Seems like you've completely forgotten to put toppings on my donut... or was that a deliberate choice?,"Похоже, ты совсем забыл положить топпинги на мой пончик... или это был осознанный выбор?",translated,102
+vntext.sq#67929,vntext.sq,CODYYEN,"Now what is with these toppings on my donut? I specifically asked for something else, didn't I?","Так что не так с этими топпингами на моём пончике? Я же конкретно просила что-то другое, разве нет?",translated,95
+vntext.sq#67931,vntext.sq,CODYYEN,I'd appreciate it if you were a little more gracious with your donuts. There's hardly any toppings here.,"Была бы признательна, если бы ты был чуть щедрее со своими пончиками. Тут почти нет топпингов.",translated,104
+vntext.sq#67933,vntext.sq,CODYYEN,"I was hoping for some drizzle on my donut, but alas...","Я надеялась на потёки на своём пончике, но увы...",translated,54
+vntext.sq#67935,vntext.sq,CODYYEN,Interesting. Why did you change the drizzle? It was fine the way it was.,Интересно. Почему ты поменял потёки? Всё было хорошо как было.,translated,72
+vntext.sq#67937,vntext.sq,CODYYEN,Now that's a real shame. There's hardly any drizzle here.,Вот это правда жаль. Тут почти нет потёков.,translated,57
+vntext.sq#67939,vntext.sq,CODYYEN,"Now why did you forget to add the filling? Is it negligence, or deliberate?",Так почему ты забыл добавить начинку? Это небрежность или намеренно?,translated,75
+vntext.sq#67941,vntext.sq,CODYYEN,...Did I not make my order clear enough? This is the wrong filling.,...Разве я недостаточно ясно объяснила свой заказ? Это не та начинка.,translated,67
+vntext.sq#67943,vntext.sq,CODYYEN,"Come now, at least put some effort into the presentation.","Ну же, хотя бы приложи усилия к подаче.",translated,57
+vntext.sq#67945,vntext.sq,CODYYEN,What an unnecessary loaded donut. Are you compensating for something?,Какой излишне перегруженный пончик. Ты что-то компенсируешь?,translated,69
+vntext.sq#67947,vntext.sq,CODYYEN,Hmm. Seems like you've gotten the shape wrong.,"Хмм. Похоже, ты перепутал форму.",translated,46
+vntext.sq#67948,vntext.sq,CODYYEN,I'll give it a chance though. Why not?,Хотя дам ему шанс. Почему бы и нет?,translated,38
+vntext.sq#72424,vntext.sq,CODYYEN,"Hey there, still open?","Привет, вы ещё открыты?",translated,22
+vntext.sq#72428,vntext.sq,CODYYEN,How cold. Aren't you supposed to be upholding good customer service?,Как холодно. Разве ты не должен поддерживать хороший уровень обслуживания клиентов?,translated,68
+vntext.sq#72429,vntext.sq,CODYYEN,A little professionalism goes a long way.,Немного профессионализма ещё никому не вредило.,translated,41
+vntext.sq#72432,vntext.sq,CODYYEN,"Then I'd be wasting my time, yes? He's clearly not around.","То я бы зря тратил время, да? Его тут явно нет.",translated,58
+vntext.sq#72433,vntext.sq,CODYYEN,Do you really think I spend all of my time obsessing over my brother?,"Ты правда думаешь, что я трачу всё своё время, зацикливаясь на брате?",translated,69
+vntext.sq#72435,vntext.sq,CODYYEN,"College was a different time, {$mcName}. We're all [i] friends [/i] here now!","Колледж — это было другое время, {$mcName}. Теперь мы все тут [i] друзья [/i]!",translated,77
+vntext.sq#72436,vntext.sq,CODYYEN,"And as a token of my goodwill, I advise you to be a little more hospitable towards your customers.",И в знак доброй воли советую тебе быть чуть более приветливым со своими клиентами.,translated,98
+vntext.sq#72437,vntext.sq,CODYYEN,A bad reputation spreads fast through word of mouth.,Плохая репутация быстро расходится по сарафанному радио.,translated,52
+vntext.sq#72440,vntext.sq,CODYYEN,Still so hostile.,Всё такой же враждебный.,translated,17
+vntext.sq#72442,vntext.sq,CODYYEN,I was wondering about that {$recipe:blueberry_cheer} of yours. I'd like to give it a try.,Мне было интересно насчёт вашего {$recipe:blueberry_cheer}. Хотел бы попробовать.,translated,89
+vntext.sq#72445,vntext.sq,CODYYEN,Thank you very much.,Большое спасибо.,translated,20
+vntext.sq#72447,vntext.sq,CODYYEN,Many thanks.,Премного благодарен.,translated,12
+vntext.sq#72448,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#72449,vntext.sq,CODYYEN,Hmm...,Хм...,translated,6
+vntext.sq#72451,vntext.sq,CODYYEN,"Your donut is all wrong. The flavor, the texture, whatever it is you put inside... they're disgusting.","Твой пончик совершенно никуда не годится. Вкус, текстура, что бы ты туда ни положил... это отвратительно.",translated,102
+vntext.sq#72452,vntext.sq,CODYYEN,"Ugh, I might need something to get rid of the taste.","Фу, мне, пожалуй, нужно что-то, чтобы избавиться от этого привкуса.",translated,52
+vntext.sq#72460,vntext.sq,CODYYEN,It's good.,Неплохо.,translated,10
+vntext.sq#72461,vntext.sq,CODYYEN,"I feel very... at peace, for some reason. Like a burden has been removed from my shoulders.","Я чувствую себя очень... умиротворённо, почему-то. Будто с плеч свалилась тяжесть.",translated,91
+vntext.sq#72462,vntext.sq,CODYYEN,"I know it isn't permanent, but it's nice to experience for a little while.","Знаю, это ненадолго, но приятно испытать это хоть немного.",translated,74
+vntext.sq#72464,vntext.sq,CODYYEN,I think I see the appeal of your donuts now.,"Кажется, теперь я понимаю, чем привлекательны твои пончики.",translated,44
+vntext.sq#72466,vntext.sq,CODYYEN,You're the only one who insists on being hostile.,Только ты сам упорно настаиваешь на враждебности.,translated,49
+vntext.sq#72468,vntext.sq,CODYYEN,"Doesn't that mean you've improved a lot, though? You should be grateful I'm being so honest with you.","Но разве это не значит, что ты сильно улучшился? Тебе стоило бы быть благодарным за мою честность.",translated,101
+vntext.sq#72473,vntext.sq,CODYYEN,It feels like I've just won a case.,"Такое чувство, будто я только что выиграл дело.",translated,35
+vntext.sq#72474,vntext.sq,CODYYEN,"But there's nothing to celebrate, is there?","Но ведь праздновать тут нечего, не так ли?",translated,43
+vntext.sq#72475,vntext.sq,CODYYEN,My mentor [i] did [/i] always warn me about unearned victories...,Мой наставник [i] всегда [/i] предупреждал меня насчёт незаслуженных побед...,translated,65
+vntext.sq#72476,vntext.sq,CODYYEN,This... is the kind of donut that gets people acting unwise.,"Это... тот тип пончика, из-за которого люди начинают вести себя неразумно.",translated,60
+vntext.sq#72477,vntext.sq,CODYYEN,"Interesting. This isn't what I assumed the {$flavors:methberry} enhancer would do, let alone taste like.","Интересно. Я не ожидал ни такого эффекта от усилителя {$flavors:methberry}, ни такого вкуса.",translated,104
+vntext.sq#72489,vntext.sq,CODYYEN,This is the kind of donut I [i] might [/i] appreciate before a trial.,"Это тот тип пончика, который я [i] мог бы [/i] оценить перед судебным заседанием.",translated,69
+vntext.sq#72490,vntext.sq,CODYYEN,I feel focused — though perhaps there is the danger of getting 'tunnel vision' with this.,"Я чувствую сосредоточенность — хотя, возможно, есть риск получить «туннельное зрение» от такого.",translated,89
+vntext.sq#72491,vntext.sq,CODYYEN,I've half a mind to assume that this is what corrupt politicians eat.,"Я почти готов предположить, что именно это едят продажные политики.",translated,69
+vntext.sq#72494,vntext.sq,CODYYEN,Heh. Just think of all the colorful excuses and imagined sickness they'll come up with after eating this donut.,"Хех. Просто представь все те красочные отговорки и мнимые болезни, которые они придумают после этого пончика.",translated,111
+vntext.sq#72495,vntext.sq,CODYYEN,"This is a familiar feeling... not what I assume I'd get from a {$flavors:methberry} enhancer, though.","Знакомое ощущение... хотя не то, что я ожидал бы от усилителя {$flavors:methberry}.",translated,101
+vntext.sq#72496,vntext.sq,CODYYEN,"If I could give something like this to the summit attendees, though...","Хотя, если бы я мог дать нечто подобное участникам саммита...",translated,70
+vntext.sq#72497,vntext.sq,CODYYEN,Perhaps they'd care more about the prevalent issues the youth face here in San Mazo.,"Возможно, они бы больше заботились о насущных проблемах молодёжи здесь, в Сан-Мазо.",translated,84
+vntext.sq#72498,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#72499,vntext.sq,CODYYEN,No. The kick is too strong.,Нет. Эффект слишком силён.,translated,27
+vntext.sq#72508,vntext.sq,CODYYEN,Huh. That's... hm.,Хм. Это... хм.,translated,18
+vntext.sq#72509,vntext.sq,CODYYEN,Interesting.,Интересно.,translated,12
+vntext.sq#72511,vntext.sq,CODYYEN,This is the kind of donut I [i] might [/i] appreciate during a trial.,"Это тот тип пончика, который я [i] мог бы [/i] оценить во время судебного заседания.",translated,69
+vntext.sq#72512,vntext.sq,CODYYEN,Tempers often rise... as you would know.,Страсти часто накаляются... тебе ли не знать.,translated,40
+vntext.sq#72514,vntext.sq,CODYYEN,"Not the kind that happens at court, no.","Не в том смысле, что в зале суда, нет.",translated,39
+vntext.sq#72516,vntext.sq,CODYYEN,"I don't mind this feeling, but it's not what I expected...","Я не против такого ощущения, но это не то, что я ожидал...",translated,58
+vntext.sq#72517,vntext.sq,CODYYEN,"This takes me back to high school, back when I bought those strawberries for...","Это возвращает меня в старшую школу, когда я покупал ту клубнику для...",translated,79
+vntext.sq#72518,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#72520,vntext.sq,CODYYEN,"For [i] decoration, [/i] of course.","Для [i] украшения, [/i] конечно же.",translated,35
+vntext.sq#72521,vntext.sq,CODYYEN,What else would I do with strawberries?,Для чего же ещё мне клубника?,translated,39
+vntext.sq#72523,vntext.sq,CODYYEN,I've half a mind to assume that this is what corrupt politicians eat.,"Я почти готов предположить, что именно это едят продажные политики.",translated,69
+vntext.sq#72526,vntext.sq,CODYYEN,What do [i] you [/i] think? Do you suppose you could get some work done after eating this donut?,"А [i] ты [/i] как думаешь? Считаешь, после этого пончика можно нормально работать?",translated,96
+vntext.sq#72528,vntext.sq,CODYYEN,Hm. I'm not enjoying this. There's a problem with your donut.,Хм. Мне это не нравится. С твоим пончиком что-то не так.,translated,61
+vntext.sq#72531,vntext.sq,CODYYEN,The 'Fixer-Upper'... I think I've seen this around.,"«Fixer-Upper»... кажется, я где-то это уже видел.",translated,51
+vntext.sq#72532,vntext.sq,CODYYEN,...,...,translated,3
+vntext.sq#72533,vntext.sq,CODYYEN,"Ah. Not the most refreshing drink I've had, but I can already feel the effects.","Ах. Не самый освежающий напиток из тех, что я пробовал, но эффект уже чувствую.",translated,79
+vntext.sq#72534,vntext.sq,CODYYEN,Thank you.,Спасибо.,translated,10
+vntext.sq#72536,vntext.sq,CODYYEN,"Mmm, I have to say, that was quite different from what I was expecting.","Ммм, должен сказать, это оказалось совсем не тем, что я ожидал.",translated,71
+vntext.sq#72537,vntext.sq,CODYYEN,"The last time I had your donut, it was very... tame in comparison.",В прошлый раз твой пончик был очень... пресным по сравнению с этим.,translated,66
+vntext.sq#72538,vntext.sq,CODYYEN,"The last time I had your donut, it was quite... bland. I never really understood why my brother adored your baking so much.","В прошлый раз твой пончик был довольно... пресным. Я никогда толком не понимал, почему мой брат так обожает твою выпечку.",translated,123
+vntext.sq#72540,vntext.sq,CODYYEN,Imagine how disastrous it'd be if students had that kind of freedom.,"Представь, какой бы это была катастрофа, если бы у студентов была такая свобода.",translated,68
+vntext.sq#72541,vntext.sq,CODYYEN,But since we're on the topic... how long ago was it that you were expelled?,Но раз уж мы заговорили об этом... как давно тебя отчислили?,translated,75
+vntext.sq#72543,vntext.sq,CODYYEN,"Really? Well, same thing, isn't it?","Правда? Ну, разница невелика, не так ли?",translated,35
+vntext.sq#72547,vntext.sq,CODYYEN,...All right.,...Ладно.,translated,13
+vntext.sq#72548,vntext.sq,CODYYEN,I think it's about time I finally get out of your hair.,"Думаю, самое время наконец оставить тебя в покое.",translated,55
+vntext.sq#72549,vntext.sq,CODYYEN,"I'll be seeing you around, {$mcName}.","Увидимся ещё, {$mcName}.",translated,37

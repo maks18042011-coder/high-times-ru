@@ -1,0 +1,731 @@
+id,file,context,source,target,status,max_len
+vntext.sq#22157,vntext.sq,NOVA,No time for ${relaxing} — but this donut says otherwise...,Нет времени на ${relaxing} — но этот пончик утверждает обратное...,translated,58
+vntext.sq#22158,vntext.sq,NOVA,"I'm not used to this feeling... I've often preferred skating fast, getting my blood pumping... heh, how interesting.","Непривычное для меня чувство... Я обычно предпочитаю нестись на доске, разгоняя кровь... хех, любопытно.",translated,116
+vntext.sq#22159,vntext.sq,NOVA,Hehehe... I usually get this feeling when I'm skating around... the joy of just zooming through the world!,"Хехехе... Обычно я чувствую это, когда катаюсь... радость от того, что просто проносишься сквозь мир!",translated,106
+vntext.sq#22160,vntext.sq,NOVA,"I do my best to pour all my {$moods:passion} into every single thing that I do. With this donut though, I'm just sittin' here, enjoying it.",Я стараюсь вкладывать всю свою {$moods:passion} в каждое дело. Но с этим пончиком я просто сижу тут и наслаждаюсь.,translated,139
+vntext.sq#22161,vntext.sq,NOVA,I tend to look for this everywhere. Nice to know I can get it in donut form too!,"Обычно я ищу это повсюду. Приятно знать, что это можно получить и в форме пончика!",translated,80
+vntext.sq#22162,vntext.sq,NOVA,Heh... I can tag even the most hard to reach places with this donut!,Хех... С этим пончиком я могу разрисовать даже самые труднодоступные места!,translated,68
+vntext.sq#22163,vntext.sq,NOVA,"There are lots of things I don't like talking about, but... this donut's encouraging me to share.","Есть много вещей, о которых мне не нравится говорить, но... этот пончик подталкивает поделиться.",translated,97
+vntext.sq#22164,vntext.sq,NOVA,"Thanks to this {$flavors:chococaine} donut, nothing can distract me now!",Благодаря этому пончику {$flavors:chococaine} меня теперь ничто не отвлечёт!,translated,72
+vntext.sq#22165,vntext.sq,NOVA,"Whenever I skate, I always tell myself to just keep moving forward, but... it helps to look behind you too, huh?","Когда я катаюсь, всегда говорю себе просто двигаться вперёд, но... иногда полезно оглянуться назад, да?",translated,112
+vntext.sq#22167,vntext.sq,NOVA,"Yooo, this is sick! I gotta get my hands on at least a whole dozen of these bad boys!","Йоу, это огонь! Мне нужно заполучить как минимум дюжину этих красавцев!",translated,85
+vntext.sq#22168,vntext.sq,NOVA,"... It's pretty good! But not gonna lie, I was expecting something better.","...Довольно неплохо! Но если честно, я ожидала чего-то получше.",translated,74
+vntext.sq#22169,vntext.sq,NOVA,... But this isn't what I asked for. Maybe next time you'll get my order right.,"...Но это не то, что я просила. Может, в следующий раз угадаешь с заказом.",translated,79
+vntext.sq#22170,vntext.sq,NOVA,The night's waiting. So is my skateboard. I'll see you on the other side.,Ночь ждёт. И мой скейт тоже. Увидимся на той стороне.,translated,73
+vntext.sq#22173,vntext.sq,NOVA,Thanks!,Спасибо!,translated,7
+vntext.sq#22175,vntext.sq,NOVA,Yo! This donut is pretty much inedible!,Йо! Этот пончик практически несъедобен!,translated,39
+vntext.sq#22181,vntext.sq,NOVA,Hmm... should I just take it easy tonight?,"Хмм... может, сегодня стоит просто расслабиться?",translated,42
+vntext.sq#22182,vntext.sq,NOVA,"No need to rush, is what this donut's saying... Is that true?","Некуда спешить, вот что говорит этот пончик... Это правда?",translated,61
+vntext.sq#22183,vntext.sq,NOVA,Almost feels like there's wind on my face and I'm about to make some really good art!,"Такое чувство, будто ветер бьёт в лицо, и я вот-вот создам что-то реально крутое!",translated,85
+vntext.sq#22184,vntext.sq,NOVA,"That drive, that desire to just get up and do things... that's the life.","Этот драйв, это желание просто встать и что-то делать... вот это жизнь.",translated,72
+vntext.sq#22185,vntext.sq,NOVA,"{$moods:inspiration} in donut form... mm, that's the good stuff.","{$moods:inspiration} в форме пончика... мм, вот это по мне.",translated,64
+vntext.sq#22186,vntext.sq,NOVA,All right — feeling extra confident about my ideas!,"Так, ну всё — чувствую себя супер уверенно насчёт своих идей!",translated,51
+vntext.sq#22187,vntext.sq,NOVA,"Heh, this donut's got me in this weird, fuzzy headspace where I should just, I don't know... feel my feelings?","Хех, этот пончик вводит меня в странное, размытое состояние, где нужно просто, не знаю... прочувствовать свои чувства?",translated,110
+vntext.sq#22188,vntext.sq,NOVA,I always enjoy this feeling when I'm deep in the middle of tagging. It's like the rest of the world just falls away.,"Мне всегда нравится это чувство, когда я с головой в граффити. Будто весь остальной мир просто исчезает.",translated,116
+vntext.sq#22189,vntext.sq,NOVA,"I... have a hard time with this mood enhancer. But in donut form, it's less... overwhelming.",Мне... трудно даётся этот усилитель настроения. Но в форме пончика это не так... подавляюще.,translated,92
+vntext.sq#22190,vntext.sq,NOVA,"Ohh, look at that donut... no glaze... it almost makes me wanna tag it! Hehehe!","Оо, глянь на этот пончик... без глазури... прямо тянет разрисовать его! Хехехе!",translated,79
+vntext.sq#22191,vntext.sq,NOVA,"Whoo! This donut gives me the same rush after tagging a building under a cop's nose, haha! I can't get enough of it!","Ухуу! Этот пончик даёт тот же кайф, что и разрисовать здание прямо под носом у копа, хаха! Не могу остановиться!",translated,116
+vntext.sq#22192,vntext.sq,NOVA,... That was a good donut! Though I'm sure you can improve it even more next time!,"...Хороший был пончик! Хотя уверена, в следующий раз ты сделаешь его ещё лучше!",translated,82
+vntext.sq#22193,vntext.sq,NOVA,"I'm pretty sure I ordered something else, though.",Хотя я вроде заказывала что-то другое.,translated,49
+vntext.sq#22194,vntext.sq,NOVA,Gotta keep moving. Don't wait up.,Мне пора двигаться дальше. Не жди.,translated,33
+vntext.sq#53384,vntext.sq,NOVA,"Hurricane? Heh, cute, but you're a bit off the mark.","Ураган? Хех, мило, но ты немного промахнулся.",translated,52
+vntext.sq#53386,vntext.sq,NOVA,"Comparing me to a force of nature — flattering and all, but you've got to think bigger.","Сравнивать меня с силой природы — лестно, конечно, но тебе нужно мыслить масштабнее.",translated,87
+vntext.sq#53388,vntext.sq,NOVA,Should I paint you a picture? Because I can! With spray cans and rollers and the whole shebang.,"Нарисовать тебе картину? Потому что я могу! С баллончиками, валиками и всем прочим.",translated,95
+vntext.sq#53389,vntext.sq,NOVA,"I'm not just [i] in [/i] the atmosphere, I go above and beyond it, past the moon, the sun and all the little space bears in between.","Я не просто [i] в [/i] атмосфере, я выхожу далеко за её пределы, мимо луны, солнца и всех маленьких космических медвежат между ними.",translated,132
+vntext.sq#53390,vntext.sq,NOVA,"I'm Nova, baby!","Я Нова, детка!",translated,15
+vntext.sq#53392,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53395,vntext.sq,NOVA,"Not really. I've done my part, skateboard's in your skater park.","Не особо. Я сделала своё дело, скейт в твоём скейт-парке.",translated,64
+vntext.sq#53396,vntext.sq,NOVA,"But hey, no pressure, I'm used to dealing with quiet types.","Но эй, никакого давления, я привыкла иметь дело с молчаливыми типами.",translated,59
+vntext.sq#53397,vntext.sq,NOVA,"So if you ain't in the mood to talk, I'm also cool with snacking on some of the stuff you've got back here...","Так что если ты не в настроении говорить, я не против перекусить чем-нибудь из того, что у тебя тут есть...",translated,109
+vntext.sq#53398,vntext.sq,NOVA,"Like this bag of... what's this? Marshmallows? Sweet, don't mind if I do.","Как этот пакет... что это? Маршмеллоу? Класс, не откажусь.",translated,73
+vntext.sq#53400,vntext.sq,NOVA,Mmmm! This stuff's pretty good! Soft and chewy.,Ммм! Это довольно вкусно! Мягкое и жевательное.,translated,47
+vntext.sq#53402,vntext.sq,NOVA,"So yeah... good job with these... hmmm, realized I don't know your name...","Так что да... молодец, что запасся этим... хмм, поняла, что не знаю твоего имени...",translated,74
+vntext.sq#53403,vntext.sq,NOVA,You know what? I'll call you Marshmallow from now on. You cool with that?,Знаешь что? Теперь буду звать тебя Маршмеллоу. Не против?,translated,73
+vntext.sq#53412,vntext.sq,NOVA,What do you think? I'm laying low.,А ты как думаешь? Затаилась.,translated,34
+vntext.sq#53414,vntext.sq,NOVA,"Well, yeah, exactly why I'm here.","Ну да, именно поэтому я тут.",translated,33
+vntext.sq#53416,vntext.sq,NOVA,"Whoa, cool your jets. Only crime I'm guilty of are crimes of artistic passion...","Ого, полегче. Единственное преступление, в котором я виновна — это преступления художественной страсти...",translated,80
+vntext.sq#53417,vntext.sq,NOVA,"Besides, we're friends right?","К тому же, мы же друзья, да?",translated,29
+vntext.sq#53419,vntext.sq,NOVA,"Purple donut with a yellow crown — it's tagged on your backdoor... means you offer safe haven for people who are on the run. That is the case, right?","Фиолетовый пончик с жёлтой короной — он нанесён на твоей задней двери... значит, ты предлагаешь безопасное убежище для тех, кто в бегах. Так ведь?",translated,149
+vntext.sq#53423,vntext.sq,NOVA,"Oh... I get it. You're pissed about the mess, right?","Ох... поняла. Ты злишься из-за бардака, да?",translated,52
+vntext.sq#53424,vntext.sq,NOVA,"Yeah, that's on me. Hiding out here was getting kinda boring.","Да, это моя вина. Прятаться тут стало немного скучно.",translated,61
+vntext.sq#53425,vntext.sq,NOVA,"With every passing minute, your kitchen counter started looking like a really good grind rail.",С каждой минутой твоя кухонная стойка всё больше выглядела как отличные перила для грайнда.,translated,94
+vntext.sq#53426,vntext.sq,NOVA,Aaaand... I let the intrusive thoughts win again... so I'm sorry about that.,И-и... я снова дала навязчивым мыслям победить... так что извини за это.,translated,76
+vntext.sq#53427,vntext.sq,NOVA,"To be fair, it was a pretty cool skateboard trick, until... everything else got in the way.","Если честно, это был довольно крутой трюк на скейте, пока... всё остальное не встало на пути.",translated,91
+vntext.sq#53429,vntext.sq,NOVA,But?,Но?,translated,4
+vntext.sq#53432,vntext.sq,NOVA,...!,...!,translated,4
+vntext.sq#53433,vntext.sq,NOVA,"That's fair... Whew, you silent types can get pretty scary, huh?","Справедливо... Фух, вы, молчуны, бываете довольно жуткими, да?",translated,64
+vntext.sq#53434,vntext.sq,NOVA,I... I'll clean it up.,Я... я уберу.,translated,22
+vntext.sq#53436,vntext.sq,NOVA,"Respect. Alright then, let's go.","Уважаю. Ладно тогда, за дело.",translated,32
+vntext.sq#53437,vntext.sq,NOVA,That's the last of the mess.,Это последний из беспорядка.,translated,28
+vntext.sq#53439,vntext.sq,NOVA,"Say... couldn't help but notice, cleaning up all these ingredients... you wouldn't happen to be one of those mood cafes I hear San Mazo's so famous for, would you?","Слушай... не могла не заметить, убирая все эти ингредиенты... случайно не одно ли это из тех кафе настроений, которыми, как я слышала, знаменит Сан-Мазо?",translated,163
+vntext.sq#53441,vntext.sq,NOVA,Oh sweet! I've always wanted to try out mood enhancers.,О класс! Я всегда хотела попробовать усилители настроения.,translated,55
+vntext.sq#53443,vntext.sq,NOVA,Really? That's okay?,Правда? Это нормально?,translated,20
+vntext.sq#53445,vntext.sq,NOVA,"You drive a hard bargain, but sure, I'm game.","Ты жёстко торгуешься, но ладно, я в деле.",translated,45
+vntext.sq#53446,vntext.sq,NOVA,"Whoa... nice place ya got here, Marshmallow.","Ого... классное у тебя тут место, Маршмеллоу.",translated,44
+vntext.sq#53447,vntext.sq,NOVA,"Gotta say, love the lighting. Though full disclosure: with the colors my hairstyle's rocking... I might be slightly biased.","Должна сказать, обожаю освещение. Хотя, если честно: с теми цветами, что у меня в причёске, я, может, немного необъективна.",translated,123
+vntext.sq#53450,vntext.sq,NOVA,Heh... where to start...,Хех... с чего начать...,translated,24
+vntext.sq#53454,vntext.sq,NOVA,Or?,Или?,translated,3
+vntext.sq#53456,vntext.sq,NOVA,What's that mean?,Это что значит?,translated,17
+vntext.sq#53458,vntext.sq,NOVA,"Heh... I see. Well, gotta say, not really in the mood for talking about my feelings right now.","Хех... понятно. Ну, должна сказать, не особо в настроении говорить о своих чувствах сейчас.",translated,94
+vntext.sq#53459,vntext.sq,NOVA,"Always fancied myself as someone... more visual, if you catch my drift?","Всегда считала себя скорее... визуалом, если понимаешь, о чём я.",translated,71
+vntext.sq#53460,vntext.sq,NOVA,So how about I paint you a picture instead?,"Так что как насчёт того, чтобы я вместо этого нарисовала тебе картину?",translated,43
+vntext.sq#53462,vntext.sq,NOVA,"Hmmmm... I'm thinking scenic, you know what I mean?","Хмммм... я думаю про пейзаж, понимаешь, о чём я?",translated,51
+vntext.sq#53471,vntext.sq,NOVA,"As much as I love the neon chaos of the city, there's nothing like kicking back with nature after a long day of skating across the streets.","Как бы я ни любила неоновый хаос города, нет ничего лучше отдыха с природой после долгого дня катания по улицам.",translated,139
+vntext.sq#53474,vntext.sq,NOVA,Neat!,Классно!,translated,5
+vntext.sq#53476,vntext.sq,NOVA,...Yo! What in the actual frick?!,...Йо! Что за чёрт вообще?!,translated,33
+vntext.sq#53477,vntext.sq,NOVA,"{$mcName}, this donut's awful! What the hell did you do?","{$mcName}, этот пончик ужасен! Что ты вообще сделал?",translated,56
+vntext.sq#53479,vntext.sq,NOVA,"{$mcName}, what is this? What happened to the mood enhancers?","{$mcName}, это что такое? Что случилось с усилителями настроения?",translated,61
+vntext.sq#53481,vntext.sq,NOVA,It's all good. Sometimes we do tricks... which end up with you face-planting into a bag of marshmallows.,"Всё нормально. Иногда мы делаем трюки... которые заканчиваются тем, что влетаешь лицом в пакет маршмеллоу.",translated,104
+vntext.sq#53483,vntext.sq,NOVA,Damn! That hits the spot!,Чёрт! Вот это то что надо!,translated,25
+vntext.sq#53484,vntext.sq,NOVA,"Got to say, you took the picture in my mind, and painted it right on that donut.","Должна сказать, ты взял картину у меня в голове и нарисовал её прямо на этом пончике.",translated,80
+vntext.sq#53485,vntext.sq,NOVA,"Looks great... and tastes just as good. Nah, it's better than good... it's ball busting perfection!","Выглядит отлично... и на вкус так же хорош. Не, лучше, чем хорош... это охренительное совершенство!",translated,99
+vntext.sq#53486,vntext.sq,NOVA,And this feeling... like lying spread eagle in a field of grass... but there's something else...,И это чувство... будто лежишь раскинувшись в поле травы... но есть что-то ещё...,translated,96
+vntext.sq#53487,vntext.sq,NOVA,A kick of the sweet {$colors:blue} sky that just makes me heave a long honest sigh of relief.,"Заряд сладкого {$colors:blue} неба, от которого просто вырывается долгий честный вздох облегчения.",translated,93
+vntext.sq#53488,vntext.sq,NOVA,"You really got something going here, Marshmallow.","У тебя тут и правда что-то есть, Маршмеллоу.",translated,49
+vntext.sq#53490,vntext.sq,NOVA,"Hmmm, I can't really explain it... but this ain't the color scheme I had in mind.","Хмм, не могу толком объяснить... но это не та цветовая гамма, что была у меня в голове.",translated,81
+vntext.sq#53491,vntext.sq,NOVA,You've got the {$colors:blue} sky and the lake right...,У тебя правильно получилось {$colors:blue} небо и озеро...,translated,55
+vntext.sq#53492,vntext.sq,NOVA,Feeling like I've got something building up inside me... but I could've really used a field of grass to help me {$moods:relax}...,"Такое чувство, будто внутри меня что-то нарастает... но мне бы правда пригодилось поле травы, чтобы {$moods:relax}...",translated,129
+vntext.sq#53495,vntext.sq,NOVA,I'm feeling... really ${relaxed} right now... like I'm lying spread eagle in a field of grass...,Я чувствую себя... правда ${relaxed} сейчас... будто лежу раскинувшись в поле травы...,translated,96
+vntext.sq#53496,vntext.sq,NOVA,But... something's missing. What happened to the {$colors:blue} skies?,Но... чего-то не хватает. Куда делось {$colors:blue} небо?,translated,70
+vntext.sq#53497,vntext.sq,NOVA,And this other flavor that you've put? Not sure it goes with the vision here...,"А этот другой вкус, что ты добавил? Не уверена, что он сочетается с этим замыслом...",translated,79
+vntext.sq#53498,vntext.sq,NOVA,So I'm gonna have to say that this little art project doesn't quite hit the mark.,"Так что придётся сказать, что этот маленький творческий проект не совсем попадает в цель.",translated,81
+vntext.sq#53499,vntext.sq,NOVA,"Don't get me wrong, I love the color {$colors:purple}...","Не пойми меня неправильно, я люблю {$colors:purple} цвет...",translated,56
+vntext.sq#53500,vntext.sq,NOVA,"But today's been a tiring day, and this... romantic mood it's getting me in? Not my jam.","Но сегодня был утомительный день, и это... романтическое настроение, в которое оно меня вгоняет? Не моё.",translated,88
+vntext.sq#53501,vntext.sq,NOVA,I mean... I guess a grassy field's got some sunshine on it... and I am digging the artistic {$moods:inspiration} this is hitting me with.,"В смысле... наверное, на травяном поле есть немного солнца... и мне нравится художественное {$moods:inspiration}, которое это во мне вызывает.",translated,137
+vntext.sq#53502,vntext.sq,NOVA,But something just ain't landing here...,Но что-то тут просто не заходит...,translated,40
+vntext.sq#53503,vntext.sq,NOVA,"Muddy ${browns}, huh? Well, suppose grass does grow out of the soil...","Грязные ${browns}, значит? Ну, наверное, трава и правда растёт из земли...",translated,70
+vntext.sq#53504,vntext.sq,NOVA,But this mood is something I'd rather have when I'm on breaking the law — not lying low.,"Но это настроение — то, что я бы предпочла испытывать, нарушая закон, а не отсиживаясь в тени.",translated,88
+vntext.sq#53505,vntext.sq,NOVA,{$colors:orange}... not sure if the {$colors:orange} was part of the picture I had in mind. Works for sunsets... but I've always liked the sunrise way more.,"{$colors:orange}... не уверена, что {$colors:orange} был частью картины, что у меня в голове. Подходит для закатов... но мне всегда куда больше нравился рассвет.",translated,156
+vntext.sq#53506,vntext.sq,NOVA,"I feel… happy? Huh, been a while. But something about stark whites just ain't fitting with the picture I've got in my mind.","Я чувствую... счастье? Хм, давненько такого не было. Но что-то в этой чистой белизне просто не вписывается в картину, что у меня в голове.",translated,123
+vntext.sq#53507,vntext.sq,NOVA,"Hmmmm, {$colors:pink}? As much as I love fields of {$flavors:strawpium}, I don't think that's what I was looking for.","Хмммм, {$colors:pink}? Как бы я ни любила поля {$flavors:strawpium}, не думаю, что искала именно это.",translated,117
+vntext.sq#53508,vntext.sq,NOVA,"Also, this here's making me think about... things I'd rather not think about right now...","Ещё это заставляет меня думать о... вещах, о которых я бы предпочла сейчас не думать...",translated,89
+vntext.sq#53509,vntext.sq,NOVA,Hmmm... so this is making me feel like going back out there and breaking more rules!,Хмм... от этого мне хочется вернуться туда и нарушить ещё больше правил!,translated,84
+vntext.sq#53510,vntext.sq,NOVA,I asked for a field of grass — not a field of fire!,Я просила поле травы — а не поле огня!,translated,51
+vntext.sq#53512,vntext.sq,NOVA,"It's all good, sometimes we do tricks... which end up with you face-planting into a bag of marshmallows.","Всё нормально, иногда мы делаем трюки... которые заканчиваются тем, что влетаешь лицом в пакет маршмеллоу.",translated,104
+vntext.sq#53513,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53514,vntext.sq,NOVA,Heh...,Хех...,translated,6
+vntext.sq#53515,vntext.sq,NOVA,So this the taste of San Mazo...,Так вот какой на вкус Сан-Мазо...,translated,32
+vntext.sq#53516,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53517,vntext.sq,NOVA,[i] She [/i] would've loved it...,[i] Ей [/i] бы это понравилось...,translated,33
+vntext.sq#53518,vntext.sq,NOVA,But even so... it's an experience... and she would've loved it anyway...,Но даже так... это опыт... и ей бы это всё равно понравилось...,translated,72
+vntext.sq#53520,vntext.sq,NOVA,It's nothing...,Ничего...,translated,15
+vntext.sq#53522,vntext.sq,NOVA,"Heh... well, you're not housing a murderer if that's what you're worried about.","Хех... ну, ты не приютил убийцу, если ты об этом переживаешь.",translated,79
+vntext.sq#53523,vntext.sq,NOVA,Some would call it vandalism... but I like to think my tags have a bit more finesse then that.,"Кто-то назвал бы это вандализмом... но мне нравится думать, что в моих тегах есть немного больше изящества, чем в этом.",translated,94
+vntext.sq#53524,vntext.sq,NOVA,"San Mazo Heritage Farm... The Starlight Lifters Gym... even that kinky place called 'Mink Lashings'... I sneak in, tag the place, and well, preferably sneak out.","San Mazo Heritage Farm... спортзал Starlight Lifters... даже то пикантное местечко под названием 'Mink Lashings'... я прокрадываюсь внутрь, оставляю тег, и, желательно, прокрадываюсь обратно.",translated,161
+vntext.sq#53525,vntext.sq,NOVA,As for the results... I think my grafitti speaks for itself.,"А что касается результатов... думаю, моё граффити говорит само за себя.",translated,60
+vntext.sq#53527,vntext.sq,NOVA,"So that's my story, donut for your thoughts?","Такая вот моя история, пончик за твои мысли?",translated,44
+vntext.sq#53533,vntext.sq,NOVA,"Heh... if you're looking to get a rise out of me from that, then best give up. I've heard that too many times.","Хех... если ты пытаешься меня этим задеть, лучше сдайся. Я это слышала слишком много раз.",translated,110
+vntext.sq#53534,vntext.sq,NOVA,"Anyway, what are you, some type of undercover cop?","В любом случае, ты кто, какой-то полицейский под прикрытием?",translated,50
+vntext.sq#53537,vntext.sq,NOVA,...Sure.,...Конечно.,translated,8
+vntext.sq#53539,vntext.sq,NOVA,"Heh, good to know someone gets it.","Хех, приятно знать, что хоть кто-то понимает.",translated,34
+vntext.sq#53541,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53542,vntext.sq,NOVA,You know what? So am I...,Знаешь что? Я тоже...,translated,25
+vntext.sq#53543,vntext.sq,NOVA,Would've been cool if I was some psycho super villain — killing all the people who've wronged me in the past.,"Было бы круто, если бы я была каким-то психованным суперзлодеем — убивала бы всех, кто причинил мне зло в прошлом.",translated,109
+vntext.sq#53544,vntext.sq,NOVA,"Maybe add in some clown make up and a sick catchphrase... heh, that'd be the day.","Может, ещё добавить клоунский грим и крутую коронную фразу... хех, вот это был бы денёк.",translated,81
+vntext.sq#53545,vntext.sq,NOVA,But sadly... I'm just a girl who's more built for channeling that angst into something more... visual...,"Но, к сожалению... я просто девушка, которая больше создана для того, чтобы направлять эту тоску во что-то более... визуальное...",translated,104
+vntext.sq#53548,vntext.sq,NOVA,"Well in any case, your picture-perfect donut's got me feeling real chill... so thanks for that, perfect ending to that adrenaline-fueled chase sequence that happened off-screen.","В любом случае, твой идеальный пончик заставляет меня чувствовать себя очень расслабленно... так что спасибо за это, идеальное завершение той адреналиновой погони, что случилась за кадром.",translated,177
+vntext.sq#53549,vntext.sq,NOVA,So I guess what I'm saying is...,"Так что, наверное, я хочу сказать вот что...",translated,32
+vntext.sq#53550,vntext.sq,NOVA,Well... this has been fun... and thanks for the donut. It really captured that grassy fields and blue skies.,Ну... было весело... и спасибо за пончик. Он и правда передал те травяные поля и голубое небо.,translated,108
+vntext.sq#53551,vntext.sq,NOVA,Didn't expect to find a friendly face here in San Mazo.,"Не ожидала найти дружелюбное лицо здесь, в Сан-Мазо.",translated,55
+vntext.sq#53553,vntext.sq,NOVA,"Noted... This city has its sights... its dangers... and its secrets, and I'm looking to learn them all.","Учту... У этого города есть свои достопримечательности... свои опасности... и свои секреты, и я хочу узнать их все.",translated,103
+vntext.sq#53554,vntext.sq,NOVA,"I'll see you around, Marshmallow.","Увидимся, Маршмеллоу.",translated,33
+vntext.sq#53556,vntext.sq,NOVA,"Trust me, I won't.","Поверь, не буду.",translated,18
+vntext.sq#53558,vntext.sq,NOVA,"Hello there, my stoic partner in crime.","Здравствуй, мой невозмутимый подельник.",translated,39
+vntext.sq#53565,vntext.sq,NOVA,Then you shouldn't have any trouble helping me hide my 'harmlessly illegal affairs'.,"Тогда у тебя не должно быть проблем с тем, чтобы помочь мне скрыть мои 'безобидно незаконные делишки'.",translated,84
+vntext.sq#53566,vntext.sq,NOVA,"Besides, you do know that distributing Mood Enhancers used to be considered a crime, right?","К тому же, ты же знаешь, что распространение усилителей настроения раньше считалось преступлением, да?",translated,91
+vntext.sq#53571,vntext.sq,NOVA,"And guess what? I get jack for what I do, so you're entitled to fifty percent of my zero percent.","И знаешь что? Я не получаю ничего за то, что делаю, так что тебе положено пятьдесят процентов от моих нуля процентов.",translated,97
+vntext.sq#53573,vntext.sq,NOVA,Like what you're doing here?,"Как то, чем ты занимаешься тут?",translated,28
+vntext.sq#53574,vntext.sq,NOVA,"Distributing Mood Enhancers used to be considered a crime, you know.","Распространение усилителей настроения раньше считалось преступлением, знаешь ли.",translated,68
+vntext.sq#53575,vntext.sq,NOVA,"Psychedelics, weed, magic mushrooms — government's always trying to crack down on the fun stuff.","Психоделики, травка, волшебные грибы — правительство всегда пытается прижать всё веселье.",translated,96
+vntext.sq#53579,vntext.sq,NOVA,That depends. You good on a skateboard?,Зависит от обстоятельств. Ты хорошо катаешься на скейте?,translated,39
+vntext.sq#53582,vntext.sq,NOVA,That's the face of someone who's been intimate with the floor.,"Это лицо человека, который был близко знаком с полом.",translated,62
+vntext.sq#53584,vntext.sq,NOVA,...Do you now?,"...Правда, что ли?",translated,14
+vntext.sq#53585,vntext.sq,NOVA,"Live a little, Marshmallow. Or have you forgotten that these cafes used to be illegal?","Живи немного, Маршмеллоу. Или ты забыл, что эти кафе раньше были незаконными?",translated,86
+vntext.sq#53586,vntext.sq,NOVA,And word on the street is that there are certain people who are trying real hard to make it illegal all over again.,"И на улицах говорят, что есть определённые люди, которые очень стараются снова сделать это незаконным.",translated,115
+vntext.sq#53588,vntext.sq,NOVA,"Heh, the sad reality is, unless you're a bigwig, the floor can give way at a second's notice.","Хех, печальная реальность в том, что если ты не большая шишка, пол может провалиться в любой момент.",translated,93
+vntext.sq#53589,vntext.sq,NOVA,That's why I prefer to live life on wheels.,Вот почему я предпочитаю жить жизнью на колёсах.,translated,43
+vntext.sq#53590,vntext.sq,NOVA,Skateboards were made to find traction in an unstable world.,"Скейтборды созданы, чтобы находить опору в нестабильном мире.",translated,60
+vntext.sq#53591,vntext.sq,NOVA,"A park bench, an empty pool, an old railway... I use them to catch just a bit of air time. Feeling the wind, the rush... the high.","Скамейка в парке, пустой бассейн, старая железная дорога... я использую их, чтобы поймать немного полёта. Почувствовать ветер, азарт... кайф.",translated,130
+vntext.sq#53592,vntext.sq,NOVA,"And as long as I can outrun all the people who are trying to stop me... well, that's the closest thing to freedom we can get, isn't it?","И пока я могу обгонять всех, кто пытается меня остановить... ну, это ближайшее, что есть к свободе, разве нет?",translated,135
+vntext.sq#53594,vntext.sq,NOVA,"Hmmmm, I suppose...","Хмммм, полагаю...",translated,19
+vntext.sq#53595,vntext.sq,NOVA,"Skating... that's for myself, but tagging... that's for... other people.","Катание... это для себя, а теги... это для... других людей.",translated,72
+vntext.sq#53596,vntext.sq,NOVA,Cos people... they can be unstable as well... one second they're there and another... gone...,"Потому что люди... они тоже могут быть нестабильными... в одну секунду они есть, а в другую... их нет...",translated,93
+vntext.sq#53600,vntext.sq,NOVA,Wish that were true... but there are just some things that people don't come back from...,"Хотела бы я, чтобы это было правдой... но есть вещи, из-за которых люди просто не возвращаются...",translated,89
+vntext.sq#53602,vntext.sq,NOVA,But my art... it's something I can control... and when I create it... it's something that lasts...,"Но моё искусство... это то, что я могу контролировать... и когда я его создаю... оно остаётся надолго...",translated,98
+vntext.sq#53603,vntext.sq,NOVA,A mark on the world that'll serve as a reminder that I... that we were here.,"Отметина на мире, которая будет напоминанием о том, что я... что мы были здесь.",translated,76
+vntext.sq#53604,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53606,vntext.sq,NOVA,What do you mean?,Что ты имеешь в виду?,translated,17
+vntext.sq#53608,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53611,vntext.sq,NOVA,Shut up...,Заткнись...,translated,10
+vntext.sq#53613,vntext.sq,NOVA,What's your point... you think you got it all figured out then?,"К чему ты клонишь... думаешь, у тебя всё продумано, что ли?",translated,63
+vntext.sq#53617,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53618,vntext.sq,NOVA,Hmph... well what about you? The donuts you make are gone in a few bites.,"Хмф... ну а как насчёт тебя? Пончики, что ты делаешь, исчезают за несколько укусов.",translated,73
+vntext.sq#53619,vntext.sq,NOVA,And even those moods that come with it... they don't last...,"И даже настроения, что идут с ними... они не длятся долго...",translated,60
+vntext.sq#53620,vntext.sq,NOVA,"At the end of the day, when people are lying on their beds, only sure fire mood you can count on feeling is tired and done with the world.","В конце концов, когда люди лежат в своих кроватях, единственное настроение, на которое можно точно рассчитывать — это усталость и опустошённость от мира.",translated,138
+vntext.sq#53622,vntext.sq,NOVA,So what about you — who do  make these donuts for?,Так а как насчёт тебя — для кого ты делаешь эти пончики?,translated,50
+vntext.sq#53632,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53633,vntext.sq,NOVA,"Don't know why, but I expected you'd say something more... I dunno, cheesy, I guess?","Не знаю почему, но я ожидала, что ты скажешь что-то более... не знаю, банальное, наверное?",translated,84
+vntext.sq#53634,vntext.sq,NOVA,But... yeah. That makes sense.,Но... да. В этом есть смысл.,translated,30
+vntext.sq#53635,vntext.sq,NOVA,Pretty sure people say the same about me and my art.,"Уверена, люди говорят то же самое про меня и моё искусство.",translated,52
+vntext.sq#53637,vntext.sq,NOVA,...Huh. Are there really that many here?,...Хм. Их правда так много тут?,translated,40
+vntext.sq#53639,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53640,vntext.sq,NOVA,Fair enough.,Справедливо.,translated,12
+vntext.sq#53641,vntext.sq,NOVA,"Now the question is, are [i] you [/i] one of those people?","Теперь вопрос в том, [i] ты [/i] одна из этих людей?",translated,58
+vntext.sq#53647,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53648,vntext.sq,NOVA,"Heh. It's just so suprisingly cheesy and sentimental, Marshmallow!","Хех. Это просто на удивление банально и сентиментально, Маршмеллоу!",translated,66
+vntext.sq#53649,vntext.sq,NOVA,"But I guess that's why that nickname fits you so well. You're actually really soft, aren't you~","Но, наверное, поэтому это прозвище тебе так подходит. Ты ведь на самом деле очень мягкий~",translated,95
+vntext.sq#53650,vntext.sq,NOVA,"C'mere, lemme squeeze your cheeks!","Иди сюда, дай ущипну тебя за щёчки!",translated,34
+vntext.sq#53652,vntext.sq,NOVA,Alright... then show me.,Ладно... тогда покажи мне.,translated,24
+vntext.sq#53658,vntext.sq,NOVA,Let's see how well you did.,"Посмотрим, как хорошо у тебя получилось.",translated,27
+vntext.sq#53660,vntext.sq,NOVA,What the hell is up with this??,Что вообще с этим не так??,translated,31
+vntext.sq#53661,vntext.sq,NOVA,This is nasty!!,Это отвратительно!!,translated,15
+vntext.sq#53663,vntext.sq,NOVA,"Ugh, no thanks.","Уф, нет, спасибо.",translated,15
+vntext.sq#53664,vntext.sq,NOVA,Just try not to do that again. To think the bar was really low tonight too...,"Просто постарайся больше так не делать. И это при том, что планка сегодня и так была низкой...",translated,77
+vntext.sq#53667,vntext.sq,NOVA,"Phew, now that's the stuff...","Фух, вот это то что надо...",translated,29
+vntext.sq#53668,vntext.sq,NOVA,"You've painted the canvas with lots of ${browns}... the solid earth, reminding us of where we came from...","Ты нарисовал холст множеством ${browns}... твёрдой землёй, напоминающей нам о том, откуда мы пришли...",translated,106
+vntext.sq#53669,vntext.sq,NOVA,And where we all end up in the end.,И куда мы все в итоге попадаем.,translated,35
+vntext.sq#53671,vntext.sq,NOVA,Is it really when it's just a fact of life?,"А разве это так, если это просто факт жизни?",translated,43
+vntext.sq#53672,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53673,vntext.sq,NOVA,I don't like this one that much. Gets me too ${focused} on things I'd rather not think about.,"Мне это не особо нравится. Слишком сильно ${focused} меня на вещах, о которых я бы предпочла не думать.",translated,93
+vntext.sq#53674,vntext.sq,NOVA,"Flavor's pretty good, though.","Вкус, впрочем, довольно хорош.",translated,29
+vntext.sq#53676,vntext.sq,NOVA,Heh... this {$colors:yellow}...,Хех... этот {$colors:yellow}...,translated,31
+vntext.sq#53677,vntext.sq,NOVA,"I see it in the wildflowers that grow at the park... in the schoolbuses that pass by, making me slow down my skateboard for a bit...","Я вижу его в диких цветах, что растут в парке... в школьных автобусах, что проезжают мимо, заставляя меня немного притормозить на скейте...",translated,132
+vntext.sq#53678,vntext.sq,NOVA,"And of course, it's always on my skin in the afternoon sun.","И конечно, он всегда на моей коже в послеполуденном солнце.",translated,59
+vntext.sq#53679,vntext.sq,NOVA,This {$colors:yellow} is literally [i] everywhere. [/i],Этот {$colors:yellow} буквально [i] везде. [/i],translated,55
+vntext.sq#53681,vntext.sq,NOVA,"...You know what, maybe I am.","...Знаешь что, может, и так.",translated,29
+vntext.sq#53682,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53683,vntext.sq,NOVA,I like this one.,Мне нравится этот.,translated,16
+vntext.sq#53685,vntext.sq,NOVA,Whoa. This one's dizzying — in a good way!,Ого. От этого голова кружится — в хорошем смысле!,translated,42
+vntext.sq#53686,vntext.sq,NOVA,Reminds me of the first time I went on a mega ramp.,"Напоминает о том, как я впервые каталась на мега-рампе.",translated,51
+vntext.sq#53687,vntext.sq,NOVA,That rush... that unstoppable feeling...,Тот прилив адреналина... то неудержимое чувство...,translated,40
+vntext.sq#53688,vntext.sq,NOVA,It's honestly the hardest to paint. How can I even capture that moment in time?,"Это честно самое трудное, что можно нарисовать. Как вообще запечатлеть тот момент?",translated,79
+vntext.sq#53690,vntext.sq,NOVA,"No... I wouldn't say it's impossible. If anything, it can be kinda like a drug...","Нет... я бы не сказала, что это невозможно. Скорее, это может быть чем-то вроде наркотика...",translated,81
+vntext.sq#53691,vntext.sq,NOVA,"You obsess over portraying that moment perfectly, just so you might be able to feel it again.","Ты одержим тем, чтобы идеально передать тот момент, просто чтобы, может быть, снова его почувствовать.",translated,93
+vntext.sq#53694,vntext.sq,NOVA,Heh. Did you get into Mood Enhancers to squeeze stories out of people?,"Хех. Ты подался в усилители настроения, чтобы выжимать истории из людей?",translated,70
+vntext.sq#53695,vntext.sq,NOVA,All you need to know is that I like this one.,"Всё, что тебе нужно знать — что мне нравится этот.",translated,45
+vntext.sq#53697,vntext.sq,NOVA,This {$colors:pink}... hmm.,Этот {$colors:pink}... хмм.,translated,27
+vntext.sq#53698,vntext.sq,NOVA,"It's like those checkered tablecloths at your grandma's place... soft, unassuming, but it takes you back in time...","Это как те клетчатые скатерти у бабушки дома... мягкие, неприметные, но возвращают тебя во времени назад...",translated,115
+vntext.sq#53699,vntext.sq,NOVA,"But it can also be bright, like...","Но он также может быть ярким, как...",translated,34
+vntext.sq#53700,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53701,vntext.sq,NOVA,I don't like this one.,Мне не нравится этот.,translated,22
+vntext.sq#53703,vntext.sq,NOVA,Don't get me wrong. The donut's pretty good. But the effect... it's not for me.,Не пойми неправильно. Пончик довольно хорош. Но эффект... не для меня.,translated,79
+vntext.sq#53706,vntext.sq,NOVA,"You know, what's funny is that I've never associated {$colors:orange} with {$moods:patience}, but...","Знаешь, забавно, что я никогда не ассоциировала {$colors:orange} с {$moods:patience}, но...",translated,100
+vntext.sq#53707,vntext.sq,NOVA,"I think I kinda get now why orange traffic cones mean ""slow down"" — it's a warning telling you that you need to be aware of what's going on.","Кажется, теперь я немного понимаю, почему оранжевые дорожные конусы означают ""притормози"" — это предупреждение о том, что нужно быть внимательнее к происходящему.",translated,140
+vntext.sq#53710,vntext.sq,NOVA,Heh. How wild is that?,Хех. Разве не дико?,translated,22
+vntext.sq#53711,vntext.sq,NOVA,I like this one. Didn't expect it to give me a new perspective.,"Мне нравится этот. Не ожидала, что он даст мне новый взгляд на вещи.",translated,63
+vntext.sq#53712,vntext.sq,NOVA,Like lying down on a grassy field...,Как будто лежишь на травяном поле...,translated,36
+vntext.sq#53713,vntext.sq,NOVA,Just taking it easy.,Просто расслабляешься.,translated,20
+vntext.sq#53714,vntext.sq,NOVA,This one your most popular donut?,Это твой самый популярный пончик?,translated,33
+vntext.sq#53716,vntext.sq,NOVA,"Yeah, makes sense. I'd feed a lot of people this if I had more money.","Да, логично. Я бы кормил этим кучу народа, будь у меня побольше денег.",translated,69
+vntext.sq#53717,vntext.sq,NOVA,"Honestly, people these days really need to chill out.","Если честно, людям в наше время правда нужно расслабиться.",translated,53
+vntext.sq#53719,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53720,vntext.sq,NOVA,"Heh. You're lucky this donut's got me feeling good vibes, or you'd be testing my patience too.","Хех. Тебе повезло, что этот пончик даёт мне хороший вайб, а то ты бы и моё терпение испытывал.",translated,94
+vntext.sq#53721,vntext.sq,NOVA,White paint on a blank canvas would usually feel redundant...,Белая краска на чистом холсте обычно ощущалась бы лишней...,translated,61
+vntext.sq#53722,vntext.sq,NOVA,"But for some reason, this one's got me in a good mood!",Но почему-то от этого у меня хорошее настроение!,translated,54
+vntext.sq#53723,vntext.sq,NOVA,Guess that's what happens when it feels like life's full of possibilities...,"Наверное, так и бывает, когда кажется, что жизнь полна возможностей...",translated,76
+vntext.sq#53724,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53725,vntext.sq,NOVA,Whew. I needed that.,Фух. Мне это было нужно.,translated,20
+vntext.sq#53727,vntext.sq,NOVA,Huh? What do you mean by that?,А? Ты о чём?,translated,30
+vntext.sq#53729,vntext.sq,NOVA,Hmph... I don't appreciate being armchair diagnosed. Good thing I'm feeling the effects of this donut.,"Хмф... не люблю, когда меня диагностируют на диване. Хорошо, что я чувствую эффект от этого пончика.",translated,102
+vntext.sq#53730,vntext.sq,NOVA,A {$colors:blue} sky... kinda like what I asked for last time...,"{$colors:blue} небо... вроде того, что я просила в прошлый раз...",translated,64
+vntext.sq#53731,vntext.sq,NOVA,But this time it could also be the ocean... a place where all its secrets end up on the shore.,"Но в этот раз это может быть и океан... место, где все его секреты в итоге оказываются на берегу.",translated,94
+vntext.sq#53733,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53734,vntext.sq,NOVA,"Do you have to be so literal, {$mcName}?","Тебе обязательно быть таким буквальным, {$mcName}?",translated,40
+vntext.sq#53736,vntext.sq,NOVA,"Fine, whatever. But you get the idea.","Ладно, неважно. Но ты понял мысль.",translated,37
+vntext.sq#53737,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53738,vntext.sq,NOVA,This one's alright.,Этот неплохой.,translated,19
+vntext.sq#53740,vntext.sq,NOVA,"Haha, this {$colors:red}... this is how I live [i] everyday! [/i]","Хаха, этот {$colors:red}... вот как я живу [i] каждый день! [/i]",translated,65
+vntext.sq#53741,vntext.sq,NOVA,"Red, like those fire hydrants I gotta dodge as I skate down busy streets...","Красный, как те пожарные гидранты, которые приходится объезжать, катаясь по оживлённым улицам...",translated,75
+vntext.sq#53742,vntext.sq,NOVA,Like the spray paint calling for justice... for the disappeared and the decrepit...,"Как аэрозольная краска, взывающая к справедливости... к пропавшим и обветшалым...",translated,83
+vntext.sq#53743,vntext.sq,NOVA,People say red is the color of love and war. I say it's the color that calls people to [i] action. [/i],"Люди говорят, что красный — цвет любви и войны. А я говорю, что это цвет, который призывает людей к [i] действию. [/i]",translated,103
+vntext.sq#53746,vntext.sq,NOVA,Villainy.,К злодейству.,translated,9
+vntext.sq#53748,vntext.sq,NOVA,I was being sarcastic. Isn't the answer obvious?,Я саркастически. Разве ответ не очевиден?,translated,48
+vntext.sq#53749,vntext.sq,NOVA,"It's street art, of course! What else could it be?","Это же уличное искусство, конечно! Что ещё это могло бы быть?",translated,50
+vntext.sq#53751,vntext.sq,NOVA,...!,...!,translated,4
+vntext.sq#53752,vntext.sq,NOVA,When I said that the pitch was a blank canvas... I didn't think you'd take it so literally...,"Когда я сказала, что замысел — чистый холст... я не думала, что ты воспримешь это так буквально...",translated,93
+vntext.sq#53753,vntext.sq,NOVA,This is just a regular degular donut! No color or moods at all!,Это просто самый обычный пончик! Никакого цвета или настроений вообще!,translated,63
+vntext.sq#53757,vntext.sq,NOVA,Hmmm... I see...,Хмм... понятно...,translated,16
+vntext.sq#53758,vntext.sq,NOVA,"Well, it was interesting to see what you did with a blank canvas, but... I gotta get going.","Что ж, было интересно посмотреть, что ты сделал с чистым холстом, но... мне пора идти.",translated,91
+vntext.sq#53759,vntext.sq,NOVA,Did the idea of a blank canvas intimidate you or something?,"Тебя что, испугала идея чистого холста?",translated,59
+vntext.sq#53760,vntext.sq,NOVA,Anyway... I gotta get going.,В любом случае... мне пора идти.,translated,28
+vntext.sq#53761,vntext.sq,NOVA,I got places to be... and late nights are the best for tagging.,У меня есть дела... а поздние ночи лучше всего подходят для тегов.,translated,63
+vntext.sq#53762,vntext.sq,NOVA,Gotta stay anonymous — street art's more fun if no one knows who made it.,"Нужно оставаться анонимной — уличное искусство веселее, если никто не знает, кто его создал.",translated,73
+vntext.sq#53764,vntext.sq,NOVA,"Yeah, yeah.","Да, да.",translated,11
+vntext.sq#53765,vntext.sq,NOVA,Bye!,Пока!,translated,4
+vntext.sq#53772,vntext.sq,NOVA,...!,...!,translated,4
+vntext.sq#53774,vntext.sq,NOVA,…!,…!,translated,2
+vntext.sq#53775,vntext.sq,NOVA,"Hey, calling in a big favor... gotta hide out in your kitchen like... right now.","Слушай, прошу об огромном одолжении... мне нужно спрятаться на твоей кухне прямо... сейчас.",translated,80
+vntext.sq#53777,vntext.sq,NOVA,"No matter what I do I can't lose em... it's like I'm being chased by... by some sort of demon — look, just cover for me, okay?","Чтобы я ни делала, не могу от них оторваться... будто меня преследует... какой-то демон — слушай, просто прикрой меня, ладно?",translated,126
+vntext.sq#53778,vntext.sq,NOVA,...!,...!,translated,4
+vntext.sq#53881,vntext.sq,NOVA,I know...,Знаю...,translated,9
+vntext.sq#53882,vntext.sq,NOVA,"Heard the whole thing, old 'glass to the door trick'...","Слышала всё, старый добрый трюк со стаканом у двери...",translated,55
+vntext.sq#53883,vntext.sq,NOVA,Thanks for covering for me...,"Спасибо, что прикрыл меня...",translated,29
+vntext.sq#53884,vntext.sq,NOVA,But that girl... just who the hell does she think she is...,Но эта девчонка... да кем она вообще себя возомнила...,translated,59
+vntext.sq#53885,vntext.sq,NOVA,...!,...!,translated,4
+vntext.sq#53887,vntext.sq,NOVA,Like what the hell? You sold me out! I thought you were watching my back!,"Это вообще что было? Ты меня сдал! Я думала, ты прикрываешь мне спину!",translated,73
+vntext.sq#53889,vntext.sq,NOVA,How... how dare she...,Как... как она посмела...,translated,22
+vntext.sq#53890,vntext.sq,NOVA,She wasn't... no one was suppose to catch me...,Она не собиралась... никто не должен был меня поймать...,translated,47
+vntext.sq#53892,vntext.sq,NOVA,Looking out? I don't need her... her help or sympathy or whatever...,"Заботилась? Мне не нужна её... помощь, сочувствие или что там ещё...",translated,68
+vntext.sq#53893,vntext.sq,NOVA,"H-Huh? Oh, no... that's...","Ч-что? Ох, нет... это...",translated,26
+vntext.sq#53895,vntext.sq,NOVA,"Space Bear... Oh, no... just... just look at him...","Космо-Мишка... Ох, нет... просто... просто посмотри на него...",translated,51
+vntext.sq#53896,vntext.sq,NOVA,"Arghhh, I was... I was so stupid! I was sloppy... way too sloppy tonight... I shouldn't have... urghh, and now look...","Аррргх, я была... я была такой дурой! Я была неаккуратна... слишком неаккуратна сегодня... не стоило... уфф, и вот, посмотри...",translated,118
+vntext.sq#53897,vntext.sq,NOVA,He's broken... it's all broken...,Он сломан... всё сломано...,translated,33
+vntext.sq#53899,vntext.sq,NOVA,Yeah... I... I guess...,Да... я... наверное...,translated,23
+vntext.sq#53900,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53901,vntext.sq,NOVA,Tonight was a rough night...,Сегодняшний вечер был тяжёлым...,translated,28
+vntext.sq#53903,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53904,vntext.sq,NOVA,No...,Нет...,translated,5
+vntext.sq#53905,vntext.sq,NOVA,"Right now, I just need someone to sit across me, and give me a donut so I can sit back and... get my bearings after all that.","Прямо сейчас мне просто нужен кто-то, кто сядет напротив меня и даст мне пончик, чтобы я могла откинуться и... прийти в себя после всего этого.",translated,125
+vntext.sq#53906,vntext.sq,NOVA,"Picture this: a muddy {$colors:brown} road... but in my hand, I'm holding a lantern to see the way — its soft glow covers half of that {$colors:brown} road in an {$colors:orange} light. I keep skating through it... but it's filled with all sorts of rocks and sharp edges...","Представь: грязная {$colors:brown} дорога... но в руке у меня фонарь, чтобы видеть путь — его мягкое сияние покрывает половину этой {$colors:brown} дороги {$colors:orange} светом. Я продолжаю катиться по ней... но она полна всяких камней и острых краёв...",translated,273
+vntext.sq#53912,vntext.sq,NOVA,"I guess, I have to spell it out... I'm thinking a half and half donut with {$flavors:chococaine} and {$flavors:pumpketamine} glazes to capture that dimly lit road. And then maybe something like {$toppings:almonphetamine} or ${Bacon} to give the donut those rocks and sharp edges.","Наверное, придётся разжевать... я думаю про пончик половина на половину с глазурью {$flavors:chococaine} и {$flavors:pumpketamine}, чтобы передать эту тускло освещённую дорогу. А потом, может, что-то вроде {$toppings:almonphetamine} или ${Bacon}, чтобы придать пончику эти камни и острые края.",translated,279
+vntext.sq#53919,vntext.sq,NOVA,Thanks.,Спасибо.,translated,7
+vntext.sq#53921,vntext.sq,NOVA,Ugh. What the hell?! Did you even try??,Фу. Что за чёрт?! Ты вообще старался??,translated,39
+vntext.sq#53922,vntext.sq,NOVA,"I asked for a muddy brown road, with that orange lantern... this is a [i] dumpster [/i] at best!",Я просила грязную коричневую дорогу с тем оранжевым фонарём... а это в лучшем случае [i] помойка [/i]!,translated,96
+vntext.sq#53923,vntext.sq,NOVA,This tastes like nothing!!,На вкус вообще ничего нет!!,translated,26
+vntext.sq#53929,vntext.sq,NOVA,There it is... the muddy {$colors:brown} road with the dim {$colors:orange} lantern...,Вот оно... грязная {$colors:brown} дорога с тусклым {$colors:orange} фонарём...,translated,86
+vntext.sq#53930,vntext.sq,NOVA,"You chose the perfect ${toppings} too, you really got those sharp, rocky edges...","Ты ещё и идеально подобрал ${toppings}, ты и правда передал эти острые каменистые края...",translated,81
+vntext.sq#53931,vntext.sq,NOVA,"A more impatient skater might think of them as obstacles to conquer, but...","Более нетерпеливый скейтер мог бы посчитать их препятствиями, которые надо покорить, но...",translated,75
+vntext.sq#53932,vntext.sq,NOVA,If you stay in the moment... if you focus on the feeling of the wind on your face...,Если оставаться в моменте... если сосредоточиться на ощущении ветра на лице...,translated,84
+vntext.sq#53933,vntext.sq,NOVA,They're just parts of the scenery that you get to watch out for... and also enjoy.,"Это просто части пейзажа, за которыми нужно следить... и которыми можно наслаждаться.",translated,82
+vntext.sq#53934,vntext.sq,NOVA,"It's not skating to get from one place to another real quick — it's skating to enjoy the movement of it, the sound of the wheels turning.","Дело не в том, чтобы кататься, чтобы быстро добраться из одного места в другое — дело в том, чтобы кататься, наслаждаясь самим движением, звуком вращающихся колёс.",translated,137
+vntext.sq#53936,vntext.sq,NOVA,"Huh, it's a muddy {$colors:brown} road alright... but no lanterns...","Хм, грязная {$colors:brown} дорога вроде есть... но никаких фонарей...",translated,68
+vntext.sq#53937,vntext.sq,NOVA,Hard to find your way without that light...,Трудно найти путь без этого света...,translated,43
+vntext.sq#53938,vntext.sq,NOVA,"Hmmm, and this other flavor you put? Doesn't quite go with the road I had in mind.","Хмм, а этот другой вкус, что ты добавил? Не совсем сочетается с той дорогой, что была у меня в голове.",translated,82
+vntext.sq#53941,vntext.sq,NOVA,You've got the {$colors:orange} glow of a lantern but... the muddy {$colors:brown} road? Not here.,"У тебя есть {$colors:orange} свечение фонаря, но... грязная {$colors:brown} дорога? Её тут нет.",translated,98
+vntext.sq#53942,vntext.sq,NOVA,"A light in the dark, but no road to walk on...","Свет во тьме, но дороги, по которой идти, нет...",translated,46
+vntext.sq#53943,vntext.sq,NOVA,And this other flavor... don't think the colors go with the glow of a lantern.,"И этот другой вкус... не думаю, что цвета сочетаются со свечением фонаря.",translated,78
+vntext.sq#53944,vntext.sq,NOVA,"Nice try, but this donut has lost its way.","Неплохая попытка, но этот пончик сбился с пути.",translated,42
+vntext.sq#53946,vntext.sq,NOVA,This... isn't the muddy {$colors:brown} road with the {$colors:orange} lantern at all. It's another type of road...,Это... вообще не грязная {$colors:brown} дорога с {$colors:orange} фонарём. Это какая-то другая дорога...,translated,115
+vntext.sq#53947,vntext.sq,NOVA,Like that {$colors:yellow} brick road from that children's novel.,Как та {$colors:yellow} дорога из жёлтого кирпича из той детской книги.,translated,65
+vntext.sq#53948,vntext.sq,NOVA,"Takes you to places you've never been, gets you to meet all the wildest sorts of people...","Ведёт тебя в места, где ты никогда не был, знакомит с самыми дикими типами людей...",translated,90
+vntext.sq#53949,vntext.sq,NOVA,"Would've been great for if I wanted to start on another street art piece, but...","Было бы отлично, если бы я хотела начать ещё одну уличную работу, но...",translated,80
+vntext.sq#53950,vntext.sq,NOVA,Sadly not the picture I painted.,"К сожалению, не та картина, что я нарисовала.",translated,32
+vntext.sq#53951,vntext.sq,NOVA,A {$colors:purple} road... lavender fields... the scent of it is overwhelming.,{$colors:purple} дорога... лавандовые поля... их аромат просто ошеломляет.,translated,78
+vntext.sq#53952,vntext.sq,NOVA,"At the end of it, familiar faces... the faces of people we love.","В конце неё знакомые лица... лица людей, которых мы любим.",translated,64
+vntext.sq#53953,vntext.sq,NOVA,"My heart's beating fast, excited to get to where they are, but...","Сердце бьётся быстро, в предвкушении добраться туда, где они, но...",translated,65
+vntext.sq#53954,vntext.sq,NOVA,"They're not actually there, and this isn't the picture I painted.","На самом деле их там нет, и это не та картина, что я нарисовала.",translated,65
+vntext.sq#53955,vntext.sq,NOVA,A {$colors:pink} road. With peonies on the side...,{$colors:pink} дорога. С пионами по краям...,translated,50
+vntext.sq#53956,vntext.sq,NOVA,There's me. I'm younger. And walking right beside me is...,Вот я. Я моложе. И рядом со мной идёт...,translated,58
+vntext.sq#53957,vntext.sq,NOVA,No. I don't like this one.,Нет. Мне не нравится этот.,translated,26
+vntext.sq#53958,vntext.sq,NOVA,This isn't the picture I painted [i] at all. [/i],"Это [i] вообще [/i] не та картина, что я нарисовала.",translated,49
+vntext.sq#53959,vntext.sq,NOVA,"A grassy path... there's a gentle breeze, and I'm walking very slowly...","Травяная тропа... лёгкий ветерок, и я иду очень медленно...",translated,72
+vntext.sq#53960,vntext.sq,NOVA,"Dandelions blow past me... I think I can just keep catching them... I think I can just stay here, enjoying this endless afternoon...","Одуванчики проносятся мимо меня... кажется, я могу просто продолжать их ловить... кажется, я могу просто остаться здесь, наслаждаясь этим бесконечным днём...",translated,132
+vntext.sq#53961,vntext.sq,NOVA,"But... this is wrong. It's late night right now, and this isn't the picture I painted at all.","Но... это неправильно. Сейчас поздняя ночь, и это вообще не та картина, что я нарисовала.",translated,93
+vntext.sq#53962,vntext.sq,NOVA,A {$colors:white} path... like one of those leading into parks.,"{$colors:white} тропа... как те, что ведут в парки.",translated,63
+vntext.sq#53963,vntext.sq,NOVA,"There's a playground. Everyone's running around laughing, and I can skate on and on...","Там детская площадка. Все бегают, смеясь, и я могу кататься и кататься...",translated,86
+vntext.sq#53964,vntext.sq,NOVA,Heh. Maybe I can even get myself some ice cream while I'm here.,"Хех. Может, я даже смогу купить себе мороженого, пока я тут.",translated,63
+vntext.sq#53965,vntext.sq,NOVA,"But... I can't. I shouldn't. And this isn't the picture I painted, anyway.","Но... я не могу. Не должна. И это в любом случае не та картина, что я нарисовала.",translated,74
+vntext.sq#53966,vntext.sq,NOVA,A {$colors:blue} path... leading to a... home.,{$colors:blue} тропа... ведущая к... дому.,translated,46
+vntext.sq#53967,vntext.sq,NOVA,"Where you can just rest, wear the ugliest but most comfy PJs you own, and...","Где можно просто отдохнуть, надеть самую уродливую, но самую удобную пижаму, что у тебя есть, и...",translated,76
+vntext.sq#53968,vntext.sq,NOVA,Just... exist. Without a care in the world.,Просто... существовать. Без забот на свете.,translated,43
+vntext.sq#53969,vntext.sq,NOVA,"It's a nice picture, but... not the picture I painted at all.","Это приятная картина, но... вообще не та, что я нарисовала.",translated,61
+vntext.sq#53970,vntext.sq,NOVA,A red road... leading towards the largest ramp I've ever seen...,"Красная дорога... ведущая к самой большой рампе, что я когда-либо видела...",translated,64
+vntext.sq#53971,vntext.sq,NOVA,"Heh. I've always wanted to try going on one of those. Up there, it'll just be me, my skateboard, and the wind...","Хех. Всегда хотела попробовать прокатиться на такой. Там наверху будем только я, мой скейт и ветер...",translated,112
+vntext.sq#53972,vntext.sq,NOVA,But this... this isn't the picture I painted at all.,"Но это... это вообще не та картина, что я нарисовала.",translated,52
+vntext.sq#53976,vntext.sq,NOVA,Heh... I think that just about does it...,"Хех... думаю, это примерно то самое...",translated,41
+vntext.sq#53977,vntext.sq,NOVA,It's good... it's all good now...,Хорошо... теперь всё хорошо...,translated,33
+vntext.sq#53978,vntext.sq,NOVA,And forget what you heard from that girl in red.,"И забудь, что ты слышал от той девушки в красном.",translated,48
+vntext.sq#53979,vntext.sq,NOVA,It's fine... I'm fine...,Всё нормально... я в порядке...,translated,24
+vntext.sq#53980,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53981,vntext.sq,NOVA,See you around...,Увидимся...,translated,17
+vntext.sq#53986,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53987,vntext.sq,NOVA,"Hey there, Marshmallow.","Привет, Маршмеллоу.",translated,23
+vntext.sq#53989,vntext.sq,NOVA,Doing great... yeah... going pretty well...,Отлично... да... идёт довольно хорошо...,translated,43
+vntext.sq#53990,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#53992,vntext.sq,NOVA,...?,...?,translated,4
+vntext.sq#53995,vntext.sq,NOVA,Heh... sure is... did the colors give it away?,Хех... точно... цвета выдали?,translated,46
+vntext.sq#53999,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54000,vntext.sq,NOVA,You have no idea...,Ты даже не представляешь...,translated,19
+vntext.sq#54001,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54002,vntext.sq,NOVA,She had a thing for travel... wanted to see the world for what it really was.,"У неё была страсть к путешествиям... хотела увидеть мир таким, какой он есть на самом деле.",translated,77
+vntext.sq#54003,vntext.sq,NOVA,"Stuffy museums and beach side resorts where they serve you fancy drinks? Nah, that wasn't her.","Душные музеи и пляжные курорты, где подают навороченные коктейли? Не, это было не про неё.",translated,94
+vntext.sq#54004,vntext.sq,NOVA,"She wanted to walk the streets, get drunk with the locals... listen to musicians playing their saxophones by the sidewalk.","Она хотела гулять по улицам, напиваться с местными... слушать музыкантов, играющих на саксофонах у тротуара.",translated,122
+vntext.sq#54005,vntext.sq,NOVA,San Mazo was at the top her bucket list.,Сан-Мазо был на первом месте в её списке желаний.,translated,40
+vntext.sq#54008,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54009,vntext.sq,NOVA,She used to say 'San Mazo sunsets are the best in the world'... what a joke...,Она говорила: 'Закаты в Сан-Мазо — лучшие в мире'... вот шутка...,translated,78
+vntext.sq#54010,vntext.sq,NOVA,"Sure, it's pretty... but the night that comes after... too much light pollution... you can't see the stars...","Конечно, это красиво... но ночь, что приходит после... слишком много светового загрязнения... звёзд не видно...",translated,109
+vntext.sq#54011,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54012,vntext.sq,NOVA,The Velvet Den... San Mazo Heritage... all places she wanted so bad to visit.,"Velvet Den... San Mazo Heritage... все места, которые она так сильно хотела посетить.",translated,77
+vntext.sq#54013,vntext.sq,NOVA,And I just thought... I needed to do something... anything to leave a mark... that she made it... that she was here...,"И я просто подумала... мне нужно было что-то сделать... что угодно, чтобы оставить след... что она добралась сюда... что она была здесь...",translated,118
+vntext.sq#54016,vntext.sq,NOVA,That's the thing... I don't think it is...,"В том-то и дело... не думаю, что помогает...",translated,42
+vntext.sq#54017,vntext.sq,NOVA,Without her... I thought the next best friend I had was my art. But...,"Без неё... я думала, что следующим моим лучшим другом было моё искусство. Но...",translated,70
+vntext.sq#54018,vntext.sq,NOVA,Even that... I'm still doing it all for her...,Даже это... я всё равно делаю всё это ради неё...,translated,46
+vntext.sq#54019,vntext.sq,NOVA,Ceres was here. Ceres was here. Ceres was here...,Церес была здесь. Церес была здесь. Церес была здесь...,translated,49
+vntext.sq#54020,vntext.sq,NOVA,But she isn't here... and no amount of paint can fix that.,Но её здесь нет... и никакое количество краски этого не исправит.,translated,58
+vntext.sq#54021,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54022,vntext.sq,NOVA,When I asked you back then... about who you make your donuts for...,Когда я спрашивала тебя тогда... для кого ты делаешь свои пончики...,translated,67
+vntext.sq#54023,vntext.sq,NOVA,You told me you make them for yourself...,"Ты сказал мне, что делаешь их для себя...",translated,41
+vntext.sq#54025,vntext.sq,NOVA,Maybe... maybe I've been lying to myself this whole time.,"Может быть... может, я всё это время лгала самой себе.",translated,57
+vntext.sq#54026,vntext.sq,NOVA,Maybe I've been doing all this for myself as well...,"Может, я тоже делаю всё это ради себя...",translated,52
+vntext.sq#54027,vntext.sq,NOVA,You told me you dedicate them to all the emotionally constipated people of San Mazo.,"Ты сказал мне, что посвящаешь их всем эмоционально закупоренным людям Сан-Мазо.",translated,84
+vntext.sq#54028,vntext.sq,NOVA,Heh... starting to think I might be part of that group as well.,"Хех... начинаю думать, что я тоже могу быть частью этой группы.",translated,63
+vntext.sq#54029,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54030,vntext.sq,NOVA,You told me they were for all the people you've left behind...,"Ты сказал мне, что они для всех людей, которых ты оставил позади...",translated,62
+vntext.sq#54031,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54032,vntext.sq,NOVA,But in my case... I'm the one who's been left behind...,Но в моём случае... это меня оставили позади...,translated,55
+vntext.sq#54033,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54034,vntext.sq,NOVA,And that donut you gave me to prove your point...,"И тот пончик, что ты дал мне, чтобы доказать свою точку зрения...",translated,49
+vntext.sq#54035,vntext.sq,NOVA,Painted your work with solid ${browns} like the earth — place where everyone ends up eventually.,"Ты покрасил свою работу сплошными ${browns}, как земля — место, где все в итоге оказываются.",translated,96
+vntext.sq#54036,vntext.sq,NOVA,Back then I didn't like it... death isn't exactly something I wanted to think about.,"Тогда мне это не понравилось... смерть — не совсем то, о чём мне хотелось думать.",translated,84
+vntext.sq#54037,vntext.sq,NOVA,But maybe it was alright to focus on things that I wanted to run away from.,"Но, может, было нормально сосредоточиться на вещах, от которых я хотела убежать.",translated,75
+vntext.sq#54038,vntext.sq,NOVA,{$colors:yellow}... that color I see everywhere I go...,"{$colors:yellow}... тот цвет, что я вижу везде, куда бы ни пошла...",translated,55
+vntext.sq#54039,vntext.sq,NOVA,And I guess that makes sense... I see her everywhere I go...,"И, наверное, в этом есть смысл... я вижу её везде, куда бы ни пошла...",translated,60
+vntext.sq#54040,vntext.sq,NOVA,That dizzying {$moods:passion} you painted... {$colors:purple} hues.,"Та кружащая голову {$moods:passion}, что ты нарисовал... {$colors:purple} оттенки.",translated,68
+vntext.sq#54041,vntext.sq,NOVA,I was thinking of her... and how I wanted so badly to just capture that moment in time...,"Я думала о ней... и о том, как отчаянно хотела просто запечатлеть тот момент во времени...",translated,89
+vntext.sq#54042,vntext.sq,NOVA,The bright ${pinks}... it really brought me back to thinking about her...,Яркие ${pinks}... это правда вернуло меня к мыслям о ней...,translated,73
+vntext.sq#54043,vntext.sq,NOVA,I didn't like it at that time... mostly because... it was just hard to dwell on the past.,Тогда мне это не понравилось... в основном потому что... было тяжело задерживаться на прошлом.,translated,89
+vntext.sq#54044,vntext.sq,NOVA,That {$colors:orange} flavor you put on the donut. Like a traffic light caught in yellow...,"Тот {$colors:orange} вкус, что ты добавил на пончик. Как светофор, застрявший на жёлтом...",translated,91
+vntext.sq#54049,vntext.sq,NOVA,Grassy fields of {$colors:green}. Feeling of just... letting it all go and ${relaxing}...,"Травяные поля {$colors:green}. Чувство того, что можно просто... отпустить всё и ${relaxing}...",translated,89
+vntext.sq#54050,vntext.sq,NOVA,All this time... I've been rushing... running away... but maybe... maybe it's time I stop and think for a while.,"Всё это время... я торопилась... убегала... но, может быть... может, пора остановиться и немного подумать.",translated,112
+vntext.sq#54051,vntext.sq,NOVA,Give my self some time to...,"Дать себе немного времени, чтобы...",translated,28
+vntext.sq#54053,vntext.sq,NOVA,Yeah.... that.,Да... вот это.,translated,14
+vntext.sq#54054,vntext.sq,NOVA,I asked you to paint on a blank canvas. And you gave me... a {$colors:white} page.,Я попросила нарисовать на чистом холсте. А ты дал мне... {$colors:white} страницу.,translated,82
+vntext.sq#54055,vntext.sq,NOVA,Real clever... though it did make me happy...,Очень умно... хотя это и правда сделало меня счастливой...,translated,45
+vntext.sq#54056,vntext.sq,NOVA,"And maybe that's it... all this time, I've been seeing the sights of San Mazo... never occured to me that I should enjoy myself.","И, может, в этом всё дело... всё это время я осматривала достопримечательности Сан-Мазо... мне никогда не приходило в голову, что стоит просто наслаждаться этим.",translated,128
+vntext.sq#54057,vntext.sq,NOVA,{$colors:blue}... like the sky and ocean... endless...,{$colors:blue}... как небо и океан... бесконечный...,translated,54
+vntext.sq#54058,vntext.sq,NOVA,I didn't want to face it at that time... but...,Тогда я не хотела с этим столкнуться... но...,translated,47
+vntext.sq#54059,vntext.sq,NOVA,I've been keeping a lot in... so I think I owe it to myself to finally fess up to that.,"Я много держала в себе... так что, думаю, я обязана себе наконец в этом признаться.",translated,87
+vntext.sq#54060,vntext.sq,NOVA,{$colors:red}... color of motion... of action.,{$colors:red}... цвет движения... действия.,translated,46
+vntext.sq#54061,vntext.sq,NOVA,And that's what I've been doing all this time... I've just been moving...,"И это именно то, чем я занималась всё это время... я просто двигалась...",translated,73
+vntext.sq#54062,vntext.sq,NOVA,But maybe it's time I slowed down a bit...,"Но, может, пора немного притормозить...",translated,42
+vntext.sq#54063,vntext.sq,NOVA,A donut with no mood enhancers... simple and blank.,Пончик без усилителей настроения... простой и пустой.,translated,51
+vntext.sq#54064,vntext.sq,NOVA,All this time... I've been trying fill in the void she left behind with as much color as I could...,"Всё это время... я пыталась заполнить пустоту, что она оставила, как можно большим количеством цвета...",translated,99
+vntext.sq#54065,vntext.sq,NOVA,I was feeling all these emotions but... maybe I need to take a step back and just let myself... be me...,"Я испытывала все эти эмоции, но... может, мне нужно сделать шаг назад и просто позволить себе... быть собой...",translated,104
+vntext.sq#54066,vntext.sq,NOVA,It was... really bad... like seriously... how did you screw that up?,Это было... правда плохо... серьёзно... как ты умудрился так облажаться?,translated,68
+vntext.sq#54067,vntext.sq,NOVA,Though... thinking back... I'm still thankful that you tried...,"Хотя... оглядываясь назад... я всё равно благодарна, что ты старался...",translated,63
+vntext.sq#54068,vntext.sq,NOVA,And here I am now... just sitting here with nothing but a memory of a bad donut...,И вот я сейчас... просто сижу тут с одним лишь воспоминанием о плохом пончике...,translated,82
+vntext.sq#54071,vntext.sq,NOVA,Huh? Answer to what?,Хм? Ответ на что?,translated,20
+vntext.sq#54076,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54079,vntext.sq,NOVA,I... I see...,Я... понимаю...,translated,13
+vntext.sq#54080,vntext.sq,NOVA,Can you help me with that?,Можешь помочь мне с этим?,translated,26
+vntext.sq#54086,vntext.sq,NOVA,Huh?,А?,translated,4
+vntext.sq#54090,vntext.sq,NOVA,Thanks.,Спасибо.,translated,7
+vntext.sq#54091,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54092,vntext.sq,NOVA,...Is this some type of sick joke?,"...Это что, какая-то больная шутка?",translated,34
+vntext.sq#54096,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54097,vntext.sq,NOVA,Yeah... I think this is just what I needed.,"Да... думаю, это именно то, что мне было нужно.",translated,43
+vntext.sq#54098,vntext.sq,NOVA,"This {$flavors:strawpium} {$decor:glaze}... I refused to ask for this in the past, thinking it'd make me weak, but...","Эта {$flavors:strawpium} {$decor:glaze}... раньше я отказывалась это просить, думая, что это сделает меня слабой, но...",translated,117
+vntext.sq#54099,vntext.sq,NOVA,It's perfect. Really.,Это идеально. Правда.,translated,21
+vntext.sq#54100,vntext.sq,NOVA,"Ceres and I... we used to visit this botanical garden, where the paths would be lined with cherry blossoms in the spring.","Мы с Церес... раньше ходили в этот ботанический сад, где весной дорожки были усыпаны цветущей сакурой.",translated,121
+vntext.sq#54101,vntext.sq,NOVA,"She said something about how temporary those cherry blossoms are, but that's why... that's why we take our time to enjoy them, walking slowly.","Она говорила что-то о том, насколько временны эти цветы сакуры, но именно поэтому... именно поэтому мы не спешим наслаждаться ими, идя медленно.",translated,142
+vntext.sq#54102,vntext.sq,NOVA,Except I didn't walk slowly — I was always a few paces ahead of her.,Вот только я не шла медленно — я всегда была на несколько шагов впереди неё.,translated,68
+vntext.sq#54103,vntext.sq,NOVA,"Meanwhile, she would let the blossoms fall onto her palms.",А она тем временем позволяла лепесткам падать ей на ладони.,translated,58
+vntext.sq#54104,vntext.sq,NOVA,"That's when she told me I should visit San Mazo. It's a slow city, with pretty sunsets and people who like to buy flowers in the morning.","Именно тогда она сказала мне, что я должна посетить Сан-Мазо. Это неторопливый город, с красивыми закатами и людьми, которые любят покупать цветы по утрам.",translated,137
+vntext.sq#54105,vntext.sq,NOVA,"Then at night, the parties go on... and on... and on.",А потом ночью вечеринки продолжаются... и продолжаются... и продолжаются.,translated,53
+vntext.sq#54107,vntext.sq,NOVA,"I've been on my skateboard this whole time, too busy getting from one place to another, but...","Всё это время я была на своём скейте, слишком занятая перемещением из одного места в другое, но...",translated,94
+vntext.sq#54108,vntext.sq,NOVA,"Might be nice to just go on a nice, relaxed pace every now and then.","Может, было бы неплохо иногда просто двигаться в приятном, расслабленном темпе.",translated,68
+vntext.sq#54109,vntext.sq,NOVA,So that I can really feel her there... walking slowly with me.,Чтобы я могла по-настоящему почувствовать её рядом... идущей медленно вместе со мной.,translated,62
+vntext.sq#54110,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54111,vntext.sq,NOVA,Hmm... I'm not sure about this one.,Хмм... я не уверена насчёт этого.,translated,35
+vntext.sq#54112,vntext.sq,NOVA,"It's the muddy {$colors:brown} road... it's got me feeling sharp and ${focused}, but...","Это та грязная {$colors:brown} дорога... она заставляет меня чувствовать себя резкой и ${focused}, но...",translated,87
+vntext.sq#54113,vntext.sq,NOVA,"I'm [i] ${inspired} [/i] to do things for her, but...","Я [i] ${inspired} [/i] что-то делать ради неё, но...",translated,53
+vntext.sq#54114,vntext.sq,NOVA,"I'm... I'm overcome with all the love I had for her, but...","Меня... меня переполняет вся та любовь, что я к ней испытывала, но...",translated,59
+vntext.sq#54115,vntext.sq,NOVA,"There's that lantern that guides me when I'm on that muddy brown road, but...","Есть тот фонарь, что ведёт меня по той грязной коричневой дороге, но...",translated,77
+vntext.sq#54116,vntext.sq,NOVA,"I can't even see the road clearly, and...","Я даже не вижу дорогу ясно, и...",translated,41
+vntext.sq#54117,vntext.sq,NOVA,"I can just sit back and {$moods:relax}, but...","Я могу просто откинуться и {$moods:relax}, но...",translated,46
+vntext.sq#54118,vntext.sq,NOVA,"I'm also feeling all sorts of detached, you know what I mean?","Я ещё чувствую себя какой-то отстранённой, понимаешь, о чём я?",translated,61
+vntext.sq#54119,vntext.sq,NOVA,"Feels like I should be laughing at some silly joke she said a long time ago, but...","Такое чувство, будто мне следовало бы смеяться над какой-то глупой шуткой, что она сказала давным-давно, но...",translated,83
+vntext.sq#54120,vntext.sq,NOVA,"I feel like I can talk about her [i] all night, [/i] but...","Мне кажется, я могла бы говорить о ней [i] всю ночь, [/i] но...",translated,59
+vntext.sq#54121,vntext.sq,NOVA,"I can tell you all the things I wish I said to her, but...","Я могла бы рассказать тебе всё, что хотела бы ей сказать, но...",translated,58
+vntext.sq#54122,vntext.sq,NOVA,"A blank canvas, huh? Just a donut with zero mood enhancers...","Чистый холст, значит? Просто пончик без единого усилителя настроения...",translated,61
+vntext.sq#54123,vntext.sq,NOVA,"Without any mood enhancers, I'm not sure this donut will really do anything...","Без каких-либо усилителей настроения, не уверена, что этот пончик хоть что-то сделает...",translated,78
+vntext.sq#54124,vntext.sq,NOVA,The memories... they're all so... blurry.,Воспоминания... они все такие... размытые.,translated,41
+vntext.sq#54125,vntext.sq,NOVA,I can't hold on to anything tangible. I'm not even sure what her laugh sounds like anymore.,"Я не могу ухватиться ни за что осязаемое. Я уже даже не уверена, как звучал её смех.",translated,91
+vntext.sq#54126,vntext.sq,NOVA,"I don't think this is the last ingredient I need, {$mcName}...","Не думаю, что это тот последний ингредиент, что мне нужен, {$mcName}...",translated,62
+vntext.sq#54130,vntext.sq,NOVA,Heh... so this is it then... the art of a true Mood Confectioner of San Mazo.,"Хех... вот, значит, как... искусство настоящего Кондитера Настроений Сан-Мазо.",translated,77
+vntext.sq#54131,vntext.sq,NOVA,Ceres... she really did have the best recommendations of all time.,Церес... у неё правда были лучшие рекомендации всех времён.,translated,66
+vntext.sq#54132,vntext.sq,NOVA,Glad I listened.,"Рада, что послушалась.",translated,16
+vntext.sq#54133,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54134,vntext.sq,NOVA,Guess I'll just have to find another way... another ingredient...,"Наверное, придётся найти другой путь... другой ингредиент...",translated,65
+vntext.sq#54135,vntext.sq,NOVA,The thing about me is that I can always just get on my skateboard and move on.,Дело во мне такое: я всегда могу просто встать на скейт и двигаться дальше.,translated,78
+vntext.sq#54136,vntext.sq,NOVA,And right now? Guess it's time.,"А сейчас? Наверное, самое время.",translated,31
+vntext.sq#54138,vntext.sq,NOVA,Thanks for hearing me out today. I really appreciate it.,"Спасибо, что выслушал меня сегодня. Я правда это ценю.",translated,56
+vntext.sq#54140,vntext.sq,NOVA,...?,...?,translated,4
+vntext.sq#54141,vntext.sq,NOVA,Oh... Space Bear... you're right... to think I almost forgot about him.,"Ох... Космо-Мишка... ты права... подумать только, я чуть про него не забыла.",translated,71
+vntext.sq#54142,vntext.sq,NOVA,Thanks for keeping him safe...,"Спасибо, что сохранил его в целости...",translated,30
+vntext.sq#54144,vntext.sq,NOVA,Heh... you know I won't.,"Хех... ты же знаешь, не буду.",translated,24
+vntext.sq#54147,vntext.sq,NOVA,…,…,translated,1
+vntext.sq#54152,vntext.sq,NOVA,That last one hits a bit too close to home though.,Хотя последнее задевает слишком уж близко к сердцу.,translated,50
+vntext.sq#54154,vntext.sq,NOVA,Check it out.,Гляди.,translated,13
+vntext.sq#54155,vntext.sq,NOVA,Fixed up Space Bear.,Починила Космо-Мишку.,translated,20
+vntext.sq#54156,vntext.sq,NOVA,"A bit rough around the edges... but hey, scars make some people look cooler.","Немного потрёпанный по краям... но эй, шрамы кому-то придают крутости.",translated,76
+vntext.sq#54157,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54161,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54166,vntext.sq,NOVA,But then I realized... I might have missed the point.,"Но потом я поняла... может, я упускала суть.",translated,53
+vntext.sq#54167,vntext.sq,NOVA,If Ceres were really here...,Если бы Церес правда была здесь...,translated,28
+vntext.sq#54168,vntext.sq,NOVA,"I think she'd want me to enjoy it... the sights, the food... the sunsets.","Думаю, она хотела бы, чтобы я наслаждалась этим... видами, едой... закатами.",translated,73
+vntext.sq#54172,vntext.sq,NOVA,What do you mean by that?,Что ты имеешь в виду?,translated,25
+vntext.sq#54177,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54178,vntext.sq,NOVA,That's true.,Это правда.,translated,12
+vntext.sq#54179,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54180,vntext.sq,NOVA,Once I was done tagging the Velvet Den... I was thinking of just picking up my skateboard and moving on to the next town.,Как только я закончила с тегом на Velvet Den... я подумывала просто взять скейт и двинуться в следующий город.,translated,121
+vntext.sq#54181,vntext.sq,NOVA,But... well... I think I'll stay here for just a bit longer.,"Но... ну... думаю, я останусь тут ещё немного.",translated,60
+vntext.sq#54182,vntext.sq,NOVA,Maybe I'll get drunk in some dingy bar. Listen to some of the local bands.,"Может, напьюсь в каком-нибудь захудалом баре. Послушаю местные группы.",translated,74
+vntext.sq#54183,vntext.sq,NOVA,And maybe... maybe even make some friends.,"И может... может, даже заведу друзей.",translated,42
+vntext.sq#54185,vntext.sq,NOVA,...!,...!,translated,4
+vntext.sq#54186,vntext.sq,NOVA,Oh... d-don't do that now you've got me all flustered. And I hate getting flustered.,"Ой... н-не делай так, теперь я вся смущена. А я ненавижу смущаться.",translated,84
+vntext.sq#54187,vntext.sq,NOVA,Urghhh... feelings... such a weird thing...,Уффф... чувства... такая странная штука...,translated,43
+vntext.sq#54188,vntext.sq,NOVA,But for what it's worth... thank you. You've been a good friend...,Но если это хоть что-то значит... спасибо. Ты был хорошим другом...,translated,66
+vntext.sq#54191,vntext.sq,NOVA,...?,...?,translated,4
+vntext.sq#54194,vntext.sq,NOVA,...!,...!,translated,4
+vntext.sq#54195,vntext.sq,NOVA,Yo... really? You're letting me tag your place?,Йо... серьёзно? Ты разрешаешь мне разрисовать твоё место?,translated,47
+vntext.sq#54198,vntext.sq,NOVA,Heh...,Хех...,translated,6
+vntext.sq#54199,vntext.sq,NOVA,Well... in that case... care to join me for some fresh air?,Что ж... в таком случае... не хочешь составить мне компанию на свежем воздухе?,translated,59
+vntext.sq#54202,vntext.sq,NOVA,"Well, here we are... couldn't have asked for a better stage...","Что ж, вот мы и здесь... лучшей сцены и не пожелать...",translated,62
+vntext.sq#54203,vntext.sq,NOVA,"Count yourself lucky, not a lot of people can say they've seen me work... you've got front row seats to a live performance.","Считай, тебе повезло, не многие могут сказать, что видели меня за работой... у тебя места в первом ряду на живое выступление.",translated,123
+vntext.sq#54205,vntext.sq,NOVA,"Heh, cute, but just like when we first met — you're way off the mark.","Хех, мило, но, как и при нашей первой встрече — ты сильно промахнулся.",translated,69
+vntext.sq#54206,vntext.sq,NOVA,"Think I'm a dancer? Flattering, but you've got to think bigger.","Думаешь, я танцовщица? Лестно, но тебе нужно мыслить масштабнее.",translated,63
+vntext.sq#54208,vntext.sq,NOVA,"Cos for this masterpiece... I'm not just painting the walls, I'm riding them!","Потому что для этого шедевра... я не просто рисую на стенах, я на них катаюсь!",translated,77
+vntext.sq#54209,vntext.sq,NOVA,Hrgghhh!,Хррггх!,translated,8
+vntext.sq#54210,vntext.sq,NOVA,Ha!,Ха!,translated,3
+vntext.sq#54211,vntext.sq,NOVA,Hrahhh!,Храааx!,translated,7
+vntext.sq#54212,vntext.sq,NOVA,"All this time... I'd be thinking... of you, Ceres...","Всё это время... я думала... о тебе, Церес...",translated,52
+vntext.sq#54213,vntext.sq,NOVA,"Every stroke, every little bit of color... it was what I imagined it would be like if you were here.","Каждый мазок, каждый кусочек цвета... это было то, что я представляла себе, если бы ты была здесь.",translated,100
+vntext.sq#54214,vntext.sq,NOVA,Because even if you're gone... I still feel you... and I know — talk like that sounds like fairy tales.,Потому что даже если тебя нет... я всё равно чувствую тебя... и знаю — такие разговоры звучат как сказки.,translated,103
+vntext.sq#54215,vntext.sq,NOVA,But you told me once... when stars die... their last light is so bright... that it lights up the sky even millions of years after it's gone!,"Но ты как-то сказала мне... когда звёзды умирают... их последний свет настолько яркий... что он освещает небо даже спустя миллионы лет после того, как их не стало!",translated,140
+vntext.sq#54216,vntext.sq,NOVA,"What was that called again, Ceres? Heh... yeah, that's right... a supernova...","Как это называлось, Церес? Хех... да, точно... сверхновая...",translated,78
+vntext.sq#54217,vntext.sq,NOVA,"And that trick of science or physics or whatever... it only works if someone is there to look up at the sky and see you... past the sun, the moon... across time and all the little space bears in between.","И этот трюк науки, или физики, или чего там ещё... он работает только если кто-то смотрит вверх на небо и видит тебя... мимо солнца, луны... через время и всех маленьких космических медвежат между ними.",translated,203
+vntext.sq#54218,vntext.sq,NOVA,"So here I am, Ceres! I see you! We're both still here.","Так что вот она я, Церес! Я вижу тебя! Мы обе всё ещё здесь.",translated,54
+vntext.sq#54219,vntext.sq,NOVA,Even in a world with starless nights... we're both still here...,Даже в мире с беззвёздными ночами... мы обе всё ещё здесь...,translated,64
+vntext.sq#54220,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54222,vntext.sq,NOVA,…,…,translated,1
+vntext.sq#54224,vntext.sq,NOVA,Hey {$mcName}... What’s up?,"Привет, {$mcName}... как дела?",translated,27
+vntext.sq#54226,vntext.sq,NOVA,Heh…,Хех...,translated,4
+vntext.sq#54227,vntext.sq,NOVA,That last one hits a bit too close to home though.,Хотя последнее задевает слишком уж близко к сердцу.,translated,50
+vntext.sq#54229,vntext.sq,NOVA,Well...,Ну...,translated,7
+vntext.sq#54230,vntext.sq,NOVA,Tried to fix him up... but then I realized...,Попыталась его починить... но потом поняла...,translated,45
+vntext.sq#54231,vntext.sq,NOVA,Maybe I should keep him like this.,"Может, стоит оставить его таким.",translated,34
+vntext.sq#54232,vntext.sq,NOVA,As a reminder... Ceres doesn't get to come back... so neither should Space Bear.,Как напоминание... Церес не может вернуться... так что и Космо-Мишка не должен.,translated,80
+vntext.sq#54233,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54235,vntext.sq,NOVA,Guess I'll put him in a box somewhere. It's fine...,"Наверное, положу его куда-нибудь в коробку. Всё нормально...",translated,51
+vntext.sq#54236,vntext.sq,NOVA,Ceres... she...,Церес... она...,translated,15
+vntext.sq#54237,vntext.sq,NOVA,She hoped it would keep me company.,"Она надеялась, что он составит мне компанию.",translated,35
+vntext.sq#54238,vntext.sq,NOVA,She was always like that... leaving all these little things... almost like she wanted to make sure someone was looking after me... even when she wasn't around.,"Она всегда была такой... оставляла все эти маленькие вещи... почти как будто хотела убедиться, что кто-то за мной присматривает... даже когда её нет рядом.",translated,159
+vntext.sq#54239,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54240,vntext.sq,NOVA,"But that's not really the case, is it?","Но это ведь не совсем так, да?",translated,38
+vntext.sq#54241,vntext.sq,NOVA,Looks like you were right after all.,"Похоже, ты всё же была права.",translated,36
+vntext.sq#54242,vntext.sq,NOVA,We gotta rely on ourselves.,Нам приходится полагаться на самих себя.,translated,27
+vntext.sq#54243,vntext.sq,NOVA,There's only room for one person on a skateboard.,На скейтборде есть место только для одного человека.,translated,49
+vntext.sq#54244,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54245,vntext.sq,NOVA,This whole time I've been in San Mazo. I've been trying so hard to find a piece of Ceres...,"Всё это время, пока я была в Сан-Мазо, я изо всех сил пыталась найти частичку Церес...",translated,91
+vntext.sq#54246,vntext.sq,NOVA,And when that didn't work out... I tried my best to leave pieces of Ceres here...,А когда это не сработало... я изо всех сил старалась оставить частички Церес здесь...,translated,81
+vntext.sq#54247,vntext.sq,NOVA,It was like... a puzzle I had to solve... or some enemy I had to get strangle information out of...,"Это было как... головоломка, которую мне нужно было решить... или какой-то враг, из которого нужно было выдавить информацию...",translated,99
+vntext.sq#54248,vntext.sq,NOVA,Like the whole city was my enemy.,Будто весь город был моим врагом.,translated,33
+vntext.sq#54250,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54253,vntext.sq,NOVA,"Friend, huh?","Друга, значит?",translated,12
+vntext.sq#54254,vntext.sq,NOVA,"Gotta say, I'm touched.","Должна сказать, я тронута.",translated,23
+vntext.sq#54255,vntext.sq,NOVA,But that's the thing about living life on wheels.,Но в этом-то и суть жизни на колёсах.,translated,49
+vntext.sq#54256,vntext.sq,NOVA,Moving fast makes it hard for people to run alongside you.,"Когда движешься быстро, людям тяжело бежать рядом с тобой.",translated,58
+vntext.sq#54258,vntext.sq,NOVA,...?,...?,translated,4
+vntext.sq#54261,vntext.sq,NOVA,Cos if you move fast enough you can outrun anything...,"Потому что если двигаться достаточно быстро, можно обогнать что угодно...",translated,54
+vntext.sq#54263,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54264,vntext.sq,NOVA,No... not me...,Нет... не меня...,translated,15
+vntext.sq#54265,vntext.sq,NOVA,And on that note... I'm thinking it might be time for me to pack up my things and hit the road soon.,"И раз уж об этом зашла речь... думаю, мне скоро пора собрать вещи и отправиться в путь.",translated,100
+vntext.sq#54267,vntext.sq,NOVA,Not right away... but... yeah...,Не прямо сейчас... но... да...,translated,32
+vntext.sq#54268,vntext.sq,NOVA,There's hundreds of other cities... hundreds of other places to make a mark on.,"Есть сотни других городов... сотни других мест, где можно оставить след.",translated,79
+vntext.sq#54269,vntext.sq,NOVA,"And sure, my tags may not last.","И конечно, мои теги, может, и не продержатся долго.",translated,31
+vntext.sq#54270,vntext.sq,NOVA,But if I do it enough times... paint the words across the world.,Но если делать это достаточно много раз... разрисовывать слова по всему миру.,translated,64
+vntext.sq#54271,vntext.sq,NOVA,Maybe I'll start to believe it myself...,"Может, я и сама начну в это верить...",translated,40
+vntext.sq#54272,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54273,vntext.sq,NOVA,"I mean, you're doing the same thing, aren't you?","В смысле, ты же делаешь то же самое, разве нет?",translated,48
+vntext.sq#54275,vntext.sq,NOVA,"Giving out moods, making donuts again and again. Hundreds and hundreds of times...","Раздаёшь настроения, делаешь пончики снова и снова. Сотни и сотни раз...",translated,82
+vntext.sq#54276,vntext.sq,NOVA,"Making people feel happy, making them feel ${relaxed}... feeling honest and ${inspired} and everything else in between.","Делаешь людей счастливыми, заставляешь их чувствовать ${relaxed}... честными и ${inspired}, и всё остальное между этим.",translated,119
+vntext.sq#54277,vntext.sq,NOVA,"What are you trying to trick yourself into believing, Marshmallow?","Во что ты пытаешься заставить себя поверить, Маршмеллоу?",translated,66
+vntext.sq#54279,vntext.sq,NOVA,Food for thought.,Пища для размышлений.,translated,17
+vntext.sq#54280,vntext.sq,NOVA,"And... thanks... for the company. For the words, for the moods... even it was all temporary.","И... спасибо... за компанию. За слова, за настроения... даже если всё это было временным.",translated,92
+vntext.sq#54281,vntext.sq,NOVA,I'll see you around.,Увидимся.,translated,20
+vntext.sq#54283,vntext.sq,NOVA,...,...,translated,3
+vntext.sq#54284,vntext.sq,NOVA,You know I never will...,"Ты же знаешь, я никогда не буду...",translated,24
+vntext.sq#54286,vntext.sq,NOVA,"Marshmallow, lookin' good.","Маршмеллоу, выглядишь неплохо.",translated,26
+vntext.sq#54288,vntext.sq,NOVA,Of course.,Конечно.,translated,10
+vntext.sq#54289,vntext.sq,NOVA,Give me a donut that's got some {$colors:blue} and ${yellows} ${glazes} with just a dash of {$colors:green} for the {$decor:filling} and {$decor:drizzle}.,Дай мне пончик с {$colors:blue} и ${yellows} ${glazes} с капелькой {$colors:green} для {$decor:filling} и {$decor:drizzle}.,translated,154
+vntext.sq#54296,vntext.sq,NOVA,It's a {$glaze:multiglaze} donut with {$flavors:methberry} and {$flavors:lemon_acid}. And I want {$flavors:matchajuana} for the {$decor:filling} and {$decor:drizzle}. And any {$flavors:chococaine} {$decor:topping}.,Это пончик {$glaze:multiglaze} с {$flavors:methberry} и {$flavors:lemon_acid}. И хочу {$flavors:matchajuana} для {$decor:filling} и {$decor:drizzle}. И любой {$flavors:chococaine} {$decor:topping}.,translated,214
+vntext.sq#54303,vntext.sq,NOVA,"Marshmallow, I'm in the mood for a donut, word on the street says you're the best.","Маршмеллоу, у меня настроение на пончик, на улицах говорят, что ты лучший.",translated,82
+vntext.sq#54305,vntext.sq,NOVA,"Hmmmm, I'm thinking of painting you another picture. Give me a donut from your recipe list that best captures it, okay?","Хмммм, думаю нарисовать тебе ещё одну картину. Дай мне пончик из своего списка рецептов, который лучше всего её передаст, ладно?",translated,119
+vntext.sq#54307,vntext.sq,NOVA,"Picture this, a snowy {$colors:white} landscape, it's cold and icy, all ${blues} and ${whites}... but you can just see the {$colors:brown} ground poking out from underneath the snow.","Представь: снежный {$colors:white} пейзаж, холодный и ледяной, весь в ${blues} и ${whites}... но видно, как {$colors:brown} земля проглядывает из-под снега.",translated,182
+vntext.sq#54314,vntext.sq,NOVA,It's a {$recipe:winter_wonderland}.,Это {$recipe:winter_wonderland}.,translated,35
+vntext.sq#54321,vntext.sq,NOVA,Partner in crime. I'm cooking up my next... 'project'.,Подельник. Я готовлю свой следующий... 'проект'.,translated,54
+vntext.sq#54323,vntext.sq,NOVA,"Yeah, and to prepare, I'd like a donut to really get me in the mood.","Да, и для подготовки хочу пончик, который правда настроит меня как надо.",translated,68
+vntext.sq#54324,vntext.sq,NOVA,"So, I'm thinking shades of {$colors:red} and {$colors:brown} for the ${glazes}, dark colors to give me that biting edge, so I'm really in the zone.","Так что я думаю про оттенки {$colors:red} и {$colors:brown} для ${glazes}, тёмные цвета, чтобы придать мне ту едкую остроту, чтобы я была прямо в потоке.",translated,147
+vntext.sq#54325,vntext.sq,NOVA,"Then top it all off with a criss-cross pattern of some {$flavors:lemon_acid} {$moods:inspiration}, cos of course, I need to be in that creative headspace.","А потом сверху узор крест-накрест из {$flavors:lemon_acid} {$moods:inspiration}, потому что, конечно, мне нужно быть в том творческом настрое.",translated,154
+vntext.sq#54332,vntext.sq,NOVA,"It's a {$glaze:multiglaze} with {$flavors:roid_velvet} and {$flavors:chococaine}, with a criss cross pattern of {$flavors:lemon_acid}.","Это {$glaze:multiglaze} с {$flavors:roid_velvet} и {$flavors:chococaine}, с узором крест-накрест из {$flavors:lemon_acid}.",translated,134
+vntext.sq#54339,vntext.sq,NOVA,"Nova, passing by~","Нова, проездом~",translated,17
+vntext.sq#54341,vntext.sq,NOVA,"Still prepping my next big piece of art, but I was skating by and I thought, I could use a donut!","Всё ещё готовлю свою следующую большую работу, но каталась мимо и подумала, что мне бы не помешал пончик!",translated,97
+vntext.sq#54342,vntext.sq,NOVA,"So... here's the concept: A flower. Growing strong, glowing with colors as bright as the sky on a sunny day.","Так... вот концепция: цветок. Растёт сильным, сияет цветами такими же яркими, как небо в солнечный день.",translated,108
+vntext.sq#54343,vntext.sq,NOVA,"A flower. Growing strong, glowing with colors as bright as the sky on a sunny day.","Цветок. Растёт сильным, сияет цветами такими же яркими, как небо в солнечный день.",translated,82
+vntext.sq#54350,vntext.sq,NOVA,It's the {$recipe:sunflower} from your recipe list.,Это {$recipe:sunflower} из твоего списка рецептов.,translated,51
+vntext.sq#54357,vntext.sq,NOVA,Hey...,Привет...,translated,6
+vntext.sq#54359,vntext.sq,NOVA,Heh... been trying hard to find a spark of color in this city... but right now? I'm just hungry.,Хех... изо всех сил пыталась найти искру цвета в этом городе... но сейчас? Я просто голодна.,translated,96
+vntext.sq#54364,vntext.sq,NOVA,Sure.,Ну да.,translated,5
+vntext.sq#54366,vntext.sq,NOVA,Whew... was just skating by... thought I'd get a donut to energize.,"Фух... просто каталась мимо... подумала, возьму пончик, чтобы зарядиться энергией.",translated,67
+vntext.sq#54368,vntext.sq,NOVA,"If I tire myself out enough, maybe something will come to me... but right now... I'm at a loss of what really to do next in this city.","Если достаточно вымотаюсь, может, что-то придёт мне в голову... но прямо сейчас... я не знаю, что делать дальше в этом городе.",translated,134
+vntext.sq#54369,vntext.sq,NOVA,Can I... can I have something that'll get that spark going again? And can you make it a {$heavy} and {$textures:crunchy} {$longjohn} donut with {$decor:filling}?,"Можно... можно мне что-нибудь, что снова зажжёт ту искру? И можешь сделать это {$heavy} и {$textures:crunchy} {$longjohn} пончиком с {$decor:filling}?",translated,161
+vntext.sq#54375,vntext.sq,NOVA,Space Bear's been good company... thanks again for looking out for him.,"Космо-Мишка был хорошей компанией... ещё раз спасибо, что присмотрел за ним.",translated,71
+vntext.sq#54377,vntext.sq,NOVA,He has...,Так и есть...,translated,9
+vntext.sq#54378,vntext.sq,NOVA,Just look at him now...,Ты только посмотри на него сейчас...,translated,23
+vntext.sq#54379,vntext.sq,NOVA,Actually... how about this... can you make me a donut that you think best represents Space Bear?,"Вообще-то... как насчёт этого... можешь сделать мне пончик, который, по-твоему, лучше всего представляет Космо-Мишку?",translated,96
+vntext.sq#54386,vntext.sq,NOVA,"Any donut with {$flavors:strawpium}, {$flavors:methberry}, and {$flavors:lemon_acid} flavors. Plus points if you put a star!","Любой пончик со вкусами {$flavors:strawpium}, {$flavors:methberry} и {$flavors:lemon_acid}. Плюс очки, если добавишь звёздочку!",translated,124
+vntext.sq#54393,vntext.sq,NOVA,Marshmallow... how's it going?,Маршмеллоу... как оно?,translated,30
+vntext.sq#54395,vntext.sq,NOVA,"Hey... why don't you cook up a donut that kind of looks like me, okay?","Слушай... а сделай-ка мне пончик, который немного похож на меня, ладно?",translated,70
+vntext.sq#54396,vntext.sq,NOVA,I'm sure you've got an artist's eye. Track my colors and find ways to put that all on a donut.,"Уверена, у тебя есть глаз художника. Подмечай мои цвета и найди способ передать всё это на пончике.",translated,94
+vntext.sq#54397,vntext.sq,NOVA,Oh and can you make sure it's got {$toppings:marshmollies} on it too? Cos I think you deserve some recognition as well.,"Ах, и не забудь добавить туда {$toppings:marshmollies}? Потому что, думаю, ты тоже заслуживаешь признания.",translated,119
+vntext.sq#54404,vntext.sq,NOVA,Really? Fine. Hmmmm...,Правда? Ладно. Хмммм...,translated,22
+vntext.sq#54405,vntext.sq,NOVA,"It's {$flavors:methberry} and {$flavors:strawpium}... a drawing of a star also hits the brief, you know? Don't forget the {$toppings:marshmollies}, marshmallow.","Это {$flavors:methberry} и {$flavors:strawpium}... рисунок звезды тоже попадает в задание, знаешь? Не забудь {$toppings:marshmollies}, маршмеллоу.",translated,160
+vntext.sq#54412,vntext.sq,NOVA,The night's looking bright. City is full of life.,Ночь выглядит яркой. Город полон жизни.,translated,49
+vntext.sq#54414,vntext.sq,NOVA,Same.,Взаимно.,translated,5
+vntext.sq#54416,vntext.sq,NOVA,I'll have a {$recipe:san_mazo_sunset}... after falling in love with the real thing... the donut's kind of grown on me.,Возьму {$recipe:san_mazo_sunset}... после того как влюбилась в настоящий закат... этот пончик как-то запал мне в душу.,translated,118
+vntext.sq#54423,vntext.sq,NOVA,I'll have a {$recipe:fight_club}. Really like the punch it gives to my skating tricks!,"Возьму {$recipe:fight_club}. Реально нравится, какой заряд он даёт моим трюкам на скейте!",translated,86
+vntext.sq#54427,vntext.sq,NOVA,Hey there!,Приветствую!,translated,10
+vntext.sq#54430,vntext.sq,NOVA,Can I have an {$recipe:angels_reverie}? Helps me think about... an angel I used to know.,"Можно мне {$recipe:angels_reverie}? Помогает думать о... ангеле, которого я знала.",translated,88
+vntext.sq#54433,vntext.sq,NOVA,pink's always been a fun color to paint with,розовый всегда был весёлым цветом для рисования,translated,44
+vntext.sq#54434,vntext.sq,NOVA,in fact I think I'd be game for a flavor that's a nice strawberry pink,"вообще-то думаю, я бы не отказалась от вкуса приятного клубнично-розового цвета",translated,70
+vntext.sq#54435,vntext.sq,NOVA,"i'll skate by once you've got it, k?","заеду, как только он у тебя появится, ок?",translated,36
+vntext.sq#54436,vntext.sq,NOVA,"always liked the color green — grassy fields, rolling hills, the mid point between blue and yellow","всегда любила зелёный цвет — травяные поля, холмы, середина между синим и жёлтым",translated,98
+vntext.sq#54437,vntext.sq,NOVA,"let me know if you've got some green flavored mood enhancers like matcha, i'll roll on by if you do!","дай знать, если у тебя появятся какие-нибудь зелёные усилители настроения вроде матчи, заеду, если будут!",translated,100
+vntext.sq#54438,vntext.sq,NOVA,"orange, the color of sunsets, pumpkins, and traffic cones","оранжевый, цвет закатов, тыкв и дорожных конусов",translated,57
+vntext.sq#54439,vntext.sq,NOVA,i'm interested in trying it out an orange flavor one of these days. i'll stop by once you've got some!,"мне интересно как-нибудь попробовать оранжевый вкус. загляну, как только он у тебя появится!",translated,102
+vntext.sq#54440,vntext.sq,NOVA,hey there Marshmallow! Nova here,"привет, Маршмеллоу! это Нова",translated,32
+vntext.sq#54441,vntext.sq,NOVA,wanted to thank you again for offering a safe haven for a fellow rebel on the run,"хотела ещё раз поблагодарить тебя за то, что предложил убежище товарищу-бунтарке в бегах",translated,81
+vntext.sq#54442,vntext.sq,NOVA,"by the way, i wanted to ask, for someone who's new, what's a thing that locals usually do here at San Mazo?","кстати, хотела спросить, для новичка — чем обычно занимаются местные здесь, в Сан-Мазо?",translated,107
+vntext.sq#54448,vntext.sq,NOVA,huh... funny... someone i knew used to say something along those lines as well...,хм... забавно... кое-кто из моих знакомых тоже говорил что-то в этом духе...,translated,81
+vntext.sq#54449,vntext.sq,NOVA,"but... sunsets, really? i could do that anywhere","но... закаты, серьёзно? это я могла бы делать где угодно",translated,48
+vntext.sq#54450,vntext.sq,NOVA,"and don't get me wrong, the clash of colors across a canvas of clouds — i get it","и не пойми неправильно, столкновение цветов на холсте облаков — я понимаю",translated,80
+vntext.sq#54451,vntext.sq,NOVA,"but... well, sunsets to me have always felt like saying goodbye to the day","но... ну, закаты для меня всегда ощущались как прощание с днём",translated,74
+vntext.sq#54452,vntext.sq,NOVA,and i don't to goodbyes very well...,а прощания у меня не очень хорошо получаются...,translated,36
+vntext.sq#54457,vntext.sq,NOVA,"partying, huh? well, i'm game for drinking and music as much as the next girl but...","тусовки, значит? ну, я не прочь выпить и послушать музыку не хуже любой другой девушки, но...",translated,84
+vntext.sq#54458,vntext.sq,NOVA,haven't really been in a partying mood lately,в последнее время как-то не в настроении тусоваться,translated,45
+vntext.sq#54459,vntext.sq,NOVA,people talking big trying to look cool putting their best foot forward,"люди много болтают, пытаясь выглядеть круто, показывая себя с лучшей стороны",translated,70
+vntext.sq#54460,vntext.sq,NOVA,but my feet have always been more comfortable on a set of wheels,но моим ногам всегда было удобнее на колёсах,translated,64
+vntext.sq#54463,vntext.sq,NOVA,"heh, you can't skate on sand — though surfing however...","хех, на песке не покатаешься на скейте — хотя сёрфинг, впрочем...",translated,56
+vntext.sq#54464,vntext.sq,NOVA,wonder how quickly i can learn it,"интересно, как быстро я смогла бы этому научиться",translated,33
+vntext.sq#54465,vntext.sq,NOVA,"though as tempting as that is, i still prefer surfing on good old concrete with my skateboard","хотя это и заманчиво, я всё же предпочитаю кататься по старому доброму бетону на своём скейте",translated,93
+vntext.sq#54466,vntext.sq,NOVA,"well, i'm here to stay","ну, я тут надолго",translated,22
+vntext.sq#54467,vntext.sq,NOVA,i suppose i'll find something to do,"полагаю, найду себе занятие",translated,35
+vntext.sq#54468,vntext.sq,NOVA,"anyway thanks for advice, i appreciate having a local informant","в любом случае спасибо за совет, ценю, что у меня есть местный информатор",translated,63
+vntext.sq#54472,vntext.sq,NOVA,you know i won't ⭐,"ты же знаешь, не буду ⭐",translated,18
+vntext.sq#54474,vntext.sq,NOVA,you know i won't ⭐,"ты же знаешь, не буду ⭐",translated,18
+vntext.sq#54475,vntext.sq,NOVA,"so i saw this post... so it's a high profile spot and reservations are hard to come by, right?","так вот я видела этот пост... так это высококлассное место, и с бронью там сложно, да?",translated,94
+vntext.sq#54476,vntext.sq,NOVA,hmmmm,хмммм,translated,5
+vntext.sq#54477,vntext.sq,NOVA,"on a scale of one to ten, how would you rate their security? asking for a friend","по шкале от одного до десяти, как бы ты оценил их охрану? спрашиваю для друга",translated,80
+vntext.sq#54478,vntext.sq,NOVA,"gimme some juicy details, my marshmallow informant","выкладывай подробности, мой зефирный информатор",translated,50
+vntext.sq#54483,vntext.sq,NOVA,but that's what makes it more appealing,но это как раз и делает его привлекательнее,translated,39
+vntext.sq#54484,vntext.sq,NOVA,"the path of a vandal ain't easy, i'm in this for the ride — the thrill, you know?","путь вандала нелёгок, я в этом ради самого пути — ради адреналина, понимаешь?",translated,81
+vntext.sq#54486,vntext.sq,NOVA,so mission difficulty: deadly? as in one slip up and i could be done for?,то есть сложность миссии: смертельно? типа один промах и мне конец?,translated,73
+vntext.sq#54487,vntext.sq,NOVA,"oh yesss, that's the kind of thrill i'm after! i am so turned on right now let's go!","оо даааа, вот такой адреналин мне и нужен! я аж завелась, погнали!",translated,84
+vntext.sq#54489,vntext.sq,NOVA,oh sweet! i've got an in!,"о, класс! у меня есть свои каналы!",translated,25
+vntext.sq#54490,vntext.sq,NOVA,"hahaha thanks for the cheat code, informant!","хахаха спасибо за чит-код, информатор!",translated,44
+vntext.sq#54491,vntext.sq,NOVA,you've saved me a lot of time!,ты сэкономила мне кучу времени!,translated,30
+vntext.sq#54492,vntext.sq,NOVA,"and if I do get caught, well, tell them to make sure my gravestone's shaped like a skateboard","а если меня поймают, ну, скажи им, чтоб надгробие сделали в форме скейта",translated,93
+vntext.sq#54497,vntext.sq,NOVA,"yeah yeah i will, don't worry I'll be fine, in all seriousness i've skated with devils before","да да, буду, не переживай, всё будет норм, если серьёзно, я уже каталась рядом с дьяволами раньше",translated,93
+vntext.sq#54499,vntext.sq,NOVA,"nope, my heart is set","не-а, я уже решила",translated,21
+vntext.sq#54500,vntext.sq,NOVA,"but don't worry, i've got an excellent track record, i'll be fine","но не переживай, у меня отличный послужной список, всё будет норм",translated,65
+vntext.sq#54502,vntext.sq,NOVA,"i'm sticking to this brand even in death, Marshmallow, I'm COMMITTING","я верна этому бренду даже после смерти, Зефирка, я НЕ ОТСТУПЛЮ",translated,69
+vntext.sq#54503,vntext.sq,NOVA,besides... i'm not really finding anything else to do here...,к тому же... я тут больше ничем особо не занята...,translated,61
+vntext.sq#54504,vntext.sq,NOVA,maybe this is just what I need to do,"может, это как раз то, что мне нужно сделать",translated,36
+vntext.sq#54505,vntext.sq,NOVA,see you around marshmallow informant,"увидимся, зефирный информатор",translated,36
+vntext.sq#54506,vntext.sq,NOVA,just passed by some public art and it is begging for me to grind on it,"прошла мимо уличного арта, и он прямо умоляет меня по нему прокатиться",translated,70
+vntext.sq#54510,vntext.sq,NOVA,yyyssrree,дааасссь,translated,9
+vntext.sq#54511,vntext.sq,NOVA,ys sur cya,да канеш пока,translated,10
+vntext.sq#54513,vntext.sq,NOVA,yss s yaaa,дасс с яааа,translated,10
+vntext.sq#54514,vntext.sq,NOVA,c ya,пока,translated,4
+vntext.sq#54515,vntext.sq,NOVA,you know what?,знаешь что?,translated,14
+vntext.sq#54516,vntext.sq,NOVA,i get it,я поняла,translated,8
+vntext.sq#54517,vntext.sq,NOVA,it is beautiful,это красиво,translated,15
+vntext.sq#54518,vntext.sq,NOVA,always been more of a night sky type of person,я всегда была больше по ночному небу,translated,46
+vntext.sq#54519,vntext.sq,NOVA,and the fact that sunsets don't last too long always bummed me out,"и то, что закаты длятся недолго, всегда меня расстраивало",translated,66
+vntext.sq#54520,vntext.sq,NOVA,i'd do some skateboard tricks or get distracted by a video on my phone and then suddenly... poof it'd be over,"делала трюки на скейте или отвлекалась на видео в телефоне, и вдруг... пуф, и всё уже кончилось",translated,109
+vntext.sq#54521,vntext.sq,NOVA,but watching the sunset... this time I made sure not to look away. breathe it in,но глядя на закат... в этот раз я не отводила взгляд. вдыхала это,translated,80
+vntext.sq#54522,vntext.sq,NOVA,"even if it didn't last long, I was grateful for its company","даже если это ненадолго, я была благодарна за эту компанию",translated,59
+vntext.sq#54523,vntext.sq,NOVA,how about you? how do you feel about sunsets?,а ты? как ты относишься к закатам?,translated,45
+vntext.sq#54529,vntext.sq,NOVA,i didn't get them as well at first. glad that it ended up growing on both of us,"я тоже не сразу их понял. рад, что в итоге нам обоим они полюбились",translated,79
+vntext.sq#54533,vntext.sq,NOVA,"cheers to that then, to the sunset and the night sky that follows soon after","тогда за это, за закат и ночное небо, что вскоре за ним следует",translated,76
+vntext.sq#54537,vntext.sq,NOVA,"whatever it is you're putting off, you gotta face it with open arms Marshmallow","что бы ты ни откладывала, встреть это с распростёртыми объятиями, Зефирка",translated,79
+vntext.sq#54538,vntext.sq,NOVA,i learned that from you,я этому у тебя научилась,translated,23
+vntext.sq#54539,vntext.sq,NOVA,thanks again for our talk last time. space bear thanks you as well,ещё раз спасибо за прошлый разговор. космический мишка тоже благодарит,translated,66
+vntext.sq#54540,vntext.sq,NOVA,"i still have a lot to figure out, but this city... it's been growing on me","мне ещё многое предстоит понять, но этот город... он мне всё больше нравится",translated,74
+vntext.sq#54541,vntext.sq,NOVA,"see you soon, Marshmallow","скоро увидимся, Зефирка",translated,25
+vntext.sq#54545,vntext.sq,NOVA,you know i won't ⭐,"ты же знаешь, не буду ⭐",translated,18
+vntext.sq#54547,vntext.sq,NOVA,you know i won't ⭐,"ты же знаешь, не буду ⭐",translated,18
+vntext.sq#54548,vntext.sq,NOVA,tried visiting this place the other day,на днях заглянула сюда,translated,39
+vntext.sq#54549,vntext.sq,NOVA,bumped into this girl wearing a chicken suit,наткнулась на девчонку в костюме курицы,translated,44
+vntext.sq#54550,vntext.sq,NOVA,figured she was some sort of mascot or something but like... she just liked wearing the chicken suit?,"думала, она типа маскот или вроде того, но она типа... просто любит носить костюм курицы?",translated,101
+vntext.sq#54551,vntext.sq,NOVA,so lay this on me straight... what's up San Mazo and chickens?,"так, давай начистоту... что у San Mazo с курицами?",translated,62
+vntext.sq#54558,vntext.sq,NOVA,"yeah, i get that, but like... kind of weird to lean into the whole thing that hard","ага, понимаю, но типа... немного странно так сильно на этом зацикливаться",translated,82
+vntext.sq#54559,vntext.sq,NOVA,"then again... skater girl with an obsession with stars so, i'm not one to talk. and i do love myself some chicken 😂","хотя... скейтерша с одержимостью звёздами, так что я не в том положении, чтоб судить. да и курочку я люблю 😂",translated,115
+vntext.sq#54561,vntext.sq,NOVA,"huh, when you put it like that, I kind of get it","хм, если так посмотреть, я вроде как понимаю",translated,48
+vntext.sq#54562,vntext.sq,NOVA,"well, in any case, i didn't want to disturb the chickens so i ended up just tagging the an old shed out back, not the flashiest of places, but the people there seemed nice and i didn't wanna inconvenience them","ну, в любом случае, не хотела беспокоить кур, так что разрисовала старый сарай на заднем дворе, не самое эффектное место, но люди там показались приятными, и не хотела их напрягать",translated,209
+vntext.sq#54563,vntext.sq,NOVA,see u later Marshmallow!⭐,"увидимся, Зефирка!⭐",translated,25
+vntext.sq#54564,vntext.sq,NOVA,"okay, gonna be honest, this park sucks","ладно, если честно, этот парк отстой",translated,38
+vntext.sq#54565,vntext.sq,NOVA,granted i've never been that into theme parks,"хотя, признаю, я никогда особо не фанатела от парков развлечений",translated,45
+vntext.sq#54566,vntext.sq,NOVA,"roller coasters, and ghost train rides — i don't get the point of experiencing speed if you're not the one in control","американские горки, поезда-призраки — не понимаю смысла в скорости, если не ты сам за рулём",translated,117
+vntext.sq#54567,vntext.sq,NOVA,it seems like an easy mode,это как режим для новичков,translated,26
+vntext.sq#54568,vntext.sq,NOVA,"i'd rather master a skill — that way i'm in charge, and not some teenager operating a booth","лучше освою навык — тогда всё под моим контролем, а не под контролем какого-то подростка у будки",translated,91
+vntext.sq#54569,vntext.sq,NOVA,how about you? what're your thoughts on theme parks,а ты? что думаешь насчёт парков развлечений,translated,51
+vntext.sq#54574,vntext.sq,NOVA,yeah that's another thing. LINES. you're telling me i get three minutes of speed but to get there i need to stand still for thirty minutes???,"ага, вот ещё что. ОЧЕРЕДИ. то есть три минуты скорости стоят того, чтобы полчаса торчать на месте???",translated,141
+vntext.sq#54575,vntext.sq,NOVA,not. worth. it,не. стоит. того,translated,14
+vntext.sq#54577,vntext.sq,NOVA,you should try getting into skating! way more fun,попробуй заняться скейтом! гораздо веселее,translated,49
+vntext.sq#54579,vntext.sq,NOVA,"okay see, that i get!",вот это я понимаю!,translated,21
+vntext.sq#54580,vntext.sq,NOVA,"there's skill involved and sure, some of those are rigged, but that makes beating the system all the more satisfying!","там нужен навык, и да, некоторые аттракционы подстроены, но именно поэтому обыграть систему так приятно!",translated,117
+vntext.sq#54581,vntext.sq,NOVA,"all right, g2g catch a sick half pipe I just passed by","ладно, надо бежать, тут рампа что надо, мимо которой я только что проехала",translated,54
+vntext.sq#54585,vntext.sq,NOVA,you know i won't ⭐,"ты же знаешь, не буду ⭐",translated,18
+vntext.sq#54587,vntext.sq,NOVA,you know i won't ⭐,"ты же знаешь, не буду ⭐",translated,18
+vntext.sq#54588,vntext.sq,NOVA,so I stumbled upon this game,"короче, наткнулась на одну игру",translated,28
+vntext.sq#54589,vntext.sq,NOVA,"and i gotta say, it's really addicting","и скажу честно, реально затягивает",translated,38
+vntext.sq#54590,vntext.sq,NOVA,actually help it's so fun i can't stop playing,"реально, помогите, это так весело, не могу перестать играть",translated,46
+vntext.sq#54591,vntext.sq,NOVA,but... it's more than that,но... дело не только в этом,translated,26
+vntext.sq#54592,vntext.sq,NOVA,whenever i play i feel this... this otherworldy and nostalgic connection to it,"когда играю, чувствую это... какую-то потустороннюю и ностальгическую связь с ней",translated,78
+vntext.sq#54593,vntext.sq,NOVA,okay so weird out of the box question,"так, странный вопрос не по теме",translated,37
+vntext.sq#54594,vntext.sq,NOVA,do you ever feel like you're like... displaced from reality?,"у тебя бывает чувство, будто ты... как бы выпала из реальности?",translated,60
+vntext.sq#54595,vntext.sq,NOVA,like you existed in one world and suddenly you're in another and you're not quite sure why,"будто ты существовала в одном мире, а потом вдруг оказалась в другом, и не совсем понятно почему",translated,90
+vntext.sq#54599,vntext.sq,NOVA,i'm serious!,я серьёзно!,translated,12
+vntext.sq#54600,vntext.sq,NOVA,"like I'm not even trying to be existential or anything, i've just... got a feeling","я даже не пытаюсь философствовать или типа того, просто... есть такое чувство",translated,82
+vntext.sq#54603,vntext.sq,NOVA,"okay, i'd love to say i can relate, but you're on your own in that department","ладно, хотел бы сказать, что понимаю, но тут ты сама по себе",translated,77
+vntext.sq#54604,vntext.sq,NOVA,"anyway, i'll see you around, Marshmallow ⭐","ладно, увидимся, Зефирка ⭐",translated,42
+vntext.sq#55746,vntext.sq,NOVA,"Yo... this is not it, Marshmallow...","Йоу... это не то, Зефирка...",translated,36
+vntext.sq#55748,vntext.sq,NOVA,Now we're talking...,Вот это разговор...,translated,20
+vntext.sq#55749,vntext.sq,NOVA,Uh. Still not the donut I ordered.,"Э. Всё ещё не тот пончик, что я заказывала.",translated,34
+vntext.sq#55751,vntext.sq,NOVA,"You better get some rest, Marshmallow.","Тебе лучше отдохнуть, Зефирка.",translated,38
+vntext.sq#55752,vntext.sq,NOVA,And until then... See you when I see you...,"А до тех пор... увидимся, когда увидимся...",translated,43
+vntext.sq#55757,vntext.sq,NOVA,Still not the donut I ordered...,"Всё ещё не тот пончик, что я заказывала...",translated,32
+vntext.sq#55759,vntext.sq,NOVA,"It's... it's fine. I'll just roll with the punches, I guess...","Это... это нормально. Просто как-нибудь справлюсь, наверное...",translated,62
+vntext.sq#69389,vntext.sq,NOVA,"Glaze did a bit of a vanishing act, huh? I was looking forward to it too...","Глазурь устроила небольшой фокус с исчезновением, да? А я так на неё рассчитывала...",translated,75
+vntext.sq#69391,vntext.sq,NOVA,"I asked for a different glaze, Marshmallow. Weren't you listening?","Я просила другую глазурь, Зефирка. Ты не слушал?",translated,66
+vntext.sq#69393,vntext.sq,NOVA,"Hey, you sure this amount of glaze is fine? You're not shortchanging your customers, are you?","Эй, ты уверен, что этого количества глазури достаточно? Ты же не обсчитываешь клиентов, да?",translated,93
+vntext.sq#69395,vntext.sq,NOVA,"Pretty sure I asked for toppings, Marshmallow~","Довольно уверена, что просила топпинги, Зефирка~",translated,46
+vntext.sq#69397,vntext.sq,NOVA,Did you mess up my toppings? I could swear I asked for something else...,"Ты напортачил с моими топпингами? Могла бы поклясться, что просила что-то другое...",translated,72
+vntext.sq#69399,vntext.sq,NOVA,"This is it? C'mon, you could have added some more toppings on there without breaking the bank!","И это всё? Да ладно, мог бы добавить побольше топпингов, не разоряясь!",translated,94
+vntext.sq#69401,vntext.sq,NOVA,"Where did the drizzle go? Drizzle, come back...","Куда делись потёки? Потёки, вернитесь...",translated,47
+vntext.sq#69403,vntext.sq,NOVA,This drizzle... You sure this is what I asked for?,"Эти потёки... уверен, что это то, что я просила?",translated,50
+vntext.sq#69405,vntext.sq,NOVA,"Hey, this little fwoop of a drizzle isn't enough! My donut deserves better!","Эй, этой капельки потёков недостаточно! Мой пончик заслуживает лучшего!",translated,75
+vntext.sq#69407,vntext.sq,NOVA,"Did you forget the add the filling, Marshmallow?","Ты забыл добавить начинку, Зефирка?",translated,48
+vntext.sq#69409,vntext.sq,NOVA,Whoa! That wasn't the filling I expected... Did I ask for that?,"Ого! Это не та начинка, что я ожидала... Я разве это просила?",translated,63
+vntext.sq#69411,vntext.sq,NOVA,"Whe-ew! This donut's a sight for sore eyes, hehehe!","Уф-ф! На этот пончик больно смотреть, хехехе!",translated,51
+vntext.sq#69413,vntext.sq,NOVA,"This donut's looking a bit top heavy, don'tcha think?","Этот пончик выглядит немного перегруженным сверху, не находишь?",translated,53
+vntext.sq#69417,vntext.sq,NOVA,"This donut could use a pop of color. Like... it needs some glaze, right?","Этому пончику не помешало бы немного цвета. Типа... ему нужна глазурь, да?",translated,72
+vntext.sq#69419,vntext.sq,NOVA,Whoa... is this the glaze I asked for? Is my memory really that bad?,"Ого... это та глазурь, что я просила? У меня правда настолько плохая память?",translated,68
+vntext.sq#69421,vntext.sq,NOVA,"You really couldn't give me more glaze, huh...?","Ты правда не мог дать мне больше глазури, да...?",translated,47
+vntext.sq#69423,vntext.sq,NOVA,"I asked for toppings too. Did you forget, Marshmallow?","Я ещё просила топпинги. Ты забыл, Зефирка?",translated,54
+vntext.sq#69425,vntext.sq,NOVA,"Those are different from the toppings I asked for... You trying to pull a fast one, {$mcName?}","Это не те топпинги, что я просила... Пытаешься меня обвести вокруг пальца, {$mcName?}",translated,94
+vntext.sq#69427,vntext.sq,NOVA,"No way, is the Hotbox going out of business or something? This is all the topping you guys can afford, huh?","Не может быть, у Хотбокса дела так плохи или что? Это всё, на что вы способны с топпингами, да?",translated,107
+vntext.sq#69429,vntext.sq,NOVA,"Oh, hey, did the drizzle vanish while I wasn't looking?","Ох, эй, потёки исчезли, пока я не смотрела?",translated,55
+vntext.sq#69431,vntext.sq,NOVA,"This drizzle ain't it, Marshmallow.","Эти потёки не то, Зефирка.",translated,35
+vntext.sq#69433,vntext.sq,NOVA,I think more drizzle would improve this donut's visual immensely!,"Думаю, больше потёков значительно улучшило бы внешний вид этого пончика!",translated,65
+vntext.sq#69435,vntext.sq,NOVA,"You ever bit into a donut, expecting a flavorbomb and getting the absolute ghost of nothing?","Ты когда-нибудь откусывал пончик, ожидая взрыва вкуса, а получая абсолютное ничто?",translated,92
+vntext.sq#69437,vntext.sq,NOVA,"This ain't the filling I asked for...Is this like, blindboxes but for donuts?","Это не та начинка, что я просила... Это типа слепых коробок, но для пончиков?",translated,77
+vntext.sq#69439,vntext.sq,NOVA,My hands are itching to fix this donut. You think some paint will make it look better?,"У меня руки чешутся исправить этот пончик. Думаешь, немного краски сделает его лучше?",translated,86
+vntext.sq#69441,vntext.sq,NOVA,"Whoa, I like a bit of chaos myself, but not this kind, you get me?","Ого, я и сама люблю немного хаоса, но не такого, понимаешь?",translated,66
+vntext.sq#69445,vntext.sq,NOVA,There's something really important missing from this donut. Like the glaze...?,"В этом пончике не хватает чего-то очень важного. Например, глазури...?",translated,78
+vntext.sq#69447,vntext.sq,NOVA,"Huh. You doing good, Marshmallow? This glaze isn't cutting it... not exactly what I asked for!","Хм. Ты в порядке, Зефирка? Эта глазурь не годится... совсем не то, что я просила!",translated,94
+vntext.sq#69449,vntext.sq,NOVA,"Is this all the glaze you had left? Looking kinda sad, right?","Это вся глазурь, что у тебя осталась? Выглядит как-то грустно, да?",translated,61
+vntext.sq#69451,vntext.sq,NOVA,Where did my toppings go? My donut looks so sad without any...,Куда делись мои топпинги? Мой пончик выглядит таким грустным без них...,translated,62
+vntext.sq#69453,vntext.sq,NOVA,"I asked for different toppings, Marshmallow...","Я просила другие топпинги, Зефирка...",translated,46
+vntext.sq#69455,vntext.sq,NOVA,"I need a microscope to see the toppings, {$mcName}.","Мне нужен микроскоп, чтобы разглядеть топпинги, {$mcName}.",translated,51
+vntext.sq#69457,vntext.sq,NOVA,"Whoa, what happened to my drizzle? Are you all out?","Ого, что случилось с моими потёками? У тебя всё закончилось?",translated,51
+vntext.sq#69459,vntext.sq,NOVA,"Hey, you need to warn me if you decide to change up my drizzle, Marshmallow! A girl needs to prep her heart!","Эй, ты должен предупреждать меня, если решишь поменять мои потёки, Зефирка! Девушке нужно подготовить своё сердце!",translated,108
+vntext.sq#69461,vntext.sq,NOVA,A drop of drizzle in my lonely donut...,Капелька потёков в моём одиноком пончике...,translated,39
+vntext.sq#69463,vntext.sq,NOVA,This donut's filling is... more donut! What happened to the filling I asked for?,"Начинка этого пончика — ещё больше пончика! Что случилось с начинкой, что я просила?",translated,80
+vntext.sq#69465,vntext.sq,NOVA,Surprise filling! What happened to the flavor I asked for?,"Сюрприз-начинка! Что случилось с вкусом, что я просила?",translated,58
+vntext.sq#69467,vntext.sq,NOVA,This donut... has seen some things. It's got that aura about it...,Этот пончик... повидал всякое. От него исходит такая аура...,translated,66
+vntext.sq#69469,vntext.sq,NOVA,"Too many things! This donut is completely overwhelmed, Marshmallow!","Слишком много всего! Этот пончик совсем перегружен, Зефирка!",translated,67
+vntext.sq#69471,vntext.sq,NOVA,"Shapes are important, {$mcName}. Can't believe you got my donut shape wrong...","Формы важны, {$mcName}. Не могу поверить, ты перепутал форму моего пончика...",translated,78
+vntext.sq#69472,vntext.sq,NOVA,"Well, I guess it's fine. I mean, a donut's a donut!","Ну, наверное, всё нормально. В смысле, пончик есть пончик!",translated,51

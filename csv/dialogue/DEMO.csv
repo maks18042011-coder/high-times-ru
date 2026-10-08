@@ -1,0 +1,26 @@
+id,file,context,source,target,status,max_len
+vntext.sq#73379,vntext.sq,DEMO,Oh well. Guess tonight wasn't the night for it.,"Ну и ладно. Видимо, не сегодня.",translated,47
+vntext.sq#73386,vntext.sq,DEMO,"Gimme one {$recipe:white_berry}, please~!","Дай мне один {$recipe:white_berry}, пожалуйста~!",translated,41
+vntext.sq#73387,vntext.sq,DEMO,"Oh, actually, hold up. I have a better idea...","Ой, вообще-то погоди. У меня идея получше...",translated,46
+vntext.sq#73388,vntext.sq,DEMO,Why don't you {$decor:drizzle} something on it? It'll look really pretty that way~,"Может, добавишь {$decor:drizzle} сверху? Так будет очень красиво~",translated,82
+vntext.sq#73389,vntext.sq,DEMO,"Oh, a drizzle request... at least she wasn't very specific on the design.","О, просьба про подтёку... хорошо хоть, она не уточнила насчёт дизайна.",translated,73
+vntext.sq#73390,vntext.sq,DEMO,"The last time someone requested for it, they asked for a dick...","В прошлый раз, когда кто-то это просил, попросили нарисовать член...",translated,64
+vntext.sq#73391,vntext.sq,DEMO,Hmm? Is that a bad idea? I can come up with something else!,Хм? Плохая идея? Я могу придумать что-то другое!,translated,59
+vntext.sq#73392,vntext.sq,DEMO,"Oh, no, no, it's [i] al dente. [/i] Perfect, even?","Ой, нет-нет, всё [i] аль денте. [/i] Даже идеально?",translated,50
+vntext.sq#73393,vntext.sq,DEMO,Better not wait for her to get even more ideas.,"Лучше не дожидаться, пока у неё появятся ещё идеи.",translated,47
+vntext.sq#73394,vntext.sq,DEMO,[i] Al den... [/i] huh?,[i] Аль ден... [/i] чего?,translated,23
+vntext.sq#73403,vntext.sq,DEMO,I'm pretty sure {$recipe:white_berry} is supposed to have glaze... two of them at that...,"Я почти уверена, что у {$recipe:white_berry} должна быть глазурь... причём аж две...",translated,89
+vntext.sq#73405,vntext.sq,DEMO,"Hey, umm, some of those spots are looking a little lonely...","Эй, эм, некоторые места выглядят немного пустовато...",translated,60
+vntext.sq#73406,vntext.sq,DEMO,"Maaaybe a bit more glaze next time, please~?","Может, в следующий раз чуть побольше глазури, пожалуйста~?",translated,44
+vntext.sq#73408,vntext.sq,DEMO,Umm... are you sure that's the right glaze? It looks wrong...,"Эм... ты уверен, что это та глазурь? Выглядит как-то не так...",translated,61
+vntext.sq#73411,vntext.sq,DEMO,Are you sure this is the right one?,"Ты уверен, что это тот самый?",translated,35
+vntext.sq#73413,vntext.sq,DEMO,Umm... I think you forgot to put the rainbow sprinkles...,"Эм... кажется, ты забыл радужную посыпку...",translated,57
+vntext.sq#73414,vntext.sq,DEMO,"Don't forget it next time, please~","Не забудь в следующий раз, пожалуйста~",translated,34
+vntext.sq#73416,vntext.sq,DEMO,These toppings look a bit... different from what I expected...,"Эти топпинги выглядят немного... не так, как я ожидала...",translated,62
+vntext.sq#73418,vntext.sq,DEMO,"Hey, I think you put the wrong drizzle flavor. It's supposed to be {$flavors:chococaine}...","Эй, кажется, ты положил не тот вкус подтёки. Должен был быть {$flavors:chococaine}...",translated,91
+vntext.sq#73420,vntext.sq,DEMO,Umm... the drizzle looks weird... is that really how it's supposed to look?,Эм... подтёка выглядит странно... она правда так должна выглядеть?,translated,75
+vntext.sq#73422,vntext.sq,DEMO,Umm... where's the {$flavors:chococaine} drizzle I asked for?,"Эм... а где подтёка {$flavors:chococaine}, которую я просила?",translated,61
+vntext.sq#73423,vntext.sq,DEMO,"Oh, well... let's see how this tastes...","Ну ладно... посмотрим, каково это на вкус...",translated,40
+vntext.sq#73449,vntext.sq,DEMO,"Well, one of the glazes on that donut is a sincerity mood enhancer... helps people open up.","Ну, одна из глазурей на этом пончике — усилитель искренности... помогает людям раскрыться.",translated,91
+vntext.sq#73473,vntext.sq,DEMO,I'm not getting what I expected from {$flavors:methberry} and {$flavors:vanilla_sky}...,"Я не чувствую того, чего ожидала от {$flavors:methberry} и {$flavors:vanilla_sky}...",translated,87
+vntext.sq#73474,vntext.sq,DEMO,"I mean... this is supposed to be great for cheering up and sincerity, right? I don't feel anything... am I eating it wrong?","В смысле... это же должно отлично поднимать настроение и дарить искренность, да? Я ничего не чувствую... я что, неправильно его ем?",translated,123

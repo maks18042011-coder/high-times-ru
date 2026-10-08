@@ -1,0 +1,10 @@
+work/
+backup/
+dist/HighTimes_RU/
+dist/backup/
+*.zip
+*.sq
+
+__pycache__/
+*.pyc
+.venv/

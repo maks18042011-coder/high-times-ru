@@ -1,0 +1,811 @@
+id,file,context,source,target,status,max_len
+vntext.sq#9972,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#9973,vntext.sq,DETECTIVEFOX,"San Juanico, San Idelora, and now... San Mazo.","Сан-Хуанико, Сан-Идело́ра, а теперь... Сан-Мазо.",translated,46
+vntext.sq#9974,vntext.sq,DETECTIVEFOX,"For a miserable stretch of land with cities named after saints, the west coast has some pretty hard-boiled cases.","Для жалкого клочка земли с городами, названными в честь святых, на западном побережье случаются весьма крутые дела.",translated,113
+vntext.sq#9975,vntext.sq,DETECTIVEFOX,But all it takes is one hard-boiled detective to solve the hard-boiled case of... the Donut Thief.,Но чтобы раскрыть крутое дело... Пончикового Вора... хватит одного крутого детектива.,translated,98
+vntext.sq#9977,vntext.sq,DETECTIVEFOX,Tonight's just like any other night... except it wasn't.,Сегодняшний вечер начинался как любой другой... но им не остался.,translated,56
+vntext.sq#9978,vntext.sq,DETECTIVEFOX,I walked up to the Mood Confectioner. They have a familiar face… a face I’ve seen before.,"Я подошёл к Кондитеру Настроения. У них знакомое лицо… лицо, которое я уже видел раньше.",translated,89
+vntext.sq#9979,vntext.sq,DETECTIVEFOX,It was a face only a blind mother could love. A face you’d see on a can of dog food lying around some alley in the dank streets of Attleset.,"Это было лицо, которое могла бы любить только слепая мать. Лицо, которое встретишь на банке собачьего корма, валяющейся в переулке на сырых улицах Аттлсета.",translated,140
+vntext.sq#9988,vntext.sq,DETECTIVEFOX,...Ahem. Good evening.,...Кхм. Добрый вечер.,translated,22
+vntext.sq#9989,vntext.sq,DETECTIVEFOX,Looks like they heard me...,"Похоже, меня услышали...",translated,27
+vntext.sq#9990,vntext.sq,DETECTIVEFOX,But that doesn’t matter. Mood Confectioners give me trouble... they always do.,Но это неважно. Кондитеры настроения — вечная головная боль... всегда были и будут.,translated,78
+vntext.sq#9991,vntext.sq,DETECTIVEFOX,These guys pride themselves on reading the room... reading emotions... a tough nut to crack for any seasoned detective.,"Эти ребята гордятся тем, что умеют читать комнату... читать эмоции... крепкий орешек для любого опытного детектива.",translated,119
+vntext.sq#9992,vntext.sq,DETECTIVEFOX,"But I'm not any ordinary detective. I'm a hard-boiled detective, tougher than any—","Но я не обычный детектив. Я крутой детектив, покруче любого—",translated,82
+vntext.sq#9994,vntext.sq,DETECTIVEFOX,...Sure. Give me a sec. I’m monologuing.,...Конечно. Секунду. Я тут монолог веду.,translated,40
+vntext.sq#9996,vntext.sq,DETECTIVEFOX,...!,...!,translated,4
+vntext.sq#9997,vntext.sq,DETECTIVEFOX,Profile update: Perp is sharp.,Обновление профиля: подозреваемый — не промах.,translated,30
+vntext.sq#9998,vntext.sq,DETECTIVEFOX,The sound of my voice is usually muffled by my perfectly groomed beard — and much like its color — it looks like we're now playing with fire.,"Звук моего голоса обычно приглушается моей идеально ухоженной бородой — и, судя по её цвету, похоже, мы теперь играем с огнём.",translated,141
+vntext.sq#9999,vntext.sq,DETECTIVEFOX,Hmmm... they're probably enjoying a sensory boost due to a good ol' spoonful of that {$flavors:chococaine} {$moods:focus}...,"Хмм... они, наверное, наслаждаются приливом чувств от доброй старой ложки той {$moods:focus} с {$flavors:chococaine}...",translated,124
+vntext.sq#10001,vntext.sq,DETECTIVEFOX,Hmmmm...,Хмммм...,translated,8
+vntext.sq#10002,vntext.sq,DETECTIVEFOX,"Double take: No... it can't be. Though there's {$flavors:chococaine} stains on their fingers, can't see a trace of the stuff on their lips.","Второй взгляд: нет... не может быть. Хотя на пальцах пятна {$flavors:chococaine}, на губах ни следа этой штуки.",translated,139
+vntext.sq#10003,vntext.sq,DETECTIVEFOX,They're clean of their own mood enhancers. But why?,Они чисты от собственных усилителей настроения. Но почему?,translated,51
+vntext.sq#10004,vntext.sq,DETECTIVEFOX,Perhaps they take pride in the profession. 'No tasting on the job' and all that.,"Может, гордятся своей профессией. 'Никакой дегустации на работе' и всё такое.",translated,80
+vntext.sq#10005,vntext.sq,DETECTIVEFOX,"Or... peering past the donut's hole, perhaps there's something more... a deep and psychological fear of... opening up?","Или... заглянув за дырку пончика, может, там кроется что-то ещё... глубинный психологический страх... открыться?",translated,118
+vntext.sq#10006,vntext.sq,DETECTIVEFOX,Why run away from your emotions? Answer's simple. Their emotions — can kill.,Зачем бежать от своих эмоций? Ответ прост. Их эмоции — могут убить.,translated,76
+vntext.sq#10009,vntext.sq,DETECTIVEFOX,My work's never done.,Моя работа никогда не заканчивается.,translated,21
+vntext.sq#10013,vntext.sq,DETECTIVEFOX,...!,...!,translated,4
+vntext.sq#10017,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10018,vntext.sq,DETECTIVEFOX,"You can taste the tension in the air, with only the drone of neon lights breaking the silence.","Можно почувствовать вкус напряжения в воздухе, и только гудение неоновых огней нарушает тишину.",translated,94
+vntext.sq#10019,vntext.sq,DETECTIVEFOX,"The suspect thinks I've lowered my guard, but I'm bracing in for a wild night.","Подозреваемый думает, что я потерял бдительность, но я готовлюсь к дикой ночи.",translated,78
+vntext.sq#10020,vntext.sq,DETECTIVEFOX,Heh... it seems to me that I've met a fellow person of culture.,"Хех... похоже, я встретил родственную культурную душу.",translated,63
+vntext.sq#10022,vntext.sq,DETECTIVEFOX,I chuckle to myself. Ha-ha. Suspect thinks it's a game of cat and mouse. But there ain't no cats in this equation.,"Я усмехаюсь про себя. Ха-ха. Подозреваемый думает, что это игра в кошки-мышки. Но в этом уравнении нет никаких кошек.",translated,114
+vntext.sq#10023,vntext.sq,DETECTIVEFOX,Cos they're dealing with a fox. Detective Fox.,Потому что они имеют дело с лисом. Детективом Фоксом.,translated,46
+vntext.sq#10024,vntext.sq,DETECTIVEFOX,"Hmmm... suspect seems... slippery. And not in the sexy, 'covered in massage' oil kind of way.","Хмм... подозреваемый кажется... скользким. И не в том сексуальном смысле, 'облитом массажным маслом'.",translated,93
+vntext.sq#10025,vntext.sq,DETECTIVEFOX,"But that's okay. There's a certain way to get through Mood Confectioners, and only Detective Fox knows how.","Но ничего страшного. Есть особый способ подобраться к Кондитерам Настроения, и только Детектив Фокс его знает.",translated,107
+vntext.sq#10027,vntext.sq,DETECTIVEFOX,Let's see if the direct approach works.,"Посмотрим, сработает ли прямой подход.",translated,39
+vntext.sq#10033,vntext.sq,DETECTIVEFOX,...!!,...!!,translated,5
+vntext.sq#10034,vntext.sq,DETECTIVEFOX,"This is surprising, they know I'm a detective...","Это удивительно, они знают, что я детектив...",translated,48
+vntext.sq#10035,vntext.sq,DETECTIVEFOX,What blew my cover? My gruff and seasoned way of speaking? My grim and determined features...?,Что меня выдало? Моя суровая и опытная манера речи? Мои мрачные и решительные черты...?,translated,94
+vntext.sq#10040,vntext.sq,DETECTIVEFOX,Oh-ho...,О-хо...,translated,8
+vntext.sq#10041,vntext.sq,DETECTIVEFOX,"It looks like I've sprung a trap. But that's natural, it's how the game of crime and law is played...","Похоже, я угодил в ловушку. Но это естественно, так уж играется игра преступления и закона...",translated,101
+vntext.sq#10042,vntext.sq,DETECTIVEFOX,"Trap for trap, pawn for pawn, piece by piece off the board.","Ловушка на ловушку, пешка на пешку, фигура за фигурой прочь с доски.",translated,59
+vntext.sq#10043,vntext.sq,DETECTIVEFOX,But what this Mood Confectioner doesn't know... is that I've got a trap of my own.,"Но чего этот Кондитер Настроения не знает... так это того, что у меня есть своя собственная ловушка.",translated,82
+vntext.sq#10049,vntext.sq,DETECTIVEFOX,Thanks.,Спасибо.,translated,7
+vntext.sq#10050,vntext.sq,DETECTIVEFOX,"...And now, like a drunken party girl in a horror movie cliche — they've walked right into my trap.","...И вот так, как пьяная тусовщица в клише фильма ужасов — они прямиком угодили в мою ловушку.",translated,99
+vntext.sq#10051,vntext.sq,DETECTIVEFOX,"I'll play along and pretend to savor the donut... but behind the scenes, I've already started my investigation.","Я подыграю и притворюсь, что смакую пончик... но за кулисами моё расследование уже началось.",translated,111
+vntext.sq#10052,vntext.sq,DETECTIVEFOX,"And as they say, 'the donut's in the details.'","И, как говорится, 'пончик кроется в деталях'.",translated,46
+vntext.sq#10054,vntext.sq,DETECTIVEFOX,...!!,...!!,translated,5
+vntext.sq#10055,vntext.sq,DETECTIVEFOX,Holy smokes! What kinda donut is this?,Святые угодники! Это что за пончик такой?,translated,38
+vntext.sq#10056,vntext.sq,DETECTIVEFOX,Hey! This isn't what I ordered!,"Эй! Это не то, что я заказывал!",translated,31
+vntext.sq#10059,vntext.sq,DETECTIVEFOX,Yeah. Hurry!,Ага. Быстрее!,translated,12
+vntext.sq#10062,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10063,vntext.sq,DETECTIVEFOX,"Ahem. Finally, back to normal...","Кхм. Наконец-то, снова в норме...",translated,32
+vntext.sq#10064,vntext.sq,DETECTIVEFOX,"Get the order right next time, ya hear?","В следующий раз не путайте заказ, ясно?",translated,39
+vntext.sq#10066,vntext.sq,DETECTIVEFOX,"That donut was bland. If I didn't know better, I'd say you were trying to... [i] bore [/i] me to death.","Тот пончик был безвкусным. Если бы я не знал лучше, сказал бы, что вы пытались... [i] заскучить [/i] меня до смерти.",translated,103
+vntext.sq#10068,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10074,vntext.sq,DETECTIVEFOX,Mhmm! This one's really good! I feel so... ${cheerful}!,Ммм! Этот и правда хорош! Чувствую себя такой... ${cheerful}!,translated,55
+vntext.sq#10075,vntext.sq,DETECTIVEFOX,"In fact, it's so perfect I feel like I can do anything... even rob a bank! Ha ha ha!","Вообще-то, он настолько идеален, что чувствую, будто могу что угодно... даже банк ограбить! Ха-ха-ха!",translated,84
+vntext.sq#10077,vntext.sq,DETECTIVEFOX,"Oh, yes. Yes indeed!","О, да. Ещё как!",translated,20
+vntext.sq#10078,vntext.sq,DETECTIVEFOX,Now let's see here...,"Так, посмотрим...",translated,21
+vntext.sq#10079,vntext.sq,DETECTIVEFOX,"A typical {$recipe:classic_high}, just like the crime scene...","Типичный {$recipe:classic_high}, прямо как место преступления...",translated,62
+vntext.sq#10080,vntext.sq,DETECTIVEFOX,"A {$ring} donut with sweet {$flavors:vanilla_sky} {$decor:glaze}... hmm, the consistency's pretty close — damning evidence.","{$ring} пончик со сладкой {$decor:glaze} из {$flavors:vanilla_sky}... хм, консистенция довольно близка — убийственная улика.",translated,123
+vntext.sq#10081,vntext.sq,DETECTIVEFOX,But the kicker here's the ${sprinkles}. Let's see...,Но вся соль тут в ${sprinkles}. Посмотрим...,translated,52
+vntext.sq#10082,vntext.sq,DETECTIVEFOX,"{$colors:pink} ${sprinkles} are close to fifty — no, sixty percent of the total ${sprinkles}! Just fifteen percent away from the one in the crime scene...","{$colors:pink} ${sprinkles} составляют около пятидесяти — нет, шестидесяти процентов от общего числа ${sprinkles}! Всего пятнадцать процентов не хватает до тех, что были на месте преступления...",translated,154
+vntext.sq#10085,vntext.sq,DETECTIVEFOX,"Uh, excuse me... what's with this donut? This isn't what I ordered.","Эм, простите... что это за пончик? Это не то, что я заказывал.",translated,67
+vntext.sq#10086,vntext.sq,DETECTIVEFOX,I feel... different. Not what the usual {$recipe:classic_high} should do.,"Я чувствую себя... иначе. Не то, что должен делать обычный {$recipe:classic_high}.",translated,73
+vntext.sq#10087,vntext.sq,DETECTIVEFOX,This one's putting me in the zone... That's the wonders of {$flavors:chococaine} for ya.,Этот вводит меня в поток... вот что творят чудеса {$flavors:chococaine}.,translated,88
+vntext.sq#10088,vntext.sq,DETECTIVEFOX,This one's giving me... brilliant ideas? I can taste the freshness of the {$flavors:lemon_acid} too.,Этот даёт мне... блестящие идеи? Ещё чувствую свежесть {$flavors:lemon_acid}.,translated,100
+vntext.sq#10089,vntext.sq,DETECTIVEFOX,This one's warming up my heart... like a ${passionately} brewed whiskey. Is that {$flavors:ubecstacy} I taste?,"Этот согревает мне сердце... как ${passionately} заваренный виски. Это {$flavors:ubecstacy}, что я чувствую?",translated,110
+vntext.sq#10090,vntext.sq,DETECTIVEFOX,"This one's making me sleepy... Not a good time for a {$flavors:matchajuana} donut, I'm afraid.","Этот меня клонит в сон... не лучшее время для пончика с {$flavors:matchajuana}, боюсь.",translated,94
+vntext.sq#10091,vntext.sq,DETECTIVEFOX,This one's making me calm... too calm. This one's {$flavors:pumpketamine} no doubt.,"Этот меня успокаивает... слишком успокаивает. Это, несомненно, {$flavors:pumpketamine}.",translated,83
+vntext.sq#10092,vntext.sq,DETECTIVEFOX,This one's taking me back to the black and white scenes of memory lane. Definitely the side effect of a {$flavors:strawpium} donut.,Этот возвращает меня к чёрно-белым кадрам из закоулков памяти. Точно побочный эффект пончика с {$flavors:strawpium}.,translated,131
+vntext.sq#10093,vntext.sq,DETECTIVEFOX,This one's... making me emotional? I'm a hard-boiled detective. I don't need a {$flavors:methberry} donut right now.,Этот... заставляет меня расчувствоваться? Я крутой детектив. Мне сейчас не нужен пончик с {$flavors:methberry}.,translated,116
+vntext.sq#10094,vntext.sq,DETECTIVEFOX,"This one's nice. I feel... hard-boiled. I appreciate the {$flavors:roid_velvet} donut, but this isn't what I wanted.","Этот хорош. Чувствую себя... крутым. Ценю пончик с {$flavors:roid_velvet}, но это не то, чего я хотел.",translated,116
+vntext.sq#10096,vntext.sq,DETECTIVEFOX,"No need. But get the order right next time, ya hear?","Не нужно. Но в следующий раз не путайте заказ, ясно?",translated,52
+vntext.sq#10097,vntext.sq,DETECTIVEFOX,"That donut was off. If I didn't know better, I'd say you were trying to... [i] kill [/i] me.","Тот пончик был не тот. Если бы я не знал лучше, сказал бы, что вы пытались меня... [i] убить. [/i]",translated,92
+vntext.sq#10099,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10100,vntext.sq,DETECTIVEFOX,"And just like that, the tables have turned — a trap in response to [i] my [/i] own trap!","И вот так, всё перевернулось — ловушка в ответ на [i] мою [/i] собственную ловушку!",translated,88
+vntext.sq#10101,vntext.sq,DETECTIVEFOX,The Mood Confectioner made the wrong donut to cover their tracks...,"Кондитер Настроения сделал неправильный пончик, чтобы замести следы...",translated,67
+vntext.sq#10102,vntext.sq,DETECTIVEFOX,A big gamble I'd say... a desperate move for a desperate criminal caught in the crossfires of the law.,"Большая ставка, я бы сказал... отчаянный ход отчаянного преступника, попавшего под перекрёстный огонь закона.",translated,102
+vntext.sq#10103,vntext.sq,DETECTIVEFOX,This seals the deal. Time to strike while the iron's hot...,"Это решает дело. Пора ковать железо, пока горячо...",translated,59
+vntext.sq#10105,vntext.sq,DETECTIVEFOX,"Thought you could hide forever, did you?","Думали, сможете прятаться вечно, да?",translated,40
+vntext.sq#10106,vntext.sq,DETECTIVEFOX,But now I finally got you... Donut Thief!,Но теперь я вас наконец поймал... Пончиковый Вор!,translated,41
+vntext.sq#10120,vntext.sq,DETECTIVEFOX,"You can blame the world… society… whoever you want, Donut Thief.","Можете винить мир… общество… кого угодно, Пончиковый Вор.",translated,64
+vntext.sq#10121,vntext.sq,DETECTIVEFOX,But a crime is a crime. The jig is up. You've robbed your last bank.,Но преступление есть преступление. Игра окончена. Вы ограбили свой последний банк.,translated,68
+vntext.sq#10126,vntext.sq,DETECTIVEFOX,...What?,...Что?,translated,8
+vntext.sq#10140,vntext.sq,DETECTIVEFOX,...Your true crime?,...Вашего настоящего преступления?,translated,19
+vntext.sq#10142,vntext.sq,DETECTIVEFOX,"Ahem. Nothing, nothing… carry on.","Кхм. Ничего, ничего… продолжайте.",translated,33
+vntext.sq#10152,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10160,vntext.sq,DETECTIVEFOX,…!,…!,translated,2
+vntext.sq#10161,vntext.sq,DETECTIVEFOX,That didn’t make any sense... but damn!,В этом не было никакого смысла... но чёрт возьми!,translated,39
+vntext.sq#10162,vntext.sq,DETECTIVEFOX,The way they said it… could they [i] actually [/i] be innocent?,"То, как они это сказали… неужели они [i] действительно [/i] невиновны?",translated,63
+vntext.sq#10163,vntext.sq,DETECTIVEFOX,"Agh! Don’t fall into their trap, detective! Calm down… become [i] the [/i] hard-boiled detective.","Ах! Не попадайся в их ловушку, детектив! Успокойся… стань [i] тем самым [/i] крутым детективом.",translated,97
+vntext.sq#10164,vntext.sq,DETECTIVEFOX,"For now, let’s pretend to take the bait… pretend you had a change of heart.","Пока что притворимся, что клюнули на наживку… притворимся, что вы передумали.",translated,75
+vntext.sq#10165,vntext.sq,DETECTIVEFOX,Stop calling them Donut Thief… for now.,Перестань называть их Пончиковым Вором… пока что.,translated,39
+vntext.sq#10166,vntext.sq,DETECTIVEFOX,"...Alright, Confectioner. I believe you.","...Ладно, Кондитер. Я вам верю.",translated,40
+vntext.sq#10167,vntext.sq,DETECTIVEFOX,But this isn’t over. The trail just gets warmer here…,Но это ещё не конец. След тут только теплеет…,translated,53
+vntext.sq#10168,vntext.sq,DETECTIVEFOX,And Detective Fox isn’t afraid of the heat.,И Детектив Фокс не боится жара.,translated,43
+vntext.sq#10170,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10184,vntext.sq,DETECTIVEFOX,Don't play dumb with me. You've been sloppy!,Не прикидывайтесь дурачком. Вы прокололись!,translated,44
+vntext.sq#10185,vntext.sq,DETECTIVEFOX,Here. Take a look this donut...,Вот. Взгляните на этот пончик...,translated,31
+vntext.sq#10186,vntext.sq,DETECTIVEFOX,Exhibit A — a {$recipe:classic_high} with {$toppings:psycha-sprinkles}. Seventy-five percent of the ${sprinkles} are {$colors:pink}.,Улика А — {$recipe:classic_high} с {$toppings:psycha-sprinkles}. Семьдесят пять процентов ${sprinkles} — {$colors:pink}.,translated,132
+vntext.sq#10187,vntext.sq,DETECTIVEFOX,Hidden inside the donut – paperclips. A master thief could use those to pick any lock.,"Внутри пончика спрятаны — канцелярские скрепки. Мастер-вор мог бы использовать их, чтобы вскрыть любой замок.",translated,86
+vntext.sq#10188,vntext.sq,DETECTIVEFOX,Time and place — the Specific Premier Bank in San Juanico. Four months ago on the night of the 25th…,"Время и место — банк 'Спесифик Премьер' в Сан-Хуанико. Четыре месяца назад, в ночь на 25-е…",translated,100
+vntext.sq#10189,vntext.sq,DETECTIVEFOX,The culprit – has been on the run… until now.,Виновник – был в бегах… до сих пор.,translated,45
+vntext.sq#10191,vntext.sq,DETECTIVEFOX,"I’ve got all the evidence I need, Donut Thief!","У меня есть все необходимые улики, Пончиковый Вор!",translated,46
+vntext.sq#10195,vntext.sq,DETECTIVEFOX,Really? How sure are you? You got an alibi?,Правда? Насколько вы уверены? У вас есть алиби?,translated,43
+vntext.sq#10198,vntext.sq,DETECTIVEFOX,I… I see.,Я… понятно.,translated,9
+vntext.sq#10199,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10200,vntext.sq,DETECTIVEFOX,"Damn, that’s one pretty good alibi…","Чёрт, вот это неплохое алиби…",translated,35
+vntext.sq#10201,vntext.sq,DETECTIVEFOX,"Still, the trail’s getting close. I can just smell it!",И всё же след близко. Я прямо чую это!,translated,54
+vntext.sq#10202,vntext.sq,DETECTIVEFOX,"Hmmm, if not they’re not the Donut Thief, they could be an accessory to the crime – an accomplice…","Хмм, если не они Пончиковый Вор, то могут быть соучастником преступления… сообщником…",translated,98
+vntext.sq#10203,vntext.sq,DETECTIVEFOX,"Whoever they are, it wouldn’t hurt to stick around and gather more dirt.","Кем бы они ни были, не помешает задержаться и накопать больше грязи.",translated,72
+vntext.sq#10204,vntext.sq,DETECTIVEFOX,...You Mood Confectioners with your alibis and smooth talk. You play the game well.,"...Вы, Кондитеры Настроения, со своими алиби и гладкими речами. Хорошо играете в эту игру.",translated,83
+vntext.sq#10205,vntext.sq,DETECTIVEFOX,"But this isn’t over, [i] comprende? [/i] I smell a guilty conscious when I see one…","Но это ещё не конец, [i] comprende? [/i] Я чую нечистую совесть, когда вижу её…",translated,83
+vntext.sq#10207,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10230,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10231,vntext.sq,DETECTIVEFOX,"A {$recipe:rainbow_high} – some people call it that, others call it a {$recipe:classic_high} with ${sprinkles}.","{$recipe:rainbow_high} – кто-то называет его так, другие называют {$recipe:classic_high} с ${sprinkles}.",translated,111
+vntext.sq#10232,vntext.sq,DETECTIVEFOX,"But for me, I call it a tool – a tool in any master thief’s arsenal...",Но для меня это инструмент – инструмент в арсенале любого мастера-вора...,translated,70
+vntext.sq#10234,vntext.sq,DETECTIVEFOX,"And it seems like I finally caught you red-handed, Donut Thief!","И похоже, я наконец-то поймал вас с поличным, Пончиковый Вор!",translated,63
+vntext.sq#10237,vntext.sq,DETECTIVEFOX,I am. And I’ve finally caught you!,Да. И я наконец вас поймал!,translated,34
+vntext.sq#10245,vntext.sq,DETECTIVEFOX,"Confectioner steps in, the clean uniform does wonders to hide all the dirt they've got underneath...","Кондитер вмешивается, чистая униформа творит чудеса, скрывая всю грязь, что под ней...",translated,100
+vntext.sq#10248,vntext.sq,DETECTIVEFOX,Hey! I’m not just [i] any [/i] detective…,Эй! Я не просто [i] какой-то [/i] детектив…,translated,41
+vntext.sq#10249,vntext.sq,DETECTIVEFOX,I’m Detective Fox — [i] the [/i] hard-boiled detective!,Я Детектив Фокс — [i] тот самый [/i] крутой детектив!,translated,55
+vntext.sq#10251,vntext.sq,DETECTIVEFOX,"Heh, flattery won’t get you anywhere, Donut Thief! Enjoy the slammer!","Хех, лестью тут не отделаешься, Пончиковый Вор! Наслаждайся нарами!",translated,69
+vntext.sq#10253,vntext.sq,DETECTIVEFOX,"...Uh, no. I’m talking about prison. That’s where you go for robbing a bank.","...Эм, нет. Я про тюрьму. Туда попадают за ограбление банка.",translated,76
+vntext.sq#10255,vntext.sq,DETECTIVEFOX,Don’t play dumb with me! You used this donut to unlock the vaults of the San Juanico Specific Premier Bank!,"Не прикидывайся дурачком! Ты использовал этот пончик, чтобы вскрыть хранилища банка 'Спесифик Премьер' в Сан-Хуанико!",translated,107
+vntext.sq#10264,vntext.sq,DETECTIVEFOX,"Well, uh…","Ну, эм…",translated,9
+vntext.sq#10265,vntext.sq,DETECTIVEFOX,"I gotta say, this guy’s a tough nut to crack.","Должен сказать, этот парень — крепкий орешек.",translated,45
+vntext.sq#10266,vntext.sq,DETECTIVEFOX,"On one hand, he could be a totally innocent pot head. On the other hand, he could be a master manipulator…","С одной стороны, он может быть совершенно невинным укурком. С другой — может быть мастером манипуляций…",translated,106
+vntext.sq#10270,vntext.sq,DETECTIVEFOX,"They have a seedy face that only a mother could trust... however, I tend to trust mothers, nurturing a kid is hard work after all... so I guess, I trust the mother that trusts them.","У них подозрительное лицо, которому доверилась бы только мать... хотя я вообще-то доверяю матерям, растить ребёнка — тяжёлый труд, в конце концов... так что, полагаю, я доверяю той матери, что доверяет им.",translated,181
+vntext.sq#10271,vntext.sq,DETECTIVEFOX,"Alright, Kolt, you're off the hook... for now.","Ладно, Кольт, ты пока свободен... на этот раз.",translated,46
+vntext.sq#10277,vntext.sq,DETECTIVEFOX,...!,...!,translated,4
+vntext.sq#10278,vntext.sq,DETECTIVEFOX,"Hmph... well, what the Mood Confectioner doesn't realize is that they're playing right into [i] my [/i] hand.","...Хмф... что ж, чего Кондитер Настроения не понимает — так это того, что они играют прямо [i] мне [/i] на руку.",translated,109
+vntext.sq#10279,vntext.sq,DETECTIVEFOX,Like fowl flocking to an old pigeon woman. And as my friends at the academy always say... I am one hell of an old pigeon woman.,"Как птицы, слетающиеся к старой голубятнице. И, как всегда говорят мои друзья в академии... я тот ещё старый голубятник.",translated,127
+vntext.sq#10282,vntext.sq,DETECTIVEFOX,"And don't worry, you'd know if I was flirting with you. This beard cracks cases [i] and [/i] hearts.","И не переживай, ты бы знал, если б я с тобой флиртовал. Эта борода раскрывает не только дела, [i] но и [/i] сердца.",translated,100
+vntext.sq#10284,vntext.sq,DETECTIVEFOX,Heh... that code for how many people you've murdered?,"Хех... это шифр для того, сколько людей вы убили?",translated,53
+vntext.sq#10288,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10290,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10291,vntext.sq,DETECTIVEFOX,"Pains me to say it, but the Mood Confectioner is probably right.","Больно это признавать, но Кондитер Настроения, пожалуй, прав.",translated,64
+vntext.sq#10292,vntext.sq,DETECTIVEFOX,"They have a seedy face that only a mother could trust... however, I tend to trust mothers, nurturing a kid is hard work after all... so I guess, I trust the mother that trusts them.","У них подозрительное лицо, которому доверилась бы только мать... хотя я вообще-то доверяю матерям, растить ребёнка — тяжёлый труд, в конце концов... так что, полагаю, я доверяю той матери, что доверяет им.",translated,181
+vntext.sq#10293,vntext.sq,DETECTIVEFOX,"Alright, your stoner friend is off the hook... for now.","Ладно, твой обкуренный дружок пока свободен... на этот раз.",translated,55
+vntext.sq#10295,vntext.sq,DETECTIVEFOX,...,…,translated,3
+vntext.sq#10296,vntext.sq,DETECTIVEFOX,A wrong hunch – that’s pretty rare for a hard-boiled detective like Detective Fox…,"Ошибочная догадка – редкость для такого крутого детектива, как Детектив Фокс…",translated,82
+vntext.sq#10297,vntext.sq,DETECTIVEFOX,But when has being wrong stopped him from doing the right thing?,"Но когда неправота останавливала его от того, чтобы поступать правильно?",translated,64
+vntext.sq#10298,vntext.sq,DETECTIVEFOX,...The answer? Never.,...Ответ? Никогда.,translated,21
+vntext.sq#10301,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10302,vntext.sq,DETECTIVEFOX,"Fine, I’ll get something.","Ладно, возьму что-нибудь.",translated,25
+vntext.sq#10303,vntext.sq,DETECTIVEFOX,"Actually... heh, you know what? Let's make this interesting.","Вообще-то... хех, знаете что? Давайте сделаем это интереснее.",translated,60
+vntext.sq#10305,vntext.sq,DETECTIVEFOX,Why don't we play a little game?,Почему бы нам не сыграть в небольшую игру?,translated,32
+vntext.sq#10307,vntext.sq,DETECTIVEFOX,Think of it as a game to test of your skills of deduction.,Считайте это игрой на проверку ваших дедуктивных способностей.,translated,58
+vntext.sq#10308,vntext.sq,DETECTIVEFOX,"I'll give you a clue, and you've got to figure out what recipe from your menu I want.","Я дам вам подсказку, а вы должны угадать, какой рецепт из вашего меню я хочу.",translated,85
+vntext.sq#10309,vntext.sq,DETECTIVEFOX,Let's call the game — 'The Mystery of the Desired Recipe'.,Назовём эту игру — 'Тайна Желанного Рецепта'.,translated,58
+vntext.sq#10311,vntext.sq,DETECTIVEFOX,For instance... looking at your menu... hmmmm...,Например... глядя на ваше меню... хмммм...,translated,48
+vntext.sq#10312,vntext.sq,DETECTIVEFOX,Aha! How about this? Listen closely...,Ага! Как насчёт этого? Слушайте внимательно...,translated,38
+vntext.sq#10313,vntext.sq,DETECTIVEFOX,"An impossible sight on these San Mazo nights. But right before we turn on these neon lights, you'll see me on the horizon — taking flight.","Невозможное зрелище в эти ночи Сан-Мазо. Но прямо перед тем, как мы включим эти неоновые огни, вы увидите меня на горизонте — взлетающим ввысь.",translated,138
+vntext.sq#10314,vntext.sq,DETECTIVEFOX,"I've said my clue, but I'll give you one more — it's something that San Mazo is known for.","Я дал вам подсказку, но дам ещё одну — это то, чем славится Сан-Мазо.",translated,90
+vntext.sq#10325,vntext.sq,DETECTIVEFOX,Ahem...,Кхм...,translated,7
+vntext.sq#10326,vntext.sq,DETECTIVEFOX,"Looks like the Mood Confectioner is down for the count. Hoodwinked, befuddled, bamboozled, flabbergasted...","Похоже, Кондитер Настроения повержен. Одурачен, сбит с толку, обманут, ошеломлён...",translated,107
+vntext.sq#10332,vntext.sq,DETECTIVEFOX,"Nah... words are cheap, but finding the answer behind the words — therein lies the art of deduction.","Не-а... слова дёшевы, но найти ответ, скрытый за словами — вот в чём искусство дедукции.",translated,100
+vntext.sq#10336,vntext.sq,DETECTIVEFOX,Thanks...,Спасибо...,translated,9
+vntext.sq#10338,vntext.sq,DETECTIVEFOX,Whoa! What the–?,Ого! Это что за–?,translated,16
+vntext.sq#10339,vntext.sq,DETECTIVEFOX,"Hey!... Hey. Wise up, Confectioner. Looks like you've lost the game. This isn't the donut I wanted.","Эй!... Эй. Соображайте, Кондитер. Похоже, вы проиграли игру. Это не тот пончик, что я хотел.",translated,99
+vntext.sq#10340,vntext.sq,DETECTIVEFOX,"In fact, I can’t call this a donut at all. It’s just… bad.","Вообще-то, я даже не могу назвать это пончиком. Это просто… плохо.",translated,58
+vntext.sq#10342,vntext.sq,DETECTIVEFOX,Hit me.,Давайте.,translated,7
+vntext.sq#10345,vntext.sq,DETECTIVEFOX,...,…,translated,3
+vntext.sq#10346,vntext.sq,DETECTIVEFOX,"Ahh, like drinking a shot of whiskey for breakfast!","Ах, как выпить рюмку виски на завтрак!",translated,51
+vntext.sq#10347,vntext.sq,DETECTIVEFOX,"Glad I’m back to normal... in the meantime, brush up on your skills of deduction.","Рад, что снова в норме... а пока подтяните свои дедуктивные способности.",translated,81
+vntext.sq#10350,vntext.sq,DETECTIVEFOX,Heh... I see you've successfully solved my riddle.,"Хех... вижу, вы успешно разгадали мою загадку.",translated,50
+vntext.sq#10351,vntext.sq,DETECTIVEFOX,I can taste it… the one-two punch of {$flavors:lemon_acid} and {$flavors:pumpketamine}...,Я это чувствую… удар один-два от {$flavors:lemon_acid} и {$flavors:pumpketamine}...,translated,89
+vntext.sq#10352,vntext.sq,DETECTIVEFOX,It's a perfect combination... I applaud your skills of deduction and confection...,Идеальное сочетание... аплодирую вашим дедуктивным и кондитерским способностям...,translated,82
+vntext.sq#10353,vntext.sq,DETECTIVEFOX,Hehe... this donut's inspiring a funny new idea... one of these days I should head back to Attleset...,Хехе... этот пончик навевает забавную новую идею... надо бы как-нибудь вернуться в Аттлсет...,translated,102
+vntext.sq#10354,vntext.sq,DETECTIVEFOX,Hard to compete with San Mazo's sunsets... but the sunsets over there have their own charm... the way the fog disappears when touched by last rays of the sun.,"Трудно тягаться с закатами Сан-Мазо... но закаты там по-своему очаровательны... то, как туман исчезает под прикосновением последних лучей солнца.",translated,158
+vntext.sq#10356,vntext.sq,DETECTIVEFOX,I… I see. Must have imagined the fog then... the places I go to... there's usually fog...,"Я… понятно. Значит, туман мне просто привиделся... в тех местах, куда я езжу... там обычно туман...",translated,89
+vntext.sq#10359,vntext.sq,DETECTIVEFOX,Nope.,Не-а.,translated,5
+vntext.sq#10361,vntext.sq,DETECTIVEFOX,I go wherever there’s crime.,"Я еду туда, где преступление.",translated,28
+vntext.sq#10365,vntext.sq,DETECTIVEFOX,"I'm tasting that juicy {$flavors:pumpketamine}, but you've left out the {$flavors:lemon_acid}.","Я чувствую этот сочный {$flavors:pumpketamine}, но вы упустили {$flavors:lemon_acid}.",translated,94
+vntext.sq#10366,vntext.sq,DETECTIVEFOX,"Since you've got me in a ${patient} mood I'm not feeling too disappointed, but now I'm lacking that creative spark to figure out my next move.","Раз уж вы ввели меня в ${patient} настроение, я не особо разочарован, но теперь мне не хватает того творческого искрения, чтобы придумать следующий ход.",translated,142
+vntext.sq#10368,vntext.sq,DETECTIVEFOX,"Ahhh, there's that {$flavors:lemon_acid}... but... did someone steal all your ${pumpkins}?","Ааах, вот и {$flavors:lemon_acid}... но... кто-то украл все ваши ${pumpkins}?",translated,90
+vntext.sq#10369,vntext.sq,DETECTIVEFOX,Without that shot of {$moods:patience} I'm just left with a chaotic smorgasboard of ideas.,Без этого укола {$moods:patience} мне остаётся лишь хаотичный ассорти идей.,translated,90
+vntext.sq#10370,vntext.sq,DETECTIVEFOX,"This other flavor won't cut it, I'm afraid. You need both {$colors:orange} and {$colors:yellow} to capture that sunset, you know?","Этот другой вкус тут не поможет, боюсь. Нужны и {$colors:orange}, и {$colors:yellow}, чтобы поймать этот закат, знаете?",translated,129
+vntext.sq#10372,vntext.sq,DETECTIVEFOX,I can taste the {$moods:passion}. This one’s an {$flavors:ubecstacy} donut…,Я чувствую {$moods:passion}. Это пончик с {$flavors:ubecstacy}…,translated,75
+vntext.sq#10373,vntext.sq,DETECTIVEFOX,"I don’t mind the feeling, but a good detective tries to leave emotion behinds when it comes to the cold, hard facts.","Не против самого чувства, но хороший детектив старается оставлять эмоции позади, когда дело доходит до холодных, жёстких фактов.",translated,116
+vntext.sq#10374,vntext.sq,DETECTIVEFOX,I see you've given me a {$moods:focus} donut.,"Вижу, вы дали мне пончик с {$moods:focus}.",translated,45
+vntext.sq#10375,vntext.sq,DETECTIVEFOX,My heads clearin’ up… like the mid-morning sun casting out mist on a foggy day...,В голове проясняется… как позднее утреннее солнце разгоняет дымку в туманный день...,translated,81
+vntext.sq#10376,vntext.sq,DETECTIVEFOX,"Heh... I actually like this {$moods:focus}, it's what keeps a good detective sharp... but this wasn't the answer to my riddle.","Хех... мне вообще-то нравится эта {$moods:focus}, именно она держит хорошего детектива в тонусе... но это не был ответ на мою загадку.",translated,126
+vntext.sq#10378,vntext.sq,DETECTIVEFOX,I can taste the ${relaxation} and comfort. This one’s a ${flavors:matchajuana} donut...,Я чувствую ${relaxation} и уют. Это пончик с ${flavors:matchajuana}...,translated,87
+vntext.sq#10379,vntext.sq,DETECTIVEFOX,This is no time to be sleeping on the job.,Не время спать на работе.,translated,42
+vntext.sq#10380,vntext.sq,DETECTIVEFOX,"Ahhh, this brings me back to another sunset... the one's in Attleset...","Ааах, это возвращает меня к другому закату... тому, что в Аттлсете...",translated,71
+vntext.sq#10381,vntext.sq,DETECTIVEFOX,I shouldn’t let thoughts like that distract me... the blind muse that is justice has waited long enough.,Не стоит позволять таким мыслям отвлекать меня... слепая муза правосудия и так уже долго ждала.,translated,104
+vntext.sq#10382,vntext.sq,DETECTIVEFOX,"Hey. Wise up, Confectioner. Looks like you've lost the game. This isn't the donut I wanted.","Эй. Соображайте, Кондитер. Похоже, вы проиграли игру. Это не тот пончик, что я хотел.",translated,91
+vntext.sq#10383,vntext.sq,DETECTIVEFOX,I can taste the happiness. This one’s a {$flavors:vanilla_sky} donut...,Я чувствую счастье. Это пончик с {$flavors:vanilla_sky}...,translated,71
+vntext.sq#10384,vntext.sq,DETECTIVEFOX,No time to be smiling around when criminals are on the loose.,"Не время улыбаться, пока преступники разгуливают на свободе.",translated,61
+vntext.sq#10385,vntext.sq,DETECTIVEFOX,I can taste it… a flavor made of sweet {$moods:sincerity}. This one’s a {$flavors:methberry} donut…,"Я это чувствую… вкус, сделанный из сладкой {$moods:sincerity}. Это пончик с {$flavors:methberry}…",translated,99
+vntext.sq#10386,vntext.sq,DETECTIVEFOX,"No time for feelings… only cold, hard facts to think about.","Не время для чувств… только холодные, жёсткие факты, о которых нужно думать.",translated,59
+vntext.sq#10387,vntext.sq,DETECTIVEFOX,I can taste it… the burning rage in this flavor. This one’s a {$flavors:roid_velvet} donut...,Я это чувствую… обжигающую ярость в этом вкусе. Это пончик с {$flavors:roid_velvet}...,translated,93
+vntext.sq#10388,vntext.sq,DETECTIVEFOX,"A detective’s gotta have a cool head when dealing with cold, hard facts.","У детектива должна быть холодная голова, когда дело касается холодных, жёстких фактов.",translated,72
+vntext.sq#10390,vntext.sq,DETECTIVEFOX,"Nah, I’m still in the right headspace. I can handle it…","Не, я всё ещё в здравом уме. Справлюсь…",translated,55
+vntext.sq#10393,vntext.sq,DETECTIVEFOX,Anyway thanks for the donut…,"В любом случае, спасибо за пончик…",translated,28
+vntext.sq#10394,vntext.sq,DETECTIVEFOX,"Thinking about those sunsets... combined with that boost of patience and inspiration... well, that's the fuel I need to help me push on with this investigation...","Мысли об этих закатах... в сочетании с этим приливом терпения и вдохновения... что ж, это то топливо, что мне нужно, чтобы продвинуться в этом расследовании...",translated,162
+vntext.sq#10395,vntext.sq,DETECTIVEFOX,"Even if it was way off, it gave me the kick I needed to wake up and push on with the investigation…","Даже если я сильно промахнулся, это дало мне тот толчок, что был нужен, чтобы очнуться и продолжить расследование…",translated,99
+vntext.sq#10397,vntext.sq,DETECTIVEFOX,Huh. Excuse me.,Хм. Прошу прощения.,translated,15
+vntext.sq#10398,vntext.sq,DETECTIVEFOX,"...Hey, buddy! What’s up?","...Эй, дружище! Как дела?",translated,25
+vntext.sq#10399,vntext.sq,DETECTIVEFOX,"...Oh you did, did ya? Did you get an A?","...О, правда, да? Получил пятёрку?",translated,40
+vntext.sq#10400,vntext.sq,DETECTIVEFOX,...That’s so cool! You’ll be a junior detective in no time!,...Это так круто! Скоро станешь младшим детективом!,translated,59
+vntext.sq#10401,vntext.sq,DETECTIVEFOX,...What's that? No... really?,...Что там? Нет... серьёзно?,translated,29
+vntext.sq#10402,vntext.sq,DETECTIVEFOX,...So you're saying no one saw who stole little Eric's ham sandwich?,"...Так ты говоришь, никто не видел, кто украл бутерброд с ветчиной у малыша Эрика?",translated,68
+vntext.sq#10403,vntext.sq,DETECTIVEFOX,"...No witnesses? Oh, sounds like a tough case, you've got there.","...Никаких свидетелей? Ох, звучит как непростое дело у тебя там.",translated,64
+vntext.sq#10404,vntext.sq,DETECTIVEFOX,"...Well, you know the next step then — find your suspects.","...Ну, ты знаешь следующий шаг тогда — найди своих подозреваемых.",translated,58
+vntext.sq#10405,vntext.sq,DETECTIVEFOX,"...Who? Little Brooke's acting... 'Dodgy'? Well, there's your lead. Maybe she's hiding something.","...Кто? Малышка Брук ведёт себя... 'подозрительно'? Что ж, вот тебе и зацепка. Может, она что-то скрывает.",translated,97
+vntext.sq#10406,vntext.sq,DETECTIVEFOX,"...Don't worry, you've got this, I'm sure you'll crack the case. I'll visit you soon, you hear?","...Не переживай, у тебя получится, уверен, ты раскроешь это дело. Скоро тебя навещу, слышишь?",translated,95
+vntext.sq#10407,vntext.sq,DETECTIVEFOX,"...Oh, hey there, Ally...","...О, привет, Элли...",translated,25
+vntext.sq#10408,vntext.sq,DETECTIVEFOX,"...Ally, it’s okay. Little Conan here was just letting me know about his day.","...Элли, всё в порядке. Малыш Конан тут просто рассказывал мне про свой день.",translated,77
+vntext.sq#10409,vntext.sq,DETECTIVEFOX,...No. No. I was just about to finish work.,...Нет. Нет. Я как раз заканчивал работу.,translated,43
+vntext.sq#10410,vntext.sq,DETECTIVEFOX,"...Yeah, buy him a nice cake for me! The little guy deserves it. I’ll send you something soon.","...Да, купи ему хороший торт от меня! Малыш это заслужил. Скоро тебе что-нибудь отправлю.",translated,94
+vntext.sq#10411,vntext.sq,DETECTIVEFOX,"...Alrighty! Bye, Ally!","...Ладненько! Пока, Элли!",translated,23
+vntext.sq#10412,vntext.sq,DETECTIVEFOX,"...And bye to my little detective as well... I'll see you soon Little Conan, Papa Fox to Little Fox, signing out.","...И пока моему маленькому детективу тоже... скоро увидимся, малыш Конан, Папа Фокс — Лисёнку, конец связи.",translated,113
+vntext.sq#10413,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10415,vntext.sq,DETECTIVEFOX,Family? Yeah. Home...,Семья? Да. Дом...,translated,21
+vntext.sq#10416,vntext.sq,DETECTIVEFOX,Home is where you want them to be.,"Дом там, где вы хотите, чтобы они были.",translated,34
+vntext.sq#10418,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10419,vntext.sq,DETECTIVEFOX,"Heh... donut you gave me... ${inspiring} me to solve the case... but it's also... giving me the {$moods:patience} to stay on track... if all goes well, I'll be able to visit... one day.","Хех... пончик, что вы дали... ${inspiring} меня раскрыть дело... но он ещё... даёт мне {$moods:patience}, чтобы держаться курса... если всё пойдёт хорошо, однажды я смогу его навестить...",translated,185
+vntext.sq#10420,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10423,vntext.sq,DETECTIVEFOX,"Being hard-boiled’s not about the way you talk, or how gritty you look...","Быть крутым — не про то, как ты говоришь или насколько суровым выглядишь...",translated,73
+vntext.sq#10424,vntext.sq,DETECTIVEFOX,"It’s about being there for the ones who need you, even when the cards aren’t in your favor.","Это про то, чтобы быть рядом с теми, кому ты нужен, даже когда карты не в твою пользу.",translated,91
+vntext.sq#10426,vntext.sq,DETECTIVEFOX,"Heh, whatever… I’ve talked for long enough. Time to get back to digging.","Хех, ладно… я и так уже наговорил достаточно. Пора возвращаться к копанию.",translated,72
+vntext.sq#10427,vntext.sq,DETECTIVEFOX,"Keep your hands clean, Confectioner. You're not out of the woods yet.","Держите руки чистыми, Кондитер. Вы ещё не выпутались из этого.",translated,69
+vntext.sq#10429,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10460,vntext.sq,DETECTIVEFOX,"... Might as well be an admission of guilt, Donut Thief.","... Практически признание вины, Пончиковый Вор.",translated,56
+vntext.sq#10461,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10463,vntext.sq,DETECTIVEFOX,I am. Your life of crime ends here!,С вами. Ваша преступная жизнь заканчивается здесь!,translated,35
+vntext.sq#10467,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10468,vntext.sq,DETECTIVEFOX,Dissonance. Delusions. Drama. The ‘Triple D’s’ is what they call ‘em at detective school…,Диссонанс. Заблуждения. Драма. 'Тройное Д' — так это называют в детективной школе…,translated,89
+vntext.sq#10469,vntext.sq,DETECTIVEFOX,"When criminals get caught, their mind defaults to one of those three to hide their desperation.","Когда преступников ловят, их разум по умолчанию прибегает к одному из этих трёх, чтобы скрыть отчаяние.",translated,95
+vntext.sq#10470,vntext.sq,DETECTIVEFOX,But nothing — no one can hide from a hard-boiled detective...,Но ничто — никто не может спрятаться от крутого детектива...,translated,61
+vntext.sq#10471,vntext.sq,DETECTIVEFOX,No one hides from Detective Fox.,Никто не прячется от Детектива Фокса.,translated,32
+vntext.sq#10472,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10473,vntext.sq,DETECTIVEFOX,"Stop the drama, Donut Thief!","Хватит драмы, Пончиковый Вор!",translated,28
+vntext.sq#10474,vntext.sq,DETECTIVEFOX,I know you were there — four months ago. The night of 25th. San Juanico Specific Premier Bank where the Farmer family has stored the famous Ruby Donut!,"Я знаю, вы там были — четыре месяца назад. В ночь на 25-е. Банк 'Спесифик Премьер' в Сан-Хуанико, где семья Фармер хранила знаменитый Рубиновый Пончик!",translated,151
+vntext.sq#10475,vntext.sq,DETECTIVEFOX,All that was left at the crime scene was a donut… a {$recipe:rainbow_high}. A {$recipe:classic_high} with ${sprinkles}.,"Всё, что осталось на месте преступления — пончик… {$recipe:rainbow_high}. {$recipe:classic_high} с ${sprinkles}.",translated,119
+vntext.sq#10476,vntext.sq,DETECTIVEFOX,The jig is up. I’ve got enough evidence to put you in the slammer.,"Игра окончена. У меня достаточно улик, чтобы упрятать вас за решётку.",translated,66
+vntext.sq#10490,vntext.sq,DETECTIVEFOX,"Nah, she says you’re good to go.","Не, она говорит, вы свободны.",translated,32
+vntext.sq#10492,vntext.sq,DETECTIVEFOX,Really. Now get out out of my sight and stay out of trouble.,Правда. А теперь убирайтесь с глаз моих и держитесь подальше от неприятностей.,translated,60
+vntext.sq#10494,vntext.sq,DETECTIVEFOX,"Don't push it, kid.","Не наглей, малец.",translated,19
+vntext.sq#10498,vntext.sq,DETECTIVEFOX,"Heh. He was something, huh?","Хех. Он тот ещё персонаж, да?",translated,27
+vntext.sq#10500,vntext.sq,DETECTIVEFOX,Hey. I’m not [i] that [/i] zealous about my job.,Эй. Я не [i] настолько [/i] фанатично отношусь к своей работе.,translated,48
+vntext.sq#10503,vntext.sq,DETECTIVEFOX,I’m definitely gonna need one after that…,После такого он мне точно понадобится…,translated,41
+vntext.sq#10504,vntext.sq,DETECTIVEFOX,But you know what else I'm hungry for? A good mystery.,"Но знаете, чего ещё я жажду? Хорошей загадки.",translated,54
+vntext.sq#10506,vntext.sq,DETECTIVEFOX,"I'm talking about playing a game, just like the one we had last time.","Я про то, чтобы сыграть в игру, прямо как в прошлый раз.",translated,69
+vntext.sq#10507,vntext.sq,DETECTIVEFOX,What do you say? It's time for round two of: 'The Mystery of the Desired Recipe'.,Что скажете? Время для второго раунда: 'Тайна Желанного Рецепта'.,translated,81
+vntext.sq#10509,vntext.sq,DETECTIVEFOX,"Alright then, let's see...","Что ж, тогда посмотрим...",translated,26
+vntext.sq#10510,vntext.sq,DETECTIVEFOX,"I'd like a {$ring} donut, but here's the catch:","Хочу {$ring} пончик, но вот в чём подвох:",translated,47
+vntext.sq#10511,vntext.sq,DETECTIVEFOX,"The {$decor:glaze} and {$decor:drizzle} are the same mood — it's an emotion that detectives like me rely on, especially when we need to play the [i] long game. [/i]","{$decor:glaze} и {$decor:drizzle} — одно и то же настроение — это эмоция, на которую полагаются детективы вроде меня, особенно когда нужно играть [i] в долгую. [/i]",translated,164
+vntext.sq#10512,vntext.sq,DETECTIVEFOX,"As for the ${toppings}, much like you, they need to be tough to crack.","Что до ${toppings}, то, как и вы, они должны быть крепким орешком.",translated,70
+vntext.sq#10519,vntext.sq,DETECTIVEFOX,"Hmmm, alright. I'll give you one more clue.","Хмм, ладно. Дам вам ещё одну подсказку.",translated,43
+vntext.sq#10526,vntext.sq,DETECTIVEFOX,Hmmmm...,Хмммм...,translated,8
+vntext.sq#10527,vntext.sq,DETECTIVEFOX,Alright... ermmm... the recipe sounds like... Tarvest Vine...,Ладно... эммм... рецепт звучит как... Уборожай...,translated,61
+vntext.sq#10540,vntext.sq,DETECTIVEFOX,Thanks...,Спасибо...,translated,9
+vntext.sq#10542,vntext.sq,DETECTIVEFOX,...!!,...!!,translated,5
+vntext.sq#10543,vntext.sq,DETECTIVEFOX,Hey! What's in this donut?,Эй! Что это в этом пончике?,translated,26
+vntext.sq#10545,vntext.sq,DETECTIVEFOX,Do I look okay?,"Похоже ли, что я в порядке?",translated,15
+vntext.sq#10547,vntext.sq,DETECTIVEFOX,Hurry!,Быстрее!,translated,6
+vntext.sq#10550,vntext.sq,DETECTIVEFOX,Finally!,Наконец-то!,translated,8
+vntext.sq#10551,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10552,vntext.sq,DETECTIVEFOX,Ugh. I'm never going to get used to that...,Ух. Никогда к этому не привыкну...,translated,43
+vntext.sq#10553,vntext.sq,DETECTIVEFOX,"And check the orders, will ya? I'm not sure how much my stomach can take.","И проверяйте заказы, ладно? Не уверен, сколько ещё выдержит мой желудок.",translated,73
+vntext.sq#10555,vntext.sq,DETECTIVEFOX,"Man, that was a really bad donut. Surprisingly, it’s the wake-up call I needed to push on with the investigation…","Чувак, это был реально плохой пончик. Как ни удивительно, это тот самый тревожный звонок, что мне был нужен, чтобы продолжить расследование…",translated,113
+vntext.sq#10556,vntext.sq,DETECTIVEFOX,"Man, that was a really bland donut. Surprisingly, it’s the wake-up call I needed to push on with the investigation…","Чувак, это был реально безвкусный пончик. Как ни удивительно, это тот самый тревожный звонок, что мне был нужен, чтобы продолжить расследование…",translated,115
+vntext.sq#10558,vntext.sq,DETECTIVEFOX,"Ah, just what I needed…","Ах, вот то, что нужно…",translated,23
+vntext.sq#10559,vntext.sq,DETECTIVEFOX,Like walking through the streets on a cold autumn night.,Как прогулка по улицам холодной осенней ночью.,translated,56
+vntext.sq#10560,vntext.sq,DETECTIVEFOX,"That bite I just had, brings me back to riding my bike down the streets of Clairmont... those were some good times.","Этот укус, который я только что откусил, возвращает меня к тому, как я катался на велосипеде по улицам Клэрмонта... хорошие были времена.",translated,115
+vntext.sq#10561,vntext.sq,DETECTIVEFOX,"The wind’s cold, but that’s the kind of hit you need to clear your head…","Ветер холодный, но именно такой удар нужен, чтобы прочистить голову…",translated,72
+vntext.sq#10562,vntext.sq,DETECTIVEFOX,"Heh. This donut’s so good, I wish it was colder already!","Хех. Этот пончик так хорош, что хочется, чтобы уже похолодало!",translated,56
+vntext.sq#10564,vntext.sq,DETECTIVEFOX,Same here…,Аналогично…,translated,10
+vntext.sq#10565,vntext.sq,DETECTIVEFOX,"Heh... well, congratulations on figuring out my mystery donut. Took you for quite a spin there, didn't I?","Хех... что ж, поздравляю с разгадкой моего загадочного пончика. Неплохо я вас покрутил, да?",translated,105
+vntext.sq#10566,vntext.sq,DETECTIVEFOX,Heh... Little Connan's been asking me to teach him how to ride one for the longest time...,Хех... малыш Конан давно уже просит научить его кататься на велике...,translated,90
+vntext.sq#10567,vntext.sq,DETECTIVEFOX,Was never able to get around to it...,Так и не смог до этого дойти...,translated,37
+vntext.sq#10568,vntext.sq,DETECTIVEFOX,"Anyway, thanks. This is just the pickup I need to push on with the investigation…","В общем, спасибо. Это как раз тот заряд, что мне нужен, чтобы продолжить расследование…",translated,81
+vntext.sq#10570,vntext.sq,DETECTIVEFOX,...!,...!,translated,4
+vntext.sq#10571,vntext.sq,DETECTIVEFOX,"Hey, Confectioner...","Эй, Кондитер...",translated,20
+vntext.sq#10572,vntext.sq,DETECTIVEFOX,"Was a valiant attempt, but I'm afraid you didn't quite guess my mystery donut.","Это была доблестная попытка, но, боюсь, вы не совсем угадали мой загадочный пончик.",translated,78
+vntext.sq#10573,vntext.sq,DETECTIVEFOX,"That bite I just had, it felt like looking at the San Juanico sunset... full of zest and {$moods:inspiration}.","Этот укус, который я только что откусил, ощущался как взгляд на закат в Сан-Хуанико... полный задора и {$moods:inspiration}.",translated,110
+vntext.sq#10574,vntext.sq,DETECTIVEFOX,"That bite I just had, it felt like taking a stroll through the lamp-lit streets of Hartland... streets full of {$moods:passion} and desire.","Этот укус, который я только что откусил, ощущался как прогулка по освещённым фонарями улицам Хартленда... улицам, полным {$moods:passion} и желания.",translated,139
+vntext.sq#10575,vntext.sq,DETECTIVEFOX,"That bite I just had, it felt like hiking through the trails of Arcadia Park... nothing can beat that ${relaxing}, scenic getaway.","Этот укус, который я только что откусил, ощущался как поход по тропам парка Аркадия... ничто не сравнится с этим ${relaxing}, живописным отдыхом.",translated,130
+vntext.sq#10576,vntext.sq,DETECTIVEFOX,"That bite I just had, it felt drinking a cup of Molovian coffee from the Key Rest... If you wanna get work done, there's nothing like Molovian coffee.","Этот укус, который я только что откусил, ощущался как чашка моловианского кофе из Ки-Реста... если хочешь поработать, нет ничего лучше моловианского кофе.",translated,150
+vntext.sq#10577,vntext.sq,DETECTIVEFOX,"That bite I just had, reminds me of long stake outs, keeping your eyes peeled for any suspicious activity for hours on end...","Этот укус, который я только что откусил, напоминает мне о долгих засадах, когда часами не сводишь глаз в поисках подозрительной активности...",translated,125
+vntext.sq#10578,vntext.sq,DETECTIVEFOX,"That bite I just had, it felt like late-night bowling with my buddies in Clairmont... pretty fun times.","Этот укус, который я только что откусил, ощущался как поздний вечер боулинга с друзьями в Клэрмонте... весёлые были времена.",translated,103
+vntext.sq#10579,vntext.sq,DETECTIVEFOX,"That bite I just had, it felt like staring at that giant telescope in the middle of Tejalco. Nothin' like those large PASA toys to remind you how small you are compared to the galaxy...","Этот укус, который я только что откусил, ощущался как взгляд на тот гигантский телескоп посреди Техалко. Ничто так не напоминает, насколько ты мал по сравнению с галактикой, как эти большие игрушки ПАСА...",translated,185
+vntext.sq#10580,vntext.sq,DETECTIVEFOX,"That bite I just had, it felt like I was in my car chasing the bad guys... If that doesn't pump your blood, nothing will.","Этот укус, который я только что откусил, ощущался, будто я в машине гонюсь за плохими парнями... если это не разгоняет кровь, то ничто не разгонит.",translated,121
+vntext.sq#10581,vntext.sq,DETECTIVEFOX,"But what I wanted was a {$recipe:harvest_time}, so better luck next time.","Но я хотел {$recipe:harvest_time}, так что удачи в следующий раз.",translated,73
+vntext.sq#10583,vntext.sq,DETECTIVEFOX,"...It's not what I wanted, but it'll do. Maybe it’s just the kick that I need to push on with the investigation…","...Это не то, что я хотел, но сойдёт. Может, это как раз тот заряд, что мне нужен, чтобы продолжить расследование…",translated,112
+vntext.sq#10587,vntext.sq,DETECTIVEFOX,What’s this? A confession?,"Это что, признание?",translated,26
+vntext.sq#10589,vntext.sq,DETECTIVEFOX,"Well, I’m all ears.","Что ж, я весь внимание.",translated,19
+vntext.sq#10593,vntext.sq,DETECTIVEFOX,…!,…!,translated,2
+vntext.sq#10595,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10596,vntext.sq,DETECTIVEFOX,"Sorry about that, Confectioner…","Простите за это, Кондитер…",translated,31
+vntext.sq#10597,vntext.sq,DETECTIVEFOX,I’ve been on this case for a while now. The chief’s been buggin’ me about it.,Я уже давно веду это дело. Начальник постоянно меня им достаёт.,translated,77
+vntext.sq#10598,vntext.sq,DETECTIVEFOX,"This case, if I can just finally close it…","Это дело, если бы я мог его наконец закрыть…",translated,42
+vntext.sq#10602,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10603,vntext.sq,DETECTIVEFOX,"Guess I’m getting rusty, huh?","Наверное, теряю хватку, да?",translated,29
+vntext.sq#10605,vntext.sq,DETECTIVEFOX,"It should’ve been like any other night, but it wasn’t…","Должна была быть обычная ночь, но не сложилось…",translated,54
+vntext.sq#10606,vntext.sq,DETECTIVEFOX,A hard-boiled detective leads a hard-boiled life. Cracks are bound to show up.,Крутой детектив ведёт крутую жизнь. Трещины неизбежно проявляются.,translated,78
+vntext.sq#10608,vntext.sq,DETECTIVEFOX,"Oh, uh… excuse me.","О, эм… простите.",translated,18
+vntext.sq#10610,vntext.sq,DETECTIVEFOX,"...Hey, little detective. What’s up?","...Эй, маленький детектив. Как дела?",translated,36
+vntext.sq#10611,vntext.sq,DETECTIVEFOX,...No way... Little Eric ate [i] his own [/i] ham sandwich? What a plot twist!,...Да ладно... малыш Эрик съел [i] свой собственный [/i] бутерброд с ветчиной? Вот это поворот!,translated,78
+vntext.sq#10612,vntext.sq,DETECTIVEFOX,"...Well Little Conan, guess you can say... the [i] case is closed. [/i]","...Что ж, малыш Конан, полагаю, можно сказать... [i] дело закрыто. [/i]",translated,71
+vntext.sq#10613,vntext.sq,DETECTIVEFOX,...And you and Little Brooke are now friends? Good to have company... flying solo... it gets rough.,"...И вы с малышкой Брук теперь друзья? Хорошо, когда есть компания... в одиночку... тяжело приходится.",translated,99
+vntext.sq#10614,vntext.sq,DETECTIVEFOX,...?,...?,translated,4
+vntext.sq#10615,vntext.sq,DETECTIVEFOX,...A school play?,...Школьный спектакль?,translated,17
+vntext.sq#10616,vntext.sq,DETECTIVEFOX,"...Wait, they cast you as tree number eight? That's like — the best part!","...Погоди, тебя взяли на роль дерева номер восемь? Это же — лучшая роль!",translated,73
+vntext.sq#10617,vntext.sq,DETECTIVEFOX,"...Ermmmm... not sure I can make it... look, I'm sorry, Little Fox...","...Эммм... не уверен, что смогу... слушай, прости, Лисёнок...",translated,69
+vntext.sq#10618,vntext.sq,DETECTIVEFOX,...I’ll be there soon. I promise.,...Я скоро приеду. Обещаю.,translated,33
+vntext.sq#10619,vntext.sq,DETECTIVEFOX,"…I know, Conan. It’s just that this one’s a big case for me, okay?","…Знаю, Конан. Просто это дело сейчас для меня очень важное, ладно?",translated,66
+vntext.sq#10620,vntext.sq,DETECTIVEFOX,...Alrighty! And tell your mom I said hi!,...Ладненько! И передай маме привет от меня!,translated,41
+vntext.sq#10621,vntext.sq,DETECTIVEFOX,"...Papa Fox to Little Fox, signing out.","...Папа Фокс — Лисёнку, конец связи.",translated,39
+vntext.sq#10623,vntext.sq,DETECTIVEFOX,"Heh, kids these days…","Хех, дети нынче…",translated,21
+vntext.sq#10624,vntext.sq,DETECTIVEFOX,They’re pretty good at keeping track of what you tell ‘em.,"Они неплохо запоминают, что им говоришь.",translated,58
+vntext.sq#10626,vntext.sq,DETECTIVEFOX,Yep!,Ага!,translated,4
+vntext.sq#10628,vntext.sq,DETECTIVEFOX,I know. That's why I wanna see the Donut Thief behind bars as soon as possible.,Знаю. Именно поэтому хочу упрятать Пончикового Вора за решётку как можно скорее.,translated,79
+vntext.sq#10643,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10645,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10656,vntext.sq,DETECTIVEFOX,...!,...!,translated,4
+vntext.sq#10658,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10659,vntext.sq,DETECTIVEFOX,There's an adage about confessing one's sins to the bartender.,Есть такая поговорка про исповедь бармену.,translated,62
+vntext.sq#10660,vntext.sq,DETECTIVEFOX,This ain't no bar... and I sure ain't tender... but you've got me in the mood for sharing sins.,"Тут не бар... и я уж точно не бармен... но вы настроили меня на то, чтобы делиться грехами.",translated,95
+vntext.sq#10661,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10662,vntext.sq,DETECTIVEFOX,Being a detective is all about setting priorities. Solving crimes come first... I chose this life... I know what I signed up for...,"Быть детективом — это всё про расстановку приоритетов. Раскрытие преступлений — на первом месте... я выбрал эту жизнь... я знал, на что иду...",translated,131
+vntext.sq#10663,vntext.sq,DETECTIVEFOX,But Little Conan... he never had a say in that.,Но малыш Конан... у него не было права голоса в этом.,translated,47
+vntext.sq#10664,vntext.sq,DETECTIVEFOX,"Detectives... we boil ourselves hard to protect the softness of their smiles... you're only a kid once, after all.","Мы, детективы... варимся вкрутую, чтобы защитить мягкость их улыбок... в конце концов, ребёнком бываешь только раз.",translated,114
+vntext.sq#10665,vntext.sq,DETECTIVEFOX,Sometimes... I wonder if I've pushed it too far...,"Иногда... я думаю, не зашёл ли я слишком далеко...",translated,50
+vntext.sq#10667,vntext.sq,DETECTIVEFOX,...'Politician dad?',...'Папой-политиком?',translated,20
+vntext.sq#10670,vntext.sq,DETECTIVEFOX,"Heh, I see. Made that up yourself?","Хех, понятно. Сами придумали?",translated,34
+vntext.sq#10672,vntext.sq,DETECTIVEFOX,Good one.,Неплохо.,translated,9
+vntext.sq#10674,vntext.sq,DETECTIVEFOX,You're... you're probably right. Kid deserves better.,"Вы... вы, наверное, правы. Малыш заслуживает лучшего.",translated,53
+vntext.sq#10675,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10676,vntext.sq,DETECTIVEFOX,"Nights in San Mazo are usually crystal clear and yet... well, tonight feels like it's about to rain.","Ночи в Сан-Мазо обычно кристально ясные, и всё же... что ж, сегодня такое чувство, будто вот-вот пойдёт дождь.",translated,100
+vntext.sq#10677,vntext.sq,DETECTIVEFOX,And here I am with nothing but a donut and a dream... and a son miles away who hasn't seen his old man in months.,"И вот я здесь, с одним лишь пончиком и мечтой... и сыном, что за много миль отсюда, не видевшим своего старика уже месяцами.",translated,113
+vntext.sq#10678,vntext.sq,DETECTIVEFOX,Hard-boiled... maybe something I tell myself... to give myself a reason to go on...,"Крутость... может, просто то, что я себе говорю... чтобы дать себе повод жить дальше...",translated,83
+vntext.sq#10679,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10680,vntext.sq,DETECTIVEFOX,"Heh... that donut you've given was good, but thinking about the past... it's a bittersweet experience.","Хех... пончик, что вы дали, был хорош, но думать о прошлом... это горько-сладкое переживание.",translated,102
+vntext.sq#10681,vntext.sq,DETECTIVEFOX,"Anyway, I'm off. Thanks for the warning, Confectioner...","В общем, я пошёл. Спасибо за предупреждение, Кондитер...",translated,56
+vntext.sq#10682,vntext.sq,DETECTIVEFOX,See you around.,Увидимся.,translated,15
+vntext.sq#10684,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10685,vntext.sq,DETECTIVEFOX,"As expected, Mood Confectioners sense the trouble in you. That's how they're built...","Как и ожидалось, Кондитеры Настроения чувствуют в тебе беду. Так уж они устроены...",translated,85
+vntext.sq#10686,vntext.sq,DETECTIVEFOX,"And when they sense that trouble, their go-to is to give you some vaguely helpful thoughts to chew on.","И когда они чувствуют эту беду, их первый порыв — дать тебе несколько смутно полезных мыслей на подумать.",translated,102
+vntext.sq#10687,vntext.sq,DETECTIVEFOX,The bad eggs wait for the right time and use this like a dagger to stab you in the back...,"Плохие яйца ждут подходящего момента и используют это как кинжал, чтобы всадить его тебе в спину...",translated,90
+vntext.sq#10688,vntext.sq,DETECTIVEFOX,"The good ones — the hard-boiled ones, well... they just want the world to be a less shadowy place I guess.","Хорошие — крутые — что ж, они просто хотят, чтобы в мире было чуть меньше тени, наверное.",translated,106
+vntext.sq#10689,vntext.sq,DETECTIVEFOX,But the big question is... what kind of egg is the Mood Confectioner?,Но главный вопрос в том... какое же яйцо этот Кондитер Настроения?,translated,69
+vntext.sq#10695,vntext.sq,DETECTIVEFOX,Heh... Confectioner gives me a wink as I walk out the store... I return the favor.,"Хех... Кондитер подмигивает мне, пока я выхожу из магазина... я отвечаю тем же.",translated,82
+vntext.sq#10696,vntext.sq,DETECTIVEFOX,Just another night in San Mazo...,Просто ещё одна ночь в Сан-Мазо...,translated,33
+vntext.sq#10698,vntext.sq,DETECTIVEFOX,Could they be the hard-boiled? Only time will tell...,Могут ли они быть тем самым крутым? Только время покажет...,translated,53
+vntext.sq#10699,vntext.sq,DETECTIVEFOX,...,…,translated,3
+vntext.sq#10704,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10705,vntext.sq,DETECTIVEFOX,"...I know, Ally. Of course I want to see him too.","...Знаю, Элли. Конечно, я тоже хочу его увидеть.",translated,49
+vntext.sq#10706,vntext.sq,DETECTIVEFOX,"...Look, I just need to finish this case.","...Слушай, мне просто нужно закончить это дело.",translated,41
+vntext.sq#10707,vntext.sq,DETECTIVEFOX,"If I get promoted, it’s not just for me. It’s for him, too!","Если меня повысят, это не только ради меня. Это и ради него тоже!",translated,59
+vntext.sq#10708,vntext.sq,DETECTIVEFOX,...It’s not like that. You know both are important to me—,"...Дело не в этом. Ты же знаешь, вы оба важны для меня—",translated,57
+vntext.sq#10709,vntext.sq,DETECTIVEFOX,...Ally? Hello? Ally?,...Элли? Алло? Элли?,translated,21
+vntext.sq#10710,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10713,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10714,vntext.sq,DETECTIVEFOX,‘It’s awfully easy to be hard-boiled about everything in the daytime...’,'Днём быть крутым до ужаса легко...',translated,72
+vntext.sq#10715,vntext.sq,DETECTIVEFOX,"‘But at night, it’s another thing.’",'Но ночью — совсем другое дело.',translated,35
+vntext.sq#10716,vntext.sq,DETECTIVEFOX,"So, this is what it means, huh?","Так вот что это значит, да?",translated,31
+vntext.sq#10718,vntext.sq,DETECTIVEFOX,Not quite…,Не совсем…,translated,10
+vntext.sq#10719,vntext.sq,DETECTIVEFOX,It’s from a book I read. ‘The Sun Also Rises’. Hemmingway.,"Это из книги, которую я читал. 'И восходит солнце'. Хемингуэй.",translated,58
+vntext.sq#10720,vntext.sq,DETECTIVEFOX,Finished it way back when times were simpler…,"Дочитал ещё тогда, когда времена были проще…",translated,45
+vntext.sq#10721,vntext.sq,DETECTIVEFOX,Times when I had a spark in my eyes and a pep in my step.,"Времена, когда в глазах был огонёк, а в шаге — пружина.",translated,57
+vntext.sq#10723,vntext.sq,DETECTIVEFOX,"Heh, cheeky. I can respect that.","Хех, дерзко. Уважаю за это.",translated,32
+vntext.sq#10725,vntext.sq,DETECTIVEFOX,Heh... you know what? Let's play another game of 'The Mystery of the Desired Recipe'.,Хех... знаете что? Давайте сыграем ещё раз в 'Тайну Желанного Рецепта'.,translated,85
+vntext.sq#10727,vntext.sq,DETECTIVEFOX,"Alright then, how's this one? Listen closely, Mood Confectioner.","Ладно, тогда как насчёт этой? Слушай внимательно, Кондитер настроения.",translated,64
+vntext.sq#10728,vntext.sq,DETECTIVEFOX,"If you steal it, it's not a crime. It breaks but it also beats. But if it stops working, you'll die.","Если это украсть — не преступление. Оно бьётся, но при этом бьёт. А если оно перестанет работать — ты умрёшь.",translated,100
+vntext.sq#10729,vntext.sq,DETECTIVEFOX,"The recipe I want will have the answer to that riddle's shape on the donut, you got it?","Ответ на эту загадку должен быть нарисован на пончике, который я хочу. Понял?",translated,87
+vntext.sq#10730,vntext.sq,DETECTIVEFOX,"As for my next clue... I want a {$whole} donut, but the {$decor:drizzle} and the {$decor:filling}... it's a flavor that takes its name from a type of fabric.","Что до следующей подсказки... Я хочу целый {$whole} пончик, но {$decor:drizzle} и {$decor:filling}... это вкус, названный в честь вида ткани.",translated,157
+vntext.sq#10744,vntext.sq,DETECTIVEFOX,Thanks...,Спасибо...,translated,9
+vntext.sq#10746,vntext.sq,DETECTIVEFOX,...!!,...!!,translated,5
+vntext.sq#10747,vntext.sq,DETECTIVEFOX,Ugh. No... just no.,Тьфу. Нет... вообще нет.,translated,19
+vntext.sq#10749,vntext.sq,DETECTIVEFOX,"Heh, looks like you've got detective skills of your own.","Хех, похоже, у тебя тоже есть детективная хватка.",translated,56
+vntext.sq#10750,vntext.sq,DETECTIVEFOX,"Now if you don't mind, hit me up with a Fixer-Upper...","Ну а раз так, дай-ка мне Скорую помощь...",translated,54
+vntext.sq#10751,vntext.sq,DETECTIVEFOX,"Cos right now, it's like I'm breathing the smog coming from downtown Clairmont.",Потому что сейчас я будто дышу смогом из центра Клэрмонта.,translated,79
+vntext.sq#10761,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10762,vntext.sq,DETECTIVEFOX,Just what I needed…,"Именно то, что нужно…",translated,19
+vntext.sq#10763,vntext.sq,DETECTIVEFOX,This takes me back… back when I just entered the force.,"Это меня вернуло... в те времена, когда я только поступил на службу.",translated,55
+vntext.sq#10764,vntext.sq,DETECTIVEFOX,Ally. Conan. My buddies back at the precinct. The innumerable cups of questionable coffee we made...,"Элли. Конан. Ребята из участка. Бесчисленные чашки сомнительного кофе, которые мы варили...",translated,100
+vntext.sq#10765,vntext.sq,DETECTIVEFOX,"This is so good, I even remember coming home from work, seeing Conan wearing my hat and walking around the house with a magnifying glass…","Это так вкусно, что я даже вспомнил, как приходил домой с работы и видел Конана в моей шляпе с лупой в руке, разгуливающего по дому…",translated,137
+vntext.sq#10766,vntext.sq,DETECTIVEFOX,Kid loved solving riddles... called them 'mystery cases'.,Малец обожал разгадывать загадки... называл их 'таинственными делами'.,translated,57
+vntext.sq#10767,vntext.sq,DETECTIVEFOX,Heh... the way he furrowed his brow and put his hand to his chin when he was real stumped.,"Хех... как он хмурил брови и подпирал подбородок рукой, когда действительно застревал.",translated,90
+vntext.sq#10768,vntext.sq,DETECTIVEFOX,And then... seeing that lightbulb flicker on when he finally figured it out... I suppose that's why I asked you to play this game with me.,"А потом... видеть, как у него загорается лампочка, когда он наконец находит ответ... наверное, поэтому я и попросил тебя сыграть со мной в эту игру.",translated,138
+vntext.sq#10769,vntext.sq,DETECTIVEFOX,"Heh, though this donut is hitting me with that feeling of {$moods:nostalgia}... nothing brings me back like playing that game...","Хех, хотя этот пончик и правда вызывает у меня чувство {$moods:nostalgia}... ничто так не возвращает меня назад, как эта игра...",translated,128
+vntext.sq#10770,vntext.sq,DETECTIVEFOX,So... thank you... for making this donut as good as it is.,"Так что... спасибо тебе... за то, что сделал этот пончик таким хорошим.",translated,58
+vntext.sq#10772,vntext.sq,DETECTIVEFOX,Heh...,Хех...,translated,6
+vntext.sq#10773,vntext.sq,DETECTIVEFOX,Those were the times when I never missed a beat… when I could close any case.,"Вот были времена, когда я не давал ни единого маху... когда мог раскрыть любое дело.",translated,77
+vntext.sq#10774,vntext.sq,DETECTIVEFOX,But now…,Но теперь…,translated,8
+vntext.sq#10775,vntext.sq,DETECTIVEFOX,"Now it’s just late nights, bad whiskey, an empty apartment, and the occasional mood enhancer to get me by.","Теперь только поздние ночи, плохой виски, пустая квартира да изредка усилитель настроения, чтобы продержаться.",translated,106
+vntext.sq#10776,vntext.sq,DETECTIVEFOX,This is it… my ‘hard-boiled’ path.,Вот он... мой 'крутой' путь.,translated,34
+vntext.sq#10778,vntext.sq,DETECTIVEFOX,...!,...!,translated,4
+vntext.sq#10779,vntext.sq,DETECTIVEFOX,"Hey, Confectioner... I don't think you got my order right.","Эй, Кондитер... кажется, ты неправильно понял мой заказ.",translated,58
+vntext.sq#10780,vntext.sq,DETECTIVEFOX,This tastes like a {$flavors:lemon_acid} donut. I'm not sure if coming up with bright ideas is what I want right now...,"На вкус это как пончик {$flavors:lemon_acid}. Не уверен, что сейчас хочу придумывать блестящие идеи...",translated,119
+vntext.sq#10781,vntext.sq,DETECTIVEFOX,This tastes like an {$flavors:ubecstacy} donut. I'm not really feeling ${passionate} about things right now...,На вкус это как пончик {$flavors:ubecstacy}. Сейчас я не особо чувствую ${passionate} к чему-либо...,translated,110
+vntext.sq#10782,vntext.sq,DETECTIVEFOX,"This tastes like a {$flavors:matchajuana} donut. Detectives can't sleep on the job, even if they're tired of life's many curveballs...","На вкус это как пончик {$flavors:matchajuana}. Детективы не могут спать на посту, даже если устали от жизненных передряг...",translated,134
+vntext.sq#10783,vntext.sq,DETECTIVEFOX,"This tastes like a {$flavors:chococaine} donut. I don't mind that extra ${focus}, but I don't like ${focusing} on feeling bad...","На вкус это как пончик {$flavors:chococaine}. Я не против лишней дозы ${focus}, но не люблю ${focusing} на плохом самочувствии...",translated,128
+vntext.sq#10784,vntext.sq,DETECTIVEFOX,"This tastes like a {$flavors:vanilla_sky} donut. Thanks for trying to {$moods:cheer} me up, but sometimes you just gotta take the hit...","На вкус это как пончик {$flavors:vanilla_sky}. Спасибо, что пытаешься меня {$moods:cheer}, но иногда просто нужно принять удар...",translated,136
+vntext.sq#10785,vntext.sq,DETECTIVEFOX,"This tastes like a {$flavors:methberry} donut. This is kinda close, but to me, there's a fine line between lookin' at the past and feeling vulnerable...","На вкус это как пончик {$flavors:methberry}. Это близко, но, по-моему, есть тонкая грань между взглядом в прошлое и ощущением уязвимости...",translated,152
+vntext.sq#10786,vntext.sq,DETECTIVEFOX,"This tastes like a {$flavors:roid_velvet} donut. I don't mind being fearless, but now's not the right time for that...","На вкус это как пончик {$flavors:roid_velvet}. Я не против бесстрашия, но сейчас не время для этого...",translated,118
+vntext.sq#10787,vntext.sq,DETECTIVEFOX,"This tastes like a {$flavors:pumpketamine} donut. I don't mind being calm, but now's not the right time for that...","На вкус это как пончик {$flavors:pumpketamine}. Я не против спокойствия, но сейчас не время для этого...",translated,115
+vntext.sq#10789,vntext.sq,DETECTIVEFOX,Hit me.,Давай.,translated,7
+vntext.sq#10792,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10793,vntext.sq,DETECTIVEFOX,"Ah, the Fixer-Upper... now that's hard-boiled.","Ах, Скорая помощь... вот это по-настоящему крутой пончик.",translated,46
+vntext.sq#10794,vntext.sq,DETECTIVEFOX,"Tastes just like my life right now... late nights, bad whiskey, an empty apartment, and the occasional mood enhancer to get me by.","На вкус прямо как моя нынешняя жизнь... поздние ночи, плохой виски, пустая квартира да изредка усилитель настроения, чтобы продержаться.",translated,130
+vntext.sq#10796,vntext.sq,DETECTIVEFOX,"Heh. Anyway, don't forget to check the orders... or in this case, the clues...","Хех. В общем, не забывай проверять заказы... или, в данном случае, подсказки...",translated,78
+vntext.sq#10797,vntext.sq,DETECTIVEFOX,Never hurts to be thorough.,Лишняя дотошность никогда не помешает.,translated,27
+vntext.sq#10801,vntext.sq,DETECTIVEFOX,What is it?,Что такое?,translated,11
+vntext.sq#10804,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10805,vntext.sq,DETECTIVEFOX,Why'd you think I ordered a {$recipe:valentine}? You know how many of those I've missed before Ally finally had enough? Do the math.,"А почему, думаешь, я заказал '{$recipe:valentine}'? Знаешь, сколько таких дней я пропустил, прежде чем Элли не выдержала? Считай сам.",translated,132
+vntext.sq#10806,vntext.sq,DETECTIVEFOX,"Heh, that's why I ordered something ${nostalgic}. You do the math.","Хех, вот поэтому я и заказал что-то ${nostalgic}. Считай сам.",translated,66
+vntext.sq#10808,vntext.sq,DETECTIVEFOX,"Anyway, that's enough about me. I don't wanna get drunk on self-pity...","В общем, хватит обо мне. Не хочу упиваться жалостью к себе...",translated,71
+vntext.sq#10809,vntext.sq,DETECTIVEFOX,"What about you, Confectioner? How have you been?","А ты как, Кондитер? Как дела?",translated,48
+vntext.sq#10811,vntext.sq,DETECTIVEFOX,"Back then, when I made a scene… you said you were under a lot of pressure too.","Тогда, когда я устроил сцену… ты сказал, что тоже под большим давлением.",translated,78
+vntext.sq#10812,vntext.sq,DETECTIVEFOX,"The bartender, the barista, the lady at reception who has to keep on smiling...","Бармен, бариста, дама на ресепшене, которой приходится вечно улыбаться...",translated,79
+vntext.sq#10813,vntext.sq,DETECTIVEFOX,It’s rare for someone behind the counter to share their woes...,Редко когда человек за прилавком делится своими бедами...,translated,63
+vntext.sq#10814,vntext.sq,DETECTIVEFOX,I’d feel bad if I didn’t acknowledge that.,Мне было бы совестно это не признать.,translated,42
+vntext.sq#10826,vntext.sq,DETECTIVEFOX,Really? So you’re all alone?,Правда? Так ты совсем один?,translated,28
+vntext.sq#10828,vntext.sq,DETECTIVEFOX,"Tough luck. Still, it’s good you’re riding it out.","Не повезло. И всё же хорошо, что ты держишься.",translated,50
+vntext.sq#10830,vntext.sq,DETECTIVEFOX,I see…,Понятно…,translated,6
+vntext.sq#10831,vntext.sq,DETECTIVEFOX,"Hard-boiled, huh? What does that mean for you, Confectioner?","Крутость, значит? А что это для тебя означает, Кондитер?",translated,60
+vntext.sq#10833,vntext.sq,DETECTIVEFOX,What can I say? I’m a detective. I [i] need [/i] to know what other people think… comes with the territory.,"Что тут скажешь? Я детектив. Мне [i] нужно [/i] знать, что думают другие люди… работа такая.",translated,107
+vntext.sq#10835,vntext.sq,DETECTIVEFOX,Maybe. Or maybe I’m just curious.,"Может быть. А может, мне просто любопытно.",translated,33
+vntext.sq#10844,vntext.sq,DETECTIVEFOX,…!!,…!!,translated,3
+vntext.sq#10846,vntext.sq,DETECTIVEFOX,Being hard-boiled...,Быть крутым...,translated,20
+vntext.sq#10847,vntext.sq,DETECTIVEFOX,It’s about being there for the ones who need you... even when the cards aren’t in your favor.,"Это значит быть рядом с теми, кому ты нужен... даже когда карты не в твою пользу.",translated,93
+vntext.sq#10848,vntext.sq,DETECTIVEFOX,"You’re hard-boiled to me, Confectioner. You’re hard-boiled to me…","Ты крутой, Кондитер. Ты крутой…",translated,65
+vntext.sq#10853,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10855,vntext.sq,DETECTIVEFOX,Being hard-boiled...,Быть крутым...,translated,20
+vntext.sq#10856,vntext.sq,DETECTIVEFOX,"We just have to come to terms with this hard-boiled path, huh?","Остаётся только смириться с этим крутым путём, да?",translated,62
+vntext.sq#10858,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10859,vntext.sq,DETECTIVEFOX,"Anyway, I’m glad you humored me. Good talk.","В общем, я рад, что ты меня потешил. Хороший был разговор.",translated,43
+vntext.sq#10860,vntext.sq,DETECTIVEFOX,"See you around, Confectioner.","Увидимся, Кондитер.",translated,29
+vntext.sq#10862,vntext.sq,DETECTIVEFOX,You were. Thanks.,Ты был здесь. Спасибо.,translated,17
+vntext.sq#10863,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10866,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10867,vntext.sq,DETECTIVEFOX,"San Juanico, San Idelora, and now... San Mazo.","Сан-Хуанико, Сан-Идело́ра, а теперь... Сан-Мазо.",translated,46
+vntext.sq#10868,vntext.sq,DETECTIVEFOX,For a miserable stretch of land with cities named after saints…,"Для жалкого клочка земли с городами, названными в честь святых…",translated,63
+vntext.sq#10869,vntext.sq,DETECTIVEFOX,This place ain't so bad.,Это место не так уж плохо.,translated,24
+vntext.sq#10871,vntext.sq,DETECTIVEFOX,Hmmm…,Хмм…,translated,5
+vntext.sq#10872,vntext.sq,DETECTIVEFOX,This city — it tested me. It wanted to see if I was a real hard-boiled detective…,"Этот город — он испытывал меня. Хотел проверить, настоящий ли я крутой детектив…",translated,81
+vntext.sq#10873,vntext.sq,DETECTIVEFOX,"I almost cracked, but you can't make diamonds without pressure. That's what being hard-boiled means.","Я чуть не сломался, но без давления не получишь алмазов. Вот что значит быть крутым.",translated,100
+vntext.sq#10875,vntext.sq,DETECTIVEFOX,"The Donut Thief might still be on the loose, but one day, justice will come…","Вор пончиков, может, всё ещё на свободе, но однажды правосудие настигнет его…",translated,76
+vntext.sq#10876,vntext.sq,DETECTIVEFOX,"For now, Detective Fox needs to attend to things that really matter.","А пока детективу Фоксу нужно заняться тем, что действительно важно.",translated,68
+vntext.sq#10878,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10880,vntext.sq,DETECTIVEFOX,"Some other time, maybe. I’m about to leave for Attleset first thing in the morning.","Может, в другой раз. Я уезжаю в Аттлсет с самого утра.",translated,83
+vntext.sq#10881,vntext.sq,DETECTIVEFOX,I just wanted to get a good look at this place before I do.,Просто хотел напоследок как следует осмотреть это место.,translated,59
+vntext.sq#10883,vntext.sq,DETECTIVEFOX,"Heh, like I said… I’ve got other matters to attend to.","Хех, как я и сказал… у меня есть другие дела.",translated,54
+vntext.sq#10884,vntext.sq,DETECTIVEFOX,This one’s urgent. A certain detective needs backup…,Это срочное. Одному детективу нужна подмога…,translated,52
+vntext.sq#10885,vntext.sq,DETECTIVEFOX,Goes by the name of Conan. He’s small and inexperienced...,Зовут его Конан. Маленький и неопытный...,translated,58
+vntext.sq#10886,vntext.sq,DETECTIVEFOX,He could use the guidance of a hard-boiled detective.,Ему не помешало бы наставление крутого детектива.,translated,53
+vntext.sq#10888,vntext.sq,DETECTIVEFOX,"Eh, it’s about time, anyway...","Эх, давно пора, если честно...",translated,30
+vntext.sq#10889,vntext.sq,DETECTIVEFOX,"Like I said, kids are pretty good at keeping tabs of what you say.","Как я и говорил, дети отлично запоминают, что ты им наобещал.",translated,66
+vntext.sq#10891,vntext.sq,DETECTIVEFOX,"So, know any good places in Attleset? Somewhere we could get ice cream, maybe?","Так что, знаешь хорошие места в Аттлсете? Может, где можно взять мороженое?",translated,78
+vntext.sq#10892,vntext.sq,DETECTIVEFOX,"You see, for one small kid, Conan's got a big sweet tooth!","Понимаешь, для такого мелкого пацана у Конана прямо-таки страсть к сладкому!",translated,58
+vntext.sq#10899,vntext.sq,DETECTIVEFOX,So... you've never been there?,Так... ты сам там никогда не был?,translated,30
+vntext.sq#10902,vntext.sq,DETECTIVEFOX,Why not?,Почему нет?,translated,8
+vntext.sq#10907,vntext.sq,DETECTIVEFOX,...The 'politician dad.',...'Папа-политик.',translated,24
+vntext.sq#10910,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10911,vntext.sq,DETECTIVEFOX,I’ll let you know all about Emperor Penguin when I’m around town. Don't worry.,"Я обязательно расскажу тебе всё про 'Императора Пингвина', когда буду в городе. Не переживай.",translated,78
+vntext.sq#10913,vntext.sq,DETECTIVEFOX,"Oh, and by the way…","Ах да, кстати…",translated,19
+vntext.sq#10914,vntext.sq,DETECTIVEFOX,"If you see any suspicious types who like ordering ${Rainbow Highs} with a preference for {$colors:pink} ${sprinkles}, give me a call.","Если увидишь подозрительных типов, заказывающих ${Rainbow Highs} с пристрастием к {$colors:pink} ${sprinkles} — звони мне.",translated,133
+vntext.sq#10915,vntext.sq,DETECTIVEFOX,Here’s my card. I’ll get to you as soon as I can.,"Вот моя визитка. Я приеду, как только смогу.",translated,49
+vntext.sq#10918,vntext.sq,DETECTIVEFOX,No.,Нет.,translated,3
+vntext.sq#10921,vntext.sq,DETECTIVEFOX,"Sorry, Confectioner. But a hard-boiled detective always flies solo.","Извини, Кондитер. Но крутой детектив всегда летает соло.",translated,67
+vntext.sq#10923,vntext.sq,DETECTIVEFOX,No I didn’t. That’s the first thing they teach you in hard-boiled detective school.,"Ничего подобного. Это первое, чему учат в школе крутых детективов.",translated,83
+vntext.sq#10925,vntext.sq,DETECTIVEFOX,Heh. I'm glad you understand.,"Хех. Рад, что ты понимаешь.",translated,29
+vntext.sq#10926,vntext.sq,DETECTIVEFOX,"Anyway, the road’s aching to take me to Attleset.","В общем, дорога так и манит меня в Аттлсет.",translated,49
+vntext.sq#10927,vntext.sq,DETECTIVEFOX,"See ya around, Confectioner. Stay hard-boiled.","Увидимся, Кондитер. Оставайся крутым.",translated,46
+vntext.sq#10932,vntext.sq,DETECTIVEFOX,...?,...?,translated,4
+vntext.sq#10940,vntext.sq,DETECTIVEFOX,...?,...?,translated,4
+vntext.sq#10942,vntext.sq,DETECTIVEFOX,Heh... two can play at that game.,Хех... в эту игру можно играть и вдвоём.,translated,33
+vntext.sq#10943,vntext.sq,DETECTIVEFOX,"Donuts... they aren't known for their tough exterior. Glaze cracks easy, as for the dough — softer still.","Пончики... они не славятся прочной оболочкой. Глазурь трескается легко, а тесто — и того мягче.",translated,105
+vntext.sq#10944,vntext.sq,DETECTIVEFOX,But this one Mood Confectioner... the oven they crawled out of must have been built on a chicken farm... cos they are hard-boiled.,"Но этот Кондитер настроения... духовка, из которой он вылез, наверняка стояла на куриной ферме... потому что он крутой.",translated,130
+vntext.sq#10945,vntext.sq,DETECTIVEFOX,But here's my secret...,Но вот мой секрет...,translated,23
+vntext.sq#10946,vntext.sq,DETECTIVEFOX,"Throughout our time together, I've been observing... and though I don't have the specifics, I think I've got 'em figured out.","Всё это время, что мы провели вместе, я наблюдал... и хоть подробностей у меня нет, кажется, я его раскусил.",translated,125
+vntext.sq#10947,vntext.sq,DETECTIVEFOX,The Mood Confectioner is a ring donut. And the thing about ring donuts is they've got a hole. A missing piece that they're trying hard to fill.,"Кондитер настроения — это пончик с дыркой. А у пончиков с дыркой есть одна особенность — дыра. Недостающий кусочек, который они изо всех сил пытаются заполнить.",translated,143
+vntext.sq#10948,vntext.sq,DETECTIVEFOX,"They're searching for it, whether they know it or not... a donut hole to fit the donut's hole.","Они ищут его, знают об этом или нет... пончиковую дырочку, которая подойдёт к их собственной дыре.",translated,94
+vntext.sq#10949,vntext.sq,DETECTIVEFOX,"And though the journey's gonna be tough, full of broken hearts and dreams and echoes of the past...","И пусть путь будет трудным, полным разбитых сердец, несбывшихся мечтаний и отголосков прошлого...",translated,99
+vntext.sq#10950,vntext.sq,DETECTIVEFOX,They've got what it takes to forge that happy ending.,"У них есть всё, чтобы выковать себе счастливый финал.",translated,53
+vntext.sq#10952,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10953,vntext.sq,DETECTIVEFOX,Mood Confectioner.,Кондитер настроения.,translated,18
+vntext.sq#10956,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10962,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10963,vntext.sq,DETECTIVEFOX,"San Juanico, San Idelora... San Mazo.","Сан-Хуанико, Сан-Идело́ра... Сан-Мазо.",translated,37
+vntext.sq#10964,vntext.sq,DETECTIVEFOX,"You’ve kept your secrets for now, just like the saints named after you...","Вы храните свои секреты до поры до времени, прямо как святые, в честь которых вас назвали...",translated,73
+vntext.sq#10965,vntext.sq,DETECTIVEFOX,"But when I come back, there’s going to be a reckoning — a hard-boiled reckoning.","Но когда я вернусь, состоится расплата — крутая расплата.",translated,80
+vntext.sq#10968,vntext.sq,DETECTIVEFOX,"Some other time, maybe. I’m about to leave for Monumento first thing in the morning.","Может, в другой раз. Я уезжаю в Монументо с самого утра.",translated,84
+vntext.sq#10969,vntext.sq,DETECTIVEFOX,I just wanted to get a good look at this place before I do.,Просто хотел напоследок как следует осмотреть это место.,translated,59
+vntext.sq#10971,vntext.sq,DETECTIVEFOX,A buddy of mine in the force tipped me off. There’s a donut-related crime up north…,"Один приятель из органов дал наводку. На севере какое-то преступление, связанное с пончиками…",translated,83
+vntext.sq#10972,vntext.sq,DETECTIVEFOX,"If I’m lucky, the Donut Thief could still be around.","Если повезёт, Вор пончиков всё ещё может быть где-то там.",translated,52
+vntext.sq#10974,vntext.sq,DETECTIVEFOX,Of course. A hard-boiled detective doesn’t waste time when the trail’s fresh again...,"Конечно. Крутой детектив не теряет время, когда след снова горячий...",translated,85
+vntext.sq#10975,vntext.sq,DETECTIVEFOX,"And if you see anyone suspicious, give me a call. Here’s my card.",И если увидишь кого подозрительного — звони мне. Вот моя визитка.,translated,65
+vntext.sq#10977,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10979,vntext.sq,DETECTIVEFOX,…,…,translated,1
+vntext.sq#10982,vntext.sq,DETECTIVEFOX,I know. I'm just... bracing myself. It's Conan.,Я знаю. Просто... собираюсь с духом. Это Конан.,translated,47
+vntext.sq#10983,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10984,vntext.sq,DETECTIVEFOX,"Hey, buddy! How's it going?","Привет, дружище! Как дела?",translated,27
+vntext.sq#10985,vntext.sq,DETECTIVEFOX,"...I know, and I'm sorry I lied. But I'll be there next week. Promise!","...Я знаю, и прости, что соврал. Но я буду там на следующей неделе. Обещаю!",translated,70
+vntext.sq#10986,vntext.sq,DETECTIVEFOX,"...Look, I have to be in Monumento for work, okay?","...Слушай, мне нужно быть в Монументо по работе, ладно?",translated,50
+vntext.sq#10987,vntext.sq,DETECTIVEFOX,"Listen. While you wait, I could send you a really nice bluberry cheesecake! How's that sound?","Слушай. Пока ждёшь, я мог бы прислать тебе классный чизкейк с черникой! Как тебе?",translated,93
+vntext.sq#10988,vntext.sq,DETECTIVEFOX,"...Conan, I— I'll be there as soon as I can. I'm sorry.","...Конан, я— я буду там, как только смогу. Прости.",translated,55
+vntext.sq#10990,vntext.sq,DETECTIVEFOX,Phew...,Уф...,translated,7
+vntext.sq#10991,vntext.sq,DETECTIVEFOX,"Heh, my usual bribe didn't work.","Хех, моя обычная взятка не сработала.",translated,32
+vntext.sq#10993,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#10994,vntext.sq,DETECTIVEFOX,"If I could, then I would, you know?","Если бы мог, то сделал бы, знаешь?",translated,35
+vntext.sq#10995,vntext.sq,DETECTIVEFOX,It's just that time isn't my friend right now...,Просто время сейчас не на моей стороне...,translated,48
+vntext.sq#11005,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#11008,vntext.sq,DETECTIVEFOX,...The 'politician dad.',...'Папа-политик.',translated,24
+vntext.sq#11010,vntext.sq,DETECTIVEFOX,"Thanks for the heads up, Confectioner. See you around.","Спасибо за наводку, Кондитер. Увидимся.",translated,54
+vntext.sq#11012,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#11013,vntext.sq,DETECTIVEFOX,Ally. Conan. I’ll wrap this up as soon as possible. I swear.,Элли. Конан. Я закончу с этим как можно скорее. Клянусь.,translated,60
+vntext.sq#11014,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#11021,vntext.sq,DETECTIVEFOX,It's another day in city of San Mazo. Standing across the counter is a Mood Confectioner.,Очередной день в городе Сан-Мазо. По ту сторону прилавка стоит Кондитер настроения.,translated,89
+vntext.sq#11022,vntext.sq,DETECTIVEFOX,"It just so happens, I'm not just hungry for justice. I'm also hungry for a donut.","Так уж вышло, что я голоден не только по справедливости. Ещё я голоден по пончику.",translated,81
+vntext.sq#11025,vntext.sq,DETECTIVEFOX,That we do. Shall we celebrate this touching reunion with a donut?,И то верно. Отметим эту трогательную встречу пончиком?,translated,66
+vntext.sq#11027,vntext.sq,DETECTIVEFOX,Hmmmm... word around town talks about an individual known as the Velvet Devil.,Хмммм... по городу ходят слухи о личности по прозвищу Бархатный Дьявол.,translated,78
+vntext.sq#11028,vntext.sq,DETECTIVEFOX,I noticed you've got a donut named after them. Any association?,"Я заметил, у тебя есть пончик, названный в его честь. Есть какая-то связь?",translated,63
+vntext.sq#11035,vntext.sq,DETECTIVEFOX,"Greetings, completely unassuming Mood Confectioner.","Приветствую, совершенно непримечательный Кондитер настроения.",translated,51
+vntext.sq#11037,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#11038,vntext.sq,DETECTIVEFOX,"You like vegetables, Confectioner?","Ты любишь овощи, Кондитер?",translated,34
+vntext.sq#11040,vntext.sq,DETECTIVEFOX,"Well, though I must admit they are a valuable part of a balanced diet. I've always been a meat man.","Что ж, должен признать, они — ценная часть сбалансированного питания. Но я всегда был мясоедом.",translated,99
+vntext.sq#11041,vntext.sq,DETECTIVEFOX,A juicy red steak cooked so hot it puts hairs on your chest hairs. So how about this.,"Сочный красный стейк, зажаренный так, что аж мурашки по коже. Так что как насчёт этого.",translated,85
+vntext.sq#11048,vntext.sq,DETECTIVEFOX,They'll never find out that I wanted a {$recipe:red_meat}. Looks like I've won.,"Они так и не узнают, что я хотел {$recipe:red_meat}. Похоже, я выиграл.",translated,79
+vntext.sq#11054,vntext.sq,DETECTIVEFOX,I look forward to it.,С нетерпением жду.,translated,21
+vntext.sq#11056,vntext.sq,DETECTIVEFOX,I walk in. I smell the air. Smells of conversation. Emotional catharsis. And sweet sugary donuts.,Захожу внутрь. Вдыхаю воздух. Пахнет разговорами. Эмоциональным катарсисом. И сладкими сахарными пончиками.,translated,97
+vntext.sq#11058,vntext.sq,DETECTIVEFOX,Let's see about that. Though I'm hungry for a donut. I'm also thirsting for a ice cold glass of... mystery.,Посмотрим на это. Хоть я и голоден по пончику. Но ещё я жажду ледяного стакана... тайны.,translated,107
+vntext.sq#11059,vntext.sq,DETECTIVEFOX,"I'll spin you a riddle, you give me a donut? Make sense?","Я загадаю тебе загадку, а ты дашь мне пончик? Годится?",translated,56
+vntext.sq#11061,vntext.sq,DETECTIVEFOX,I crawl and eat and eat. Then I sleep. Changing. Wing sprouting. I take to the skies.,"Я ползаю, ем и ем. Потом сплю. Меняюсь. Отращиваю крылья. И взмываю в небеса.",translated,85
+vntext.sq#11068,vntext.sq,DETECTIVEFOX,"All I wanted was a donut that's {$heavy} with a butterfly drawing on it, any flavor will do.","Всё, чего я хотел — {$heavy} пончик с рисунком бабочки, любой вкус подойдёт.",translated,92
+vntext.sq#11075,vntext.sq,DETECTIVEFOX,The Fox is on the scene.,Фокс на месте преступления.,translated,24
+vntext.sq#11082,vntext.sq,DETECTIVEFOX,Mood Confectioner sits there. Sporting an appearance I'd love to describe in detail. But for some reason... I can't.,"Кондитер настроения сидит там. С видом, который я бы с удовольствием описал в подробностях. Но почему-то... не могу.",translated,116
+vntext.sq#11083,vntext.sq,DETECTIVEFOX,A plethora of possibilites that never seem to solidify. Strange. Suspicious. Intriguing.,"Множество возможностей, которые никак не желают обрести форму. Странно. Подозрительно. Интригующе.",translated,88
+vntext.sq#11085,vntext.sq,DETECTIVEFOX,Not until I've got my donut. How's this? They say San Mazo's the city of angels—,"Не пока не получу свой пончик. Как насчёт этого? Говорят, Сан-Мазо — город ангелов—",translated,80
+vntext.sq#11093,vntext.sq,DETECTIVEFOX,"Secretly, I wanted a {$recipe:angels_reverie} all this time...","На самом деле, я всё это время хотел {$recipe:angels_reverie}...",translated,62
+vntext.sq#11100,vntext.sq,DETECTIVEFOX,"And so, the Fox once again, stalks his prey.",И вот снова Фокс выслеживает свою добычу.,translated,44
+vntext.sq#11102,vntext.sq,DETECTIVEFOX,Was feeling as blue as a berry until... my kid sent me this really cute picture of him riding a bike.,"Хандрил, как перезрелая ягода, пока... мой малец не прислал мне такое милое фото — он катается на велосипеде.",translated,101
+vntext.sq#11103,vntext.sq,DETECTIVEFOX,They grow up so fast...,Как быстро они растут...,translated,23
+vntext.sq#11104,vntext.sq,DETECTIVEFOX,"Actually, I'd like a {$glaze:multiglaze} donut. First mood is one that'll help me relive those moments with him when he was younger.","Вообще-то, я бы хотел пончик {$glaze:multiglaze}. Первое настроение — то, что поможет мне заново пережить те моменты с ним, когда он был младше.",translated,132
+vntext.sq#11105,vntext.sq,DETECTIVEFOX,But for the second mood... it might be a while since I see him so I'd like a mood that'll help with the wait.,"А для второго настроения... я не увижу его ещё какое-то время, так что хочу настроение, которое поможет с ожиданием.",translated,109
+vntext.sq#11112,vntext.sq,DETECTIVEFOX,They'll never know I wanted a {$glaze:multiglaze} with {$flavors:strawpium} and {$flavors:pumpketamine} with some {$toppings:maple_thebacon} ${toppings}.,"Они так и не узнают, что я хотел {$glaze:multiglaze} с {$flavors:strawpium} и {$flavors:pumpketamine} и немного {$toppings:maple_thebacon} ${toppings}.",translated,153
+vntext.sq#11119,vntext.sq,DETECTIVEFOX,"Mood Confectioner sits there, making donuts and serving conversation.","Кондитер настроения сидит там, готовит пончики и подаёт разговоры.",translated,69
+vntext.sq#11120,vntext.sq,DETECTIVEFOX,The more info I get... the more I think they're innocent. Or maybe I've gone soft. Has their friendship blinded my weak-willed heart?,"Чем больше сведений я собираю... тем больше думаю, что он невиновен. А может, я просто размяк. Неужели их дружба ослепила моё слабовольное сердце?",translated,133
+vntext.sq#11122,vntext.sq,DETECTIVEFOX,N-No time to dwell on that now. I'd like a donut.,Н-нет времени на это сейчас. Я бы хотел пончик.,translated,49
+vntext.sq#11123,vntext.sq,DETECTIVEFOX,But what to order? Hmmmm... there's this series of movies my kid absolutely loves.,"Но что заказать? Хмммм... есть такая серия фильмов, которую мой малец обожает.",translated,82
+vntext.sq#11124,vntext.sq,DETECTIVEFOX,You know the one staring that green monster who shuts everyone out and eventually finds frienship and love?,"Знаешь, тот, где играет зелёный монстр, который всех отталкивает, но в итоге находит дружбу и любовь?",translated,107
+vntext.sq#11125,vntext.sq,DETECTIVEFOX,"Personally, the first two movies were the best... But little Conan likes the later ones...",Лично мне первые два фильма понравились больше всего... но малышу Конану нравятся более поздние...,translated,90
+vntext.sq#11131,vntext.sq,DETECTIVEFOX,Looks Iike I stumped the Confectioner... heh...,"Похоже, я поставил Кондитера в тупик... хех...",translated,47
+vntext.sq#11132,vntext.sq,DETECTIVEFOX,It's an {$recipe:ogre-dosed}... ahem...,Это {$recipe:ogre-dosed}... кхм...,translated,39
+vntext.sq#11138,vntext.sq,DETECTIVEFOX,Go play.,Действуй.,translated,8
+vntext.sq#11140,vntext.sq,DETECTIVEFOX,It's a dark and stormy night. The rain pitter patters against the glass as I—,"Тёмная, штормовая ночь. Дождь барабанит по стеклу, пока я—",translated,77
+vntext.sq#11142,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#11143,vntext.sq,DETECTIVEFOX,Why'd you gotta take this away from me?,Зачем ты у меня это отнимаешь?,translated,39
+vntext.sq#11145,vntext.sq,DETECTIVEFOX,It's fine. You know what I like doing when it is raining though? Sitting down inside and chewing on a good cinnamon roll.,"Ничего страшного. Знаешь, что я люблю делать в дождь? Сидеть дома и жевать хорошую булочку с корицей.",translated,121
+vntext.sq#11155,vntext.sq,DETECTIVEFOX,I'm hungering for one of my favorites... a donut that goes by the name of '{$recipe:red_meat}'.,Тоскую по одному из моих любимых... пончику под названием '{$recipe:red_meat}'.,translated,95
+vntext.sq#11159,vntext.sq,DETECTIVEFOX,The familiar smell of the Hotbox. Never gets old.,Знакомый запах Хотбокса. Никогда не приедается.,translated,49
+vntext.sq#11161,vntext.sq,DETECTIVEFOX,He's doing great! Just recently cracked the case of the plagiarized homework.,Отлично! Недавно раскрыл дело о списанной домашке.,translated,77
+vntext.sq#11162,vntext.sq,DETECTIVEFOX,Kid takes after his dad. Can't wait to see him again.,"Малец весь в отца. Не могу дождаться, когда снова его увижу.",translated,53
+vntext.sq#11164,vntext.sq,DETECTIVEFOX,Give me that one donut on your menu called '{$recipe:thanksgiving}'. Reminds me of him.,Дай мне тот пончик из меню под названием '{$recipe:thanksgiving}'. Напоминает мне о нём.,translated,87
+vntext.sq#11168,vntext.sq,DETECTIVEFOX,"Hello again, Mood Confectioner. Great to see ya!","Снова здравствуй, Кондитер настроения. Рад тебя видеть!",translated,48
+vntext.sq#11170,vntext.sq,DETECTIVEFOX,"What can I say, after all this time I've developed a craving for your donuts.","Что тут скажешь, за всё это время я пристрастился к твоим пончикам.",translated,77
+vntext.sq#11172,vntext.sq,DETECTIVEFOX,How about a '{$recipe:christmas}'? I've... missed a lot of those... but I guess this is the next best thing.,"Как насчёт '{$recipe:christmas}'? Я... пропустил немало таких праздников... но, думаю, это лучшая замена.",translated,108
+vntext.sq#11175,vntext.sq,DETECTIVEFOX,Dramatic monologue: A detective's got to do what he can to remain sane in this fox eat fox world.,"Драматичный монолог: детективу приходится делать всё, чтобы сохранить рассудок в этом мире, где лис лиса ест.",translated,97
+vntext.sq#11176,vntext.sq,DETECTIVEFOX,Fond stare of longing: And nothing rejuvenates the soul like some good old nostalgia. Brings us back to better times.,"Задумчивый взгляд, полный тоски: и ничто так не освежает душу, как старая добрая ностальгия. Возвращает нас в лучшие времена.",translated,117
+vntext.sq#11177,vntext.sq,DETECTIVEFOX,Subtle hint: If only there was a Mood Confectioner who'd offer such a flavor. Then I'd consider stopping by.,"Тонкий намёк: если бы только нашёлся Кондитер настроения, который предлагал бы такой вкус. Тогда бы я подумал о том, чтобы заглянуть.",translated,108
+vntext.sq#11178,vntext.sq,DETECTIVEFOX,Pondering monologue: This case is getting me quite jumpy. But I gotta keep my cool.,Задумчивый монолог: это дело выматывает мне нервы. Но нужно сохранять хладнокровие.,translated,83
+vntext.sq#11179,vntext.sq,DETECTIVEFOX,Thoughtful conjecture: I sure would like some Mood Enhancers that would help with my patience. A pumpkin flavor perhaps?,"Вдумчивое предположение: не отказался бы от Усилителей настроения, которые помогли бы с терпением. Может, тыквенный вкус?",translated,120
+vntext.sq#11180,vntext.sq,DETECTIVEFOX,Subtle hint: If only there was a Mood Confectioner who'd offer such a flavor. Then I'd consider stopping by.,"Тонкий намёк: если бы только нашёлся Кондитер настроения, который предлагал бы такой вкус. Тогда бы я подумал о том, чтобы заглянуть.",translated,108
+vntext.sq#11181,vntext.sq,DETECTIVEFOX,"Greetings, completely innocent Mood Confectioner","Приветствую, совершенно невинный Кондитер настроения",translated,48
+vntext.sq#11182,vntext.sq,DETECTIVEFOX,"I am a completely normal citizen, creating an avenue for communication so that we may establish a deeper level of friendship.","Я совершенно обычный гражданин, создающий канал связи, чтобы мы могли выстроить более глубокую дружбу.",translated,125
+vntext.sq#11183,vntext.sq,DETECTIVEFOX,"Shall we begin by talking about your interests? Like making donuts, animes and video games, participating in organized crime.","Не начать ли нам с разговора о твоих увлечениях? Например, изготовление пончиков, аниме и видеоигры, участие в организованной преступности.",translated,125
+vntext.sq#11184,vntext.sq,DETECTIVEFOX,You can trust me.,Можешь мне доверять.,translated,17
+vntext.sq#11189,vntext.sq,DETECTIVEFOX,"Internal monologue: I've never fancied myself a skilled fisherman, but I guess the tides are on my side — cos the perp's fallen for the bait.","Внутренний монолог: никогда не считал себя умелым рыбаком, но, похоже, удача на моей стороне — подозреваемый клюнул на наживку.",translated,141
+vntext.sq#11190,vntext.sq,DETECTIVEFOX,Dramatic gesture: Now all that's left to do is to wait like an ugly duckling and play the long game.,"Драматичный жест: теперь остаётся только ждать, как гадкому утёнку, и играть в долгую.",translated,100
+vntext.sq#11192,vntext.sq,DETECTIVEFOX,NOT JUST ANY FOX.,НЕ ПРОСТО КАКОЙ-ТО ЛИС.,translated,17
+vntext.sq#11193,vntext.sq,DETECTIVEFOX,DETECTIVE FOX.,ДЕТЕКТИВ ФОКС.,translated,14
+vntext.sq#11194,vntext.sq,DETECTIVEFOX,Dramatic pause: ...,Драматичная пауза: ...,translated,19
+vntext.sq#11195,vntext.sq,DETECTIVEFOX,"Darn it, you caught me, I couldn't resist.","Чёрт, ты меня поймал, не смог удержаться.",translated,42
+vntext.sq#11196,vntext.sq,DETECTIVEFOX,Internal monologue: Oldest trick in the book and I fell for it. They played to my biggest weakness. My love for dramatic reveals.,"Внутренний монолог: старейший трюк в книге, и я на него купился. Они сыграли на моей главной слабости. Моей любви к драматичным разоблачениям.",translated,129
+vntext.sq#11199,vntext.sq,DETECTIVEFOX,"Internal monologue: Perp must've been taking boxing lessons from a convenient store clerk, cos they're setting up one hell of a counter punch.","Внутренний монолог: подозреваемый, похоже, брал уроки бокса у продавца из круглосуточного магазина, потому что готовит адский встречный удар.",translated,142
+vntext.sq#11200,vntext.sq,DETECTIVEFOX,"Dramatic gesture: Should I cut my loses, or stay in the ring? Either way, it's trouble.",Драматичный жест: сократить потери или остаться в ринге? В любом случае — беда.,translated,87
+vntext.sq#11201,vntext.sq,DETECTIVEFOX,Ominous pause: The tension rising like a cake in heat. Or in this case. A DONUT.,"Зловещая пауза: напряжение нарастает, как торт в жару. Или, в данном случае, ПОНЧИК.",translated,80
+vntext.sq#11206,vntext.sq,DETECTIVEFOX,Sly grin followed by a sip of my coffee: as usual my tactics are confusing my prey.,"Хитрая ухмылка и глоток кофе: как обычно, моя тактика сбивает добычу с толку.",translated,83
+vntext.sq#11207,vntext.sq,DETECTIVEFOX,"Swish of my coat: That's the secret, if I let them into my head, then I end up getting in theirs.","Взмах плаща: вот в чём секрет — если я впущу их в свою голову, то в итоге окажусь в их.",translated,97
+vntext.sq#11208,vntext.sq,DETECTIVEFOX,Dramatic pause as I take another sip of coffee: ...,"Драматичная пауза, пока я делаю ещё один глоток кофе: ...",translated,51
+vntext.sq#11209,vntext.sq,DETECTIVEFOX,"Also I'm using a text to speech app right now and like... I'm too far in to turn it off so I'm rolling with this, got it?","И ещё я сейчас использую приложение для синтеза речи и типа... я уже слишком далеко зашёл, чтобы его выключить, так что просто продолжу в том же духе, ясно?",translated,121
+vntext.sq#11211,vntext.sq,DETECTIVEFOX,"As odd as ball, my newly aquainted aquaintance. As odd as a ball.","Странный, как мяч, мой новоиспечённый знакомый. Странный, как мяч.",translated,65
+vntext.sq#11215,vntext.sq,DETECTIVEFOX,Now that the formalities are out of the way. I look forward to visiting your establishment again quite soon.,Раз формальности позади. С нетерпением жду возможности снова заглянуть в твоё заведение в ближайшее время.,translated,108
+vntext.sq#11216,vntext.sq,DETECTIVEFOX,"Dramatic Exit: For now, keep your chin clean and your donuts compliant under sanitary laws. We'll meet again soon.","Драматичный уход: а пока держи подбородок чистым, а пончики — соответствующими санитарным нормам. Скоро увидимся.",translated,114
+vntext.sq#11217,vntext.sq,DETECTIVEFOX,Ended doing a background check on that Kolt guy.,"Провёл проверку прошлого этого парня, Колта.",translated,48
+vntext.sq#11218,vntext.sq,DETECTIVEFOX,"Quite suspicious, did you know he has a Phd in astrophysics?","Весьма подозрительно, ты знала, что у него докторская степень по астрофизике?",translated,60
+vntext.sq#11219,vntext.sq,DETECTIVEFOX,Also spent some time fooling around with the local hooligan gang known as the Loud Boys.,"Ещё немного пообщался с местной хулиганской бандой, известной как Громкие Парни.",translated,88
+vntext.sq#11220,vntext.sq,DETECTIVEFOX,May or may not be affiliated with a certain talking duck: more research is needed.,"Может быть, а может и не быть связан с одной говорящей уткой: требуется дополнительное расследование.",translated,82
+vntext.sq#11225,vntext.sq,DETECTIVEFOX,Snoops are for fact checking websites and cartoon dogs made for mass market appeal.,"Сплетники — это для сайтов проверки фактов и мультяшных собак, созданных для массового рынка.",translated,83
+vntext.sq#11226,vntext.sq,DETECTIVEFOX,"Not a snoop, I prefer to be called — a sleuth.",Не сплетник — я предпочитаю называться сыщиком.,translated,46
+vntext.sq#11228,vntext.sq,DETECTIVEFOX,Stalking's for horror movie masked monsters and women in good need of a leg sock.,"Слежка — это для монстров в масках из фильмов ужасов и женщин, которым не помешал бы гольф на ногу.",translated,81
+vntext.sq#11229,vntext.sq,DETECTIVEFOX,"No, I'm sleuthing. And I'm good at it.","Нет, я веду расследование. И у меня это отлично получается.",translated,38
+vntext.sq#11231,vntext.sq,DETECTIVEFOX,So his name's Rebel? A suspicious name... though...,"Значит, его зовут Ребел? Подозрительное имя... хотя...",translated,51
+vntext.sq#11232,vntext.sq,DETECTIVEFOX,Don't you worry your duck loving head off.,Не переживай так сильно за свою любовь к уткам.,translated,42
+vntext.sq#11233,vntext.sq,DETECTIVEFOX,Got a soft spot for animals. Once nabbed a perp for kicking a puppy.,"У меня слабость к животным. Однажды я взял с поличным типа, который пинал щенка.",translated,68
+vntext.sq#11234,vntext.sq,DETECTIVEFOX,Now he's barking his own sad tune at the pound. Who's the puppy now?,Теперь он сам скулит свою печальную песню в приюте. Кто теперь щенок?,translated,68
+vntext.sq#11235,vntext.sq,DETECTIVEFOX,"But in any case, after triple checking his background... Kolt's in the clear.","Но в любом случае, после тройной проверки его прошлого... Колт чист.",translated,77
+vntext.sq#11236,vntext.sq,DETECTIVEFOX,"Adjusts glasses: Seems like another dead end, but a wise man once told me, where there are ends, there are also beginnings.","Поправляет очки: похоже, ещё один тупик, но один мудрец как-то сказал мне: там, где есть концы, есть и начала.",translated,123
+vntext.sq#11237,vntext.sq,DETECTIVEFOX,"Adjusts second pair of glasses: And where there's death, there's also life. So it's not so much a dead end — then a lively start.","Поправляет вторую пару очков: а там, где есть смерть, есть и жизнь. Так что это не столько тупик, сколько живое начало.",translated,129
+vntext.sq#11238,vntext.sq,DETECTIVEFOX,"You keep an odd circle of friends, I'll tell ya that.","Странная у тебя компания друзей, вот что я скажу.",translated,53
+vntext.sq#11239,vntext.sq,DETECTIVEFOX,"Who knows, with the taste of your donuts, maybe I'll ask if there's space to step in that circle of yours.","Кто знает, с таким вкусом твоих пончиков, может, я ещё и попрошусь в эту компанию.",translated,106
+vntext.sq#11240,vntext.sq,DETECTIVEFOX,"But for now, the thrill of mystery calls. I'll be watching.",Но пока меня зовёт азарт тайны. Я буду наблюдать.,translated,59
+vntext.sq#11241,vntext.sq,DETECTIVEFOX,"Dramatic Monologue: Here I am again, lonely night, walking down the neon lit streets so dirty you could","Драматичный монолог: вот я снова, одинокой ночью, иду по неоновым улицам, таким грязным, что",translated,103
+vntext.sq#11242,vntext.sq,DETECTIVEFOX,oh wait a sec just got a message from Ally.,"ой, погоди секунду, только что пришло сообщение от Элли.",translated,43
+vntext.sq#11243,vntext.sq,DETECTIVEFOX,OHOHOHO! Would you look at this!!!!,ОХОХОХО! Только посмотри на это!!!!,translated,35
+vntext.sq#11244,vntext.sq,DETECTIVEFOX,Look at my boy! Taking after his father!,Взгляни на моего парня! Весь в отца!,translated,40
+vntext.sq#11245,vntext.sq,DETECTIVEFOX,He's found my old magnifying glass!,Он нашёл мою старую лупу!,translated,35
+vntext.sq#11246,vntext.sq,DETECTIVEFOX,Heh... he keeps saying he wants to be a detective... but honestly... not sure if it's the life I'd really want for him.,"Хех... он всё твердит, что хочет стать детективом... но, если честно... не уверен, что желаю ему такой жизни.",translated,119
+vntext.sq#11247,vntext.sq,DETECTIVEFOX,It's a hard boiled road full of hard boiled hardships.,"Это крутой путь, полный крутых трудностей.",translated,54
+vntext.sq#11248,vntext.sq,DETECTIVEFOX,"But that spark that I see lights up his face when he's cracked down on a good case, melts my heart.","Но эта искра, что вспыхивает на его лице, когда он раскалывает хорошее дело... сердце тает.",translated,99
+vntext.sq#11249,vntext.sq,DETECTIVEFOX,What do you think?,Что думаешь?,translated,18
+vntext.sq#11254,vntext.sq,DETECTIVEFOX,You're right. Foxes are wild creatures. The more you tell us 'no' the more we wanna run free.,"Ты прав. Лисы — дикие создания. Чем больше ты говоришь нам 'нет', тем сильнее мы рвёмся на волю.",translated,93
+vntext.sq#11255,vntext.sq,DETECTIVEFOX,"I'll leave it to the fates then. I'll support him, make sure he gets as good a chance at life as I can provide him... but in the end, it's up to him.","Тогда оставлю это на волю судьбы. Буду его поддерживать, дам ему все шансы на хорошую жизнь, какие только смогу... но в конце концов, выбор за ним.",translated,149
+vntext.sq#11256,vntext.sq,DETECTIVEFOX,"Strangely enough, the thought that his future is ultimately in his hands scares me.","Как ни странно, меня пугает мысль о том, что его будущее в конечном счёте в его собственных руках.",translated,83
+vntext.sq#11257,vntext.sq,DETECTIVEFOX,"Not cos I don't trust him, but cos I know in the end there's only so much I can do.","Не потому, что я ему не доверяю, а потому, что знаю — в итоге я могу сделать не так уж много.",translated,83
+vntext.sq#11258,vntext.sq,DETECTIVEFOX,But I suppose that's the deal I signed up for...,"Но, полагаю, это и есть та сделка, на которую я подписался...",translated,48
+vntext.sq#11260,vntext.sq,DETECTIVEFOX,That's the thing.,Вот в чём дело.,translated,17
+vntext.sq#11261,vntext.sq,DETECTIVEFOX,I can run through a million scenarios in my mind when it comes to a crime.,"Когда речь о преступлении, я могу прокрутить в голове миллион сценариев.",translated,74
+vntext.sq#11262,vntext.sq,DETECTIVEFOX,But when it comes to what I think is best? I'm paralyzed.,"Но когда доходит до того, что я считаю правильным? Я впадаю в ступор.",translated,57
+vntext.sq#11263,vntext.sq,DETECTIVEFOX,"Funny, I've dealt with criminals so ruthless they'd stuff their victims in bodies in beanbags and watch 'Carrying on with the Carrions' while sitting on them.","Забавно, я имел дело с преступниками настолько беспощадными, что они запихивали жертв в мешки-кресла и смотрели 'Продолжение падальщиков', сидя на них.",translated,158
+vntext.sq#11264,vntext.sq,DETECTIVEFOX,But making the choice... of what I think is best for Conan... that scares me.,"Но принять решение... о том, что я считаю лучшим для Конана... вот что меня пугает.",translated,77
+vntext.sq#11266,vntext.sq,DETECTIVEFOX,Hahahahah! Now we're talking.,Ха-ха-ха-ха! Вот теперь разговор.,translated,29
+vntext.sq#11267,vntext.sq,DETECTIVEFOX,"The two of us against the world — solving mysteries, prowling the streets! We can even have our own theme song!","Мы вдвоём против всего мира — раскрываем тайны, рыщем по улицам! У нас даже может быть своя тема!",translated,111
+vntext.sq#11268,vntext.sq,DETECTIVEFOX,What's more hard boiled then one fox? TWO!,Что круче одного лиса? ДВА!,translated,42
+vntext.sq#11269,vntext.sq,DETECTIVEFOX,Not gonna lie... that does sound pretty nice.,Не буду врать... звучит очень даже неплохо.,translated,45
+vntext.sq#11270,vntext.sq,DETECTIVEFOX,But also... it's a dangerous job. Even when he's all grown up... the thought of him being in danger... it scares me.,"Но ещё... это опасная работа. Даже когда он вырастет... мысль о том, что он в опасности... пугает меня.",translated,116
+vntext.sq#11271,vntext.sq,DETECTIVEFOX,But I suppose fear's just something we gotta deal with...,"Но, полагаю, со страхом просто нужно как-то справляться...",translated,57
+vntext.sq#11272,vntext.sq,DETECTIVEFOX,"For now, I got a lead I'm gonna follow, wish me luck.","А пока у меня есть след, по которому нужно пройти, пожелай мне удачи.",translated,53
+vntext.sq#11273,vntext.sq,DETECTIVEFOX,Sorry I know you're busy but my little Conan just aced his math test!,"Прости, знаю, ты занят, но мой маленький Конан только что блестяще сдал контрольную по математике!",translated,69
+vntext.sq#11274,vntext.sq,DETECTIVEFOX,Kid's a real wiz kid! A prodigy beyond all measure! He does his old man proud.,"Малец настоящий вундеркинд! Гений, каких поискать! Делает старику честь.",translated,78
+vntext.sq#11275,vntext.sq,DETECTIVEFOX,I was worried cos I was pretty bad at math when I was his age.,"Я переживал, потому что сам был не очень силён в математике в его возрасте.",translated,62
+vntext.sq#11276,vntext.sq,DETECTIVEFOX,"Though make no mistake, I've learned to cover my weaknesses, and the only thing I'm bad at calculating these days are my odds of success.","Хотя не пойми неправильно, я научился скрывать свои слабости, и единственное, что мне сейчас плохо даётся считать — это мои шансы на успех.",translated,137
+vntext.sq#11277,vntext.sq,DETECTIVEFOX,"Because statistically, I've got to fail sometime. But I haven't yet. No. Not yet. Some cases take long, true. But I always catch my perp.","Потому что статистически рано или поздно я должен провалиться. Но пока не провалился. Нет. Пока нет. Некоторые дела тянутся долго, это правда. Но я всегда ловлю своего подозреваемого.",translated,137
+vntext.sq#11278,vntext.sq,DETECTIVEFOX,"How about you, my dear Mood Confectioner? You ever think about having kids of your own?","А как насчёт тебя, мой дорогой Кондитер настроения? Задумывался когда-нибудь о собственных детях?",translated,87
+vntext.sq#11283,vntext.sq,DETECTIVEFOX,"You know what, fair.","Знаешь, справедливо.",translated,20
+vntext.sq#11284,vntext.sq,DETECTIVEFOX,"Baby formula, tuition fees, no joke honestly. But if it isn't all worth it to see the look on that look of joy on his little face!","Детская смесь, плата за учёбу, я серьёзно не шучу. Но разве всё это того не стоит ради того взгляда чистой радости на его личике!",translated,130
+vntext.sq#11286,vntext.sq,DETECTIVEFOX,"Good to hear. Honestly, it's a tough road that's not for everyone, but by gosh does it bring me joy.","Рад слышать. Если честно, это тяжёлый путь, не для всех, но, боже, сколько же радости он мне приносит.",translated,100
+vntext.sq#11288,vntext.sq,DETECTIVEFOX,Shocked pause: ...,Шокированная пауза: ...,translated,18
+vntext.sq#11289,vntext.sq,DETECTIVEFOX,"But... why? Even little Conan? No, I refuse to believe it!","Но... почему? Даже малыша Конана? Нет, отказываюсь в это верить!",translated,58
+vntext.sq#11290,vntext.sq,DETECTIVEFOX,"My little Conan would change your mind, I'm sure! He's a real charmer that kid!","Мой малыш Конан точно бы тебя переубедил! Он настоящий очаровашка, этот пацан!",translated,79
+vntext.sq#11291,vntext.sq,DETECTIVEFOX,"Speaking of which, my little detective just messaged me the cutest doodle of me riding a dinosaur. Or at least, I think it's a dinosaur.","Кстати говоря, мой маленький детектив только что прислал мне милейший рисунок — я верхом на динозавре. По крайней мере, думаю, что это динозавр.",translated,136
+vntext.sq#11292,vntext.sq,DETECTIVEFOX,Or is it an alien? A sports car? An alien dinosaur that transforms into a sports car?,"Или это инопланетянин? Спортивная машина? Инопланетный динозавр, превращающийся в спортивную машину?",translated,85
+vntext.sq#11293,vntext.sq,DETECTIVEFOX,HOLD EVERYTHING. I gotta solve this new mystery.,СТОП ВСЁ. Мне нужно раскрыть эту новую тайну.,translated,48
+vntext.sq#11294,vntext.sq,DETECTIVEFOX,I'll keep in touch!,Буду на связи!,translated,19
+vntext.sq#11295,vntext.sq,DETECTIVEFOX,Dramatic Monologue: And so the Fox comes home to roost. Which is a weird thing to say cos foxes ain't birds. But you get what I'm pitching.,"Драматичный монолог: и вот Лис возвращается в родное гнездо. Странно так говорить, потому что лисы не птицы. Но вы поняли, о чём я.",translated,139
+vntext.sq#11296,vntext.sq,DETECTIVEFOX,There's a kid out there who needs his Papa Fox. And I'm a Fox of his word.,"Там, снаружи, есть мальчишка, которому нужен его Папа-Лис. А я — лис своего слова.",translated,74
+vntext.sq#11297,vntext.sq,DETECTIVEFOX,And I've got you to thank for it.,И этим я обязан тебе.,translated,33
+vntext.sq#11298,vntext.sq,DETECTIVEFOX,"You got me feeling just the right moods, at just the right time, to help me make just the right decisions...","Ты подарил мне именно те настроения в нужный момент, чтобы помочь принять именно те решения...",translated,108
+vntext.sq#11299,vntext.sq,DETECTIVEFOX,"Detectives and donuts... sounds too close to a cliche, but hey, life's full of cliches, and it's one I'm willing to embrace.","Детективы и пончики... звучит слишком похоже на клише, но эй, жизнь полна клише, и это одно из них я готов принять.",translated,124
+vntext.sq#11312,vntext.sq,DETECTIVEFOX,Exaggerated double take: my newly established friend thinks they've got one up on me.,"Преувеличенное недоумение: мой новоиспечённый друг думает, что обвёл меня вокруг пальца.",translated,85
+vntext.sq#11313,vntext.sq,DETECTIVEFOX,But what they don't know is that I've got a one up on their one up.,"Но чего он не знает — так это того, что у меня есть козырь против его козыря.",translated,67
+vntext.sq#11314,vntext.sq,DETECTIVEFOX,See that's the conundrum here.,Вот в чём тут загвоздка.,translated,30
+vntext.sq#11315,vntext.sq,DETECTIVEFOX,Adjusting glasses: There's just one thing... a feeling I can't seem to shake...,"Поправляет очки: есть только одна вещь... чувство, от которого никак не могу избавиться...",translated,79
+vntext.sq#11316,vntext.sq,DETECTIVEFOX,All the evidence I've uncovered of the donut thief... it all points to the Hotbox.,"Все улики, что я собрал по вору пончиков... все указывают на Хотбокс.",translated,82
+vntext.sq#11317,vntext.sq,DETECTIVEFOX,Adjusting second pair of glasses: And yet... I'm pretty sure my Mood Confectioner friend isn't the donut thief...,"Поправляет вторую пару очков: и всё же... я почти уверен, что мой друг Кондитер настроения — не вор пончиков...",translated,113
+vntext.sq#11318,vntext.sq,DETECTIVEFOX,Thoughtful narration as I pack up my bags: It's almost like I missed something. A crucial detail that's just right under my nose.,"Задумчивое повествование, пока я собираю вещи: как будто я что-то упустил. Важную деталь, что лежит прямо у меня под носом.",translated,129
+vntext.sq#11319,vntext.sq,DETECTIVEFOX,"Staring intently at my conspiracy board: Imagine, if you will, an individual who's steals from banks. That's a lot of money, where's it going to go without being traced?","Пристально смотрит на доску с уликами: представь, если хочешь, человека, который крадёт деньги из банков. Это большие деньги, куда им деваться, чтобы их не отследили?",translated,169
+vntext.sq#11320,vntext.sq,DETECTIVEFOX,"Well, the answer is simple, you invest the money in certain individuals you see have potential. Maybe this mastermind's got a secret soft spot for people down on their luck.","Что ж, ответ прост — ты вкладываешь деньги в определённых людей, в которых видишь потенциал. Может, у этого гения преступного мира есть тайная слабость к неудачникам.",translated,173
+vntext.sq#11321,vntext.sq,DETECTIVEFOX,You set up a shop. You make some cash. You help make someone's dreams come true.,Открываешь заведение. Зарабатываешь немного денег. Помогаешь чьей-то мечте сбыться.,translated,80
+vntext.sq#11322,vntext.sq,DETECTIVEFOX,But this mastermind is smart. They know that eventually that the fox is going to come hunting.,"Но этот гений умён. Он знает, что рано или поздно лис придёт на охоту.",translated,94
+vntext.sq#11323,vntext.sq,DETECTIVEFOX,So they mysteriously disappear. They make up an excuse: Visiting dying relative? A vacation they've been saving up for?,"Поэтому он таинственно исчезает. Придумывает оправдание: навещает умирающего родственника? Отпуск, на который давно копил?",translated,119
+vntext.sq#11324,vntext.sq,DETECTIVEFOX,Or perhaps... a honeymoon?,"Или, может быть... медовый месяц?",translated,26
+vntext.sq#11325,vntext.sq,DETECTIVEFOX,Heh... don't mind me... just an old man musing. I'll have to wait for now.,Хех... не обращай на меня внимания... просто старик размышляет вслух. Пока придётся подождать.,translated,74
+vntext.sq#11326,vntext.sq,DETECTIVEFOX,Adjusts secret hidden third pair of glasses: Let's just say... the donut thief is either a criminal mastermind... or just really [i] Lucky... [/i],Поправляет секретную третью пару очков: скажем так... вор пончиков — либо гений преступного мира... либо просто на редкость [i] везучий... [/i],translated,146
+vntext.sq#11330,vntext.sq,DETECTIVEFOX,but that's all it is... just a theory. a theory that'll hatch into fact once I catch my prey.,"но это всё, что есть... просто теория. теория, что превратится в факт, как только я поймаю добычу.",translated,93
+vntext.sq#11332,vntext.sq,DETECTIVEFOX,"Pondering stare: Well, if I have been bamboozled. Then perhaps the thief deserves to get away this time.","Задумчивый взгляд: что ж, если меня одурачили, тогда, может, вор в этот раз заслужил уйти.",translated,104
+vntext.sq#11333,vntext.sq,DETECTIVEFOX,"Anyway, I'll be seeing you around. Try to stay out of trouble.","В общем, увидимся. Постарайся не влипать в неприятности.",translated,62
+vntext.sq#11334,vntext.sq,DETECTIVEFOX,So I've been doing stake outs around the Hotbox for a while now and I realized.,"Так вот, я уже некоторое время веду слежку у Хотбокса, и кое-что понял.",translated,79
+vntext.sq#11335,vntext.sq,DETECTIVEFOX,You've got a lot of... interesting customers.,У тебя очень... интересные клиенты.,translated,45
+vntext.sq#11336,vntext.sq,DETECTIVEFOX,Let me consult my list here. A here we go:,"Дай-ка свериться со списком. А, вот оно:",translated,42
+vntext.sq#11337,vntext.sq,DETECTIVEFOX,"Girl is dressed in enough dazzle to brighten up a candy shop. She was doing some sketch work, fast hands, the hands of an artist? Or of an undercover agent?","Девушка одета настолько ярко, что осветит целый магазин сладостей. Она делала наброски, быстрые руки — руки художника? Или тайного агента?",translated,156
+vntext.sq#11338,vntext.sq,DETECTIVEFOX,"Makes sense, dress like a butterfly, sting like a bee. Different eye colors too, obviously due to high tech contact lenses that she's using to scan the area.","Логично, одевайся как бабочка, жаль как пчела. Разные цвета глаз тоже — очевидно, из-за высокотехнологичных контактных линз, которыми она сканирует местность.",translated,157
+vntext.sq#11339,vntext.sq,DETECTIVEFOX,"I inched a bit closer, thought I'd bust her plans. But what I saw instead shook my heart to the very core.","Я подошёл чуть ближе, думал сорвать её планы. Но то, что я увидел вместо этого, потрясло меня до глубины души.",translated,106
+vntext.sq#11340,vntext.sq,DETECTIVEFOX,She's drawn what appears to be two wolves engaging in a naked wrestling match with another.,"Она нарисовала, судя по всему, двух волков, устраивающих обнажённую борцовскую схватку друг с другом.",translated,91
+vntext.sq#11341,vntext.sq,DETECTIVEFOX,"Side note: She's made some interesting alterations to their animal anatomy, adding in human porportions in... multiple places.","Заметка на полях: она внесла интересные изменения в их звериную анатомию, добавив человеческие пропорции... в нескольких местах.",translated,126
+vntext.sq#11342,vntext.sq,DETECTIVEFOX,No doubt she's referencing the two wolves of ancient myth. Alluding to some sort of city.,"Без сомнения, она отсылает к двум волкам из древнего мифа. Намекает на какой-то город.",translated,89
+vntext.sq#11343,vntext.sq,DETECTIVEFOX,It's a code with the artistic complexity of a mastermind if I've ever seen one.,"Это код с художественной сложностью настоящего гения преступного мира, каких я ещё не видел.",translated,79
+vntext.sq#11344,vntext.sq,DETECTIVEFOX,"Not the donut theif, but perhaps she's working with the government.","Не вор пончиков, но, возможно, она работает на правительство.",translated,67
+vntext.sq#11345,vntext.sq,DETECTIVEFOX,"You wouldn't happen to know anything about this, would you?","Ты случайно ничего об этом не знаешь, а?",translated,59
+vntext.sq#11350,vntext.sq,DETECTIVEFOX,Additional note: It seems that our Mood Confectioner has government connections.,"Дополнительная заметка: похоже, у нашего Кондитера настроения есть связи в правительстве.",translated,80
+vntext.sq#11351,vntext.sq,DETECTIVEFOX,I should watch my back. One wrong move and I could end up a brightly colored bloodstain on this girl's digital canvas.,Стоит быть осторожнее. Один неверный шаг — и я стану ярким кровавым пятном на цифровом холсте этой девушки.,translated,118
+vntext.sq#11352,vntext.sq,DETECTIVEFOX,Thanks for the heads up. I'll keep my eyes out. Watching. LIKE A FOX!,Спасибо за наводку. Буду начеку. Наблюдаю. КАК ЛИС!,translated,69
+vntext.sq#11354,vntext.sq,DETECTIVEFOX,It isn't?,Не код?,translated,9
+vntext.sq#11355,vntext.sq,DETECTIVEFOX,Dramatic double take: Of course! It's a map then! A treasure hunter!,"Драматичное недоумение: ну конечно! Значит, это карта! Охотник за сокровищами!",translated,68
+vntext.sq#11356,vntext.sq,DETECTIVEFOX,"Two wolves, could she be referencing the lupine river?","Два волка — может, она отсылает к Волчьей реке?",translated,54
+vntext.sq#11357,vntext.sq,DETECTIVEFOX,"If so, then the treasure must be where the two wolves intersect! Which places it right at the lower regions of...","Если так, то сокровище должно быть там, где пересекаются два волка! А это ставит его прямо в нижней части...",translated,113
+vntext.sq#11358,vntext.sq,DETECTIVEFOX,"Hmmmm... gotta say I'm not treasure hunter, but I'd be lying if I said that it didn't appeal to me.","Хмммм... должен сказать, я не охотник за сокровищами, но соврал бы, если б сказал, что меня это не привлекает.",translated,99
+vntext.sq#11359,vntext.sq,DETECTIVEFOX,Thanks for the heads up. I'll keep my eyes out. Watching. LIKE A FOX!,Спасибо за наводку. Буду начеку. Наблюдаю. КАК ЛИС!,translated,69
+vntext.sq#11363,vntext.sq,DETECTIVEFOX,Dramatic gasp: No way! I knew it!,Драматичный вздох: не может быть! Я знал!,translated,33
+vntext.sq#11364,vntext.sq,DETECTIVEFOX,"I gotta go undercover again. No longer shall I be Detective Fox, now I'll be codename: Blue beard.",Мне снова придётся уйти в подполье. Больше не детектив Фокс — теперь у меня кодовое имя: Синяя Борода.,translated,98
+vntext.sq#11365,vntext.sq,DETECTIVEFOX,Thanks for the heads up. I'll keep my eyes out. Watching. LIKE A BLUEBEARD!,Спасибо за наводку. Буду начеку. Наблюдаю. КАК СИНЯЯ БОРОДА!,translated,75
+vntext.sq#11366,vntext.sq,DETECTIVEFOX,Oh snap. The new nickname is just not as cool... abort! I'm going back to Detective Fox. Color sensing super agents be damned!,Вот чёрт. Новое прозвище звучит не так круто... отбой! Возвращаюсь к детективу Фоксу. К чёрту цветочувствительных суперагентов!,translated,126
+vntext.sq#11367,vntext.sq,DETECTIVEFOX,"Keep your nose clean, kid.","Веди себя хорошо, малец.",translated,26
+vntext.sq#11368,vntext.sq,DETECTIVEFOX,Got another report to make.,Ещё один рапорт нужно составить.,translated,27
+vntext.sq#11369,vntext.sq,DETECTIVEFOX,You got famous celebrity visiting your joint.,У тебя в заведении побывала знаменитость.,translated,45
+vntext.sq#11370,vntext.sq,DETECTIVEFOX,Stacy Ortiz. Popular Pentagram influencer.,Стейси Ортис. Популярная инфлюенсерша из Пентаграма.,translated,42
+vntext.sq#11371,vntext.sq,DETECTIVEFOX,My note say: Dane is walking to the beat of a song of her own making. Every hello is accompanied by a hip sway and every goodbye is sychonized to a stylish flick of the wrist.,"Моя заметка гласит: Дэйн шагает в ритме собственной песни. Каждое приветствие сопровождается покачиванием бедра, а каждое прощание синхронизировано со стильным взмахом запястья.",translated,175
+vntext.sq#11372,vntext.sq,DETECTIVEFOX,Has the tendency to to chat up a storm so thick that you'd need a lightning rod to ground the conversation.,"Имеет склонность разводить болтовню такую густую, что понадобился бы громоотвод, чтобы заземлить разговор.",translated,107
+vntext.sq#11373,vntext.sq,DETECTIVEFOX,But there are times I catch her... a look of sadness? Overheard a call with her mom.,"Но бывают моменты, когда я замечаю в ней... тень грусти? Подслушал разговор с её мамой по телефону.",translated,84
+vntext.sq#11374,vntext.sq,DETECTIVEFOX,Told her she'd try her best to visit if she can get a good deal on plane tickets.,"Сказала ей, что постарается навестить, если найдёт хорошую цену на билеты.",translated,81
+vntext.sq#11375,vntext.sq,DETECTIVEFOX,She misses her hometown. Of course. As someone who's been on the move for years... I do miss home.,"Она скучает по родному городу. Конечно. Как человек, который годами в разъездах... я тоже скучаю по дому.",translated,98
+vntext.sq#11376,vntext.sq,DETECTIVEFOX,"I've dance with some famous folk before, and all I gotta say is, they're trouble.","Мне доводилось водить дружбу со знаменитостями раньше, и одно скажу — с ними одни проблемы.",translated,81
+vntext.sq#11377,vntext.sq,DETECTIVEFOX,It's a profession that requires you to put up a mask so thick they might as well be wearing medieval helmets.,"Это профессия, требующая надеть маску настолько толстую, что впору носить средневековый шлем.",translated,109
+vntext.sq#11378,vntext.sq,DETECTIVEFOX,"But at the end of the day, if you can crack that steel to reveal their inner secrets — well...","Но в конце концов, если сумеешь пробить эту сталь и увидеть их сокровенные тайны — что ж...",translated,94
+vntext.sq#11379,vntext.sq,DETECTIVEFOX,Let's just say it's a roll of dice whether your dancing with a devil or an angel.,"Скажем так, это как бросок кубика — танцуешь ли ты с дьяволом или с ангелом.",translated,81
+vntext.sq#11380,vntext.sq,DETECTIVEFOX,"But I'm preaching to the choir, you probably know her more than I do. What are your thoughts?","Но я тут проповедую хору, ты, наверное, знаешь её лучше меня. Что думаешь?",translated,93
+vntext.sq#11387,vntext.sq,DETECTIVEFOX,"she's a chicken, a real good chicken","она курица, настоящая хорошая курица",translated,36
+vntext.sq#11388,vntext.sq,DETECTIVEFOX,"Huh, is that code for something or... nevermind.","Хм, это код для чего-то или... неважно.",translated,48
+vntext.sq#11389,vntext.sq,DETECTIVEFOX,"Well, that's good to know. The world needs more good people.","Что ж, приятно это знать. Миру нужно больше хороших людей.",translated,60
+vntext.sq#11392,vntext.sq,DETECTIVEFOX,"heh, a deadly combination. but I'm sure there's never a dull moment when she's around","хех, смертельное сочетание. но уверен, рядом с ней скучно не бывает",translated,85
+vntext.sq#11394,vntext.sq,DETECTIVEFOX,"Ahhh, so she talks in rhyme and steals your firstborn child... or am I just thinking of that one fairytale story I read to my kid.","Аххх, значит, она говорит стихами и крадёт твоего первенца... или я просто думаю о той сказке, что читал своему пацану.",translated,130
+vntext.sq#11395,vntext.sq,DETECTIVEFOX,"Anyway. Chaos dances a hard game, watch your step!","В общем. Хаос танцует жёстко, смотри под ноги!",translated,50
+vntext.sq#11396,vntext.sq,DETECTIVEFOX,"Until then, I'll be watching.",А пока — буду наблюдать.,translated,29
+vntext.sq#11397,vntext.sq,DETECTIVEFOX,Been doing stake outs again... there's one person who's caught my attention.,Снова вёл слежку... один человек привлёк моё внимание.,translated,76
+vntext.sq#11398,vntext.sq,DETECTIVEFOX,All I've got is one sentence here on my notepad...,У меня тут в блокноте всего одно предложение...,translated,50
+vntext.sq#11399,vntext.sq,DETECTIVEFOX,What's with the chicken girl?','Что не так с девушкой-курицей?',translated,30
+vntext.sq#11400,vntext.sq,DETECTIVEFOX,Please you gotta put my curiousity to rest here.,"Пожалуйста, тебе придётся унять моё любопытство.",translated,48
+vntext.sq#11401,vntext.sq,DETECTIVEFOX,Like why???,Типа почему???,translated,11
+vntext.sq#11407,vntext.sq,DETECTIVEFOX,And the last person anyone would expect is a chicken girl!,"И последний, на кого можно было бы подумать — девушка-курица!",translated,58
+vntext.sq#11408,vntext.sq,DETECTIVEFOX,"Ingenius! Don't worry, the secret is safe with me.","Гениально! Не переживай, секрет останется со мной.",translated,50
+vntext.sq#11410,vntext.sq,DETECTIVEFOX,Of course. I bet her chicken suit is filled with all sorts of alien tech.,"Ну конечно. Держу пари, её куриный костюм набит всякими инопланетными технологиями.",translated,73
+vntext.sq#11411,vntext.sq,DETECTIVEFOX,It's all making sense now!,Теперь всё встаёт на свои места!,translated,26
+vntext.sq#11414,vntext.sq,DETECTIVEFOX,Of course! It's... so simple the answer was in front of me the entire time!,"Ну конечно! Это... так просто, а ответ был прямо перед носом всё это время!",translated,75
+vntext.sq#11415,vntext.sq,DETECTIVEFOX,"You do keep an odd bunch of friends around, don't you?","А у тебя странная компания друзей, да?",translated,54
+vntext.sq#11416,vntext.sq,DETECTIVEFOX,"Anyway, I'll keep an eye out. See you around.","В общем, буду начеку. Увидимся.",translated,45
+vntext.sq#22109,vntext.sq,DETECTIVEFOX,Now this feeling... satisfaction at the end of the day for a job well done. I take a deep breath and my shoulders {$moods:relax}.,"Вот это чувство... удовлетворение в конце дня за хорошо сделанную работу. Делаю глубокий вдох, и плечи {$moods:relax}.",translated,129
+vntext.sq#22110,vntext.sq,DETECTIVEFOX,"This... This is a good donut for waiting... silent and ${patient}, ready for when the mark makes a mistake.","Это... Это хороший пончик для ожидания... тихий и ${patient}, готовый к моменту, когда объект допустит ошибку.",translated,107
+vntext.sq#22111,vntext.sq,DETECTIVEFOX,"Heart beating fast... Is this excitement? Joy? Ever since I started looking for the Donut Thief, such moments come few and far between.","Сердце колотится быстро... Это волнение? Радость? С тех пор как я начал искать Вора Пончиков, такие моменты выдаются редко.",translated,135
+vntext.sq#22112,vntext.sq,DETECTIVEFOX,"People might not find any comfort in cold hard truth, but the pursuit of truth... Ah! Gets my blood pumping everytime. Just like this donut.","Люди могут не находить утешения в холодной жёсткой правде, но погоня за истиной... Ах! Каждый раз заставляет кровь бежать быстрее. Прямо как этот пончик.",translated,140
+vntext.sq#22113,vntext.sq,DETECTIVEFOX,Hm. Perhaps there are some leads I have failed to look at more closely... this donut is giving me ideas...,"Хм. Возможно, есть зацепки, которые я упустил из виду... этот пончик подкидывает мне идеи...",translated,106
+vntext.sq#22114,vntext.sq,DETECTIVEFOX,"A rush of {$moods:courage}! Adrenaline rushing through my veins, I eye this donut with the intent to finish it. No matter what!","Прилив {$moods:courage}! Адреналин бежит по венам, я смотрю на этот пончик с намерением непременно его прикончить. Чего бы это ни стоило!",translated,127
+vntext.sq#22115,vntext.sq,DETECTIVEFOX,"Heh, a hardboiled detective rarely finds the need to talk about his feelings. But just like a moth flying close to the flame, I do sometimes long for that rush of warm feelings.","Хех, крутому детективу редко нужно говорить о своих чувствах. Но, как мотылёк, летящий к пламени, иногда я всё же тоскую по этому приливу тёплых чувств.",translated,177
+vntext.sq#22116,vntext.sq,DETECTIVEFOX,"My mind is clear... this is just like that feeling of clarity I experience before I go in for the kill. At that moment, it's as if I could predict the culprit's next move!","Мой разум ясен... это точь-в-точь то чувство ясности, что охватывает меня перед решающим ударом. В такой момент кажется, будто я могу предсказать следующий шаг преступника!",translated,171
+vntext.sq#22117,vntext.sq,DETECTIVEFOX,"... Reminds me of when I first met— Ah well. It's better to let bygones be bygones, even if I can't help but indulge in the pain of memory.","...Напоминает о том, как я впервые встретил— Ах, ладно. Лучше оставить прошлое в прошлом, даже если не могу удержаться от того, чтобы вновь не окунуться в боль воспоминаний.",translated,139
+vntext.sq#22119,vntext.sq,DETECTIVEFOX,"... Like a lone lamppost in the dark, a beacon to guide weary souls and granting them temporary solace... this donut's a real livesaver, Confectioner.","...Словно одинокий фонарь в темноте, маяк, ведущий усталые души и дарующий им временное утешение... этот пончик — настоящее спасение, Кондитер.",translated,150
+vntext.sq#22120,vntext.sq,DETECTIVEFOX,"... I suppose praise must be given, even if this donut isn't one of your very best.","...Полагаю, похвалу стоит воздать, даже если этот пончик не из лучших твоих.",translated,83
+vntext.sq#22121,vntext.sq,DETECTIVEFOX,"Hmph. It seems like your deductions were incorrect this time around. You need to sharpen your senses, {$mcName}.","Хмф. Похоже, на этот раз твои дедукции оказались неверны. Тебе нужно отточить чутьё, {$mcName}.",translated,112
+vntext.sq#22122,vntext.sq,DETECTIVEFOX,"And now, the hard-boiled detective takes to the streets! Will he find danger? Or will danger... find him?",А теперь крутой детектив выходит на улицы! Найдёт ли он опасность? Или опасность... найдёт его?,translated,105
+vntext.sq#22125,vntext.sq,DETECTIVEFOX,Thanks.,Спасибо.,translated,7
+vntext.sq#22126,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#22127,vntext.sq,DETECTIVEFOX,This donut tastes like long nights of fruitless vigil in front of a seedy hotel. What a disappointment.,Этот пончик на вкус как долгие ночи бесплодного дежурства перед сомнительным отелем. Какое разочарование.,translated,103
+vntext.sq#22132,vntext.sq,DETECTIVEFOX,...,...,translated,3
+vntext.sq#22133,vntext.sq,DETECTIVEFOX,Like enjoying a glass or two after wrapping up a case... but without the hangover the next day! Heh!,Как выпить бокал-другой после закрытия дела... но без похмелья на следующий день! Хех!,translated,100
+vntext.sq#22134,vntext.sq,DETECTIVEFOX,"Like the calm at the very heart of the storm. I feel at peace, knowing that the truth is almost at my reach.","Как затишье в самом сердце бури. Я спокоен, зная, что истина почти у меня в руках.",translated,108
+vntext.sq#22135,vntext.sq,DETECTIVEFOX,What's this? A rush of happiness amidst the bleak and moonless night...,"Что это? Прилив счастья посреди мрачной, безлунной ночи...",translated,71
+vntext.sq#22136,vntext.sq,DETECTIVEFOX,This donut is much like the thrill of the chase... I feel like anything could happen!,"Этот пончик очень похож на азарт погони... Кажется, может случиться что угодно!",translated,85
+vntext.sq#22137,vntext.sq,DETECTIVEFOX,Like a flash of lightning! The ideas are coming... Huh. Did I remember to turn the gas off before I left...?,Словно вспышка молнии! Идеи так и льются... Хм. А я точно выключил газ перед уходом...?,translated,108
+vntext.sq#22138,vntext.sq,DETECTIVEFOX,I feel like trying something I've never done before. Like trying one of those mood-enhanced croissants I keep hearing so much about.,"Хочется попробовать то, чего я никогда раньше не делал. Например, один из тех круассанов с усилителем настроения, о которых столько наслышан.",translated,132
+vntext.sq#22139,vntext.sq,DETECTIVEFOX,This rush of warmth! Heh. I suppose {$moods:sincerity} is also a form of truth. I respect that.,"Этот прилив тепла! Хех. Полагаю, {$moods:sincerity} — это тоже форма истины. Уважаю это.",translated,95
+vntext.sq#22140,vntext.sq,DETECTIVEFOX,"Heh, I definitely could use more of this when I'm writing my reports. My brain feels sharp and clear!","Хех, мне бы точно не помешало побольше этого, когда пишу отчёты. Мозг работает чётко и ясно!",translated,101
+vntext.sq#22141,vntext.sq,DETECTIVEFOX,Always thought there's no use of longing for the past... the what-could-have-beens. But I suppose when the night is cold and unforgiving... Even a hardboiled detective must indulge.,"Всегда считал, что нет смысла тосковать по прошлому... по тому, что могло бы быть. Но, полагаю, когда ночь холодна и беспощадна... даже крутой детектив может себе позволить слабость.",translated,181
+vntext.sq#22142,vntext.sq,DETECTIVEFOX,This donut doesn't seek to overwhelm... a donut with no mood enhancers can be a refuge after a day in this noisome city!,Этот пончик не стремится ошеломить... пончик без усилителей настроения может стать убежищем после дня в этом зловонном городе!,translated,120
+vntext.sq#22143,vntext.sq,DETECTIVEFOX,"... I've had my fair share of monsters, but I know for a fact a donut like this would' be enough to give them pause for a day, at least. Sometimes what we all need is a good treat and some introspection.","...Повидал я немало чудовищ, но точно знаю: такой пончик заставил бы их хотя бы на день призадуматься. Иногда всем нам нужно лишь хорошее лакомство и немного самоанализа.",translated,203
+vntext.sq#22144,vntext.sq,DETECTIVEFOX,"... Not bad. Not bad at all. I think you can do better, but this is satisfactory.","...Неплохо. Совсем неплохо. Думаю, ты можешь лучше, но и это удовлетворительно.",translated,81
+vntext.sq#22145,vntext.sq,DETECTIVEFOX,... Too bad this isn't the donut I asked for. I suppose I'll have to provide you with a better challenge next time.,"...Жаль, что это не тот пончик, который я просил. Полагаю, в следующий раз придётся дать тебе задачку посложнее.",translated,115
+vntext.sq#22146,vntext.sq,DETECTIVEFOX,"Tried my best to satisfy my hunger... but a hard boiled detective is always hungry for justice. I'll see you around, kid.","Постарался утолить голод... но крутой детектив вечно голоден до справедливости. Ещё увидимся, малыш.",translated,121
+vntext.sq#55764,vntext.sq,DETECTIVEFOX,...I must confess this donut is not what I was hoping for.,"...Должен признаться, этот пончик не то, на что я надеялся.",translated,58
+vntext.sq#55766,vntext.sq,DETECTIVEFOX,Deal.,Договорились.,translated,5
+vntext.sq#55767,vntext.sq,DETECTIVEFOX,...This still isn't the donut I ordered. Are you trying to pull a fast one on me?,"...Это всё ещё не тот пончик, что я заказывал. Ты пытаешься меня надуть?",translated,81
+vntext.sq#55769,vntext.sq,DETECTIVEFOX,I suppose one can't expect perfect results every time. These things can take time.,"Полагаю, нельзя ожидать идеального результата каждый раз. На это нужно время.",translated,82
+vntext.sq#55770,vntext.sq,DETECTIVEFOX,"Until then, mood confectioner.","До тех пор, кондитер настроения.",translated,30
+vntext.sq#55775,vntext.sq,DETECTIVEFOX,...This is still the wrong donut. Or are you trying to send me a coded message?,...Это всё ещё не тот пончик. Или ты пытаешься послать мне зашифрованное сообщение?,translated,79
+vntext.sq#55777,vntext.sq,DETECTIVEFOX,Well... These things happen. I can still eat this.,Ну... такое случается. Я всё равно могу это съесть.,translated,50
+vntext.sq#69473,vntext.sq,DETECTIVEFOX,Shocked gasp: It would seem that the glaze is missing. But why? Perhaps it saw something that it shouldn't have.,"Потрясённый вздох: похоже, глазури не хватает. Но почему? Быть может, она увидела то, чего не следовало.",translated,112
+vntext.sq#69475,vntext.sq,DETECTIVEFOX,Astute observation: Something is a bit off with the glaze.,Проницательное наблюдение: с глазурью что-то не так.,translated,58
+vntext.sq#69477,vntext.sq,DETECTIVEFOX,You held back on the glaze... I wonder why...,"Ты сдержался с глазурью... интересно, почему...",translated,45
+vntext.sq#69479,vntext.sq,DETECTIVEFOX,I'd like to report a 'missing toppings' case. Primary suspect... the Mood Confectioner.,Хотел бы сообщить о деле «пропавших топпингов». Главный подозреваемый... кондитер настроения.,translated,87
+vntext.sq#69481,vntext.sq,DETECTIVEFOX,Hmmmm... you made a mistake with the toppings. The old switcheroo... you play an interesting game.,Хммм... ты ошибся с топпингами. Старая подмена... играешь в интересную игру.,translated,98
+vntext.sq#69483,vntext.sq,DETECTIVEFOX,You're holding back on the toppings... an innocent mistake? Or are you cutting corners?,Ты сдерживаешься на топпингах... невинная ошибка? Или срезаешь углы?,translated,87
+vntext.sq#69485,vntext.sq,DETECTIVEFOX,"The drizzle. If it's not here, then where could it be? The plot thickens.","Потёки. Если их тут нет, то где они могут быть? Сюжет закручивается.",translated,73
+vntext.sq#69487,vntext.sq,DETECTIVEFOX,You got the wrong drizzle. I wonder why? Trying to pull a fast one on me?,"Ты перепутал потёки. Интересно, почему? Пытаешься меня надуть?",translated,73
+vntext.sq#69489,vntext.sq,DETECTIVEFOX,"You're holding back on the drizzle, there a reason for that? I'd wager there is.","Ты сдерживаешься на потёках, есть тому причина? Готов поспорить, что есть.",translated,80
+vntext.sq#69491,vntext.sq,DETECTIVEFOX,Filling is gone. Just like that. Without a trace. Interesting.,Начинка пропала. Просто так. Без следа. Интересно.,translated,62
+vntext.sq#69493,vntext.sq,DETECTIVEFOX,"Sorry to say it, but you've got the filling wrong.","Жаль это говорить, но ты перепутал начинку.",translated,50
+vntext.sq#69495,vntext.sq,DETECTIVEFOX,"Offf, this donut's looking like it's seen better days.","Уфф, этот пончик выглядит так, будто повидал и лучшие дни.",translated,54
+vntext.sq#69497,vntext.sq,DETECTIVEFOX,"Huh, you've got a lot of stuff here that I didn't ask for... trying to distract me?","Хм, у тебя тут много того, чего я не просил... пытаешься меня отвлечь?",translated,83
+vntext.sq#69501,vntext.sq,DETECTIVEFOX,You forgot the glaze. Suspicious. Are you trying to tell me something?,Ты забыл глазурь. Подозрительно. Пытаешься мне что-то сказать?,translated,70
+vntext.sq#69503,vntext.sq,DETECTIVEFOX,Sorry to say it but something's not right with the glaze.,"Жаль это говорить, но что-то не так с глазурью.",translated,57
+vntext.sq#69505,vntext.sq,DETECTIVEFOX,"Disappointed sigh: Not enough glaze on this one, and I do love my glazes...","Разочарованный вздох: глазури тут маловато, а я так люблю свою глазурь...",translated,75
+vntext.sq#69507,vntext.sq,DETECTIVEFOX,"No toppings, huh? Were they stolen... or perhaps, murdered?","Без топпингов, значит? Их украли... или, быть может, убили?",translated,59
+vntext.sq#69509,vntext.sq,DETECTIVEFOX,There's something wrong with the toppings. Are you playing mind games with me?,Что-то не так с топпингами. Играешь со мной в игры разума?,translated,78
+vntext.sq#69511,vntext.sq,DETECTIVEFOX,Note to self: This donut's lacking some toppings. Not a good sign.,Заметка на память: этому пончику не хватает топпингов. Нехороший знак.,translated,66
+vntext.sq#69513,vntext.sq,DETECTIVEFOX,"And just like that, the drizzle was nowhere to be seen. Suspicious... very suspicious.","И вот так, потёков нигде не видно. Подозрительно... очень подозрительно.",translated,86
+vntext.sq#69515,vntext.sq,DETECTIVEFOX,"You thought I wouldn't notice, but I did. You got the drizzle wrong. Sloppy work.","Думал, я не замечу, но я заметил. Ты перепутал потёки. Небрежная работа.",translated,81
+vntext.sq#69517,vntext.sq,DETECTIVEFOX,"You call that drizzle? Like a stingy millionaire in a charity event, I think you could've been more... generous.","Это ты называешь потёками? Как скупой миллионер на благотворительном вечере, думаю, ты мог бы быть чуть... щедрее.",translated,112
+vntext.sq#69519,vntext.sq,DETECTIVEFOX,"No filling, huh? And you thought I wouldn't notice? I always do... I always do...","Без начинки, значит? И ты думал, я не замечу? Я всегда замечаю... всегда...",translated,81
+vntext.sq#69521,vntext.sq,DETECTIVEFOX,You got the wrong filling. Rookie mistake. Let's hope it's your last one for the night.,"Ты перепутал начинку. Ошибка новичка. Будем надеяться, что она последняя за сегодняшнюю ночь.",translated,87
+vntext.sq#69523,vntext.sq,DETECTIVEFOX,"No other way to say this, but this donut looks pretty bad.","Не знаю, как сказать это иначе, но этот пончик выглядит довольно плохо.",translated,58
+vntext.sq#69525,vntext.sq,DETECTIVEFOX,Confectionary chaos: Lots of ingredients here that I didn't ask for. What game are you playing?,"Кондитерский хаос: тут много ингредиентов, которые я не просил. В какую игру ты играешь?",translated,95
+vntext.sq#69529,vntext.sq,DETECTIVEFOX,You didn't put any glaze on this donut. I wonder why...,"Ты не положил глазурь на этот пончик. Интересно, почему...",translated,55
+vntext.sq#69531,vntext.sq,DETECTIVEFOX,Hmmm... something is not quite right with the glaze.,Хммм... что-то не совсем так с глазурью.,translated,52
+vntext.sq#69533,vntext.sq,DETECTIVEFOX,"Like a highschool essay that didn't meet the word count, the glaze on this donut... is lacking.","Как школьное сочинение, не дотянувшее до нужного объёма, глазурь на этом пончике... в дефиците.",translated,95
+vntext.sq#69535,vntext.sq,DETECTIVEFOX,"No toppings. Sad. I like toppings, color me disappointed.","Без топпингов. Грустно. Я люблю топпинги, считайте меня разочарованным.",translated,57
+vntext.sq#69537,vntext.sq,DETECTIVEFOX,"These toppings are different, the old bait and switch. But why? You're playing a hard game, Mood Confectioner.","Эти топпинги не те, старая подмена товара. Но зачем? Ты играешь в сложную игру, кондитер настроения.",translated,110
+vntext.sq#69539,vntext.sq,DETECTIVEFOX,Wish you put more toppings. This won't do...,"Жаль, что не положил больше топпингов. Это не годится...",translated,44
+vntext.sq#69541,vntext.sq,DETECTIVEFOX,"Urgent double take: Drizzle is missing. I repeat, the drizzle is missing. Hmmmm...","Срочный второй взгляд: потёков нет. Повторяю, потёков нет. Хммм...",translated,82
+vntext.sq#69543,vntext.sq,DETECTIVEFOX,Got the drizzle wrong. Course they did. They always get the drizzle wrong.,Перепутал потёки. Ну конечно. Они всегда путают потёки.,translated,74
+vntext.sq#69545,vntext.sq,DETECTIVEFOX,"When you were making this donut, did it ever occur to you that you could've been more generous with the drizzle? Probably not. Now we've both got to live with the consequences.","Когда ты делал этот пончик, приходило ли тебе в голову, что можно было быть щедрее с потёками? Наверное, нет. Теперь нам обоим придётся жить с последствиями.",translated,176
+vntext.sq#69547,vntext.sq,DETECTIVEFOX,People sometimes miss the forest for the trees. But you? You're missing the filling for the donut.,Люди иногда за деревьями не видят леса. А ты? Ты за пончиком не видишь начинки.,translated,98
+vntext.sq#69549,vntext.sq,DETECTIVEFOX,I'll say it bluntly: The filling is wrong. Why? Gross negligence? Or a cry for help? Too early to say...,Скажу прямо: начинка не та. Почему? Вопиющая небрежность? Или крик о помощи? Пока рано судить...,translated,104
+vntext.sq#69551,vntext.sq,DETECTIVEFOX,This donut doesn't look so good. Could use a makeover.,Этот пончик выглядит не очень. Не помешало бы преображение.,translated,54
+vntext.sq#69553,vntext.sq,DETECTIVEFOX,Lots of things I never asked for. A veritable smokescreen of ingredients. Why'd you do this? I have some theories...,"Много того, чего я никогда не просил. Настоящая дымовая завеса из ингредиентов. Зачем ты это сделал? У меня есть пара теорий...",translated,116
+vntext.sq#69555,vntext.sq,DETECTIVEFOX,Donuts come in all shapes and sizes — but this shape is not the one I asked for.,"Пончики бывают всех форм и размеров — но эта форма не та, что я просил.",translated,80
+vntext.sq#69556,vntext.sq,DETECTIVEFOX,"However, I'll hold my judgements for now, I'd like to see how deep this donut hole goes...","Впрочем, пока воздержусь от суждений, хочу посмотреть, насколько глубока эта пончиковая кроличья нора...",translated,90

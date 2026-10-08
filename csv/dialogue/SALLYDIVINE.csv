@@ -1,0 +1,971 @@
+id,file,context,source,target,status,max_len
+vntext.sq#2616,vntext.sq,SALLYDIVINE,"Good evening, {$mcName}.","Добрый вечер, {$mcName}.",translated,24
+vntext.sq#2619,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#2621,vntext.sq,SALLYDIVINE,... Hello? It's a pleasure to meet you too?,...Здравствуй? Мне тоже приятно познакомиться?,translated,43
+vntext.sq#2625,vntext.sq,SALLYDIVINE,"I'm sorry, there must be a—","Простите, тут явно какое-то—",translated,27
+vntext.sq#2627,vntext.sq,SALLYDIVINE,"H-Hey, I've really got nothing against cats—","Э-Эй, у меня правда ничего нет против кошек—",translated,44
+vntext.sq#2629,vntext.sq,SALLYDIVINE,H-How about this. I'll prove that I am a friend to you by treating you to a donut. What are you having?,"К-Как насчёт этого. Я докажу, что я тебе друг, угостив тебя пончиком. Что будешь?",translated,103
+vntext.sq#2638,vntext.sq,SALLYDIVINE,Here you go.,"Вот, держи.",translated,12
+vntext.sq#2668,vntext.sq,SALLYDIVINE,I'm so glad to hear it.,Я так рада это слышать.,translated,23
+vntext.sq#2684,vntext.sq,SALLYDIVINE,I-I'm not sure...,Я-Я не уверена...,translated,17
+vntext.sq#2685,vntext.sq,SALLYDIVINE,"But, {$mcName}, I must confess. Something is quite mind-boggling to me.","Но, {$mcName}, должна признаться. Кое-что не даёт мне покоя.",translated,71
+vntext.sq#2687,vntext.sq,SALLYDIVINE,"You see, as a creator of fursuits, I can appreciate fine craftsmanship...","Понимаешь, как создательница фурсьютов, я умею ценить искусную работу...",translated,73
+vntext.sq#2688,vntext.sq,SALLYDIVINE,But his cat ears... they look real.,Но его кошачьи уши... они выглядят настоящими.,translated,35
+vntext.sq#2691,vntext.sq,SALLYDIVINE,"Yes, {$mcName}. He might be a real... part-feline person.","Да, {$mcName}. Возможно, он и правда... наполовину кошачье существо.",translated,57
+vntext.sq#2693,vntext.sq,SALLYDIVINE,I-I don't know either.,Я-Я тоже не знаю.,translated,22
+vntext.sq#2694,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#2695,vntext.sq,SALLYDIVINE,"Oh, I should get this. I'll just come back for a donut some other time. Good night, {$mcName}!","Ой, надо ответить. Я просто зайду за пончиком в другой раз. Доброй ночи, {$mcName}!",translated,94
+vntext.sq#2780,vntext.sq,SALLYDIVINE,"Heh, very funny, {$mcName}. After our friend here reached out to me, we've become friends... and I've been getting rest and relaxation lessons from him!","Хех, очень смешно, {$mcName}. С тех пор как наш друг обратился ко мне, мы подружились... и он даёт мне уроки отдыха и расслабления!",translated,152
+vntext.sq#2807,vntext.sq,SALLYDIVINE,"Just let me know when, please! I've got to go now, but this was a lot of fun.","Просто дай знать, когда, пожалуйста! Мне уже пора, но это было очень весело.",translated,77
+vntext.sq#2808,vntext.sq,SALLYDIVINE,"Thank you, Catboi, for teaching me what relaxation is, and you, {$mcName}, for indulging us!","Спасибо, Котобой, что научил меня, что такое расслабление, и тебе, {$mcName}, что потакал нам!",translated,92
+vntext.sq#2809,vntext.sq,SALLYDIVINE,I hope you get to relax and get some rest soon! Good night!,"Надеюсь, ты тоже скоро расслабишься и отдохнёшь! Доброй ночи!",translated,59
+vntext.sq#21918,vntext.sq,SALLYDIVINE,I wonder if it would help everyone to have this donut after a long day at work... Hm.,"Интересно, помог бы этот пончик всем после долгого рабочего дня... Хм.",translated,85
+vntext.sq#21919,vntext.sq,SALLYDIVINE,"All the best things come to fruition with enough {$moods:patience}... at least, that's what I always believed in...","Всё лучшее сбывается при достаточной {$moods:patience}... по крайней мере, я всегда в это верила...",translated,115
+vntext.sq#21920,vntext.sq,SALLYDIVINE,Hehe... this one's got me feeling like it's all right to be silly at times...,"Хехе... с этим я чувствую, что иногда быть глупышкой — это нормально...",translated,77
+vntext.sq#21921,vntext.sq,SALLYDIVINE,My heart's beating faster... there's this... intense feeling...,Сердце бьётся быстрее... такое... сильное чувство...,translated,63
+vntext.sq#21922,vntext.sq,SALLYDIVINE,{$moods:inspiration}... this can be a challenge to get. It's fortunate we have these {$flavors:lemon_acid} mood enhancers now.,"{$moods:inspiration}... порой её нелегко поймать. К счастью, теперь у нас есть усилители настроения {$flavors:lemon_acid}.",translated,126
+vntext.sq#21923,vntext.sq,SALLYDIVINE,There's this burst of {$moods:courage}... as if I can do almost [i] anything. [/i],Это внезапный всплеск {$moods:courage}... будто мне по силам почти [i] всё. [/i],translated,82
+vntext.sq#21924,vntext.sq,SALLYDIVINE,"{$moods:sincerity} is a must, especially when you want to strengthen relationships...","{$moods:sincerity} необходима, особенно если хочешь укрепить отношения...",translated,85
+vntext.sq#21925,vntext.sq,SALLYDIVINE,"To be honest, this {$flavors:chococaine} donut works better than coffee for me.","Если честно, этот пончик {$flavors:chococaine} действует на меня лучше кофе.",translated,79
+vntext.sq#21926,vntext.sq,SALLYDIVINE,{$flavors:strawpium} always reminds me of late spring in my hometown... when the people feel more energetic because it's sunnier.,{$flavors:strawpium} всегда напоминает мне о поздней весне в родном городе... когда люди чувствуют себя бодрее из-за солнечной погоды.,translated,129
+vntext.sq#21928,vntext.sq,SALLYDIVINE,...Wonderful! This donut fills me with the same energy I get from a lovely afternoon drinking tea and watching interesting people from afar!,"...Чудесно! Этот пончик наполняет меня той же энергией, что и приятный день за чаем, наблюдая издалека за интересными людьми!",translated,140
+vntext.sq#21929,vntext.sq,SALLYDIVINE,"...I suppose it's all right if this donut isn't perfect — it's still delicious, after all!","...Полагаю, ничего страшного, что этот пончик не идеален — он всё равно вкусный!",translated,90
+vntext.sq#21930,vntext.sq,SALLYDIVINE,"...I'm afraid this isn't what I ordered, though.","...Боюсь, однако, это не то, что я заказывала.",translated,48
+vntext.sq#21931,vntext.sq,SALLYDIVINE,I should go now. See you next time!,Мне пора. Увидимся в следующий раз!,translated,35
+vntext.sq#21934,vntext.sq,SALLYDIVINE,"Thank you, {$mcName}!","Спасибо, {$mcName}!",translated,21
+vntext.sq#21941,vntext.sq,SALLYDIVINE,This mood would go perfectly with a slow and smooth lo-fi playlist...,Это настроение отлично сочеталось бы с медленным и плавным лоу-фай плейлистом...,translated,69
+vntext.sq#21942,vntext.sq,SALLYDIVINE,"Artists are supposed to be ${patient}. One must trust the process, after all. I haven't felt this way lately...","Художникам полагается быть ${patient}. Нужно доверять процессу, в конце концов. В последнее время я так не чувствовала...",translated,111
+vntext.sq#21943,vntext.sq,SALLYDIVINE,"I really should lighten up, huh? Heh...","Мне правда стоит расслабиться, да? Хех...",translated,39
+vntext.sq#21944,vntext.sq,SALLYDIVINE,"This is the mood I wish to evoke with my art, but... I feel as if I haven't been in touch with it lately.","Это то настроение, которое я хочу передавать своим искусством, но... кажется, в последнее время я потеряла с ним связь.",translated,105
+vntext.sq#21945,vntext.sq,SALLYDIVINE,{$flavors:lemon_acid} is quite fitting as the '{$moods:inspiration}' mood enhancer. The bright {$colors:yellow} is like the light bulb that pops up when one is ${inspired}...,"{$flavors:lemon_acid} отлично подходит на роль усилителя настроения '{$moods:inspiration}'. Яркий {$colors:yellow} — словно лампочка, что загорается, когда тебя озаряет ${inspired}...",translated,174
+vntext.sq#21946,vntext.sq,SALLYDIVINE,Feels like I can take a lot of risks thanks to this donut.,"Такое чувство, что благодаря этому пончику я готова на многое рискнуть.",translated,58
+vntext.sq#21947,vntext.sq,SALLYDIVINE,"Heh, I feel like I can talk to you about everything under the sun right now.","Хех, кажется, сейчас я могла бы поговорить с тобой обо всём на свете.",translated,76
+vntext.sq#21948,vntext.sq,SALLYDIVINE,My mind's sharper. Everything's much clearer right now — like wearing contact lenses.,Разум стал острее. Сейчас всё намного яснее — будто надела контактные линзы.,translated,85
+vntext.sq#21949,vntext.sq,SALLYDIVINE,"Back in my hometown, we'd have these around late May... {$flavors:strawpium} yogurt was my favorite, in particular.",У меня на родине такое бывало в конце мая... особенно я любила йогурт {$flavors:strawpium}.,translated,115
+vntext.sq#21950,vntext.sq,SALLYDIVINE,No mood enhancers... just a donut to satisfy cravings. Very intertesting!,"Без усилителей настроения... просто пончик, чтобы утолить тягу. Очень интересно!",translated,73
+vntext.sq#21951,vntext.sq,SALLYDIVINE,...Absolutely phenomenal! Every part of this donut is oozing with flavor! It feels like all my troubles are melting away~,"...Совершенно феноменально! Каждый кусочек этого пончика сочится вкусом! Такое чувство, будто все мои тревоги тают~",translated,121
+vntext.sq#21952,vntext.sq,SALLYDIVINE,"...I'm quite pleased with the donut, but perhaps you can perfect it next time.","...Я вполне довольна пончиком, но, может, в следующий раз доведёшь его до совершенства.",translated,78
+vntext.sq#21953,vntext.sq,SALLYDIVINE,But there must have been a mistake... because this isn't what I wanted.,"Но, должно быть, вышла ошибка... потому что это не то, чего я хотела.",translated,71
+vntext.sq#21954,vntext.sq,SALLYDIVINE,"Well, I've got to go. Good night!","Что ж, мне пора. Спокойной ночи!",translated,33
+vntext.sq#38941,vntext.sq,SALLYDIVINE,"[i] Hullo, my dear Puppy Pals. It's me, Sally~! [/i]","[i] Приветствую, мои дорогие Щенячьи Друзья. Это я, Сэлли~! [/i]",translated,52
+vntext.sq#38942,vntext.sq,SALLYDIVINE,"[i] I’m off to Heritage Park today to feed some birds~ The real ones, mind you! [/i]","[i] Сегодня я отправляюсь в парк «Наследие» кормить птиц~ Настоящих, между прочим! [/i]",translated,84
+vntext.sq#38943,vntext.sq,SALLYDIVINE,[i] Not the ones sent by the government to spy on us. We do not feed those birds. [/i],"[i] Не тех, которых правительство подсылает следить за нами. Таких птиц мы не кормим. [/i]",translated,86
+vntext.sq#38944,vntext.sq,SALLYDIVINE,"[i] And perhaps later, I’ll be playing chess with the Gotez sisters! [/i]","[i] А может, позже я сыграю в шахматы с сёстрами Готез! [/i]",translated,73
+vntext.sq#39150,vntext.sq,SALLYDIVINE,Oh. Wow.,Ох. Ого.,translated,8
+vntext.sq#39177,vntext.sq,SALLYDIVINE,"How surprising. I thought mood enhancers were your specialty, but this one has none at all!","Как неожиданно. Я думала, усилители настроения — твоя специализация, а тут их вообще нет!",translated,91
+vntext.sq#39181,vntext.sq,SALLYDIVINE,"Well, I suppose that's fair. The donut is good enough on its own!","Ну, наверное, справедливо. Пончик и сам по себе хорош!",translated,65
+vntext.sq#39186,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#39187,vntext.sq,SALLYDIVINE,"Ahaha, y-yeah, that's me...","Ахаха, д-да, это я...",translated,27
+vntext.sq#39189,vntext.sq,SALLYDIVINE,"Y-Yes, that's right!","Д-Да, всё верно!",translated,20
+vntext.sq#39190,vntext.sq,SALLYDIVINE,You... you've heard of 'Wolf It Down?',Вы... вы слышали про «Wolf It Down»?,translated,38
+vntext.sq#39192,vntext.sq,SALLYDIVINE,"Oh, I see, hehe...","А, понятно, хе-хе...",translated,18
+vntext.sq#39195,vntext.sq,SALLYDIVINE,"No, not really... I haven't got any updates about it at the moment, hehe.","Да не особо... у меня сейчас нет по нему никаких новостей, хе-хе.",translated,73
+vntext.sq#39197,vntext.sq,SALLYDIVINE,"O-Oh, okay. Thank you so much!","О-Ой, хорошо. Огромное спасибо!",translated,30
+vntext.sq#39199,vntext.sq,SALLYDIVINE,I will!,Обязательно!,translated,7
+vntext.sq#39234,vntext.sq,SALLYDIVINE,"Hullo again, thanks for letting me do a livestream here!","Приветствую снова, спасибо, что разрешили мне провести здесь стрим!",translated,56
+vntext.sq#39237,vntext.sq,SALLYDIVINE,"Not yet, but we're on a quick break right now.","Ещё нет, но сейчас у нас короткий перерыв.",translated,46
+vntext.sq#39238,vntext.sq,SALLYDIVINE,I just thought I'd show them around the area while doing the Q&A.,"Просто решила показать им окрестности, пока отвечаю на вопросы.",translated,65
+vntext.sq#39239,vntext.sq,SALLYDIVINE,"This is, after all, one of San Mazo's... more colorful areas, isn't it?","В конце концов, это же один из... более колоритных районов Сан-Мазо, не так ли?",translated,71
+vntext.sq#39241,vntext.sq,SALLYDIVINE,Got any recommendations for the shops around here?,Есть какие-нибудь рекомендации насчёт местных магазинов?,translated,50
+vntext.sq#39242,vntext.sq,SALLYDIVINE,"I've lived here in San Mazo for quite a while now, but I'm not very familiar with this area, hehe...","Я уже довольно давно живу здесь, в Сан-Мазо, но не очень хорошо знаю этот район, хе-хе...",translated,100
+vntext.sq#39250,vntext.sq,SALLYDIVINE,"Err, sorry, the Lofi what?","Эм, простите, Ло-Фай что?",translated,26
+vntext.sq#39253,vntext.sq,SALLYDIVINE,That's an amazing coincidence — I love beets and studying!,Какое удивительное совпадение — я обожаю свёклу и учёбу!,translated,58
+vntext.sq#39254,vntext.sq,SALLYDIVINE,"Well, I graduated years ago, but that's no excuse to quit learning new things, is it?","Ну, я закончила учиться много лет назад, но это же не повод перестать узнавать новое, правда?",translated,85
+vntext.sq#39256,vntext.sq,SALLYDIVINE,"Oh, beloved beets, my most favorite, most exquisite root vegetable... mother of all things good about this world...","О, любимая свёкла, мой самый любимый, самый изысканный корнеплод... мать всего хорошего в этом мире...",translated,115
+vntext.sq#39257,vntext.sq,SALLYDIVINE,I am coming for you!,Я иду к тебе!,translated,20
+vntext.sq#39258,vntext.sq,SALLYDIVINE,"Thank you, thank you so much for this suggestion!","Спасибо, огромное спасибо за эту идею!",translated,49
+vntext.sq#39262,vntext.sq,SALLYDIVINE,Knotty? Spelt as k-n-o-t-t-y?,Сучковатый? Через букву «ч»?,translated,29
+vntext.sq#39266,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#39267,vntext.sq,SALLYDIVINE,Furniture... from actual furry rooms...,Мебель... из настоящих фурри-комнат...,translated,39
+vntext.sq#39268,vntext.sq,SALLYDIVINE,"Touched and used by foxes, wolves, and other ancestors who once graced this world with their beautiful furry presence...","Той, к которой прикасались и которой пользовались лисы, волки и другие предки, некогда украшавшие этот мир своим прекрасным пушистым присутствием...",translated,120
+vntext.sq#39269,vntext.sq,SALLYDIVINE,They were our... [i] forebearers. [/i],Они были нашими... [i] праотцами. [/i],translated,38
+vntext.sq#39270,vntext.sq,SALLYDIVINE,"As such, those are sacred items.","А значит, это священные предметы.",translated,32
+vntext.sq#39271,vntext.sq,SALLYDIVINE,"With rent skyrocketing these days, I'll never be able to have a furry room myself...","С тем, как сейчас взлетела аренда, у меня самой никогда не будет своей фурри-комнаты...",translated,84
+vntext.sq#39272,vntext.sq,SALLYDIVINE,"But oh, to see actual antiques of them!",Но хотя бы увидеть настоящий антиквариат!,translated,39
+vntext.sq#39273,vntext.sq,SALLYDIVINE,Thank you so much for your suggestion! I'm excited to visit such a delightful shop!,Огромное спасибо за идею! Не терпится посетить такой чудесный магазин!,translated,83
+vntext.sq#39276,vntext.sq,SALLYDIVINE,"Err, w-well, I've never—","Эм, н-ну, я никогда—",translated,24
+vntext.sq#39278,vntext.sq,SALLYDIVINE,Okay... Mink Lashings...,Так... «Норковые плётки»...,translated,24
+vntext.sq#39279,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#39280,vntext.sq,SALLYDIVINE,There's a lot of... lions and tigers and bear mommies... [i] oh my. [/i],"Тут много... львов, тигров и мамочек-медведиц... [i] о боже. [/i]",translated,72
+vntext.sq#39281,vntext.sq,SALLYDIVINE,Look at the way they hold the whip!,"Ты только посмотри, как они держат плётку!",translated,35
+vntext.sq#39282,vntext.sq,SALLYDIVINE,Such beauty! Such majesty!,Какая красота! Какое величие!,translated,26
+vntext.sq#39283,vntext.sq,SALLYDIVINE,"Here, take a look at this video.","Вот, взгляни на это видео.",translated,32
+vntext.sq#39287,vntext.sq,SALLYDIVINE,The way she wields power... oh my goodness...,"То, как она владеет властью... боже мой...",translated,45
+vntext.sq#39288,vntext.sq,SALLYDIVINE,Very well. I shall look into this establishment!,Что ж. Обязательно изучу это заведение!,translated,48
+vntext.sq#39290,vntext.sq,SALLYDIVINE,"Oh, one more thing — does your cafe host events?","Ах, ещё кое-что — ваше кафе устраивает мероприятия?",translated,48
+vntext.sq#39292,vntext.sq,SALLYDIVINE,"I see. Could I have your mobile number, then? I'd like to know in advance if it will be okay to do a livestream here.","Понятно. Тогда не могли бы вы дать мне свой номер телефона? Хотела бы заранее узнавать, можно ли будет провести здесь стрим.",translated,117
+vntext.sq#39296,vntext.sq,SALLYDIVINE,Thank you so much!,Огромное спасибо!,translated,18
+vntext.sq#39297,vntext.sq,SALLYDIVINE,"Well, I'll be going then—","Что ж, пожалуй, я пойду—",translated,25
+vntext.sq#39299,vntext.sq,SALLYDIVINE,Hmm?,Хм?,translated,4
+vntext.sq#39303,vntext.sq,SALLYDIVINE,"Okay then. Thanks again, goodbye~","Ну хорошо. Ещё раз спасибо, до свидания~",translated,33
+vntext.sq#39622,vntext.sq,SALLYDIVINE,Hullo there!,Приветствую!,translated,12
+vntext.sq#39624,vntext.sq,SALLYDIVINE,"Thank you! I'm in need of inspiration, so I figured I'd get a lemon donut tonight.","Спасибо! Мне нужно вдохновение, так что решила сегодня взять лимонный пончик.",translated,82
+vntext.sq#39625,vntext.sq,SALLYDIVINE,Let's see what you have... hmm...,"Посмотрим, что у вас есть... хм...",translated,33
+vntext.sq#39626,vntext.sq,SALLYDIVINE,Golden Shower... now [i] that's [/i] an interesting one...,«Золотой дождь»... вот [i] это [/i] интересно...,translated,58
+vntext.sq#39627,vntext.sq,SALLYDIVINE,"I never thought I'd see food named after such a kink, but I suppose it [i] can [/i] be a mouth-watering image for some people.","Никогда не думала, что увижу еду, названную в честь такого кинка, но, полагаю, для кого-то это [i] может [/i] быть аппетитным образом.",translated,126
+vntext.sq#39629,vntext.sq,SALLYDIVINE,"Oh? You look confused. Didn't you, err, name this donut?","О? У тебя растерянный вид. Разве не ты, эм, придумал название этому пончику?",translated,56
+vntext.sq#39630,vntext.sq,SALLYDIVINE,Wait a second — do you... do you know what golden showers are?,"Погодите-ка — вы... вы знаете, что такое золотой дождь?",translated,62
+vntext.sq#39635,vntext.sq,SALLYDIVINE,"Oh, I see. So it must be someone else's kink, then!","А, понятно. Значит, это чей-то ещё кинк!",translated,51
+vntext.sq#39636,vntext.sq,SALLYDIVINE,Pardon me. I assumed you were into it due to the recent popularity of the award-winning adult movie '2 Girls 1 Cup of Tea.',"Прошу прощения. Я предположила, что вам это нравится из-за недавней популярности удостоенного наград фильма для взрослых «2 девушки 1 чашка чая».",translated,123
+vntext.sq#39642,vntext.sq,SALLYDIVINE,Thank you so much!,Огромное спасибо!,translated,18
+vntext.sq#39650,vntext.sq,SALLYDIVINE,Thank you very much!,Большое спасибо!,translated,20
+vntext.sq#39652,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#39653,vntext.sq,SALLYDIVINE,"Sorry, but I don't think I can eat this.","Извините, но, кажется, я не могу это есть.",translated,40
+vntext.sq#39654,vntext.sq,SALLYDIVINE,It's... not very good.,Это... не очень вкусно.,translated,22
+vntext.sq#39658,vntext.sq,SALLYDIVINE,Blegh. Thank you.,Фу. Спасибо.,translated,17
+vntext.sq#39659,vntext.sq,SALLYDIVINE,Please be careful next time. I need to stay focused on my art...,"В следующий раз, пожалуйста, будьте внимательнее. Мне нужно оставаться сосредоточенной на своём творчестве...",translated,64
+vntext.sq#39662,vntext.sq,SALLYDIVINE,Absolutely delightful!,Абсолютно восхитительно!,translated,22
+vntext.sq#39663,vntext.sq,SALLYDIVINE,"Though I don't suppose real golden showers feel and taste nutty, do they?","Хотя, полагаю, настоящий золотой дождь не имеет орехового вкуса и текстуры, верно?",translated,73
+vntext.sq#39665,vntext.sq,SALLYDIVINE,"Yes, I suppose not.","Да, полагаю, что нет.",translated,19
+vntext.sq#39666,vntext.sq,SALLYDIVINE,The mild saltiness of the {$toppings:almonphetamine} goes perfectly with the {$flavors:lemon_acid} {$decor:filling} and {$decor:drizzle}...,Лёгкая солоноватость {$toppings:almonphetamine} идеально сочетается с {$flavors:lemon_acid} {$decor:filling} и {$decor:drizzle}...,translated,139
+vntext.sq#39667,vntext.sq,SALLYDIVINE,"It is a lovely combination, but probably unwelcome if one's... bodily fluids were to taste like that.","Это чудесное сочетание, но, наверное, нежелательное, если бы... телесные жидкости имели такой вкус.",translated,101
+vntext.sq#39669,vntext.sq,SALLYDIVINE,"Hehehe... Come to think of it, '2 Girls 1 Cup of Tea' may be a bit crass, but the memory of that video plus this donut is giving me a story idea.","Хе-хе-хе... Если подумать, «2 девушки 1 чашка чая» может быть немного грубым, но воспоминание об этом видео вместе с этим пончиком дают мне идею для истории.",translated,145
+vntext.sq#39670,vntext.sq,SALLYDIVINE,"Two shipwrecked enemies, stuck on an island and dying of thirst...","Два потерпевших кораблекрушение врага, застрявшие на острове и умирающие от жажды...",translated,66
+vntext.sq#39671,vntext.sq,SALLYDIVINE,Only to bond with each other after a night of drinking.,И сближающиеся друг с другом после ночи выпивки.,translated,55
+vntext.sq#39673,vntext.sq,SALLYDIVINE,Hehehe...,Хехехе...,translated,9
+vntext.sq#39674,vntext.sq,SALLYDIVINE,"That's for you to find out when you read the comic, silly~","Это ты узнаешь, когда прочитаешь комикс, глупенький~",translated,58
+vntext.sq#39675,vntext.sq,SALLYDIVINE,"I've got a bit of a backlog though, so that idea will have to wait, I'm afraid...","Хотя у меня накопился небольшой список долгов, так что эту идею придётся отложить, боюсь...",translated,81
+vntext.sq#39676,vntext.sq,SALLYDIVINE,"But it's got me excited to draw, so there's that!","Но зато мне не терпится рисовать, так что уже неплохо!",translated,49
+vntext.sq#39677,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#39678,vntext.sq,SALLYDIVINE,Oh my... this isn't quite what I expected from a Golden Shower.,"Ох... это не совсем то, чего я ожидала от «Золотого дождя».",translated,63
+vntext.sq#39679,vntext.sq,SALLYDIVINE,"You've watched '2 Girls 1 Cup of Tea,' haven't you?","Ты же смотрел «2 девушки 1 чашка чая», да?",translated,51
+vntext.sq#39681,vntext.sq,SALLYDIVINE,"It's a rite of passage for [i] our [/i] generation. Just like the video of the same name — the OG, if you will — for so-called Millennials decades ago.","Это обряд посвящения для [i] нашего [/i] поколения. Точно так же, как одноимённое видео — оригинал, если угодно — было для так называемых миллениалов десятилетия назад.",translated,151
+vntext.sq#39682,vntext.sq,SALLYDIVINE,"At the time, I thought it was just crass. But for some reason, thinking about that video now is getting me all... heh...","Тогда я думала, что это просто пошло. Но почему-то, размышляя об этом видео сейчас, я вся... хех...",translated,120
+vntext.sq#39683,vntext.sq,SALLYDIVINE,Perhaps it's best if I don't say what's on my mind.,"Пожалуй, лучше мне не говорить, о чём я думаю.",translated,51
+vntext.sq#39685,vntext.sq,SALLYDIVINE,"No, not quite. What's getting me excited is the [i] collaborative [/i] aspect of the movie. But I do like to keep my mind open.","Нет, не совсем. Меня возбуждает именно [i] совместный [/i] аспект фильма. Но я люблю сохранять непредвзятость.",translated,127
+vntext.sq#39686,vntext.sq,SALLYDIVINE,"There's something about the way that movie was directed. The angle, the coloring...","Есть что-то в том, как срежиссирован этот фильм. Ракурс, цветовая гамма...",translated,83
+vntext.sq#39687,vntext.sq,SALLYDIVINE,"Compared to the first movie, which I believe was meant to shock, '1 Cup of Tea' seems to have a vision in mind.","По сравнению с первым фильмом, который, как мне кажется, был задуман, чтобы шокировать, у «1 чашки чая» будто есть своё видение.",translated,111
+vntext.sq#39688,vntext.sq,SALLYDIVINE,A vision... that's right. That's what [i] I [/i] need!,Видение... точно. Вот что [i] мне [/i] нужно!,translated,54
+vntext.sq#39689,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#39690,vntext.sq,SALLYDIVINE,"This isn't exactly the most inspiring donut, but I do appreciate the clarity it's giving me.","Это не самый вдохновляющий пончик, но я ценю ясность, которую он мне даёт.",translated,92
+vntext.sq#39691,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#39692,vntext.sq,SALLYDIVINE,"I wasn't sure what sort of inspiration I'd get from this donut, but this...","Я не была уверена, какое вдохновение получу от этого пончика, но это...",translated,75
+vntext.sq#39693,vntext.sq,SALLYDIVINE,"This is making me feel like just hanging out here, talking to you about the most controversial adult movies of all time...",От этого мне хочется просто сидеть здесь и обсуждать с тобой самые скандальные фильмы для взрослых всех времён...,translated,122
+vntext.sq#39694,vntext.sq,SALLYDIVINE,"This is making me feel like talking about some... I don't know... very personal opinions about art, I suppose. But that would be very boring, wouldn't it?","От этого мне хочется поговорить о каких-то... не знаю... очень личных мнениях об искусстве, наверное. Но это было бы очень скучно, правда?",translated,154
+vntext.sq#39695,vntext.sq,SALLYDIVINE,"I'm getting the urge to argue with the executives instead... some of their decisions lately have just been... urgh, I shouldn't talk about this...","Вместо этого у меня появляется желание поспорить с руководством... некоторые их решения в последнее время просто... уф, не стоит мне об этом говорить...",translated,146
+vntext.sq#39701,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#39702,vntext.sq,SALLYDIVINE,That's strange...,Странно...,translated,17
+vntext.sq#39703,vntext.sq,SALLYDIVINE,"I thought I would get hit with a burst of inspiration, or at least a sense of alertness...","Я думала, меня накроет всплеск вдохновения, или хотя бы чувство бодрости...",translated,90
+vntext.sq#39704,vntext.sq,SALLYDIVINE,But this is just making me feel like going to bed.,Но от этого мне хочется просто лечь спать.,translated,50
+vntext.sq#39705,vntext.sq,SALLYDIVINE,Perhaps... perhaps inspiration will come when I'm dreaming...,"Может быть... может быть, вдохновение придёт во сне...",translated,61
+vntext.sq#39706,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#39707,vntext.sq,SALLYDIVINE,"But I feel less, er, stressed out about coming up with ideas right now.","Но сейчас я чувствую меньше, эм, стресса из-за придумывания идей.",translated,71
+vntext.sq#39708,vntext.sq,SALLYDIVINE,"N-Not that I'm very stressed or anything! It's just one of those days, hehe...","Н-не то чтобы я сильно стрессую или типа того! Просто один из таких дней, хе-хе...",translated,78
+vntext.sq#39709,vntext.sq,SALLYDIVINE,"But I wonder if it would be better for me to go through some old works, perhaps see if there are ideas I could reuse...","Но интересно, не лучше ли мне пересмотреть старые работы, может, найти идеи, которые можно переиспользовать...",translated,119
+vntext.sq#39710,vntext.sq,SALLYDIVINE,"Wait... I'm sorry, {$mcName}, but I don't think this is what I ordered...","Погодите... извините, {$mcName}, но, кажется, это не то, что я заказывала...",translated,73
+vntext.sq#39712,vntext.sq,SALLYDIVINE,"No, thank you. But please be careful next time. I need to stay focused on my art...","Нет, спасибо. Но, пожалуйста, будьте внимательнее в следующий раз. Мне нужно оставаться сосредоточенной на своём творчестве...",translated,83
+vntext.sq#39714,vntext.sq,SALLYDIVINE,I'm glad I chose to go out and get some donuts tonight.,"Я рада, что решила сегодня выбраться и купить пончиков.",translated,55
+vntext.sq#39715,vntext.sq,SALLYDIVINE,"Drawing is fun, but it can be such an isolating craft sometimes.","Рисование — это весело, но иногда это такое уединённое занятие.",translated,64
+vntext.sq#39716,vntext.sq,SALLYDIVINE,"That said, the donut you made for me has got me thinking of all the possibilities...","При этом пончик, который вы мне сделали, заставил меня задуматься обо всех возможностях...",translated,84
+vntext.sq#39717,vntext.sq,SALLYDIVINE,It's a shame the donut wasn't as inspiring as I expected.,"Жаль, что пончик оказался не таким вдохновляющим, как я ожидала.",translated,57
+vntext.sq#39718,vntext.sq,SALLYDIVINE,"Still, I'm glad I chose to go out.","И всё же я рада, что решила выбраться.",translated,34
+vntext.sq#39719,vntext.sq,SALLYDIVINE,"There's only so much brainstorming I can do at home, after all...","В конце концов, дома мозговой штурм можно устроить лишь до определённого предела...",translated,65
+vntext.sq#39720,vntext.sq,SALLYDIVINE,This place — and this area of San Mazo in particular — is full of unconventional people.,Это место — и особенно этот район Сан-Мазо — полно неординарных людей.,translated,88
+vntext.sq#39721,vntext.sq,SALLYDIVINE,Perhaps I'll take my time observing them. I could even listen in to a conversation or two.,"Пожалуй, я не спеша понаблюдаю за ними. Могу даже подслушать пару разговоров.",translated,90
+vntext.sq#39722,vntext.sq,SALLYDIVINE,"But what I enjoy the most is seeing the way people communicate through their bodies — the puffed-out chest of a confident friend, the hunched shoulders of a dejected lover...","Но больше всего мне нравится наблюдать, как люди общаются языком тела — выпяченная грудь уверенного в себе друга, ссутуленные плечи павшего духом влюблённого...",translated,174
+vntext.sq#39723,vntext.sq,SALLYDIVINE,"If I could capture those little details in my art, then I'd like to think I've made something worth looking at.","Если бы я смогла запечатлеть эти маленькие детали в своём искусстве, мне бы хотелось думать, что я создала нечто, достойное внимания.",translated,111
+vntext.sq#39726,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#39731,vntext.sq,SALLYDIVINE,"O-Oh, well, I do love to observe animals too, hehe...","О-Ой, ну, мне тоже нравится наблюдать за животными, хе-хе...",translated,53
+vntext.sq#39732,vntext.sq,SALLYDIVINE,But there's just something special about people-watching. I suppose it's why I'm not opposed to watching films like '2 Girls...',"Но в наблюдении за людьми есть что-то особенное. Наверное, поэтому я не против смотреть фильмы вроде «2 девушки...»",translated,128
+vntext.sq#39733,vntext.sq,SALLYDIVINE,"Even if I can't quite relate with their kinks, it's interesting seeing what makes them happy.","Даже если я не совсем разделяю их кинки, интересно наблюдать, что делает их счастливыми.",translated,93
+vntext.sq#39735,vntext.sq,SALLYDIVINE,"Hehe, sex is just one way of experiencing pleasure with other people.","Хе-хе, секс — это просто один из способов испытывать удовольствие вместе с другими людьми.",translated,69
+vntext.sq#39736,vntext.sq,SALLYDIVINE,"So when you think of it as an act of give and take, it [i] is [/i] a wholesome experience.","Так что если рассматривать это как акт взаимного обмена, это [i] и есть [/i] благотворный опыт.",translated,90
+vntext.sq#39750,vntext.sq,SALLYDIVINE,"Hullo, lovely! It's a pleasure to meet you!","Приветствую, дорогая! Рада знакомству!",translated,43
+vntext.sq#39754,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#39755,vntext.sq,SALLYDIVINE,"Oh, you're also an artist!","О, ты тоже художница!",translated,26
+vntext.sq#39757,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#39762,vntext.sq,SALLYDIVINE,"Yes, I'd really love to see your art, Lucy~","Да, мне бы правда очень хотелось увидеть твои рисунки, Люси~",translated,43
+vntext.sq#39763,vntext.sq,SALLYDIVINE,"P-Please don't feel pressured if you're feeling quite shy, though...","Х-хотя, пожалуйста, не чувствуй себя обязанной, если тебе неловко...",translated,68
+vntext.sq#39768,vntext.sq,SALLYDIVINE,"Please, don't worry about it!","Пожалуйста, не переживай!",translated,29
+vntext.sq#39769,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#39770,vntext.sq,SALLYDIVINE,Wow... These are gorgeous!,Ого... они великолепны!,translated,26
+vntext.sq#39771,vntext.sq,SALLYDIVINE,I love the way you do coloring!,"Мне очень нравится, как ты работаешь с цветом!",translated,31
+vntext.sq#39774,vntext.sq,SALLYDIVINE,"Oh, don't be silly. We [i] all [/i] have our strengths and weaknesses.","Ой, не глупи. У [i] всех [/i] нас есть свои сильные и слабые стороны.",translated,70
+vntext.sq#39775,vntext.sq,SALLYDIVINE,"Traditional is honestly quite difficult for me, especially when it comes to coloring.","Традиционная техника мне, если честно, даётся довольно тяжело, особенно когда дело доходит до цвета.",translated,85
+vntext.sq#39776,vntext.sq,SALLYDIVINE,But you... you make it look so easy!,А у тебя... у тебя это выглядит так легко!,translated,36
+vntext.sq#39780,vntext.sq,SALLYDIVINE,Heh...,Хех...,translated,6
+vntext.sq#39781,vntext.sq,SALLYDIVINE,"Lucy, was it? Are you busy today?","Люси, верно? Ты сегодня занята?",translated,33
+vntext.sq#39783,vntext.sq,SALLYDIVINE,"Perfect. If I treat you to a donut, would you like to have an art session with me?","Отлично. Если я угощу тебя пончиком, хочешь устроить со мной арт-сессию?",translated,82
+vntext.sq#39787,vntext.sq,SALLYDIVINE,"Okay. But do let me know if you need anything, love.","Хорошо. Но дай знать, если тебе что-то понадобится, дорогая.",translated,52
+vntext.sq#39790,vntext.sq,SALLYDIVINE,Cap?',Кэп?,translated,5
+vntext.sq#39792,vntext.sq,SALLYDIVINE,"Aww, that is so cute! You two must be really close, then.","Аww, как мило! Значит, вы, наверное, очень близки.",translated,57
+vntext.sq#39794,vntext.sq,SALLYDIVINE,"Well, sorry to take Lucy away from you, {$mcName}, but we should probably move to that booth over there.","Что ж, прости, что забираю у тебя Люси, {$mcName}, но нам, наверное, стоит пересесть вон в ту кабинку.",translated,104
+vntext.sq#39796,vntext.sq,SALLYDIVINE,Thanks!,Спасибо!,translated,7
+vntext.sq#39802,vntext.sq,SALLYDIVINE,"Hehe, no problem, love.","Хе-хе, никаких проблем, дорогая.",translated,23
+vntext.sq#39803,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}. I'll be going now. Thank you so much for having us here!","Приветствую, {$mcName}. Пожалуй, мне пора. Огромное спасибо, что приняли нас здесь!",translated,74
+vntext.sq#39805,vntext.sq,SALLYDIVINE,"I definitely will be~ See you next time, Lucy!","Обязательно приду~ До встречи, Люси!",translated,46
+vntext.sq#40018,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40022,vntext.sq,SALLYDIVINE,Hello~,Привет~,translated,6
+vntext.sq#40024,vntext.sq,SALLYDIVINE,"No, thank [i] you. [/i] You have no idea how much I need this right now.","Нет, это [i] тебе [/i] спасибо. Ты даже не представляешь, как сильно мне сейчас это нужно.",translated,72
+vntext.sq#40025,vntext.sq,SALLYDIVINE,"All right, shall we move to a booth, Lucy?","Ну что, пересядем в кабинку, Люси?",translated,42
+vntext.sq#40028,vntext.sq,SALLYDIVINE,It's really amazing how you made Ser Igala's eyes look so sad... so vulnerable.,"Это правда потрясающе, как ты сделала глаза сира Игалы такими грустными... такими уязвимыми.",translated,79
+vntext.sq#40035,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40036,vntext.sq,SALLYDIVINE,"You know, Lucy, I feel like you're one of the few who can really empathize with Ser Igala.","Знаешь, Люси, мне кажется, ты одна из немногих, кто по-настоящему способен сопереживать сиру Игале.",translated,90
+vntext.sq#40038,vntext.sq,SALLYDIVINE,"Well, yes, but that's because he's hot and charming. Everyone wants to be with Ser Igala, valiant knight that he is!","Ну да, но это потому, что он горячий и обаятельный. Все хотят быть рядом с сиром Игалой, доблестным рыцарем, каким он является!",translated,116
+vntext.sq#40039,vntext.sq,SALLYDIVINE,"You, however, can see through him. You see his [i] pain. [/i]","А ты, однако, видишь его насквозь. Ты видишь его [i] боль. [/i]",translated,61
+vntext.sq#40042,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40044,vntext.sq,SALLYDIVINE,And I'm grateful for your beautiful fanart.,А я благодарна за твой прекрасный фан-арт.,translated,43
+vntext.sq#40045,vntext.sq,SALLYDIVINE,"Right, I think I've packed everything up...","Так, кажется, я всё собрала...",translated,43
+vntext.sq#40046,vntext.sq,SALLYDIVINE,"This was a really fun session, Lucy. I'm looking forward to the next one.","Это была правда весёлая сессия, Люси. Жду не дождусь следующей.",translated,73
+vntext.sq#40048,vntext.sq,SALLYDIVINE,"{$mcName}, I'll be going now. Thank you so much for your service today.","{$mcName}, я, пожалуй, пойду. Огромное спасибо за сегодняшнее обслуживание.",translated,71
+vntext.sq#40050,vntext.sq,SALLYDIVINE,"I will. Bye, Lucy!","Приду. Пока, Люси!",translated,18
+vntext.sq#40310,vntext.sq,SALLYDIVINE,"Hullo there, {$mcName}!","Приветствую, {$mcName}!",translated,23
+vntext.sq#40313,vntext.sq,SALLYDIVINE,Probably not... seems like she's doing a commission.,"Наверное, нет... кажется, она работает над заказом.",translated,52
+vntext.sq#40316,vntext.sq,SALLYDIVINE,"Well, please keep this between us, but they'll be sending her a job offer soon.","Ну, пожалуйста, пусть это останется между нами, но они скоро отправят ей предложение о работе.",translated,79
+vntext.sq#40318,vntext.sq,SALLYDIVINE,"Oh, was she? I wouldn't have guessed!","О, правда? Не подумала бы!",translated,37
+vntext.sq#40319,vntext.sq,SALLYDIVINE,"I wasn't one of the people who interviewed her, but they told me all about it.","Я не был в числе тех, кто проводил с ней собеседование, но мне всё рассказали.",translated,78
+vntext.sq#40320,vntext.sq,SALLYDIVINE,"They loved her ideas, and were particularly impressed with her expertise in coloring.","Им понравились её идеи, и особенно впечатлило её мастерство в цвете.",translated,85
+vntext.sq#40321,vntext.sq,SALLYDIVINE,It seems like they also adore how chatty she got. She talked about how a cannibal story inspired her art and they [i] ate [/i] it up!,"Кажется, им ещё понравилось, какой разговорчивой она стала. Она рассказала, как история про каннибала вдохновила её творчество, и они это просто [i] проглотили! [/i]",translated,133
+vntext.sq#40322,vntext.sq,SALLYDIVINE,"...Sorry, bad pun.","...Извини, плохой каламбур.",translated,18
+vntext.sq#40324,vntext.sq,SALLYDIVINE,"Oh my goodness... you are just as bad, maybe even worse!","Боже мой... ты не лучше, а может, даже хуже!",translated,56
+vntext.sq#40327,vntext.sq,SALLYDIVINE,"Hmm... I'm not sure, actually. I don't know if they want me to end [i] Wolf It Down [/i] anytime soon, and one of the senior artists came up with a pitch that might fit Lucy's style...","Хм... вообще-то не уверена. Не знаю, хотят ли они, чтобы я в ближайшее время закончила [i] «Wolf It Down», [/i] а один из старших художников придумал питч, который может подойти стилю Люси...",translated,184
+vntext.sq#40328,vntext.sq,SALLYDIVINE,"But that could end up as another solo project, which means Lucy might have to pitch her own.","Но это может в итоге стать ещё одним сольным проектом, а значит, Люси, возможно, придётся питчить свой собственный.",translated,92
+vntext.sq#40331,vntext.sq,SALLYDIVINE,"Oh yes, definitely! I couldn't help but vouch for her — I've been quite uninspired recently, but meeting her helped me see my work with fresh eyes.","О да, определённо! Я не могла не поручиться за неё — в последнее время у меня совсем не было вдохновения, но знакомство с ней помогло мне взглянуть на свою работу свежим взглядом.",translated,147
+vntext.sq#40332,vntext.sq,SALLYDIVINE,"Actually, that said... there's something I want to talk about.","Кстати говоря... есть кое-что, о чём я хотела бы поговорить.",translated,62
+vntext.sq#40333,vntext.sq,SALLYDIVINE,Would you be all right with listening?,Ты не против послушать?,translated,38
+vntext.sq#40335,vntext.sq,SALLYDIVINE,Thank you. I'll just order something first. Let's see...,Спасибо. Сначала я закажу что-нибудь. Посмотрим...,translated,56
+vntext.sq#40336,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40337,vntext.sq,SALLYDIVINE,"It's... a bit difficult for me to talk about, er, more personal feelings, so I'd like a donut that can help with that.","Мне... мне немного трудно говорить о, эм, более личных чувствах, так что хотела бы пончик, который поможет с этим.",translated,118
+vntext.sq#40338,vntext.sq,SALLYDIVINE,"I'd also like something {$light}, please, and something {$textures:soft} for ${toppings}.","И ещё, пожалуйста, что-нибудь {$light}, и что-нибудь {$textures:soft} для ${toppings}.",translated,89
+vntext.sq#40353,vntext.sq,SALLYDIVINE,Thank you so much!,Огромное спасибо!,translated,18
+vntext.sq#40355,vntext.sq,SALLYDIVINE,Thank you so much!,Огромное спасибо!,translated,18
+vntext.sq#40357,vntext.sq,SALLYDIVINE,"Err, I'm sorry... but I don't think I can continue eating this...","Эм, извини... но, кажется, я не могу это доесть...",translated,65
+vntext.sq#40358,vntext.sq,SALLYDIVINE,It doesn't taste good.,На вкус невкусно.,translated,22
+vntext.sq#40363,vntext.sq,SALLYDIVINE,This is exactly what I need.,"Это именно то, что мне нужно.",translated,28
+vntext.sq#40364,vntext.sq,SALLYDIVINE,A light blueberry donut with soft toppings.,Лёгкий черничный пончик с мягкой посыпкой.,translated,43
+vntext.sq#40365,vntext.sq,SALLYDIVINE,"The donut's excellent, {$mcName}.","Пончик превосходный, {$mcName}.",translated,33
+vntext.sq#40368,vntext.sq,SALLYDIVINE,I feel as if I should be working right now.,"Такое чувство, будто мне сейчас стоит работать.",translated,43
+vntext.sq#40369,vntext.sq,SALLYDIVINE,"My heart's racing... I want to talk about this feeling, not feel it even more intensely...","Моё сердце колотится... я хочу поговорить об этом чувстве, а не чувствовать его ещё сильнее...",translated,90
+vntext.sq#40370,vntext.sq,SALLYDIVINE,"I wanted to talk... but for some reason, I feel like drawing my feelings away instead.",Я хотела поговорить... но почему-то мне хочется вместо этого просто нарисовать свои чувства.,translated,86
+vntext.sq#40375,vntext.sq,SALLYDIVINE,There's this overwhelming happiness... it's almost making me cry.,Есть какое-то всепоглощающее счастье... от него я почти плачу.,translated,65
+vntext.sq#40376,vntext.sq,SALLYDIVINE,"I'm very tempted to phone her, and I don't think that's a good idea right now...","У меня огромное искушение ей позвонить, и не думаю, что сейчас это хорошая идея...",translated,80
+vntext.sq#40378,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40382,vntext.sq,SALLYDIVINE,Err... I don't think this is the right mood enhancer.,"Эм... не думаю, что это правильный усилитель настроения.",translated,53
+vntext.sq#40383,vntext.sq,SALLYDIVINE,"I wanted to talk about my feelings, but I've half a mind to just take it easy and go home.","Я хотела поговорить о своих чувствах, но у меня появилось желание просто расслабиться и пойти домой.",translated,90
+vntext.sq#40384,vntext.sq,SALLYDIVINE,"I feel as if I should be processing all this a bit longer, just to be sure about how I really feel...","Такое чувство, будто мне стоит обдумывать всё это чуть дольше, просто чтобы точно понять, что я на самом деле чувствую...",translated,101
+vntext.sq#40385,vntext.sq,SALLYDIVINE,I can't stop thinking about that very first art session...,Не могу перестать думать о той самой первой арт-сессии...,translated,58
+vntext.sq#40386,vntext.sq,SALLYDIVINE,No. I shouldn't fixate on just memories.,Нет. Не стоит зацикливаться только на воспоминаниях.,translated,40
+vntext.sq#40390,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40391,vntext.sq,SALLYDIVINE,What interesting times we live in. I feel a bit more at ease thanks to this donut.,Какие интересные времена мы переживаем. Благодаря этому пончику мне немного спокойнее.,translated,82
+vntext.sq#40392,vntext.sq,SALLYDIVINE,I think I'm ready to talk now.,"Кажется, я теперь готова поговорить.",translated,30
+vntext.sq#40394,vntext.sq,SALLYDIVINE,"I'm so sorry for going about this so awkwardly... please bear with me, because I don't have much experience in this department.","Мне так жаль, что я так неловко к этому подхожу... пожалуйста, потерпи меня, потому что у меня немного опыта в этой сфере.",translated,127
+vntext.sq#40396,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40398,vntext.sq,SALLYDIVINE,"Well... I know we've just met, but I...","Ну... я знаю, мы только недавно познакомились, но я...",translated,39
+vntext.sq#40399,vntext.sq,SALLYDIVINE,I think I like Lucy.,"Кажется, мне нравится Люси.",translated,20
+vntext.sq#40410,vntext.sq,SALLYDIVINE,"Err... are you all right, {$mcName}? You seem to have spaced out just now.","Эм... ты в порядке, {$mcName}? Ты будто только что задумался и отключился.",translated,74
+vntext.sq#40415,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#40416,vntext.sq,SALLYDIVINE,"Oh! Oh my goodness... I'm... I'm sorry for, err, bringing this up with you, then.","Ох! Боже мой... я... извини, что, эм, тогда завела с тобой этот разговор.",translated,81
+vntext.sq#40419,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40420,vntext.sq,SALLYDIVINE,Thank you for telling me.,"Спасибо, что рассказал.",translated,25
+vntext.sq#40421,vntext.sq,SALLYDIVINE,I suppose I wanted to talk to you because you seem to know her well.,"Наверное, я хотела поговорить с тобой, потому что ты, кажется, хорошо её знаешь.",translated,68
+vntext.sq#40423,vntext.sq,SALLYDIVINE,I see.,Понятно.,translated,6
+vntext.sq#40425,vntext.sq,SALLYDIVINE,I don't want to act on my feelings without knowing for sure... what if I'd just been misreading her actions?,"Я не хочу действовать, руководствуясь чувствами, не будучи уверенной наверняка... что если я просто неправильно истолковала её действия?",translated,108
+vntext.sq#40426,vntext.sq,SALLYDIVINE,"I've... I've never dated anyone. I've been interested in some people, I suppose, but never enough to try and ask them out.","Я... я никогда ни с кем не встречалась. Наверное, кто-то мне нравился, но никогда настолько, чтобы попытаться пригласить их на свидание.",translated,122
+vntext.sq#40427,vntext.sq,SALLYDIVINE,But after meeting her... things have changed for me.,Но после встречи с ней... для меня всё изменилось.,translated,52
+vntext.sq#40428,vntext.sq,SALLYDIVINE,"I find myself looking forward to her messages, making sure that she's happy when we're doing art sessions together...","Я ловлю себя на том, что жду её сообщений, слежу, чтобы она была счастлива, когда мы вместе устраиваем арт-сессии...",translated,117
+vntext.sq#40429,vntext.sq,SALLYDIVINE,It's... it's such a strange feeling...,Это... это такое странное чувство...,translated,38
+vntext.sq#40430,vntext.sq,SALLYDIVINE,"And since we've been texting a lot more recently, I've been wondering if she feels the same way.","А раз в последнее время мы стали намного больше переписываться, я всё думаю, чувствует ли она то же самое.",translated,96
+vntext.sq#40431,vntext.sq,SALLYDIVINE,Could you please... look at these text messages?,"Не мог бы ты, пожалуйста... взглянуть на эти сообщения?",translated,48
+vntext.sq#40432,vntext.sq,SALLYDIVINE,Just... please don't tell her I showed you these.,"Только... пожалуйста, не говори ей, что я тебе их показала.",translated,49
+vntext.sq#40434,vntext.sq,SALLYDIVINE,All right. Here you go.,"Хорошо. Вот, держи.",translated,23
+vntext.sq#40441,vntext.sq,SALLYDIVINE,So is she... is she flirting with me?,Так она... она со мной флиртует?,translated,37
+vntext.sq#40444,vntext.sq,SALLYDIVINE,YOU ARE?! Why didn't you tell me?,ТЫ И ЕСТЬ?! Почему ты мне не сказал?,translated,33
+vntext.sq#40448,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40449,vntext.sq,SALLYDIVINE,Err... someone who's just being sweet?,"Эм... тот, кто просто мил?",translated,38
+vntext.sq#40452,vntext.sq,SALLYDIVINE,"Heh, I suppose it does seem silly, but I don't like acting on things I'm uncertain about.","Хех, наверное, это и правда выглядит глупо, но я не люблю действовать в вопросах, в которых не уверена.",translated,89
+vntext.sq#40455,vntext.sq,SALLYDIVINE,Huh? What for?,А? За что?,translated,14
+vntext.sq#40456,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#40457,vntext.sq,SALLYDIVINE,Oh! I love these things!,Ох! Обожаю такие штуки!,translated,24
+vntext.sq#40458,vntext.sq,SALLYDIVINE,"But, err, why are you giving me this?","Но, эм, зачем ты мне его даёшь?",translated,37
+vntext.sq#40460,vntext.sq,SALLYDIVINE,But it's... it's not mood enhanced...,Но он же... он же не с усилителем настроения...,translated,37
+vntext.sq#40462,vntext.sq,SALLYDIVINE,"Well, all right, if you say so...","Ну ладно, если ты так говоришь...",translated,33
+vntext.sq#40463,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40465,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#40466,vntext.sq,SALLYDIVINE,Th-Thank you... that's really helpful information.,С-Спасибо... это правда полезная информация.,translated,50
+vntext.sq#40468,vntext.sq,SALLYDIVINE,I-If you don't mind talking about it... how was it like between you and Lucy back then?,Е-если ты не против об этом говорить... каково это было между тобой и Люси тогда?,translated,87
+vntext.sq#40469,vntext.sq,SALLYDIVINE,And err... why did you 'break up?',"И, эм... почему вы «расстались»?",translated,34
+vntext.sq#40476,vntext.sq,SALLYDIVINE,Sorry... is it too personal?,Извини... это слишком личное?,translated,28
+vntext.sq#40484,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40485,vntext.sq,SALLYDIVINE,"On one hand, you were just a kid making childish mistakes... but on the other hand, that's really quite awful.","С одной стороны, ты был просто ребёнком, совершающим детские ошибки... но с другой стороны, это правда довольно ужасно.",translated,110
+vntext.sq#40487,vntext.sq,SALLYDIVINE,"It seems like you two have patched things up, though.","Хотя, кажется, вы двое всё уладили.",translated,53
+vntext.sq#40489,vntext.sq,SALLYDIVINE,Since that time you and Lucy broke up... has it gotten easier for you to say goodbye?,"С того момента, как вы с Люси расстались... тебе стало легче прощаться?",translated,85
+vntext.sq#40490,vntext.sq,SALLYDIVINE,"Sorry, I'm just asking because I... I think about that a lot.","Извини, я просто спрашиваю, потому что я... я много об этом думаю.",translated,61
+vntext.sq#40491,vntext.sq,SALLYDIVINE,"Right now, I'm worried that if I ask Lucy out, she'll reject me, and then we might have to say goodbye.","Сейчас я боюсь, что если я позову Люси на свидание, она мне откажет, и нам, возможно, придётся попрощаться.",translated,103
+vntext.sq#40492,vntext.sq,SALLYDIVINE,"And if she does say yes and we date, we could still end up... I don't know, having a messy breakup.","А если она согласится и мы начнём встречаться, мы всё равно можем в итоге... не знаю, расстаться некрасиво.",translated,99
+vntext.sq#40499,vntext.sq,SALLYDIVINE,But isn't that just making the same mistake you did with Lucy?,"Но разве это не та же самая ошибка, что ты совершил с Люси?",translated,62
+vntext.sq#40503,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40504,vntext.sq,SALLYDIVINE,I see...,Понятно...,translated,8
+vntext.sq#40506,vntext.sq,SALLYDIVINE,So there's a delay in the way you experience grief?,"Так у тебя есть задержка в том, как ты переживаешь горе?",translated,51
+vntext.sq#40510,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40511,vntext.sq,SALLYDIVINE,That they will.,Уж это точно.,translated,15
+vntext.sq#40514,vntext.sq,SALLYDIVINE,So you just... let yourself feel the pain?,Так ты просто... позволяешь себе прочувствовать боль?,translated,42
+vntext.sq#40517,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40518,vntext.sq,SALLYDIVINE,I see.,Понятно.,translated,6
+vntext.sq#40519,vntext.sq,SALLYDIVINE,"Growing up, I didn't really have a good role model for how healthy romantic relationships look like.","В детстве у меня не было хорошего примера того, как выглядят здоровые романтические отношения.",translated,100
+vntext.sq#40520,vntext.sq,SALLYDIVINE,I suppose that's why I put all my yearning for it into fiction.,"Наверное, поэтому всю свою тоску по ним я вложила в художественный вымысел.",translated,63
+vntext.sq#40521,vntext.sq,SALLYDIVINE,"It's safer. No one has to say goodbye. And when the story ends, you can just write more fanfiction...","Так безопаснее. Никому не нужно прощаться. А когда история заканчивается, можно просто написать ещё фанфиков...",translated,101
+vntext.sq#40528,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40529,vntext.sq,SALLYDIVINE,Very well.,"Что ж, ладно.",translated,10
+vntext.sq#40530,vntext.sq,SALLYDIVINE,I don't think I'll ask her out anytime soon. I still want to sort my feelings out.,"Не думаю, что позову её на свидание в ближайшее время. Мне всё ещё нужно разобраться в своих чувствах.",translated,82
+vntext.sq#40531,vntext.sq,SALLYDIVINE,"But you've helped me a lot tonight. Thank you, {$mcName}.","Но ты мне сегодня очень помог. Спасибо, {$mcName}.",translated,57
+vntext.sq#40534,vntext.sq,SALLYDIVINE,"Oh no, I'm so sorry! I didn't mean to keep you for too long.","Ох нет, мне так жаль! Я не хотела задерживать тебя так надолго.",translated,60
+vntext.sq#40536,vntext.sq,SALLYDIVINE,"Well, I'll be going, then. Thanks again for having me.","Что ж, тогда я пойду. Ещё раз спасибо, что приняли меня.",translated,54
+vntext.sq#40538,vntext.sq,SALLYDIVINE,Definitely. Bye~,Обязательно. Пока~,translated,16
+vntext.sq#40882,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40883,vntext.sq,SALLYDIVINE,"Hah... hah... hah... hullo, you two!",Ха... ха... ха... привет вам обоим!,translated,36
+vntext.sq#40886,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40887,vntext.sq,SALLYDIVINE,Y-Yeah. I was worried I was making you wait for too long...,"Д-да. Боялась, что заставлю вас слишком долго ждать...",translated,59
+vntext.sq#40890,vntext.sq,SALLYDIVINE,It was all right. I told them we've got some ideas going for the upcoming chapters.,"Нормально. Я сказала им, что у нас есть кое-какие идеи для будущих глав.",translated,83
+vntext.sq#40891,vntext.sq,SALLYDIVINE,I think they just wanted to see if we can add more sex scenes.,"Кажется, они просто хотели узнать, можем ли мы добавить больше секс-сцен.",translated,62
+vntext.sq#40893,vntext.sq,SALLYDIVINE,"Uh-huh. I'm personally not against it, but I wanted to convince them to give me some time to play with the unresolved sexual tension between Bucket and Stevie.","Угу. Я лично не против, но хотела убедить их дать мне время поиграть с неразрешённым сексуальным напряжением между Бакетом и Стиви.",translated,159
+vntext.sq#40895,vntext.sq,SALLYDIVINE,"Exactly! Fans love that 'will they, won't they' problem!",Именно! Фанаты обожают эту дилемму «будут — не будут»!,translated,56
+vntext.sq#40897,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40898,vntext.sq,SALLYDIVINE,"Well, I suppose we can give them more Ser Igala and Madame Lupa if they want more action.","Что ж, полагаю, можно дать им больше сэра Игалы и мадам Лупы, если им хочется больше действия.",translated,89
+vntext.sq#40900,vntext.sq,SALLYDIVINE,May I see?,Можно посмотреть?,translated,10
+vntext.sq#40902,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#40903,vntext.sq,SALLYDIVINE,Oh my... that took me by surprise... that look is so... so hot.,Ох... вот это неожиданность... этот взгляд такой... такой горячий.,translated,63
+vntext.sq#40905,vntext.sq,SALLYDIVINE,Are you kidding me? It's perfect.,Ты шутишь? Это идеально.,translated,33
+vntext.sq#40906,vntext.sq,SALLYDIVINE,"Anyway, let's start our art session. Shall we move to the booth over there?","В общем, давайте начнём наш арт-сеанс. Может, переберёмся вон в ту кабинку?",translated,75
+vntext.sq#40914,vntext.sq,SALLYDIVINE,"Lovely! We could also make it so that in these first few panels, Ser Igala's face is heavily shadowed.","Прекрасно! Ещё можно сделать так, чтобы в этих первых панелях лицо сэра Игалы было сильно затенено.",translated,102
+vntext.sq#40915,vntext.sq,SALLYDIVINE,Let's get his beautiful hair covering almost half his face... Mmm... Perfect.,Пусть его прекрасные волосы закрывают почти половину лица... Ммм... Идеально.,translated,77
+vntext.sq#40916,vntext.sq,SALLYDIVINE,"Ah, let's have a panel of Madame Lupa's hand, tightly gripping the lantern...","Ах, давайте сделаем панель с рукой мадам Лупы, крепко сжимающей фонарь...",translated,77
+vntext.sq#40917,vntext.sq,SALLYDIVINE,It's that repression... but also that desire to hold on to the flame she feels for Ser Igala...,"Это та самая сдержанность... но ещё и желание удержать пламя, которое она чувствует к сэру Игале...",translated,95
+vntext.sq#40921,vntext.sq,SALLYDIVINE,"I'm so blown away by your art, Lucy.","Меня просто сносит от твоих рисунков, Люси.",translated,36
+vntext.sq#40922,vntext.sq,SALLYDIVINE,"The blush on Madame Lupa's cheeks in the heat of passion... the way you draw such glossy, kissable lips...","Румянец на щеках мадам Лупы в пылу страсти... то, как ты рисуешь эти блестящие, так и просящиеся на поцелуй губы...",translated,106
+vntext.sq#40926,vntext.sq,SALLYDIVINE,"Well, I've got to go, but I had so much fun tonight.","Так, мне пора, но сегодня было очень весело.",translated,52
+vntext.sq#40929,vntext.sq,SALLYDIVINE,"Won't you, err, still be here?","А ты, эм, разве не останешься здесь ещё?",translated,30
+vntext.sq#40931,vntext.sq,SALLYDIVINE,"All right. I'll be seeing you, then.",Ладно. Тогда до встречи.,translated,36
+vntext.sq#40933,vntext.sq,SALLYDIVINE,"I'll be going now, {$mcName}. Bye!","Я тоже пойду, {$mcName}. Пока!",translated,34
+vntext.sq#41151,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}!","Привет, {$mcName}!",translated,17
+vntext.sq#41155,vntext.sq,SALLYDIVINE,"Sorry, I'll try to cheer up soon, but I don't really like to drink when I'm sad and there's nowhere else to go and so I thought— I-I thought—","Прости, я постараюсь скоро взбодриться, но я не очень люблю пить, когда мне грустно, а больше пойти некуда, и вот я подумала— я-я подумала—",translated,141
+vntext.sq#41158,vntext.sq,SALLYDIVINE,Umm... Do you think it will help?,"Эм... думаешь, поможет?",translated,33
+vntext.sq#41160,vntext.sq,SALLYDIVINE,"Yes, I suppose I do, but, er... do you have the time or energy to listen to me vent?","Да, наверное, нужен, но, эм... у тебя есть время или силы выслушать, как я изливаю душу?",translated,84
+vntext.sq#41162,vntext.sq,SALLYDIVINE,Thank you...,Спасибо...,translated,12
+vntext.sq#41163,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41164,vntext.sq,SALLYDIVINE,"All right. I'd like to have a {$recipe:riverside_romp}. But instead of just {$flavors:matchajuana} {$decor:glaze}, could you {$glaze:multiglaze} it with {$flavors:methberry} {$decor:glaze} as well, please?","Хорошо. Я бы хотела {$recipe:riverside_romp}. Но вместо просто {$decor:glaze} {$flavors:matchajuana}, не мог бы ты сделать {$glaze:multiglaze} ещё и с {$decor:glaze} {$flavors:methberry}, пожалуйста?",translated,205
+vntext.sq#41169,vntext.sq,SALLYDIVINE,Thank you so much!,Огромное спасибо!,translated,18
+vntext.sq#41171,vntext.sq,SALLYDIVINE,Thank you!,Спасибо!,translated,10
+vntext.sq#41173,vntext.sq,SALLYDIVINE,"Oh... {$mcName}... sorry, but this isn't your best work.","Ох... {$mcName}... прости, но это не лучшая твоя работа.",translated,56
+vntext.sq#41174,vntext.sq,SALLYDIVINE,I can't eat this.,Я не могу это есть.,translated,17
+vntext.sq#41179,vntext.sq,SALLYDIVINE,"Oh, how lovely!","Ох, как чудесно!",translated,15
+vntext.sq#41180,vntext.sq,SALLYDIVINE,It really does feel like taking a dip in the river...,"Правда ощущается, будто окунаешься в реку...",translated,53
+vntext.sq#41182,vntext.sq,SALLYDIVINE,"Goodness, no! The river in my hometown is clean.","Боже, нет! Река в моём родном городе чистая.",translated,48
+vntext.sq#41183,vntext.sq,SALLYDIVINE,"On a bright, sunny day, you can see the fish swimming underwater... and the local birds sing peaceful songs instead of their usual punk stuff.","В ясный солнечный день видно, как под водой плавают рыбы... а местные птицы поют мирные песни вместо своего обычного панка.",translated,142
+vntext.sq#41185,vntext.sq,SALLYDIVINE,"Well, of course! 'God Save Us From The Queen' is their favorite.","Ну конечно! «Боже, храни нас от Королевы» — их любимая.",translated,64
+vntext.sq#41188,vntext.sq,SALLYDIVINE,"And by the way, I love that you took extra care to make sure the {$flavors:matchajuana} and {$flavors:methberry} glaze are even!","И кстати, мне нравится, что ты постарался сделать глазурь {$flavors:matchajuana} и {$flavors:methberry} равномерной!",translated,128
+vntext.sq#41189,vntext.sq,SALLYDIVINE,The {$flavors:methberry} heart drizzle is so beautifully done too. It's perfection!,Сердечко из потёков {$flavors:methberry} тоже так красиво сделано. Это совершенство!,translated,83
+vntext.sq#41190,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41191,vntext.sq,SALLYDIVINE,"That's a lot better. Sometimes my anxiety gets the best of me, but these donuts really help a lot.","Так уже намного лучше. Иногда тревога берёт надо мной верх, но эти донаты правда сильно помогают.",translated,98
+vntext.sq#41193,vntext.sq,SALLYDIVINE,"This is helping me feel comfortable enough to talk, but... it's missing something.","Благодаря этому мне достаточно комфортно, чтобы говорить, но... чего-то не хватает.",translated,82
+vntext.sq#41194,vntext.sq,SALLYDIVINE,"Come to think of it, I can't taste the matcha...","Если подумать, я не чувствую вкус матчи...",translated,48
+vntext.sq#41195,vntext.sq,SALLYDIVINE,There's another flavor I'm tasting... but it isn't helping with my mood at all...,Я чувствую какой-то другой вкус... но он совсем не помогает моему настроению...,translated,81
+vntext.sq#41196,vntext.sq,SALLYDIVINE,"This is quite relaxing... but I keep waiting for the mood enhancer to help me vent, and it's not quite there...","Это довольно расслабляюще... но я всё жду, когда усилитель настроения поможет мне выговориться, а этого пока не происходит...",translated,111
+vntext.sq#41197,vntext.sq,SALLYDIVINE,There's another flavor I'm tasting... but it isn't helping with my mood at all...,Я чувствую какой-то другой вкус... но он совсем не помогает моему настроению...,translated,81
+vntext.sq#41198,vntext.sq,SALLYDIVINE,"I'm sorry, but this donut.... is simply too much. I feel even more anxious now...","Прости, но этот донат... это просто чересчур. Теперь я чувствую себя ещё тревожнее...",translated,81
+vntext.sq#41199,vntext.sq,SALLYDIVINE,"I'm sorry, but this donut... is giving me ideas I don't need right now...","Прости, но этот донат... подкидывает мне идеи, которые сейчас совсем не нужны...",translated,73
+vntext.sq#41200,vntext.sq,SALLYDIVINE,"I appreciate the sparks of {$moods:inspiration}, but I'm afraid I just need to talk and relax for tonight.","Ценю искры {$moods:inspiration}, но, боюсь, сегодня мне просто нужно поговорить и расслабиться.",translated,106
+vntext.sq#41201,vntext.sq,SALLYDIVINE,"I'm sorry, but... this isn't helping me relax or feel more comfortable with sharing. I feel [i] too [/i] focused on things that only stress me out.","Прости, но... это не помогает мне расслабиться или чувствовать себя увереннее, делясь переживаниями. Я чувствую себя [i] слишком [/i] сосредоточенной на вещах, которые меня только напрягают.",translated,147
+vntext.sq#41202,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#41203,vntext.sq,SALLYDIVINE,That's... quite a hit. I'm feeling a bit silly all of a sudden for even wanting to vent.,"Это... довольно ощутимо. Мне вдруг стало немного глупо от того, что я вообще хотела выговориться.",translated,88
+vntext.sq#41204,vntext.sq,SALLYDIVINE,"This isn't what I need, though...","Хотя это не то, что мне нужно...",translated,33
+vntext.sq#41205,vntext.sq,SALLYDIVINE,Do you ever think about sending the higher-ups a strongly worded email sometimes?,Тебе когда-нибудь хотелось отправить начальству резкое письмо?,translated,81
+vntext.sq#41207,vntext.sq,SALLYDIVINE,Oh... I see.,Ох... понятно.,translated,12
+vntext.sq#41208,vntext.sq,SALLYDIVINE,"Well... I probably shouldn't too, even though the urge is quite strong right now.","Ну... мне, наверное, тоже не стоит, хотя желание сейчас довольно сильное.",translated,81
+vntext.sq#41209,vntext.sq,SALLYDIVINE,Hmm... I think you may have messed up my order...,"Хмм... кажется, ты перепутал мой заказ...",translated,49
+vntext.sq#41210,vntext.sq,SALLYDIVINE,"I want to say that this is helping, but honestly... this just makes me feel numb.","Хочется сказать, что это помогает, но если честно... от этого я просто немею.",translated,81
+vntext.sq#41211,vntext.sq,SALLYDIVINE,And I'd really rather feel my emotions right now.,А мне бы очень хотелось сейчас именно чувствовать свои эмоции.,translated,49
+vntext.sq#41212,vntext.sq,SALLYDIVINE,"You know, there was a time when this was all so simple for me... when I didn't have to worry about way too many things...","Знаешь, было время, когда всё это было для меня так просто... когда мне не приходилось переживать о стольких вещах...",translated,121
+vntext.sq#41213,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41214,vntext.sq,SALLYDIVINE,"This is getting me sad, {$mcName}... I don't think this is what I ordered.","Мне из-за этого грустно, {$mcName}... кажется, это не то, что я заказывала.",translated,74
+vntext.sq#41218,vntext.sq,SALLYDIVINE,All right... I feel more ready to talk now.,Хорошо... теперь я чувствую себя готовой поговорить.,translated,43
+vntext.sq#41219,vntext.sq,SALLYDIVINE,"I've always been a fan of blueberry donuts, but your donuts are getting me really into matcha as well.","Я всегда любила донаты с черникой, но благодаря твоим донатам я всё больше влюбляюсь и в матчу.",translated,102
+vntext.sq#41220,vntext.sq,SALLYDIVINE,All right... I feel more ready to talk now.,Хорошо... теперь я чувствую себя готовой поговорить.,translated,43
+vntext.sq#41221,vntext.sq,SALLYDIVINE,"It's not ideal, but the Fixer-upper sure is getting the job done, hehe.","Не идеально, но Fixer-upper точно делает своё дело, хехе.",translated,71
+vntext.sq#41223,vntext.sq,SALLYDIVINE,"I appreciate it, {$mcName}...","Я это ценю, {$mcName}...",translated,29
+vntext.sq#41224,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41225,vntext.sq,SALLYDIVINE,"So... here's the thing: I'm actually severely burnt out, and I don't even know how to end [i] Wolf It Down [/i] anymore.","Так вот, дело вот в чём: я на самом деле серьёзно выгорела и уже даже не знаю, как закончить [i] Wolf It Down. [/i]",translated,120
+vntext.sq#41232,vntext.sq,SALLYDIVINE,"Yes, I know. It'll be sad if they never get closure. It's not like I haven't tried, though.","Да, знаю. Будет печально, если они так и не получат развязки. Хотя не то чтобы я не пыталась.",translated,91
+vntext.sq#41233,vntext.sq,SALLYDIVINE,"When I met Lucy, I thought I'd finally feel better... that I'd be more inspired, more excited to work on my comic.","Когда я встретила Люси, я думала, что мне наконец станет лучше... что я буду больше вдохновлена, буду с большим воодушевлением работать над комиксом.",translated,114
+vntext.sq#41234,vntext.sq,SALLYDIVINE,"And it actually did work for a while. Whenever I found myself feeling frustrated with my work, I'd look at what Lucy and I worked on together.","И какое-то время это правда работало. Когда я чувствовала разочарование от работы, я смотрела на то, что мы с Люси сделали вместе.",translated,142
+vntext.sq#41235,vntext.sq,SALLYDIVINE,I thought that was the solution to my problem. Maybe I just needed more collaborative projects.,"Я думала, это решение моей проблемы. Может, мне просто нужно больше совместных проектов.",translated,95
+vntext.sq#41236,vntext.sq,SALLYDIVINE,But I must admit... the high of it faded not long after Lucy got accepted into the studio.,"Но должна признать... этот кайф угас вскоре после того, как Люси взяли в студию.",translated,90
+vntext.sq#41239,vntext.sq,SALLYDIVINE,"Oh no, it's nothing like that at all!","Ох нет, вообще ничего подобного!",translated,37
+vntext.sq#41240,vntext.sq,SALLYDIVINE,"In fact, I see her art as superior to mine... there's this sincerity to her art that mine doesn't have.","На самом деле я считаю её искусство лучше своего... в её работах есть искренность, которой нет в моих.",translated,103
+vntext.sq#41242,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41243,vntext.sq,SALLYDIVINE,"It's hard to explain, but with Lucy, it's like she's unafraid of fixating on the smallest details just to convey a message.","Трудно объяснить, но с Люси такое чувство, будто она не боится зацикливаться на мельчайших деталях, лишь бы передать посыл.",translated,123
+vntext.sq#41244,vntext.sq,SALLYDIVINE,"For example, we had that one art session where Lucy really wanted to get the lighting on the lips right.","Например, был один арт-сеанс, где Люси очень хотела правильно передать освещение на губах.",translated,104
+vntext.sq#41245,vntext.sq,SALLYDIVINE,"But it wasn't just about the visual effect of it, you know? She wanted the lips to be the focus of the scene, to showcase the sensuality of it, of Madame Lupa's yearning...","Но дело было не только в визуальном эффекте, понимаешь? Она хотела, чтобы губы были в центре сцены, чтобы показать чувственность, тоску мадам Лупы...",translated,172
+vntext.sq#41248,vntext.sq,SALLYDIVINE,"Shouldn't you, a mood confectioner, be extremely detail-oriented?","Разве ты, кондитер настроения, не должен быть предельно внимателен к деталям?",translated,65
+vntext.sq#41252,vntext.sq,SALLYDIVINE,"I can see that. I may not understand the logic behind her color associations, but I feel the intentionality behind them.","Я это вижу. Может, я и не понимаю логику её цветовых ассоциаций, но чувствую в них осознанность.",translated,120
+vntext.sq#41253,vntext.sq,SALLYDIVINE,"It's nothing like my work. When my editor asks me why I chose a certain perspective or color scheme, I don't really know how to defend my choices.","Это совсем не похоже на мою работу. Когда редактор спрашивает меня, почему я выбрала тот или иной ракурс или цветовую гамму, я не очень понимаю, как отстоять свой выбор.",translated,146
+vntext.sq#41254,vntext.sq,SALLYDIVINE,I just... draw or color them that way because that's how my comic gets hits.,"Я просто... рисую и раскрашиваю так, потому что именно так мой комикс набирает просмотры.",translated,76
+vntext.sq#41257,vntext.sq,SALLYDIVINE,I'm a sellout.,Я продалась.,translated,14
+vntext.sq#41259,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#41268,vntext.sq,SALLYDIVINE,...Fair enough.,...Справедливо.,translated,15
+vntext.sq#41272,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41273,vntext.sq,SALLYDIVINE,"Do you... want to vent too, {$mcName}?","Ты тоже... хочешь выговориться, {$mcName}?",translated,38
+vntext.sq#41275,vntext.sq,SALLYDIVINE,Okay...,Ладно...,translated,7
+vntext.sq#41278,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41279,vntext.sq,SALLYDIVINE,"Don't you miss getting more creative with your pastries, though?",А тебе не хочется быть более творческим в своей выпечке?,translated,64
+vntext.sq#41282,vntext.sq,SALLYDIVINE,...All right.,...Хорошо.,translated,13
+vntext.sq#41284,vntext.sq,SALLYDIVINE,Pardon?,Прости?,translated,7
+vntext.sq#41286,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41287,vntext.sq,SALLYDIVINE,I'm thinking of quitting my job.,Я подумываю уволиться.,translated,32
+vntext.sq#41290,vntext.sq,SALLYDIVINE,Well... no. I haven't got any backup plans at the moment. But... it's been on my mind for a while now.,Ну... нет. У меня пока нет запасных планов. Но... эта мысль крутится у меня в голове уже давно.,translated,102
+vntext.sq#41293,vntext.sq,SALLYDIVINE,"Heh, I really don't think they'd be too pleased to hear that I want to take a break before finishing my current project.","Хех, вряд ли им понравится услышать, что я хочу взять перерыв, не закончив текущий проект.",translated,120
+vntext.sq#41294,vntext.sq,SALLYDIVINE,"It would reflect badly on the company if [i] Wolf It Down [/i] went on hiatus. And during the hiatus, it would lose visibility.","Это плохо скажется на компании, если [i] Wolf It Down [/i] уйдёт на паузу. А во время паузы он потеряет видимость.",translated,127
+vntext.sq#41295,vntext.sq,SALLYDIVINE,"I mean, we're lucky to have the furry community as our main demographic. They're some of the most loyal fans a web comic can have.","В смысле, нам повезло, что наша основная аудитория — фурри-сообщество. Это одни из самых преданных фанатов, какие только могут быть у веб-комикса.",translated,130
+vntext.sq#41296,vntext.sq,SALLYDIVINE,"But that's exactly why I don't want to take a break or give up just yet. Even if I'm not finding joy in my art anymore, I still care about our fans.","Но именно поэтому я и не хочу пока брать перерыв или всё бросать. Даже если я больше не нахожу радости в своём искусстве, мне всё ещё небезразличны наши фанаты.",translated,148
+vntext.sq#41300,vntext.sq,SALLYDIVINE,"...You're talking about Lucy, aren't you?","...Ты про Люси, да?",translated,41
+vntext.sq#41302,vntext.sq,SALLYDIVINE,Of course. We're on call practically almost every night these days.,Конечно. В последнее время мы созваниваемся почти каждый вечер.,translated,67
+vntext.sq#41304,vntext.sq,SALLYDIVINE,I'm worried about her too. I hope the industry doesn't kill her creativity...,"Я тоже за неё переживаю. Надеюсь, индустрия не убьёт её творческую жилку...",translated,77
+vntext.sq#41307,vntext.sq,SALLYDIVINE,Do you mean about me being burnt out? Er... no.,Ты про моё выгорание? Эм... нет.,translated,47
+vntext.sq#41309,vntext.sq,SALLYDIVINE,She just got into Studio Canidae. I think she deserves to celebrate that without worrying about me.,"Её только взяли в Studio Canidae. Думаю, она заслуживает отпраздновать это, не переживая обо мне.",translated,99
+vntext.sq#41312,vntext.sq,SALLYDIVINE,"Yes, of course. Anything to repay you for listening to me.","Да, конечно. Что угодно, чтобы отплатить тебе за то, что выслушал меня.",translated,58
+vntext.sq#41314,vntext.sq,SALLYDIVINE,...!!,...!!,translated,5
+vntext.sq#41315,vntext.sq,SALLYDIVINE,Why would I do that?,С чего бы мне это делать?,translated,20
+vntext.sq#41317,vntext.sq,SALLYDIVINE,"...I see. Don't worry, {$mcName}. I don't intend to stop being her friend. I just... I just need to figure out where I want to go in life, that's all.","...Понятно. Не переживай, {$mcName}. Я не собираюсь переставать быть её подругой. Просто... просто мне нужно разобраться, куда я хочу двигаться по жизни, вот и всё.",translated,150
+vntext.sq#41319,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41320,vntext.sq,SALLYDIVINE,"Thank you, {$mcName}. I've got to go now, but this helped me a lot.","Спасибо, {$mcName}. Мне пора, но это очень помогло.",translated,67
+vntext.sq#41322,vntext.sq,SALLYDIVINE,"Well, good night, then.","Ну, тогда спокойной ночи.",translated,23
+vntext.sq#41650,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41651,vntext.sq,SALLYDIVINE,"Hullo, you two~",Привет вам обоим~,translated,15
+vntext.sq#41656,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#41657,vntext.sq,SALLYDIVINE,"Oh, thank you so much, Lucy.","Ох, спасибо большое, Люси.",translated,28
+vntext.sq#41658,vntext.sq,SALLYDIVINE,But I just ate so I'm still feeling full. Maybe next time?,"Но я только поела, так что всё ещё сытая. Может, в другой раз?",translated,58
+vntext.sq#41660,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41661,vntext.sq,SALLYDIVINE,"So, what did you want to talk about? I've been worried since you called me, to be honest. You sounded so stressed out on the phone.","Так о чём ты хотела поговорить? Если честно, я переживала с тех пор, как ты мне позвонила. По телефону ты звучала так напряжённо.",translated,131
+vntext.sq#41662,vntext.sq,SALLYDIVINE,Did something happen at work? Do you need me to talk to someone?,Что-то случилось на работе? Мне нужно с кем-то поговорить?,translated,64
+vntext.sq#41672,vntext.sq,SALLYDIVINE,"Huh? Yes, I am. I've already told you this, Lucy.","А? Да, свободна. Я уже говорила тебе это, Люси.",translated,49
+vntext.sq#41674,vntext.sq,SALLYDIVINE,...?!,...?!,translated,5
+vntext.sq#41675,vntext.sq,SALLYDIVINE,"S-Sorry, did you just say...","П-прости, ты сейчас сказала...",translated,28
+vntext.sq#41687,vntext.sq,SALLYDIVINE,"Heh, yes, Lucy. I'd love to go on a date with you.","Хех, да, Люси. Я бы с радостью сходила с тобой на свидание.",translated,50
+vntext.sq#41690,vntext.sq,SALLYDIVINE,Really.,Серьёзно.,translated,7
+vntext.sq#41691,vntext.sq,SALLYDIVINE,"In fact... I've been wanting to ask you out too, but I... I've never gone on dates before, or anything like that.","Вообще-то... я тоже хотела пригласить тебя, но я... я никогда раньше не ходила на свидания, ничего такого.",translated,113
+vntext.sq#41695,vntext.sq,SALLYDIVINE,I... I'd love that.,Я... я бы с радостью.,translated,19
+vntext.sq#41700,vntext.sq,SALLYDIVINE,Bye~,Пока~,translated,4
+vntext.sq#41793,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41794,vntext.sq,SALLYDIVINE,Hullo! Hah... hah... I am so sorry I'm late!,"Привет! Ха... ха... прости, что опоздала!",translated,44
+vntext.sq#41795,vntext.sq,SALLYDIVINE,"Lucy, we've got to talk.","Люси, нам нужно поговорить.",translated,24
+vntext.sq#41797,vntext.sq,SALLYDIVINE,Have you checked your messages?,Ты проверяла сообщения?,translated,31
+vntext.sq#41799,vntext.sq,SALLYDIVINE,Oh... so you don't know about it yet.,"Ох... значит, ты ещё не знаешь.",translated,37
+vntext.sq#41801,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41802,vntext.sq,SALLYDIVINE,Y-You'll be... taking over as the artist and writer for 'Wolf It Down'.,Т-ты... станешь новой художницей и сценаристкой «Wolf It Down».,translated,71
+vntext.sq#41805,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41806,vntext.sq,SALLYDIVINE,I had an argument with Bianca earlier... and I ended up quitting.,У меня недавно была ссора с Бианкой... и в итоге я уволилась.,translated,65
+vntext.sq#41809,vntext.sq,SALLYDIVINE,I...,Я...,translated,4
+vntext.sq#41810,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41811,vntext.sq,SALLYDIVINE,"I've been burnt out for a while now, Lucy...","Я уже давно выгорела, Люси...",translated,44
+vntext.sq#41812,vntext.sq,SALLYDIVINE,I didn't tell you because I... I didn't want to worry you. And I thought I'd get over it soon.,"Я не говорила тебе, потому что... не хотела тебя тревожить. И думала, что скоро всё пройдёт.",translated,94
+vntext.sq#41813,vntext.sq,SALLYDIVINE,"But when Bianca kept pushing me for the next arc of 'Wolf It Down', I told her I wanted to end it, and she... she wanted to extend it due to its popularity.","Но когда Бианка продолжала давить на меня насчёт следующей арки «Wolf It Down», я сказала ей, что хочу закончить его, а она... она хотела продлить его из-за популярности.",translated,156
+vntext.sq#41815,vntext.sq,SALLYDIVINE,I know...,Знаю...,translated,9
+vntext.sq#41816,vntext.sq,SALLYDIVINE,"I didn't think they'd give it to you. I heard about the comic you've been assigned to, and figured they wouldn't move you to another one just like that.","Я не думала, что его отдадут тебе. Я слышала про комикс, который тебе поручили, и решила, что вот так просто тебя на другой не переведут.",translated,152
+vntext.sq#41821,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#41825,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41829,vntext.sq,SALLYDIVINE,Lucy—,Люси—,translated,5
+vntext.sq#41831,vntext.sq,SALLYDIVINE,"Lucy, please—","Люси, пожалуйста—",translated,13
+vntext.sq#41833,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#41834,vntext.sq,SALLYDIVINE,"I understand. I'll take my leave, then.",Понимаю. Тогда я пойду.,translated,39
+vntext.sq#41835,vntext.sq,SALLYDIVINE,"Please call me when you get home, love. See you next time, {$mcName}...","Позвони мне, пожалуйста, когда доберёшься домой, любимая. До встречи, {$mcName}...",translated,71
+vntext.sq#41837,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42127,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}.","Привет, {$mcName}.",translated,17
+vntext.sq#42129,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42131,vntext.sq,SALLYDIVINE,"Well, the high of quitting my job only lasted for a couple of days...","Ну, кайф от увольнения продлился всего пару дней...",translated,69
+vntext.sq#42132,vntext.sq,SALLYDIVINE,"And Lucy still hasn't replied to my text messages, so... no. I am... not okay.","А Люси всё ещё не отвечает на мои сообщения, так что... нет. У меня... не всё в порядке.",translated,78
+vntext.sq#42135,vntext.sq,SALLYDIVINE,These things happen. But thank you for your sympathy.,Такое случается. Но спасибо за сочувствие.,translated,53
+vntext.sq#42136,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42137,vntext.sq,SALLYDIVINE,"Okay, I'm ready to order. I... I'd also like to stay here and talk... is that all right with you?","Ладно, я готова сделать заказ. Я... я бы ещё хотела остаться здесь и поговорить... тебя это устроит?",translated,97
+vntext.sq#42139,vntext.sq,SALLYDIVINE,Thank you.,Спасибо.,translated,10
+vntext.sq#42141,vntext.sq,SALLYDIVINE,"For my order, I'd like a {$whole} donut with {$flavors:methberry} {$decor:glaze}, {$flavors:methberry} {$decor:filling}, {$flavors:strawpium} {$decor:drizzle}, and {$toppings:fresh_strawpium}, please.","Хочу заказать {$whole} донат с {$decor:glaze} {$flavors:methberry}, {$decor:filling} {$flavors:methberry}, {$decor:drizzle} {$flavors:strawpium} и {$toppings:fresh_strawpium}, пожалуйста.",translated,200
+vntext.sq#42145,vntext.sq,SALLYDIVINE,Thank you so much.,Спасибо большое.,translated,18
+vntext.sq#42146,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42147,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#42148,vntext.sq,SALLYDIVINE,"Sorry, {$mcName}, but this isn't what I asked for...","Прости, {$mcName}, но это не то, что я заказывала...",translated,52
+vntext.sq#42152,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#42153,vntext.sq,SALLYDIVINE,The freshness of the strawberries is enhancing the {$flavors:methberry} {$decor:glaze}...,Свежесть клубники подчёркивает {$flavors:methberry} {$decor:glaze}...,translated,89
+vntext.sq#42154,vntext.sq,SALLYDIVINE,And the {$flavors:methberry} {$decor:filling} with {$flavors:strawpium} {$decor:drizzle}... This is just so delicious!,А {$flavors:methberry} {$decor:filling} с {$flavors:strawpium} {$decor:drizzle}... Это просто невероятно вкусно!,translated,118
+vntext.sq#42155,vntext.sq,SALLYDIVINE,This is helping me feel more comfortable... like I can just tell you anything.,Благодаря этому мне спокойнее... как будто я могу рассказать тебе что угодно.,translated,78
+vntext.sq#42156,vntext.sq,SALLYDIVINE,Err... can I?,Эм... правда могу?,translated,13
+vntext.sq#42158,vntext.sq,SALLYDIVINE,Th-Thanks...,С-спасибо...,translated,12
+vntext.sq#42159,vntext.sq,SALLYDIVINE,"I know Lucy's your childhood friend, and that you can be quite protective of her...","Я знаю, что Люси — твоя подруга детства, и что ты можешь быть довольно защитническим по отношению к ней...",translated,83
+vntext.sq#42160,vntext.sq,SALLYDIVINE,So I'm just glad you're willing to listen.,"Так что я просто рада, что ты готов выслушать.",translated,42
+vntext.sq#42162,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#42163,vntext.sq,SALLYDIVINE,There's this burst of {$moods:inspiration}... I'm getting ideas for what I can do in the future...,"Такой всплеск {$moods:inspiration}... у меня появляются идеи насчёт того, что я могу сделать в будущем...",translated,98
+vntext.sq#42164,vntext.sq,SALLYDIVINE,This feeling of {$moods:passion}... it's quite overwhelming...,Это чувство {$moods:passion}... оно довольно захлёстывающее...,translated,62
+vntext.sq#42165,vntext.sq,SALLYDIVINE,I can't help but yearn for her.,Не могу не тосковать по ней.,translated,31
+vntext.sq#42166,vntext.sq,SALLYDIVINE,I'm feeling clear and focused. I'm having the clarity that I need...,"Я чувствую ясность и сосредоточенность. У меня есть та ясность, которая мне нужна...",translated,68
+vntext.sq#42167,vntext.sq,SALLYDIVINE,I feel so lighthearted that I can sing right now... like I'm one of those musical protagonists! Hahaha!,"Мне так легко на душе, что я могу запеть прямо сейчас... как будто я главная героиня мюзикла! Ха-ха-ха!",translated,103
+vntext.sq#42168,vntext.sq,SALLYDIVINE,"I see what you're trying to do, {$mcName}. Did you think cheering me up a bit would help me open up more?","Я вижу, что ты пытаешься сделать, {$mcName}. Думал, что немного подбодрить меня поможет мне больше открыться?",translated,105
+vntext.sq#42170,vntext.sq,SALLYDIVINE,Strange... I'm suddenly feeling steady and a lot less anxious.,Странно... вдруг чувствую себя устойчивее и намного спокойнее.,translated,62
+vntext.sq#42171,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42172,vntext.sq,SALLYDIVINE,There's this feeling of {$moods:patience}... like everything's not as frustrating as I've been making them out to be.,"Такое чувство {$moods:patience}... будто всё не так раздражает, как я себе представляла.",translated,117
+vntext.sq#42173,vntext.sq,SALLYDIVINE,Strange... I can't stop thinking about all those art sessions...,Странно... не могу перестать думать про все те арт-сеансы...,translated,64
+vntext.sq#42174,vntext.sq,SALLYDIVINE,Why do they feel so long ago now?,"Почему сейчас кажется, что это было так давно?",translated,33
+vntext.sq#42175,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42176,vntext.sq,SALLYDIVINE,This is like... taking a hot bath at the end of a stressful day.,Это как... принять горячую ванну в конце напряжённого дня.,translated,64
+vntext.sq#42177,vntext.sq,SALLYDIVINE,Oh... is this what you wanted me to feel? Did you want me to relax so that I can talk about my feelings more easily?,"Ох... это то, что ты хотел, чтобы я чувствовала? Хотел, чтобы я расслабилась, чтобы мне было легче говорить о своих чувствах?",translated,116
+vntext.sq#42179,vntext.sq,SALLYDIVINE,"It's not the mood enhancer that I asked for, but... I think I can work with this.","Это не тот усилитель настроения, который я просила, но... думаю, с этим можно работать.",translated,81
+vntext.sq#42181,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42183,vntext.sq,SALLYDIVINE,"Yes, that would be lovely. But I... I don't even know where to begin.","Да, это было бы прекрасно. Но я... я даже не знаю, с чего начать.",translated,69
+vntext.sq#42186,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42187,vntext.sq,SALLYDIVINE,Awful. It's just so awful.,Ужасно. Просто ужасно.,translated,26
+vntext.sq#42188,vntext.sq,SALLYDIVINE,"It's been so long since I felt seen by someone... I mean, I know it sounds silly, considering how [i] Wolf It Down [/i] has a fandom and all that, but...","Так давно я не чувствовала, что меня кто-то видит по-настоящему... в смысле, знаю, звучит глупо, учитывая, что у [i] Wolf It Down [/i] есть фандом и всё такое, но...",translated,153
+vntext.sq#42189,vntext.sq,SALLYDIVINE,"When I saw Lucy's fanart of my work, it's like... it's like someone calling you by your name after years of just hearing 'Miss Divine,' do you know what I mean?","Когда я увидела фан-арт Люси по моим работам, это было как... как будто кто-то называет тебя по имени спустя годы, когда ты слышала только «мисс Дивайн», понимаешь, о чём я?",translated,160
+vntext.sq#42196,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#42197,vntext.sq,SALLYDIVINE,"I-I think it's a little too early and too much to talk about love, hehe...","Я-я думаю, ещё слишком рано и слишком много для разговоров о любви, хехе...",translated,74
+vntext.sq#42200,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42201,vntext.sq,SALLYDIVINE,It's easy for you to say... you're quite experienced with these things.,Тебе легко говорить... ты довольно опытен в таких вещах.,translated,71
+vntext.sq#42206,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42207,vntext.sq,SALLYDIVINE,I see.,Понятно.,translated,6
+vntext.sq#42209,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#42210,vntext.sq,SALLYDIVINE,What do you mean by that? Isn't it nice to have someone call you by something more intimate?,"Что ты имеешь в виду? Разве не приятно, когда кто-то называет тебя чем-то более личным?",translated,92
+vntext.sq#42211,vntext.sq,SALLYDIVINE,It's really quite exhausting to have such impersonal relationships all the time...,Довольно утомительно постоянно иметь такие безличные отношения...,translated,82
+vntext.sq#42217,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42218,vntext.sq,SALLYDIVINE,You don't have to remind me...,Не нужно мне об этом напоминать...,translated,30
+vntext.sq#42219,vntext.sq,SALLYDIVINE,"I still remember the way she said my name when I tried to call her last night, and all she said was, 'Please give me some space, Sally.'","Я до сих пор помню, как она произнесла моё имя, когда я попыталась позвонить ей вчера вечером, а она просто сказала: «Пожалуйста, дай мне немного пространства, Сэлли».",translated,136
+vntext.sq#42221,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#42222,vntext.sq,SALLYDIVINE,What do you mean by that?,Что ты имеешь в виду?,translated,25
+vntext.sq#42228,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42229,vntext.sq,SALLYDIVINE,"If she could see very clearly how you were feeling, why can't she see what I'm going through?","Если она так ясно видела, что ты чувствуешь, почему она не видит, через что прохожу я?",translated,93
+vntext.sq#42232,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42233,vntext.sq,SALLYDIVINE,I [i] hate [/i] feeling this way...,Я [i] ненавижу [/i] это чувство...,translated,35
+vntext.sq#42234,vntext.sq,SALLYDIVINE,"I'm upset with her for not wanting to talk to me, but I'm even more upset with myself. And I just don't know where to put all this anger.","Я расстроена, что она не хочет со мной разговаривать, но ещё больше расстроена собой. И я просто не знаю, куда деть весь этот гнев.",translated,137
+vntext.sq#42239,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42240,vntext.sq,SALLYDIVINE,No. Not right now. I am too burnt out.,Нет. Не сейчас. Я слишком выгорела.,translated,38
+vntext.sq#42243,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42244,vntext.sq,SALLYDIVINE,"I understand if she doesn't want to date me anymore, but...","Я пойму, если она больше не захочет со мной встречаться, но...",translated,59
+vntext.sq#42245,vntext.sq,SALLYDIVINE,I like her. I really do.,Она мне нравится. Правда нравится.,translated,24
+vntext.sq#42246,vntext.sq,SALLYDIVINE,And I really wish I'd been more honest about wanting to quit... I could've at least prepared her for what she'd have to deal with.,"И мне очень жаль, что я не была честнее насчёт желания уволиться... я могла бы хотя бы подготовить её к тому, с чем ей придётся столкнуться.",translated,130
+vntext.sq#42249,vntext.sq,SALLYDIVINE,"Well, I've been streaming about life here in San Mazo. I recently got to visit the chicken farm, and the chat seemed to enjoy learning more about it.","Ну, я стримлю про жизнь здесь, в Сан-Мазо. Недавно побывала на куриной ферме, и чату, кажется, понравилось узнавать об этом больше.",translated,149
+vntext.sq#42251,vntext.sq,SALLYDIVINE,"No, not really. I love doing it, but I'm not sure if it's sustainable. Eventually, I will run out of places to visit, and I don't know what I'll do after that.","Нет, не особо. Мне нравится это делать, но не уверена, что это устойчиво. В конце концов у меня закончатся места для посещения, и я не знаю, что буду делать потом.",translated,159
+vntext.sq#42253,vntext.sq,SALLYDIVINE,"Do you ever think about those actors who retire quite young? A lot of people would say something like, 'Oh what a shame, they could've achieved more!'","Ты когда-нибудь думал про актёров, которые уходят на покой довольно молодыми? Многие люди говорят что-то вроде: «Ох, как жаль, они могли бы достичь большего!»",translated,150
+vntext.sq#42254,vntext.sq,SALLYDIVINE,But why are we so fixated on what people can achieve anyway? What if acting wasn't making them happy anymore?,"Но почему мы вообще так зациклены на том, чего люди могли бы достичь? Что если актёрская игра больше не делала их счастливыми?",translated,109
+vntext.sq#42257,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#42258,vntext.sq,SALLYDIVINE,"Wow, that's quite the career shift!","Ого, вот это смена карьеры!",translated,35
+vntext.sq#42260,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42261,vntext.sq,SALLYDIVINE,If only it were easier to figure out where you want to go moving forward.,"Если бы только было легче понять, куда хочешь двигаться дальше.",translated,73
+vntext.sq#42263,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42264,vntext.sq,SALLYDIVINE,"No, definitely not. I suppose the one thing I do know is that I don't want something... soulless.","Нет, точно нет. Полагаю, единственное, что я знаю точно, — я не хочу чего-то... бездушного.",translated,97
+vntext.sq#42269,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42271,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42272,vntext.sq,SALLYDIVINE,"Well, there's not much I can do right now.","Ну, сейчас я не могу сделать многого.",translated,42
+vntext.sq#42273,vntext.sq,SALLYDIVINE,All I can do at the moment is give Lucy some space... and myself time to figure things out.,"Всё, что я сейчас могу, — это дать Люси немного пространства... и себе время во всём разобраться.",translated,91
+vntext.sq#42274,vntext.sq,SALLYDIVINE,"[i] Wolf It Down [/i] was my life for a long time. I'd wake up and go to bed thinking about the characters — what they were up to, where they wanted to go.","[i] Wolf It Down [/i] долгое время был моей жизнью. Я просыпалась и засыпала, думая о персонажах — что они затевают, куда хотят пойти.",translated,155
+vntext.sq#42275,vntext.sq,SALLYDIVINE,"I know this is silly, but... they felt like family to me.","Знаю, это глупо, но... они казались мне семьёй.",translated,57
+vntext.sq#42277,vntext.sq,SALLYDIVINE,"Trust me, it wasn't an easy decision. Besides, the executives were very unsatisfied with my ideas.","Поверь, это было нелёгкое решение. К тому же, руководство было очень недовольно моими идеями.",translated,98
+vntext.sq#42278,vntext.sq,SALLYDIVINE,"I'm an artist. I've learned to deal with rejection all my life. But if I stayed any longer, I would've just ended up resenting art completely.","Я художница. Я всю жизнь училась справляться с отказами. Но если бы я осталась ещё дольше, я бы в итоге просто возненавидела искусство целиком.",translated,142
+vntext.sq#42284,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#42286,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#42287,vntext.sq,SALLYDIVINE,"Th-Thanks, {$mcName}...","С-спасибо, {$mcName}...",translated,23
+vntext.sq#42289,vntext.sq,SALLYDIVINE,Huh? What for?,А? За что?,translated,14
+vntext.sq#42291,vntext.sq,SALLYDIVINE,"Well, she's worth the reparations, isn't she?","Ну, она стоит того, чтобы всё исправить, не так ли?",translated,45
+vntext.sq#42294,vntext.sq,SALLYDIVINE,Before I go... I thought I'd confirm something.,"Прежде чем уйти... я подумала, что стоит кое-что уточнить.",translated,47
+vntext.sq#42295,vntext.sq,SALLYDIVINE,"You said you were over her, but...","Ты сказал, что пережил её, но...",translated,34
+vntext.sq#42296,vntext.sq,SALLYDIVINE,Are you sure about that?,Ты уверена насчёт этого?,translated,24
+vntext.sq#42297,vntext.sq,SALLYDIVINE,"You still have feelings for Lucy, don't you?","У тебя всё ещё есть чувства к Люси, да?",translated,44
+vntext.sq#42305,vntext.sq,SALLYDIVINE,"Heh. I wasn't worried about anything, silly.","Хех. Я ни о чём и не переживала, глупенький.",translated,44
+vntext.sq#42309,vntext.sq,SALLYDIVINE,"Well, in any case, thank you for the reassurance.","Ну, в любом случае, спасибо за подтверждение.",translated,49
+vntext.sq#42312,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#42313,vntext.sq,SALLYDIVINE,Why the apology?,За что извинения?,translated,16
+vntext.sq#42314,vntext.sq,SALLYDIVINE,I'm polyamorous. And so is Lucy. We discussed this on our first date.,Я полиаморен. И Люси тоже. Мы обсудили это на первом свидании.,translated,69
+vntext.sq#42315,vntext.sq,SALLYDIVINE,"I just thought I'd let you know, in case you still wanted to get back together with her.","Просто подумал, что стоит тебе сказать, на случай если ты всё ещё хотела бы снова быть с ней.",translated,88
+vntext.sq#42317,vntext.sq,SALLYDIVINE,The look of relief on your face...,Это выражение облегчения на твоём лице...,translated,34
+vntext.sq#42318,vntext.sq,SALLYDIVINE,I hope you haven't been worrying about that this whole time.,"Надеюсь, ты не переживала об этом всё это время.",translated,60
+vntext.sq#42319,vntext.sq,SALLYDIVINE,"Well, in any case, thank you for your honesty.","Ну, в любом случае, спасибо за честность.",translated,46
+vntext.sq#42320,vntext.sq,SALLYDIVINE,You have my full support if you want to ask her out.,"У тебя есть моя полная поддержка, если захочешь пригласить её.",translated,52
+vntext.sq#42321,vntext.sq,SALLYDIVINE,"Besides... I'm not even sure if she still wants me, anyway, heh...","К тому же... я даже не уверена, хочет ли она меня вообще, хех...",translated,66
+vntext.sq#42322,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#42323,vntext.sq,SALLYDIVINE,"I've got to go, but I'm really grateful for the talk, {$mcName}. Thanks for listening to me, and for lending me your support.","Мне пора, но я правда благодарна за разговор, {$mcName}. Спасибо, что выслушал меня и поддержал.",translated,125
+vntext.sq#42325,vntext.sq,SALLYDIVINE,"Good night, then.",Тогда спокойной ночи.,translated,17
+vntext.sq#43109,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}!","Привет, {$mcName}!",translated,17
+vntext.sq#43120,vntext.sq,SALLYDIVINE,"Yes, please, love. We're here to support you!","Да, пожалуйста, дорогая. Мы здесь, чтобы тебя поддержать!",translated,45
+vntext.sq#43121,vntext.sq,SALLYDIVINE,"And if you have a hard time dealing with any negative comments, that's all right too! We'll help you deal with it!","А если тебе будет трудно справляться с негативными комментариями, тоже ничего страшного! Мы поможем тебе с этим справиться!",translated,114
+vntext.sq#43125,vntext.sq,SALLYDIVINE,"Hold on a sec. Let's do some breathing exercises first, all right?","Погоди секунду. Давай сначала сделаем дыхательные упражнения, хорошо?",translated,66
+vntext.sq#43127,vntext.sq,SALLYDIVINE,C'mon. Breathe in... breathe out... breathe in... breathe out...,Давай. Вдох... выдох... вдох... выдох...,translated,64
+vntext.sq#43129,vntext.sq,SALLYDIVINE,"How're you feeling now, love?","Как ты себя чувствуешь теперь, дорогая?",translated,29
+vntext.sq#43131,vntext.sq,SALLYDIVINE,You ready?,Готова?,translated,10
+vntext.sq#43144,vntext.sq,SALLYDIVINE,"Congratulations, love! I'm so proud of you!","Поздравляю, дорогая! Я так тобой горжусь!",translated,43
+vntext.sq#43154,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#43155,vntext.sq,SALLYDIVINE,Do you think she'll be okay? It really is quite daunting to post a webcomic finale...,"Думаешь, с ней всё будет в порядке? Публиковать финал веб-комикса и правда довольно пугающе...",translated,85
+vntext.sq#43157,vntext.sq,SALLYDIVINE,...All right. Let me just watch the comments section for a bit.,...Хорошо. Тогда я пока понаблюдаю за комментариями.,translated,63
+vntext.sq#43160,vntext.sq,SALLYDIVINE,"Where'd you go off to, love? You were gone for quite a while.","Куда ты пропадала, дорогая? Тебя долго не было.",translated,61
+vntext.sq#43167,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#43168,vntext.sq,SALLYDIVINE,Are you sure you want to do this? I don't really recommend reading the comments immediately once you post something...,"Ты уверена, что хочешь это сделать? Я бы не советовала читать комментарии сразу после публикации...",translated,118
+vntext.sq#43170,vntext.sq,SALLYDIVINE,"...All right, then.","...Ну хорошо, тогда.",translated,19
+vntext.sq#43175,vntext.sq,SALLYDIVINE,"Seems like a lot of these are positive reviews, love.","Похоже, многие из них положительные, дорогая.",translated,53
+vntext.sq#43191,vntext.sq,SALLYDIVINE,"Exactly, love. Trust me, I understand.","Именно, дорогая. Поверь, я понимаю.",translated,38
+vntext.sq#43192,vntext.sq,SALLYDIVINE,It's not easy to take criticisms. Goodness knows I got a lot of it from both Studio Canidae and [i] Wolf It Down [/i] readers.,"Нелегко принимать критику. Видит бог, я получила её немало и от Studio Canidae, и от читателей [i] Wolf It Down. [/i]",translated,126
+vntext.sq#43193,vntext.sq,SALLYDIVINE,But you will get thicker skin. And you'll always have us to vent to when it gets too hard.,"Но кожа у тебя со временем станет толще. И ты всегда сможешь выговориться нам, когда станет слишком тяжело.",translated,90
+vntext.sq#43197,vntext.sq,SALLYDIVINE,"All right, love.","Хорошо, дорогая.",translated,16
+vntext.sq#43241,vntext.sq,SALLYDIVINE,[i] CRAYON CHOCOLATES!! [/i],[i] ШОКОЛАДНЫЕ КАРАНДАШИ!! [/i],translated,28
+vntext.sq#43265,vntext.sq,SALLYDIVINE,Heh... I'm glad you two have sorted things out.,"Хех... рада, что вы двое во всём разобрались.",translated,47
+vntext.sq#43267,vntext.sq,SALLYDIVINE,"Well, you [i] are [/i] cute... but let's give it some time. I'd like to get to know you a bit more.","Ну, ты [i] и правда [/i] милый... но давай дадим этому время. Я бы хотела узнать тебя немного лучше.",translated,99
+vntext.sq#43275,vntext.sq,SALLYDIVINE,[i] CRAYON CHOCOLATES!! [/i],[i] ШОКОЛАДНЫЕ КАРАНДАШИ!! [/i],translated,28
+vntext.sq#43278,vntext.sq,SALLYDIVINE,We'll help you clean up. Dibs on the broom!,Мы поможем тебе прибраться. Я забираю метлу!,translated,43
+vntext.sq#43280,vntext.sq,SALLYDIVINE,"Hahaha! It's all right, you've got this!","Ха-ха-ха! Всё нормально, ты справишься!",translated,40
+vntext.sq#43640,vntext.sq,SALLYDIVINE,"Er, no, not yet...","Эм, нет, ещё нет...",translated,18
+vntext.sq#43641,vntext.sq,SALLYDIVINE,"It's been rather hectic at work. I do hope they send her the job offer soon — it must be so nerve-racking, all the waiting she's doing.","На работе последнее время просто сумасшествие. Надеюсь, ей скоро пришлют предложение о работе — должно быть, это так изматывающе, всё это ожидание.",translated,135
+vntext.sq#43649,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}!","Привет, {$mcName}!",translated,17
+vntext.sq#43650,vntext.sq,SALLYDIVINE,They'll be sending Lucy the job offer any minute now... so I expect we'll be hearing from her as well!,"Люси вот-вот пришлют предложение о работе... так что, думаю, мы скоро о ней услышим!",translated,102
+vntext.sq#43652,vntext.sq,SALLYDIVINE,"Yes, I am so happy for her!","Да, я так рада за неё!",translated,27
+vntext.sq#43653,vntext.sq,SALLYDIVINE,"The job offer's delayed due to, err, some things that came up at work. I just hope the process of joining the studio will be easy for her.","Предложение задержалось из-за, эм, кое-каких дел на работе. Просто надеюсь, что ей будет легко влиться в студию.",translated,138
+vntext.sq#43655,vntext.sq,SALLYDIVINE,"Sort of, yes. It's mostly to do with the future of 'Wolf It Down'. I managed to have a talk with one of the executives, so we're just figuring things out.","Более-менее, да. В основном дело в будущем «Wolf It Down». Мне удалось поговорить с одним из руководителей, так что мы просто разбираемся.",translated,154
+vntext.sq#43729,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}.","Привет, {$mcName}.",translated,17
+vntext.sq#43732,vntext.sq,SALLYDIVINE,"...Sadly, yes, I am.","...К сожалению, да.",translated,20
+vntext.sq#43733,vntext.sq,SALLYDIVINE,"I just got into another argument about 'Wolf It Down', and it's getting rather exhausting, really...","У меня только что был ещё один спор из-за «Wolf It Down», и это, честно говоря, начинает изматывать...",translated,100
+vntext.sq#43734,vntext.sq,SALLYDIVINE,"If you'll excuse me, though, I'd rather not dwell on it tonight. I'd just like to take my mind off things for now.","Но, если позволишь, сегодня я бы не хотела на этом зацикливаться. Просто хочу немного отвлечься.",translated,114
+vntext.sq#43802,vntext.sq,SALLYDIVINE,"Hi, {$mcName}. Have you been able to talk to Lucy?","Привет, {$mcName}. Удалось поговорить с Люси?",translated,50
+vntext.sq#43804,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#43805,vntext.sq,SALLYDIVINE,"I'm feeling way too anxious about all this. I want to reach out to her, but...","Я слишком сильно тревожусь из-за всего этого. Хочу с ней связаться, но...",translated,78
+vntext.sq#43815,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#43817,vntext.sq,SALLYDIVINE,"No, we haven't.","Нет, не поговорили.",translated,15
+vntext.sq#43818,vntext.sq,SALLYDIVINE,I've been feeling rather... impatient about all this...,Я чувствую себя довольно... нетерпеливой из-за всего этого...,translated,55
+vntext.sq#55717,vntext.sq,SALLYDIVINE,"Yes, please, I'd really appreciate that.","Да, пожалуйста, я был бы очень благодарен.",translated,40
+vntext.sq#55719,vntext.sq,SALLYDIVINE,"...Oh. It's still not the donut I asked for, is it?","...О. Всё ещё не тот пончик, что я просил, да?",translated,51
+vntext.sq#55721,vntext.sq,SALLYDIVINE,"I suppose it happens. I was really looking forward to that donut, though.","Полагаю, бывает. Хотя я правда ждал тот пончик.",translated,73
+vntext.sq#55722,vntext.sq,SALLYDIVINE,"...I'll just drop by some other time then. See you later, {$mcName}...","...Тогда я просто зайду в другой раз. Увидимся, {$mcName}...",translated,70
+vntext.sq#55729,vntext.sq,SALLYDIVINE,"...No, it's okay. I think I'll manage.","...Нет, всё в порядке. Думаю, справлюсь.",translated,38
+vntext.sq#59227,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}! How are you doing tonight?","Приветик, {$mcName}! Как ты сегодня?",translated,44
+vntext.sq#59233,vntext.sq,SALLYDIVINE,"Oh, really? Well, I'm glad to hear it!","О, правда? Ну, рада это слышать!",translated,38
+vntext.sq#59234,vntext.sq,SALLYDIVINE,"I... err... yes, I'm doing great as well!","Я... эм... да, у меня тоже всё отлично!",translated,41
+vntext.sq#59237,vntext.sq,SALLYDIVINE,"A-Absolutely! I'm just working with some really tough deadlines, that's all.","А-абсолютно! Просто у меня сейчас очень жёсткие дедлайны, вот и всё.",translated,76
+vntext.sq#59239,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#59241,vntext.sq,SALLYDIVINE,"O-Oh, no, I wasn't actually worrying about that... it's just...","О-о, нет, я вообще-то не переживала об этом... просто...",translated,63
+vntext.sq#59242,vntext.sq,SALLYDIVINE,"Do you want to talk about it? I'm sort of... in the same boat, I suppose.","Хочешь поговорить об этом? Я вроде как... тоже в такой же лодке, наверное.",translated,73
+vntext.sq#59244,vntext.sq,SALLYDIVINE,"I-I see... well, it's not, err, the worst thing ever, really... I'm just working with some really tough deadlines, that's all.","П-понятно... ну, это не, эм, самое худшее на свете, правда... просто у меня сейчас очень жёсткие дедлайны, вот и всё.",translated,126
+vntext.sq#59246,vntext.sq,SALLYDIVINE,"Let me just have a quick look at your menu... you don't happen to have a specific mood enhancer to help with stress, do you?",Дай-ка гляну на твоё меню... у тебя случайно нет какого-нибудь особого усилителя настроения от стресса?,translated,124
+vntext.sq#59249,vntext.sq,SALLYDIVINE,...Aren't you supposed to be [i] selling [/i] these donuts to me?,...Разве ты не должен [i] продавать [/i] мне эти пончики?,translated,65
+vntext.sq#59252,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59253,vntext.sq,SALLYDIVINE,"Well, what do you know. Behind that stoic facade is someone who's actually more caring than they seem.","Ну надо же. За этим стоическим фасадом скрывается тот, кто на самом деле заботливее, чем кажется.",translated,102
+vntext.sq#59254,vntext.sq,SALLYDIVINE,But... thank you. I suppose I needed to hear that.,"Но... спасибо. Наверное, мне нужно было это услышать.",translated,50
+vntext.sq#59255,vntext.sq,SALLYDIVINE,"Heh, you know what... for being honest with me, I'll be a good customer and order something.","Хех, знаешь что... за то, что был честен со мной, я буду хорошей клиенткой и что-нибудь закажу.",translated,92
+vntext.sq#59256,vntext.sq,SALLYDIVINE,Sincerity seems to be a lost art these days... but I'm glad it's not all gone.,"Искренность, похоже, стала утерянным искусством в наши дни... но рада, что она не совсем исчезла.",translated,78
+vntext.sq#59262,vntext.sq,SALLYDIVINE,Thank you!,Спасибо!,translated,10
+vntext.sq#59264,vntext.sq,SALLYDIVINE,"I'm sorry, but... this isn't any good at all.","Извини, но... это совсем никуда не годится.",translated,45
+vntext.sq#59267,vntext.sq,SALLYDIVINE,"There it is, the clarity I've been looking for. I think I'll be able to get some stuff done tonight.","Вот она, ясность, которую я искала. Думаю, сегодня получится кое-что доделать.",translated,100
+vntext.sq#59268,vntext.sq,SALLYDIVINE,And the {$flavors:methberry} {$decor:filling} and ${sprinkles} are delicious as well.,И {$flavors:methberry} {$decor:filling} с ${sprinkles} тоже очень вкусные.,translated,85
+vntext.sq#59270,vntext.sq,SALLYDIVINE,"I'm getting some really good ideas right now, but I'm afraid these aren't necessary at the moment. How would I know which one to focus on?","У меня сейчас появляются очень хорошие идеи, но, боюсь, сейчас это не нужно. Как мне понять, на какой сосредоточиться?",translated,138
+vntext.sq#59271,vntext.sq,SALLYDIVINE,"This feeling, pumping up my blood... it's making me even... angrier than I already was. I think you've made a mistake.","Это чувство, разгоняющее кровь... оно делает меня даже... злее, чем я уже была. Думаю, ты ошибся.",translated,118
+vntext.sq#59272,vntext.sq,SALLYDIVINE,"Oh no, this is bad. I feel as if I should just take it easy tonight. But I have some work to finish.","О нет, это плохо. У меня чувство, что сегодня стоит просто расслабиться. Но мне нужно закончить работу.",translated,100
+vntext.sq#59273,vntext.sq,SALLYDIVINE,"I'm feeling a bit more like I can handle this, but my thoughts are still rather all over the place...","У меня чувство, что теперь я немного лучше справляюсь, но мысли всё ещё довольно разбросаны...",translated,101
+vntext.sq#59274,vntext.sq,SALLYDIVINE,"Back in the day, I could easily ask for help from mentors and peers alike... but now... why must workplaces feel so unnecessarily competitive?",Раньше я могла легко попросить помощи у наставников и коллег... но теперь... почему рабочие места должны быть настолько излишне соперническими?,translated,142
+vntext.sq#59275,vntext.sq,SALLYDIVINE,"Heh, this is lifting my spirits. It's feels nice and warm, but I still need to get some work done...","Хех, это поднимает мне настроение. Приятно и тепло, но мне всё ещё нужно кое-что доделать...",translated,100
+vntext.sq#59276,vntext.sq,SALLYDIVINE,"I understand my feelings a bit better, but... now is not the time for venting... or journaling. Sadly, I have some work to finish.","Теперь я немного лучше понимаю свои чувства, но... сейчас не время изливать душу... или вести дневник. К сожалению, мне нужно закончить работу.",translated,130
+vntext.sq#59277,vntext.sq,SALLYDIVINE,"Huh?? This… this is making me want to talk to my boss, but I'm sure I'd say something I'd regret...","Хм?? Это... это заставляет меня захотеть поговорить с боссом, но уверена, я сказала бы что-то, о чём потом пожалела бы...",translated,99
+vntext.sq#59278,vntext.sq,SALLYDIVINE,"It's not what I wanted, but I suppose it'll do for now...","Это не то, что я хотела, но, полагаю, пока сойдёт...",translated,57
+vntext.sq#59279,vntext.sq,SALLYDIVINE,"This helps a lot. Thanks, {$mcName}. I'll be going now, have a good night!","Это очень помогает. Спасибо, {$mcName}. Пойду я, спокойной ночи!",translated,74
+vntext.sq#59280,vntext.sq,SALLYDIVINE,"...Well, I suppose I'll have to find some other way to stay ${focused}. Good night, {$mcName}.","...Ну, полагаю, придётся искать другой способ оставаться ${focused}. Спокойной ночи, {$mcName}.",translated,94
+vntext.sq#59283,vntext.sq,SALLYDIVINE,"Good evening, {$mcName}. I've got some... err, research questions to ask you, if that's all right.","Добрый вечер, {$mcName}. У меня есть... эм, исследовательские вопросы к тебе, если можно.",translated,98
+vntext.sq#59285,vntext.sq,SALLYDIVINE,"Well... about power dynamics, I suppose. You know how it is — I write A/B/O, after all.","Ну... насчёт динамики власти, наверное. Ты же знаешь, как это бывает — я всё-таки пишу A/B/O.",translated,87
+vntext.sq#59292,vntext.sq,SALLYDIVINE,"O-Oh! Well, it's err, hard to explain to those who don't read it, but...","О-о! Ну, это, эм, трудно объяснить тем, кто это не читает, но...",translated,72
+vntext.sq#59294,vntext.sq,SALLYDIVINE,"All right. A stands for Alpha, B for Beta, and O for Omega.","Ладно. А означает Альфа, Б — Бета, а О — Омега.",translated,59
+vntext.sq#59295,vntext.sq,SALLYDIVINE,"Alphas can impregnate, Betas are the... err... normal people, I suppose, and Omegas are the one who get impregnated, and therefore tend to attract the Alphas.","Альфы могут оплодотворять, Беты — это... эм... обычные люди, наверное, а Омеги — те, кого оплодотворяют, и поэтому они склонны привлекать Альф.",translated,158
+vntext.sq#59296,vntext.sq,SALLYDIVINE,Does that make sense?,Есть смысл?,translated,21
+vntext.sq#59298,vntext.sq,SALLYDIVINE,"Well, no, not necessarily, but... honestly, the whole 'alpha' theory of canine pack socialization is outdated anyway, so we just sort of make stuff up. Maybe it's best if I send you a link...?","Ну, нет, не обязательно, но... если честно, вся теория 'альфы' о социализации собачьей стаи всё равно устарела, так что мы просто вроде как всё выдумываем. Может, лучше пришлю тебе ссылку...?",translated,192
+vntext.sq#59301,vntext.sq,SALLYDIVINE,"Err... you see, I was wondering... what is your dynamic with your boss actually like? Can you tell him your thoughts? Opinions? Criticisms of the workplace and all that?","Эм... видишь ли, мне было интересно... какая у тебя на самом деле динамика с боссом? Можешь сказать ему свои мысли? Мнения? Критику насчёт работы и всё такое?",translated,169
+vntext.sq#59308,vntext.sq,SALLYDIVINE,Oh... why's that?,О... почему это?,translated,17
+vntext.sq#59310,vntext.sq,SALLYDIVINE,Huh. I suppose so...,"Хм. Наверное, так...",translated,20
+vntext.sq#59312,vntext.sq,SALLYDIVINE,...!,...!,translated,4
+vntext.sq#59313,vntext.sq,SALLYDIVINE,"And, err, how do you do that? Do you sort of like, lead up to it, or do you just say it directly?","И, эм, как ты это делаешь? Ты типа подводишь к этому постепенно, или говоришь прямо?",translated,97
+vntext.sq#59316,vntext.sq,SALLYDIVINE,"It must be tough, running this place alone.","Наверное, тяжело управлять этим местом в одиночку.",translated,43
+vntext.sq#59318,vntext.sq,SALLYDIVINE,I'm sure you do. And there must be some sort of freedom to it too...,"Уверена, что справляешься. И в этом наверняка есть какая-то свобода тоже...",translated,68
+vntext.sq#59319,vntext.sq,SALLYDIVINE,Thanks for your answer. I'll be reflecting on this.,Спасибо за ответ. Обдумаю это.,translated,51
+vntext.sq#59320,vntext.sq,SALLYDIVINE,"Omegas tend to be quite... soft, often unable to take charge...","Омеги обычно довольно... мягкие, часто не способны взять на себя ответственность...",translated,63
+vntext.sq#59321,vntext.sq,SALLYDIVINE,But the most compelling omega characters are the ones who can overcome that.,"Но самые убедительные персонажи-омеги — те, кто может это преодолеть.",translated,76
+vntext.sq#59322,vntext.sq,SALLYDIVINE,"It's in their nature to submit, but... does it always have to be like that?","В их природе подчиняться, но... разве всегда обязательно должно быть так?",translated,75
+vntext.sq#59324,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59325,vntext.sq,SALLYDIVINE,"All right, I think I'd like to order something now.","Ладно, думаю, теперь я хочу что-нибудь заказать.",translated,51
+vntext.sq#59330,vntext.sq,SALLYDIVINE,"Well... I wanted to er, how shall I say it? I guess I want to think about how all of this applies to myself as an artist and I suppose the way this all fits... with how [i] I [/i] fit in society.","Ну... я хотела, эм, как бы это сказать? Наверное, хочу подумать о том, как всё это применимо ко мне как к художнице, и, полагаю, как всё это вписывается... в то, как [i] я [/i] вписываюсь в общество.",translated,195
+vntext.sq#59340,vntext.sq,SALLYDIVINE,Thank you!,Спасибо!,translated,10
+vntext.sq#59342,vntext.sq,SALLYDIVINE,"I'm sorry, but... this isn't any good at all.","Извини, но... это совсем никуда не годится.",translated,45
+vntext.sq#59345,vntext.sq,SALLYDIVINE,Wonderful. This is helping me see things more clearly... and with empathy.,Чудесно. Это помогает мне видеть всё яснее... и с сочувствием.,translated,74
+vntext.sq#59346,vntext.sq,SALLYDIVINE,I suppose it's truly all about learning to honor your feelings... and finding ways to voice them...,"Полагаю, всё дело в том, чтобы научиться чтить свои чувства... и находить способы их озвучить...",translated,99
+vntext.sq#59347,vntext.sq,SALLYDIVINE,"Seems like I've got nothing to be afraid of... after all, I'm more skilled than I give myself credit for.","Похоже, мне нечего бояться... в конце концов, я более умелая, чем сама себе приписываю.",translated,105
+vntext.sq#59348,vntext.sq,SALLYDIVINE,What a lovely donut! The ${sprinkles} give it such a nice texture too. This is exactly what I needed tonight.,"Какой прелестный пончик! ${sprinkles} тоже придают такую приятную текстуру. Это именно то, что мне было нужно сегодня.",translated,109
+vntext.sq#59349,vntext.sq,SALLYDIVINE,What a lovely donut! This is exactly what I needed tonight.,"Какой прелестный пончик! Это именно то, что мне было нужно сегодня.",translated,59
+vntext.sq#59351,vntext.sq,SALLYDIVINE,"Oh, dear. Are you trying to tell me that I'm ${focusing} on the wrong things? Err... I don't know what to think about this.","Ох, батюшки. Ты пытаешься сказать мне, что я ${focusing} не на том? Эм... не знаю, что об этом думать.",translated,123
+vntext.sq#59352,vntext.sq,SALLYDIVINE,"Uhm, I don't need all these ideas right now, {$mcName}. I'm doing research in order to [i] understand [/i] something better, not because I'm out of ideas.","Эм, мне сейчас не нужно столько идей, {$mcName}. Я провожу исследование, чтобы [i] лучше понять [/i] что-то, а не потому, что у меня закончились идеи.",translated,154
+vntext.sq#59353,vntext.sq,SALLYDIVINE,Don't you think it's unfair how all these power imbalances exist in the world?,"Не находишь несправедливым, что в мире существует столько дисбалансов власти?",translated,78
+vntext.sq#59354,vntext.sq,SALLYDIVINE,"I think I understand why you chose this donut, but... this will only make me procrastinate...","Кажется, понимаю, почему ты выбрал этот пончик, но... это только заставит меня прокрастинировать...",translated,93
+vntext.sq#59355,vntext.sq,SALLYDIVINE,"When I first discovered A/B/O, it was a fun world to explore... but now, power imbalances simply upset me...","Когда я впервые открыла для себя A/B/O, это был весёлый мир для исследования... но теперь дисбалансы власти меня просто расстраивают...",translated,108
+vntext.sq#59356,vntext.sq,SALLYDIVINE,"Heh... I can see your attempt to {$moods:cheer} me up. I suppose it's that obvious that I need it. I appreciate it, though it's not what I need right now.","Хех... вижу твою попытку {$moods:cheer} меня. Видимо, настолько очевидно, что мне это нужно. Ценю это, хотя сейчас мне нужно не это.",translated,154
+vntext.sq#59357,vntext.sq,SALLYDIVINE,"Well, this isn't the worst donut to have...","Ну, это не самый худший пончик...",translated,43
+vntext.sq#59358,vntext.sq,SALLYDIVINE,"All right, it's time for me to... to make use of my research, yes. Good night, {$mcName}.","Ладно, мне пора... применить своё исследование, да. Спокойной ночи, {$mcName}.",translated,89
+vntext.sq#59359,vntext.sq,SALLYDIVINE,"I've got to go. Perhaps I should've just gone to Mink Lashings after all. Good night, {$mcName}.","Мне пора идти. Может, стоило всё-таки просто пойти в Mink Lashings. Спокойной ночи, {$mcName}.",translated,96
+vntext.sq#59362,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}. I may have just discovered that I've got problems with authority.","Приветик, {$mcName}. Кажется, я только что обнаружила, что у меня проблемы с авторитетами.",translated,83
+vntext.sq#59364,vntext.sq,SALLYDIVINE,"I-It's not as if it was easy for me to realize! I-I've always had anxiety, you know, so I can't just... 'act out' against authority or anything like that.","Э-это не то чтобы мне легко было это понять! У-у меня всегда была тревожность, знаешь ли, так что я не могу просто... 'бунтовать' против авторитетов или типа того.",translated,154
+vntext.sq#59367,vntext.sq,SALLYDIVINE,"Haha, nothing like that. It's mostly just a challenge to work with when it comes to job hunting.","Хаха, ничего подобного. Это, в основном, просто сложность, с которой приходится иметь дело при поиске работы.",translated,96
+vntext.sq#59368,vntext.sq,SALLYDIVINE,"On top of looking for employers that offer a good work-life balance, I also need to find someone who does not abuse their authority.","Помимо поиска работодателей с хорошим балансом работы и жизни, мне ещё нужно найти того, кто не злоупотребляет своей властью.",translated,132
+vntext.sq#59371,vntext.sq,SALLYDIVINE,"I hate to say it, but... not as much as I used to. So now, on top of finding a new job, I've got to reassess my likes and dislikes, figure out how to work with ones that now cause discomfort...","Не хочу этого говорить, но... не так сильно, как раньше. Так что теперь, помимо поиска новой работы, мне ещё нужно пересмотреть свои симпатии и антипатии, разобраться, как работать с тем, что теперь вызывает дискомфорт...",translated,193
+vntext.sq#59372,vntext.sq,SALLYDIVINE,"N-Not that I disapprove of it now or anything, though!",Н-не то чтобы я это теперь осуждала или типа того!,translated,54
+vntext.sq#59374,vntext.sq,SALLYDIVINE,So... how do you deal with it? Especially when you know you're becoming someone totally different?,"Так... как ты с этим справляешься? Особенно когда знаешь, что становишься совсем другим человеком?",translated,98
+vntext.sq#59379,vntext.sq,SALLYDIVINE,"...But you [i] are [/i] going through changes too, aren't you?","...Но ты же [i] тоже [/i] проходишь через перемены, да?",translated,62
+vntext.sq#59380,vntext.sq,SALLYDIVINE,"Lucy seems to think so, at least. She says you're very different from who you used to be.","По крайней мере, Lucy так думает. Говорит, ты сильно отличаешься от того, кем был раньше.",translated,89
+vntext.sq#59381,vntext.sq,SALLYDIVINE,"And she really likes who you are now, mind you.","И ей, между прочим, очень нравится, кто ты сейчас.",translated,47
+vntext.sq#59384,vntext.sq,SALLYDIVINE,"...That does explain a lot. In a way, I can sort of relate with that.",...Это многое объясняет. В каком-то смысле мне это близко.,translated,69
+vntext.sq#59385,vntext.sq,SALLYDIVINE,"It's not like I take time away from everyone, but... I keep things to myself, mostly.","Не то чтобы я держусь подальше от всех, но... я в основном держу всё при себе.",translated,85
+vntext.sq#59387,vntext.sq,SALLYDIVINE,Yes. Exactly.,Да. Именно.,translated,13
+vntext.sq#59388,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59389,vntext.sq,SALLYDIVINE,But it does get lonely. Very lonely.,Но становится одиноко. Очень одиноко.,translated,36
+vntext.sq#59391,vntext.sq,SALLYDIVINE,"She makes it better, of course, but... she's still starting out in the industry. I wouldn't want to get her jaded about it.","С ней лучше, конечно, но... она ещё только начинает в этой индустрии. Не хотел бы разочаровать её в ней.",translated,123
+vntext.sq#59392,vntext.sq,SALLYDIVINE,"Well, the thing is, she hasn't really been around recently... and besides, she's still starting out in the industry. I wouldn't want to get her jaded about it.","Ну, дело в том, что её в последнее время особо не было рядом... и к тому же, она ещё только начинает в этой индустрии. Не хотел бы разочаровать её в ней.",translated,159
+vntext.sq#59396,vntext.sq,SALLYDIVINE,"Yeah. Awhile back, you said something about how it's dangerous to make decisions based on what you don't want...","Ага. Некоторое время назад ты сказал что-то о том, что опасно принимать решения, основываясь на том, чего не хочешь...",translated,112
+vntext.sq#59397,vntext.sq,SALLYDIVINE,And I've been thinking about that. I think I've always been aware of what I don't want.,"И я думала об этом. Кажется, я всегда осознавала, чего не хочу.",translated,87
+vntext.sq#59398,vntext.sq,SALLYDIVINE,But it's more difficult to know what I [i] really [/i] want. Does that make sense?,"Но труднее понять, чего я [i] на самом деле [/i] хочу. Есть смысл?",translated,82
+vntext.sq#59400,vntext.sq,SALLYDIVINE,"So, for example, even if I've only discovered my dislike of authority just now, I've always instinctively avoided situations where I had to submit to authority.","Так, например, даже если я обнаружила свою неприязнь к авторитетам только сейчас, я всегда инстинктивно избегала ситуаций, где приходилось подчиняться авторитетам.",translated,160
+vntext.sq#59401,vntext.sq,SALLYDIVINE,"And so when Studio Canidae changed and 'Wolf It Down' got more popular, I started feeling like running away.","И вот когда Studio Canidae изменилась, а «Wolf It Down» стал популярнее, мне захотелось убежать.",translated,108
+vntext.sq#59402,vntext.sq,SALLYDIVINE,But I didn't know where to run to.,"Но я не знала, куда бежать.",translated,34
+vntext.sq#59403,vntext.sq,SALLYDIVINE,"Right now, I'm still running... with no goalpost in sight.",Сейчас я всё ещё бегу... без видимой цели впереди.,translated,58
+vntext.sq#59406,vntext.sq,SALLYDIVINE,"Oh, do you? Please, I would really appreciate that!","О, правда? Пожалуйста, я была бы очень признательна!",translated,51
+vntext.sq#59421,vntext.sq,SALLYDIVINE,Thank you!,Спасибо!,translated,10
+vntext.sq#59423,vntext.sq,SALLYDIVINE,"Hey, {$mcName}... can I please have a refund? This is awful.","Эй, {$mcName}... можно мне возврат, пожалуйста? Это ужасно.",translated,60
+vntext.sq#59427,vntext.sq,SALLYDIVINE,I feel this fire building up inside me right now... it wants to spread warmth...,"Чувствую, как во мне сейчас разгорается огонь... он хочет распространить тепло...",translated,80
+vntext.sq#59428,vntext.sq,SALLYDIVINE,"Honestly, it's been so hard, feeling so rejected about my ideas all the time... it would be nice to find a place where I can be heard for once.","Если честно, было так тяжело постоянно чувствовать, что мои идеи отвергают... было бы приятно найти место, где меня хоть раз услышат.",translated,143
+vntext.sq#59429,vntext.sq,SALLYDIVINE,"A new perspective... I think that's what I've been missing all this time. A new way to look at things, and some {$moods:inspiration}...","Новый взгляд... думаю, вот чего мне не хватало всё это время. Новый способ смотреть на вещи, и немного {$moods:inspiration}...",translated,135
+vntext.sq#59430,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59431,vntext.sq,SALLYDIVINE,Thank you very much. This is helping.,Большое спасибо. Это помогает.,translated,37
+vntext.sq#59433,vntext.sq,SALLYDIVINE,I don't think I need to {$moods:focus} on this even more... I'm already [i] overthinking [/i] it.,"Не думаю, что мне нужно ещё больше {$moods:focus} на этом... я уже и так [i] слишком много об этом думаю [/i].",translated,97
+vntext.sq#59434,vntext.sq,SALLYDIVINE,"I don't know if taking it easy is what I need right now. As it is, I'm already feeling the stress of being semi-unemployed and watching my bank account drain faster than usual.","Не знаю, нужно ли мне сейчас расслабиться. Как есть, я уже чувствую стресс от того, что я полубезработная и смотрю, как мой счёт в банке тает быстрее обычного.",translated,176
+vntext.sq#59435,vntext.sq,SALLYDIVINE,"I think I have enough compassion for my situation, as it is... but I can't just sit still and wait for something to happen. I need a more active approach.","Думаю, у меня и так достаточно сострадания к своей ситуации... но я не могу просто сидеть и ждать, пока что-то произойдёт. Мне нужен более активный подход.",translated,154
+vntext.sq#59436,vntext.sq,SALLYDIVINE,"This is making me miss the good times I had at Studio Canidae, back when we were smaller. The inside jokes about the mascot, the silly nicknames we had for each other...","Из-за этого я скучаю по хорошим временам в Studio Canidae, когда мы были меньше. Внутренние шутки про маскота, глупые прозвища, что мы давали друг другу...",translated,169
+vntext.sq#59437,vntext.sq,SALLYDIVINE,"As much as I'd like to just feel better, I don't know if this will give me any clarity about what I want.","Как бы мне ни хотелось просто почувствовать себя лучше, не знаю, даст ли это мне ясность насчёт того, чего я хочу.",translated,105
+vntext.sq#59438,vntext.sq,SALLYDIVINE,"A burst of {$moods:courage} and confidence... but for what? Without a proper idea of what I want, this could just turn into total recklessness...","Прилив {$moods:courage} и уверенности... но для чего? Без чёткого понимания того, чего я хочу, это может превратиться в полную безрассудность...",translated,145
+vntext.sq#59439,vntext.sq,SALLYDIVINE,"But I suppose this donut will do for now, even if it's not what I wanted.","Но, полагаю, этот пончик пока сойдёт, даже если это не то, что я хотела.",translated,73
+vntext.sq#59440,vntext.sq,SALLYDIVINE,"Maybe... maybe I'll dream of what I want tonight. 'Dreams' can work as a synonym for goals or desires, after all...","Может... может, сегодня мне приснится, чего я хочу. 'Мечты' в конце концов могут быть синонимом целей или желаний...",translated,115
+vntext.sq#59441,vntext.sq,SALLYDIVINE,I wish you'd given me the right donut... I feel even more confused now. I suppose I'll just have to sleep it off.,"Жаль, что ты не дал мне правильный пончик... теперь я чувствую себя ещё более растерянной. Полагаю, придётся просто выспаться.",translated,113
+vntext.sq#59442,vntext.sq,SALLYDIVINE,"Well, I'll be going then. Good night, {$mcName}.","Ну, тогда я пойду. Спокойной ночи, {$mcName}.",translated,48
+vntext.sq#59445,vntext.sq,SALLYDIVINE,Good evening.,Добрый вечер.,translated,13
+vntext.sq#59447,vntext.sq,SALLYDIVINE,"So, I thought I'd tell you — I've started keeping a journal.","Так, решила тебе сказать — я начала вести дневник.",translated,60
+vntext.sq#59449,vntext.sq,SALLYDIVINE,"Haha, don't worry! It's a dream journal. I got it from our feline friend — it was his way of saying sorry.","Хаха, не переживай! Это дневник снов. Мне его подарил наш кошачий друг — так он извинялся.",translated,106
+vntext.sq#59451,vntext.sq,SALLYDIVINE,"It's been... interesting, honestly. I've been paying more attention to the recurring images in my dreams.","Это было... интересно, если честно. Я стала больше обращать внимание на повторяющиеся образы в своих снах.",translated,105
+vntext.sq#59452,vntext.sq,SALLYDIVINE,"Sometimes they're quite nice, and I get to sit down with my journal and a nice cup of tea while trying to turn my dream into a comic.","Иногда они довольно приятные, и я сажусь с дневником и чашкой чая, пытаясь превратить сон в комикс.",translated,133
+vntext.sq#59453,vntext.sq,SALLYDIVINE,"But... I have noticed that I've been getting more... err, nightmares lately... and it's not as easy sitting down with those.","Но... я заметила, что в последнее время у меня стало больше... эм, кошмаров... и с ними уже не так легко разбираться.",translated,124
+vntext.sq#59454,vntext.sq,SALLYDIVINE,"When the nightmares come, it gets difficult to remember what the good dreams were. But that's why the journal helps a lot!","Когда приходят кошмары, становится трудно вспомнить, какими были хорошие сны. Но именно поэтому дневник так помогает!",translated,122
+vntext.sq#59455,vntext.sq,SALLYDIVINE,Have you ever kept one yourself?,Ты сам когда-нибудь вёл такой?,translated,32
+vntext.sq#59461,vntext.sq,SALLYDIVINE,How lovely! I wonder what sort of dreams you get.,"Как прелестно! Интересно, какие сны тебе снятся.",translated,49
+vntext.sq#59463,vntext.sq,SALLYDIVINE,"Oh, that sounds terrifying!","О, звучит ужасающе!",translated,27
+vntext.sq#59467,vntext.sq,SALLYDIVINE,The... Occult Club? When was this? How was that like?,...Оккультном Клубе? Когда это было? Каково это было?,translated,53
+vntext.sq#59469,vntext.sq,SALLYDIVINE,E-Excuse me? Blood sacrifices?,П-простите? Кровавыми жертвоприношениями?,translated,30
+vntext.sq#59471,vntext.sq,SALLYDIVINE,A-All right...,Л-ладно...,translated,14
+vntext.sq#59473,vntext.sq,SALLYDIVINE,You really don't?,Правда нет?,translated,17
+vntext.sq#59475,vntext.sq,SALLYDIVINE,So then... what do you usually think about in the morning?,Тогда... о чём ты обычно думаешь утром?,translated,58
+vntext.sq#59477,vntext.sq,SALLYDIVINE,I see...,Понятно...,translated,8
+vntext.sq#59478,vntext.sq,SALLYDIVINE,"Well... that said, I've been thinking about posting my dream journal comics...","Ну... тем не менее, я подумываю опубликовать комиксы из дневника снов...",translated,78
+vntext.sq#59479,vntext.sq,SALLYDIVINE,"They're not really what I'm known for, as the previous writer and artist of 'Wolf It Down,' but...","Это не совсем то, чем я известна, как бывший автор и художник «Wolf It Down», но...",translated,98
+vntext.sq#59480,vntext.sq,SALLYDIVINE,I think it might be nice to get my more... unconventional ideas out there.,"Думаю, было бы неплохо поделиться своими более... нетрадиционными идеями.",translated,74
+vntext.sq#59482,vntext.sq,SALLYDIVINE,"Oh, that's true, heh... I know not all of them will stay, and I just need to accept that. But it's still terrifying.","О, это правда, хех... знаю, не все из них останутся, и мне просто нужно с этим смириться. Но всё равно жутко.",translated,116
+vntext.sq#59483,vntext.sq,SALLYDIVINE,"And, well, as for my career moving forward... I'm currently working on more fursuit commissions, and also receiving mentorship from a known embroidery expert.","И, ну, что до моей карьеры в дальнейшем... сейчас я работаю над новыми заказами фурсьютов, а также получаю наставничество от известного эксперта по вышивке.",translated,158
+vntext.sq#59485,vntext.sq,SALLYDIVINE,"He's a friend of mine from uni, and watching him work made me realize what I'd been missing from my previous job.","Он мой друг ещё с универа, и, наблюдая за его работой, я поняла, чего мне не хватало на прошлой работе.",translated,113
+vntext.sq#59486,vntext.sq,SALLYDIVINE,"I want vulnerability and intimacy in my work. I want an exchange of ideas, and most of all, trust — which I never felt from my former employers.","Я хочу уязвимости и близости в своей работе. Хочу обмена идеями, и самое главное — доверия, которого я никогда не чувствовала от прежних работодателей.",translated,144
+vntext.sq#59487,vntext.sq,SALLYDIVINE,"After all, trust requires seeing each other as equals — which is hard when you've got hierarchies to work with. And for some people... power really gets to their heads.","В конце концов, доверие требует видеть друг друга равными — а это трудно, когда приходится работать в иерархии. И у некоторых людей... власть реально ударяет в голову.",translated,168
+vntext.sq#59488,vntext.sq,SALLYDIVINE,"But when you're a fursuit maker, you're not someone's superior or inferior — you're simply collaborating with them.","Но когда ты создатель фурсьютов, ты не чей-то начальник или подчинённый — ты просто сотрудничаешь с ними.",translated,115
+vntext.sq#59490,vntext.sq,SALLYDIVINE,"O-Of course! But I still need more practice with advanced embroidery, hehe...","К-конечно! Но мне ещё нужно попрактиковаться в сложной вышивке, хехе...",translated,77
+vntext.sq#59492,vntext.sq,SALLYDIVINE,"Th-Thank you, {$mcName}...","С-спасибо, {$mcName}...",translated,26
+vntext.sq#59493,vntext.sq,SALLYDIVINE,"Oh, speaking of paying full price! I'd almost forgotten what I came here for.","О, кстати про полную цену! Я почти забыла, зачем сюда пришла.",translated,77
+vntext.sq#59505,vntext.sq,SALLYDIVINE,"This is exactly what I was hoping for — a great balance of the {$tastes:sour} {$flavors:lemon_acid} flavor with the more subdued, earthy {$flavors:matchajuana}.","Это именно то, на что я надеялась — отличный баланс {$tastes:sour} вкуса {$flavors:lemon_acid} с более сдержанным, землистым {$flavors:matchajuana}.",translated,160
+vntext.sq#59506,vntext.sq,SALLYDIVINE,"I think I'm ready to work on what I want to post tonight. The {$flavors:lemon_acid}'s helping me with ideas, and the {$flavors:matchajuana}'s great for letting loose.","Думаю, я готова поработать над тем, что хочу опубликовать сегодня. {$flavors:lemon_acid} помогает с идеями, а {$flavors:matchajuana} отлично подходит, чтобы расслабиться.",translated,166
+vntext.sq#59507,vntext.sq,SALLYDIVINE,"Thanks for the perfect donut, {$mcName}! I knew I could count on you.","Спасибо за идеальный пончик, {$mcName}! Я знала, что могу на тебя рассчитывать.",translated,69
+vntext.sq#59509,vntext.sq,SALLYDIVINE,"I really appreciate the burst of {$moods:inspiration} this is giving me, but... I really would've liked that warm hug from the {$flavors:matchajuana}.","Я очень ценю прилив {$moods:inspiration}, что это мне даёт, но... мне правда хотелось бы того тёплого объятия от {$flavors:matchajuana}.",translated,150
+vntext.sq#59510,vntext.sq,SALLYDIVINE,"I feel at ease, and my worries are fading away, but... I could've also used a burst of {$moods:inspiration} from the {$flavors:lemon_acid}.","Я чувствую спокойствие, и мои тревоги угасают, но... мне бы также не помешал прилив {$moods:inspiration} от {$flavors:lemon_acid}.",translated,139
+vntext.sq#59511,vntext.sq,SALLYDIVINE,"While I do agree that it'll help to stay ${focused}, I wanted to have a more ${relaxed} approach to this.","Хоть я и согласна, что это поможет оставаться ${focused}, я хотела подойти к этому более ${relaxed}.",translated,105
+vntext.sq#59512,vntext.sq,SALLYDIVINE,"I'm worried that I now feel too strongly about my idea, and may have blind spots because of it.","Я переживаю, что теперь слишком сильно привязана к своей идее и из-за этого могу иметь слепые пятна.",translated,95
+vntext.sq#59513,vntext.sq,SALLYDIVINE,I don't think I need this mood tonight at all... I've got plenty of {$moods:patience} about my project as it is.,"Не думаю, что мне сегодня вообще нужно это настроение... у меня и так достаточно {$moods:patience} насчёт своего проекта.",translated,112
+vntext.sq#59514,vntext.sq,SALLYDIVINE,"While it's nice to sit back and reminisce about how I got into art to begin with, now isn't the time for it, I'm afraid.","Хоть приятно откинуться назад и вспомнить, как я вообще пришла в искусство, боюсь, сейчас для этого не время.",translated,120
+vntext.sq#59515,vntext.sq,SALLYDIVINE,"Heh, did I somehow give the impression that I need to {$moods:cheer} up a little bit more?","Хех, я как-то создала впечатление, что мне нужно ещё немного {$moods:cheer}?",translated,90
+vntext.sq#59516,vntext.sq,SALLYDIVINE,"Hmm, I think I've got enough {$moods:sincerity} for this project... the comics are based on my dreams, after all. Or do you think I need a bit more?","Хмм, думаю, у меня достаточно {$moods:sincerity} для этого проекта... комиксы всё-таки основаны на моих снах. Или думаешь, мне нужно ещё немного?",translated,148
+vntext.sq#59517,vntext.sq,SALLYDIVINE,"Hmm, I suppose {$moods:courage} would be nice especially since I'm trying to be vulnerable with my art, but... I don't think I need this tonight at all.","Хмм, полагаю, {$moods:courage} было бы неплохо, особенно раз я пытаюсь быть уязвимой в своём искусстве, но... не думаю, что мне это вообще нужно сегодня.",translated,152
+vntext.sq#59518,vntext.sq,SALLYDIVINE,"Well, it isn't so bad, I suppose...","Ну, не так уж и плохо, наверное...",translated,35
+vntext.sq#59519,vntext.sq,SALLYDIVINE,"Right, it's about time I continue working on my project. I think it'll be a breeze tonight thanks to your donut. And the conversation, as always. Good night!","Так, пора мне продолжить работу над проектом. Думаю, сегодня всё пройдёт легко благодаря твоему пончику. И разговору, как всегда. Спокойной ночи!",translated,157
+vntext.sq#59520,vntext.sq,SALLYDIVINE,"Right, it's about time I continue working on my project. While I wish you'd served me the right donut, I'm still in a pretty good mood for it. Thanks for the conversation and good night!","Так, пора мне продолжить работу над проектом. Хоть я и хотела бы, чтобы ты подал мне правильный пончик, у меня всё равно неплохое настроение для этого. Спасибо за разговор, спокойной ночи!",translated,186
+vntext.sq#59523,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}! Do you still want the sweater you mentioned?","Приветик, {$mcName}! Ты всё ещё хочешь тот свитер, что упоминал?",translated,62
+vntext.sq#59526,vntext.sq,SALLYDIVINE,"Hahaha, not quite! But I am getting there.","Хахаха, не совсем! Но я к этому иду.",translated,42
+vntext.sq#59527,vntext.sq,SALLYDIVINE,"I've just made lingerie for Lucy. She told me not to tell you how it looks just yet, though.","Я только что сделала нижнее бельё для Lucy. Хотя она сказала пока не рассказывать тебе, как оно выглядит.",translated,92
+vntext.sq#59528,vntext.sq,SALLYDIVINE,"But I'm sure you're just dying to see it, hehehe!","Но уверена, тебе не терпится это увидеть, хехехе!",translated,49
+vntext.sq#59530,vntext.sq,SALLYDIVINE,"So, how about it? Which type of embroidery do you think you'll want?","Так что, как насчёт этого? Какой тип вышивки тебе хотелось бы?",translated,68
+vntext.sq#59536,vntext.sq,SALLYDIVINE,"Kaori... oh! That character from Estrellion, is that correct?","Каори... о! Это персонаж из «Estrellion», верно?",translated,61
+vntext.sq#59538,vntext.sq,SALLYDIVINE,"How sweet! I love the idea. Just give me time to come up with sketches, then I'll run them by you. How's that sound?","Как мило! Обожаю эту идею. Просто дай мне время придумать эскизы, потом покажу их тебе. Как звучит?",translated,116
+vntext.sq#59540,vntext.sq,SALLYDIVINE,Yay!,Ура!,translated,4
+vntext.sq#59542,vntext.sq,SALLYDIVINE,"A donut... with a snake... hmm... very interesting, if not a little too on the nose about your job...","Пончик... со змеёй... хмм... очень интересно, хоть и немного в лоб насчёт твоей работы...",translated,101
+vntext.sq#59543,vntext.sq,SALLYDIVINE,"Oh! S-Sorry, I didn't mean to judge, I was just... surprised, that's all!","О! И-извини, не хотела осуждать, просто... удивилась, вот и всё!",translated,73
+vntext.sq#59545,vntext.sq,SALLYDIVINE,...Huh. Okay. Were you then just... testing me?,"...Хм. Ладно. Значит, ты просто... проверял меня?",translated,47
+vntext.sq#59548,vntext.sq,SALLYDIVINE,Uh-huh. Sure.,Ага. Конечно.,translated,13
+vntext.sq#59550,vntext.sq,SALLYDIVINE,Err... visual novel? W-What do you mean by that?,Эм... визуальная новелла? Ч-что ты имеешь в виду?,translated,48
+vntext.sq#59552,vntext.sq,SALLYDIVINE,...??,...??,translated,5
+vntext.sq#59553,vntext.sq,SALLYDIVINE,"Anime sweaters aren't so bad, {$mcName}... but I'm quite confused by this donut snake sweater you mentioned...","Свитера с аниме не так уж плохи, {$mcName}... но я весьма озадачена этим свитером с пончиком-змеёй, что ты упомянул...",translated,110
+vntext.sq#59555,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59556,vntext.sq,SALLYDIVINE,"Oh, I just got a text from Lucy. One of her friends wants a fursuit inspired by a character in 'Wolf It Down'... and she's asking if I'm all right with doing it.","О, только что получила сообщение от Lucy. Одна из её подруг хочет фурсьют по мотивам персонажа из «Wolf It Down»... и она спрашивает, не против ли я это сделать.",translated,161
+vntext.sq#59558,vntext.sq,SALLYDIVINE,"Well... even though I felt so burnt out by the end of my stay at Studio Canidae, I've still got a lot of love for that project.","Ну... хоть я и была очень измотана к концу своего пребывания в Studio Canidae, у меня всё ещё много любви к этому проекту.",translated,127
+vntext.sq#59559,vntext.sq,SALLYDIVINE,"I just worry that I'll have to explain why I suddenly left, that sort of thing.","Просто переживаю, что придётся объяснять, почему я вдруг ушла, всё такое.",translated,79
+vntext.sq#59561,vntext.sq,SALLYDIVINE,...Right.,...Ну да.,translated,9
+vntext.sq#59562,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59563,vntext.sq,SALLYDIVINE,I'll do it.,Сделаю это.,translated,11
+vntext.sq#59565,vntext.sq,SALLYDIVINE,"Wolf It Down' is both mine and Lucy's. Besides, for someone to want a fursuit inspired by 'Wolf It Down'? That's a huge honor.","«Wolf It Down» — это и моё, и Lucy тоже. К тому же, кто-то хочет фурсьют по мотивам «Wolf It Down»? Это огромная честь.",translated,126
+vntext.sq#59566,vntext.sq,SALLYDIVINE,And I don't think I'll ever be worthy of that honor if I run away from this opportunity...,"И не думаю, что когда-либо буду достойна этой чести, если сбегу от этой возможности...",translated,90
+vntext.sq#59567,vntext.sq,SALLYDIVINE,"To connect, and to give Lucy's friend — and myself too — some... closure.",Наладить связь и дать подруге Lucy — и себе тоже — какое-то... завершение.,translated,73
+vntext.sq#59568,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59569,vntext.sq,SALLYDIVINE,"Well, I think I'm going to need some time to do sketches tonight.","Ну, думаю, сегодня мне понадобится время на эскизы.",translated,65
+vntext.sq#59576,vntext.sq,SALLYDIVINE,Thank you!,Спасибо!,translated,10
+vntext.sq#59577,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59578,vntext.sq,SALLYDIVINE,"...I'm sorry but I can't eat this, {$mcName}. It's awful.","...Извини, но я не могу это есть, {$mcName}. Это ужасно.",translated,57
+vntext.sq#59579,vntext.sq,SALLYDIVINE,It hasn't got any mood enhancers...,Тут вообще нет усилителей настроения...,translated,35
+vntext.sq#59581,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59582,vntext.sq,SALLYDIVINE,"Lovely, just lovely. With this donut, I'll be able to pour all the love and {$moods:passion} I feel for 'Wolf It Down' and turn it into beautiful fursuit ideas for Lucy's friend.","Прелестно, просто прелестно. С этим пончиком я смогу вложить всю любовь и {$moods:passion}, что чувствую к «Wolf It Down», и превратить это в прекрасные идеи фурсьюта для подруги Lucy.",translated,178
+vntext.sq#59583,vntext.sq,SALLYDIVINE,"Heh, it's quite intimidating, feeling this excited... but I really can't wait to do this.","Хех, это довольно пугающе — чувствовать такое воодушевление... но мне правда не терпится это сделать.",translated,89
+vntext.sq#59584,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#59585,vntext.sq,SALLYDIVINE,"While I'm feeling quite ${passionate} about sketching some ideas, I'm afraid this isn't helping me connect with 'Wolf It Down' as much as I thought.","Хоть я и чувствую себя весьма ${passionate} насчёт наброска идей, боюсь, это не так помогает мне почувствовать связь с «Wolf It Down», как я думала.",translated,148
+vntext.sq#59586,vntext.sq,SALLYDIVINE,"While I'm feeling a lot of fondness for 'Wolf It Down' right now, I'm not feeling... as strongly about it as I thought.","Хоть сейчас я чувствую большую привязанность к «Wolf It Down», не чувствую... так сильно, как думала.",translated,119
+vntext.sq#59587,vntext.sq,SALLYDIVINE,"This is helping me get ${focused} enough to make sketches, but... I really wanted to tap into my memories and {$moods:passion} for the project.","Это помогает мне достаточно ${focused}, чтобы делать эскизы, но... я правда хотела прикоснуться к своим воспоминаниям и {$moods:passion} к проекту.",translated,143
+vntext.sq#59588,vntext.sq,SALLYDIVINE,"I understand why you thought {$flavors:lemon_acid} would be a good idea, but... I'm not looking for {$moods:inspiration}. I already have it.","Понимаю, почему ты подумал, что {$flavors:lemon_acid} — хорошая идея, но... я не ищу {$moods:inspiration}. Он у меня уже есть.",translated,140
+vntext.sq#59589,vntext.sq,SALLYDIVINE,"If I {$moods:relax} too much, I might not be able to get a lot of sketches done tonight.","Если я слишком {$moods:relax}, могу не успеть сделать много эскизов сегодня.",translated,88
+vntext.sq#59590,vntext.sq,SALLYDIVINE,I can't imagine why you thought I needed {$moods:patience} for tonight... did I seem impatient about the project?,"Не могу представить, почему ты подумал, что мне сегодня нужен {$moods:patience}... я казалась нетерпеливой насчёт проекта?",translated,113
+vntext.sq#59591,vntext.sq,SALLYDIVINE,"Heh, I see what you're trying to do. But I'm already plenty ${cheerful} tonight, {$mcName}.","Хех, вижу, что ты пытаешься сделать. Но я уже достаточно ${cheerful} сегодня, {$mcName}.",translated,91
+vntext.sq#59592,vntext.sq,SALLYDIVINE,"I don't think it would have been too difficult for me to approach this project with {$moods:sincerity}, but... are you worried about that, {$mcName}?","Не думаю, что мне было бы слишком трудно подойти к этому проекту с {$moods:sincerity}, но... ты об этом переживаешь, {$mcName}?",translated,149
+vntext.sq#59593,vntext.sq,SALLYDIVINE,A burst of {$moods:courage}... but for what? I'd like to think I've built up confidence in facing 'Wolf It Down' again.,"Прилив {$moods:courage}... но для чего? Хотелось бы думать, что я уже набралась уверенности, чтобы снова взяться за «Wolf It Down».",translated,119
+vntext.sq#59594,vntext.sq,SALLYDIVINE,"Oh well, it could be worse...","Ну ладно, могло быть и хуже...",translated,29
+vntext.sq#59595,vntext.sq,SALLYDIVINE,"Hehe, my heart's beating real fast~ I should get started as soon as possible!","Хехе, моё сердце бьётся так быстро~ Нужно начать как можно скорее!",translated,77
+vntext.sq#59596,vntext.sq,SALLYDIVINE,"Thank you for tonight, {$mcName}. You're a wonderful friend. Good night!","Спасибо за сегодня, {$mcName}. Ты замечательный друг. Спокойной ночи!",translated,72
+vntext.sq#59597,vntext.sq,SALLYDIVINE,"All right, I should get started on this. Thank you for tonight, {$mcName}. I always enjoy these conversations with you. Good night!","Ладно, пора мне за это взяться. Спасибо за сегодня, {$mcName}. Мне всегда нравятся эти разговоры с тобой. Спокойной ночи!",translated,131
+vntext.sq#59602,vntext.sq,SALLYDIVINE,"It's a busy, busy night — I'm going to need to stay ${focused} in order to catch the deadline!","Очень занятой вечер — мне нужно оставаться ${focused}, чтобы успеть к дедлайну!",translated,94
+vntext.sq#59603,vntext.sq,SALLYDIVINE,But I'm so anxious about it that I can't even pick a recipe...,"Но я так из-за этого нервничаю, что даже не могу выбрать рецепт...",translated,62
+vntext.sq#59610,vntext.sq,SALLYDIVINE,"Tonight's a good night to get a {$recipe:cream_pie}, don't you think?","Сегодня хороший вечер, чтобы взять {$recipe:cream_pie}, не находишь?",translated,69
+vntext.sq#59613,vntext.sq,SALLYDIVINE,"Hehehe! Just thought I'd try to get a reaction out of you. We've been very busy lately, but I get to take a break tonight. And honestly, it's got me feeling really giddy!","Хехехе! Просто решила попробовать вызвать у тебя реакцию. В последнее время мы были очень заняты, но сегодня у меня перерыв. И если честно, от этого я чувствую себя такой воодушевлённой!",translated,170
+vntext.sq#59614,vntext.sq,SALLYDIVINE,"I'd like to keep feeling this way... I feel like joy tends to slip away from me very easily, hehe...","Хотела бы сохранить это чувство... у меня такое ощущение, что радость очень легко от меня ускользает, хехе...",translated,100
+vntext.sq#59621,vntext.sq,SALLYDIVINE,I'm going to Mink Lashings tonight to get some fursuit ideas! Want to come with me?,Я сегодня иду в Mink Lashings за идеями для фурсьютов! Хочешь со мной?,translated,83
+vntext.sq#59623,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#59624,vntext.sq,SALLYDIVINE,"Well, all right, then. I'll just get a donut. [i] This one's got a very interesting perception of reality... [/i]","Ну, ладно тогда. Просто возьму пончик. [i] У этого весьма интересное восприятие реальности... [/i]",translated,113
+vntext.sq#59626,vntext.sq,SALLYDIVINE,"Heard what? Me brainstorming about 'Wolf It Down' characters? Hehehe! Don't be silly, {$mcName}.","Услышал что? Как я обдумываю персонажей «Wolf It Down»? Хехехе! Не глупи, {$mcName}.",translated,96
+vntext.sq#59633,vntext.sq,SALLYDIVINE,I'm quite famished — been working on a scene all day and nothing's going right.,"Я очень проголодалась — весь день работала над сценой, и ничего не получается как надо.",translated,79
+vntext.sq#59635,vntext.sq,SALLYDIVINE,"I will! But I found myself taking a walk around the area, so I figured a donut might help for now.","Так и сделаю! Но я вот гуляла по округе, так что решила, что пончик пока поможет.",translated,98
+vntext.sq#59645,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}...","Приветик, {$mcName}...",translated,19
+vntext.sq#59647,vntext.sq,SALLYDIVINE,"Well, er... a furry website contacted me for an interview. I agreed to it, but I'm a bit worried about how I'll answer one particular question—","Ну, эм... фурри-сайт связался со мной насчёт интервью. Я согласилась, но немного переживаю, как отвечу на один конкретный вопрос—",translated,143
+vntext.sq#59648,vntext.sq,SALLYDIVINE,Why didn't I finish 'Wolf It Down' before leaving Studio Canidae?,"Почему я не закончила «Wolf It Down», прежде чем уйти из Studio Canidae?",translated,65
+vntext.sq#59650,vntext.sq,SALLYDIVINE,"It is a bit personal, isn't it? But I don't think avoiding the question would help the image of Studio Canidae either... so I'd still like to answer it.","Это немного личное, да? Но не думаю, что уклонение от вопроса как-то поможет имиджу Studio Canidae... так что я всё же хочу на него ответить.",translated,152
+vntext.sq#59651,vntext.sq,SALLYDIVINE,"I should probably focus on giving an answer that's mostly about my relationship with art, though.","Хотя, наверное, мне стоит сосредоточиться на ответе, который в основном про мои отношения с искусством.",translated,97
+vntext.sq#59667,vntext.sq,SALLYDIVINE,"I don't think we've talked much about it, but I realize you, Lucy, and I are all people who moved to San Mazo...","Не думаю, что мы много об этом говорили, но я понимаю, что мы с тобой и Lucy все переехали в San Mazo...",translated,112
+vntext.sq#59668,vntext.sq,SALLYDIVINE,Most of my friends from Studio Canidae also moved here. It seems as if the only locals I've made friends with are the birds.,"Большинство моих друзей из Studio Canidae тоже сюда переехали. Похоже, единственные местные, с кем я подружилась, — это птицы.",translated,124
+vntext.sq#59670,vntext.sq,SALLYDIVINE,I could say the same of you. You come to work every evening with the knowledge that you'll likely hear about a stranger's trauma...,"Могу сказать то же самое о тебе. Ты приходишь на работу каждый вечер, зная, что, скорее всего, услышишь о чужой травме...",translated,131
+vntext.sq#59672,vntext.sq,SALLYDIVINE,"Heh, I suppose there's that.","Хех, полагаю, и то верно.",translated,28
+vntext.sq#59673,vntext.sq,SALLYDIVINE,I'd like to feel the kind of mood that's perfect for being a Mood Confectioner...,"Хочу почувствовать то настроение, что идеально подходит для кондитера настроения...",translated,81
+vntext.sq#59685,vntext.sq,SALLYDIVINE,I've been doing well! It's a nice evening for something cozy... I think I'll do some embroidery tonight.,"У меня всё хорошо! Приятный вечер для чего-то уютного... думаю, сегодня займусь вышивкой.",translated,104
+vntext.sq#59686,vntext.sq,SALLYDIVINE,"The older I get, the more I understand why grandmas choose these hobbies.","Чем старше становлюсь, тем больше понимаю, почему бабушки выбирают такие хобби.",translated,73
+vntext.sq#59688,vntext.sq,SALLYDIVINE,"Well, to teenagers these days, I am supposedly nearing my 'ancient dinosaur' years.","Ну, для нынешних подростков я, видимо, приближаюсь к своим 'древнединозавровым' годам.",translated,83
+vntext.sq#59695,vntext.sq,SALLYDIVINE,Keeping a dream journal has been quite exciting! I'm becoming more aware of the symbols that my mind likes to latch onto.,"Вести дневник снов было весьма увлекательно! Я стала лучше замечать символы, за которые любит цепляться мой разум.",translated,121
+vntext.sq#59696,vntext.sq,SALLYDIVINE,"For example, when I am in a good mood, I often dream of a treehouse. I'm not sure why, since I've never had a treehouse myself...","Например, когда у меня хорошее настроение, мне часто снится домик на дереве. Не уверена почему, ведь у меня самой никогда не было такого домика...",translated,129
+vntext.sq#59697,vntext.sq,SALLYDIVINE,But it is quite interesting to think about what that means for me!,"Но весьма интересно думать о том, что это для меня значит!",translated,66
+vntext.sq#59712,vntext.sq,SALLYDIVINE,Lucy's staying over at my place tonight to work on some fursuits together.,"Lucy сегодня остаётся у меня, будем вместе работать над фурсьютами.",translated,74
+vntext.sq#59713,vntext.sq,SALLYDIVINE,"You really should join us one of these days! I know embroidery is not your thing, but it can be quite fun.","Тебе правда стоит как-нибудь к нам присоединиться! Знаю, вышивка не твоё, но это может быть весело.",translated,106
+vntext.sq#59714,vntext.sq,SALLYDIVINE,It's nice to be able to just sit down and enjoy art again... and I can do that now because of you and Lucy.,Приятно снова иметь возможность просто сесть и наслаждаться искусством... и теперь я могу это делать благодаря тебе и Lucy.,translated,107
+vntext.sq#59716,vntext.sq,SALLYDIVINE,"Heh, to you, perhaps. But I really do mean it.","Хех, для тебя, может, и так. Но я серьёзно.",translated,46
+vntext.sq#59717,vntext.sq,SALLYDIVINE,I should tell this to Lucy as well... perhaps there's a recipe donut that can help with that.,"Стоит сказать это и Lucy тоже... может, есть фирменный пончик, что с этим поможет.",translated,93
+vntext.sq#59732,vntext.sq,SALLYDIVINE,"I've been working on the Kaori sweater, and I can't wait for you to see it!","Я работала над свитером с Каори, и не могу дождаться, чтобы ты его увидел!",translated,75
+vntext.sq#59733,vntext.sq,SALLYDIVINE,"I've been working on the donut snake sweater, because I figured you might actually like it.","Я работала над свитером с пончиком-змеёй, потому что решила, что он тебе может правда понравиться.",translated,91
+vntext.sq#59734,vntext.sq,SALLYDIVINE,"I've been working on a sweater for you, with an embroidery of Captain Collie!","Я работала над свитером для тебя, с вышивкой Капитана Колли!",translated,77
+vntext.sq#59737,vntext.sq,SALLYDIVINE,"I don't, but I [i] insist. [/i]","Не стоило, но я [i] настаиваю. [/i]",translated,31
+vntext.sq#59738,vntext.sq,SALLYDIVINE,"Awhile back, before we met, I was really lost... full of anxiety and regret about where I was in life.","Некоторое время назад, до нашей встречи, я была совсем потеряна... полна тревоги и сожалений о том, где я оказалась в жизни.",translated,102
+vntext.sq#59739,vntext.sq,SALLYDIVINE,"But you've been a great friend, {$mcName}. I can't ever repay that, so this is the least I can do.","Но ты был замечательным другом, {$mcName}. Я никогда не смогу отплатить за это, так что это меньшее, что я могу сделать.",translated,98
+vntext.sq#59740,vntext.sq,SALLYDIVINE,"A-Anyway, don't worry about it — embroidery's been really fun to learn more about!","В-в общем, не переживай об этом — учиться вышивке было очень весело!",translated,82
+vntext.sq#59753,vntext.sq,SALLYDIVINE,"{$recipe:butterfly} always gets me thinking about the people I love... the best things in life. I'll have one, please.","{$recipe:butterfly} всегда заставляет меня думать о людях, что я люблю... о лучшем в жизни. Возьму один, пожалуйста.",translated,118
+vntext.sq#59764,vntext.sq,SALLYDIVINE,"{$recipe:valentine}... such a lovely donut. Make one for me, please?","{$recipe:valentine}... такой прелестный пончик. Сделаешь мне один, пожалуйста?",translated,68
+vntext.sq#59775,vntext.sq,SALLYDIVINE,"I'll have one {$recipe:tutti_frutti}, please. I'm craving {$tastes:sour} flavors, and it's the best {$tastes:sour} donut.","Возьму один {$recipe:tutti_frutti}, пожалуйста. Хочется {$tastes:sour} вкусов, а это лучший {$tastes:sour} пончик.",translated,121
+vntext.sq#59786,vntext.sq,SALLYDIVINE,"{$recipe:cherry_rose} is so pretty... I always find myself staring at it. I'll have one, please.","{$recipe:cherry_rose} такой красивый... я всегда засматриваюсь на него. Возьму один, пожалуйста.",translated,96
+vntext.sq#59790,vntext.sq,SALLYDIVINE,"Hullo, {$mcName}!","Привет, {$mcName}!",translated,17
+vntext.sq#59791,vntext.sq,SALLYDIVINE,"I won't be staying long tonight — I've got my dream journal to draw on, and a bunch of embroidery stuff to study and practice tonight.",Сегодня я ненадолго — мне нужно порисовать в дневнике снов и изучить и попрактиковать кучу всего по вышивке.,translated,134
+vntext.sq#59792,vntext.sq,SALLYDIVINE,"But I thought I'd say hi, since I was in the area.","Но решила поздороваться, раз уж была неподалёку.",translated,50
+vntext.sq#59794,vntext.sq,SALLYDIVINE,"I really am! I love working with my hands, it's been helping me recover from comic book burnout.","Правда нравится! Обожаю работать руками, это помогает мне восстановиться после выгорания от комиксов.",translated,96
+vntext.sq#59795,vntext.sq,SALLYDIVINE,"Anyway, I'd like to have one of my favorite donuts tonight.","В общем, сегодня хочу один из своих любимых пончиков.",translated,59
+vntext.sq#67949,vntext.sq,SALLYDIVINE,What happened to the glaze? There should've been some on my donut.,Что случилось с глазурью? На моём пончике она должна была быть.,translated,66
+vntext.sq#67951,vntext.sq,SALLYDIVINE,There must've been some kind of mistake. The glaze is different.,"Наверное, произошла какая-то ошибка. Глазурь не та.",translated,64
+vntext.sq#67953,vntext.sq,SALLYDIVINE,This would be a lot better if it just had more glaze...,"Это было бы намного лучше, если бы тут было больше глазури...",translated,55
+vntext.sq#67955,vntext.sq,SALLYDIVINE,"No toppings at all? I admit, I'm a little offended you'd forget.","Совсем без топпингов? Признаю, немного обижена, что ты забыл.",translated,64
+vntext.sq#67957,vntext.sq,SALLYDIVINE,"Er, I think you gave me different toppings.","Эм, кажется, ты дал мне другие топпинги.",translated,43
+vntext.sq#67959,vntext.sq,SALLYDIVINE,It's admittedly quite disappointing to see how... lacking my toppings look.,"Признаться, довольно печально видеть, насколько... скудно выглядят мои топпинги.",translated,75
+vntext.sq#67961,vntext.sq,SALLYDIVINE,I'm quite sure I asked for some drizzle on my donut...,"Я довольно уверена, что просила потёки на своём пончике...",translated,54
+vntext.sq#67963,vntext.sq,SALLYDIVINE,"No, I don't think that's the drizzle I asked for...","Нет, не думаю, что это те потёки, что я просила...",translated,51
+vntext.sq#67965,vntext.sq,SALLYDIVINE,Is this really all there is? There's barely any drizzle!,"Это правда всё, что есть? Потёков почти нет!",translated,56
+vntext.sq#67967,vntext.sq,SALLYDIVINE,"Oh, this looks disappointing. Where's the filling?","Ох, это выглядит разочаровывающе. Где начинка?",translated,50
+vntext.sq#67969,vntext.sq,SALLYDIVINE,"Oh, now that's a surprise. Why is the filling different?","Ох, вот это сюрприз. Почему начинка не та?",translated,56
+vntext.sq#67971,vntext.sq,SALLYDIVINE,That's certainly... an attempt at making a donut.,Это определённо... попытка сделать пончик.,translated,49
+vntext.sq#67973,vntext.sq,SALLYDIVINE,Are you trying something new? I wish you told me beforehand before adding... all of this.,"Пробуешь что-то новое? Жаль, что не предупредил меня заранее, прежде чем добавлять... всё это.",translated,89
+vntext.sq#67977,vntext.sq,SALLYDIVINE,Curious. I don't see any glaze anywhere... was there some kind of mistake?,Любопытно. Нигде не вижу глазури... произошла какая-то ошибка?,translated,74
+vntext.sq#67979,vntext.sq,SALLYDIVINE,Are you sure this is mine? I asked for a different glaze.,"Ты уверен, что это мой? Я просила другую глазурь.",translated,57
+vntext.sq#67981,vntext.sq,SALLYDIVINE,A shame there's hardly any glaze. The donut can't really shine without it.,"Жаль, что глазури почти нет. Пончик по-настоящему не блестит без неё.",translated,74
+vntext.sq#67983,vntext.sq,SALLYDIVINE,This donut seems rather empty. What happened to the toppings?,Этот пончик выглядит довольно пустым. Что случилось с топпингами?,translated,61
+vntext.sq#67985,vntext.sq,SALLYDIVINE,That's not how I expected my donut to look. Those toppings are different from what I asked for.,"Не так я представляла свой пончик. Эти топпинги не те, что я просила.",translated,95
+vntext.sq#67987,vntext.sq,SALLYDIVINE,"Hm. Honestly, I was expecting to see more toppings.","Хм. Если честно, ожидала увидеть больше топпингов.",translated,51
+vntext.sq#67989,vntext.sq,SALLYDIVINE,Now why is there no drizzle? I was quite clear.,Так почему нет потёков? Я довольно ясно выразилась.,translated,47
+vntext.sq#67991,vntext.sq,SALLYDIVINE,Curious. The drizzle on my donut is different from what I asked for... there's clearly a mistake here.,"Любопытно. Потёки на моём пончике не те, что я просила... тут явно ошибка.",translated,102
+vntext.sq#67993,vntext.sq,SALLYDIVINE,I do wish you put more drizzle on my donut. It looks so empty!,"Хотела бы я, чтобы ты положил больше потёков на мой пончик. Он выглядит таким пустым!",translated,62
+vntext.sq#67995,vntext.sq,SALLYDIVINE,Hmm. I'm quite certain my donut was supposed to have some filling.,"Хмм. Довольно уверена, что в моём пончике должна была быть какая-то начинка.",translated,66
+vntext.sq#67997,vntext.sq,SALLYDIVINE,"Wait, this isn't the filling I wanted.","Погоди, это не та начинка, что я хотела.",translated,38
+vntext.sq#67999,vntext.sq,SALLYDIVINE,"I don't mean to be rude, but this donut isn't very... appealing. Would you like some help with, er, composition?","Не хочу показаться грубой, но этот пончик не особо... привлекателен. Не нужна ли тебе помощь с, эм, композицией?",translated,112
+vntext.sq#68001,vntext.sq,SALLYDIVINE,"Wait, I didn't ask for any of this...","Погоди, я не просила ничего из этого...",translated,37
+vntext.sq#68005,vntext.sq,SALLYDIVINE,Is this really the finished product? I don't see the glaze anywhere.,Это правда готовый продукт? Нигде не вижу глазури.,translated,68
+vntext.sq#68007,vntext.sq,SALLYDIVINE,"Oh, the glaze isn't exactly what I asked for...","Ох, глазурь не совсем то, что я просила...",translated,47
+vntext.sq#68009,vntext.sq,SALLYDIVINE,"Oh, where's the rest of the glaze? This is hardly a finished donut!","Ох, а где остальная глазурь? Это едва ли законченный пончик!",translated,67
+vntext.sq#68011,vntext.sq,SALLYDIVINE,I'm quite certain my donut is supposed to come with some toppings. Did you forget?,"Довольно уверена, что мой пончик должен идти с топпингами. Ты забыл?",translated,82
+vntext.sq#68013,vntext.sq,SALLYDIVINE,Why did you change the toppings I requested to something else?,"Почему ты заменил топпинги, которые я просила, на что-то другое?",translated,62
+vntext.sq#68015,vntext.sq,SALLYDIVINE,"I'd rather not complain, but the lack of toppings is really disappointing.","Не хотела бы жаловаться, но нехватка топпингов правда разочаровывает.",translated,74
+vntext.sq#68017,vntext.sq,SALLYDIVINE,"Did you forget to put the flavor drizzle, by any chance? Or did you just run out?",Ты случайно не забыл положить ароматные потёки? Или просто закончились?,translated,81
+vntext.sq#68019,vntext.sq,SALLYDIVINE,This isn't the drizzle I asked for.,"Это не те потёки, что я просила.",translated,35
+vntext.sq#68021,vntext.sq,SALLYDIVINE,"You could've at least put some more drizzle, you know...","Мог бы хотя бы положить побольше потёков, знаешь ли...",translated,56
+vntext.sq#68023,vntext.sq,SALLYDIVINE,I can't believe you forgot to put filling in my donut! You should check your orders next time.,"Не могу поверить, ты забыл положить начинку в мой пончик! Тебе стоит проверять заказы в следующий раз.",translated,94
+vntext.sq#68025,vntext.sq,SALLYDIVINE,How strange. I'm quite sure I asked for a different filling.,"Как странно. Довольно уверена, что просила другую начинку.",translated,60
+vntext.sq#68027,vntext.sq,SALLYDIVINE,This donut... I'm sure you can do much better with how it looks.,"Этот пончик... уверена, ты можешь сделать намного лучше по виду.",translated,64
+vntext.sq#68029,vntext.sq,SALLYDIVINE,"This is a really... uh, [i] lavish [/i] donut. I don't recall asking for it.","Это правда... эм, [i] роскошный [/i] пончик. Не припомню, чтобы его просила.",translated,76
+vntext.sq#68031,vntext.sq,SALLYDIVINE,I think you've gotten the shape wrong.,"Думаю, ты перепутал форму.",translated,38
+vntext.sq#68032,vntext.sq,SALLYDIVINE,I suppose I won't know if it's any good until I try. Thank you for the food!,"Полагаю, я не узнаю, хорош ли он, пока не попробую. Спасибо за еду!",translated,76
+vntext.sq#72555,vntext.sq,SALLYDIVINE,"Ah yes, this would do!","Ах да, это подойдёт!",translated,22
+vntext.sq#72557,vntext.sq,SALLYDIVINE,Hullo there! Would you mind if I do a livestream here?,"Приветик! Не будешь против, если я тут проведу стрим?",translated,54
+vntext.sq#72564,vntext.sq,SALLYDIVINE,"It's just a quick Q&A one — what I've been up to, what new places I'd recommend, that sort of thing.","Это просто короткая сессия вопросов-ответов — чем я занималась, какие новые места посоветовать, всё в таком духе.",translated,100
+vntext.sq#72565,vntext.sq,SALLYDIVINE,Would it be a too much of a bother?,Это не будет слишком большой проблемой?,translated,35
+vntext.sq#72568,vntext.sq,SALLYDIVINE,Hmm...,Хм...,translated,6
+vntext.sq#72570,vntext.sq,SALLYDIVINE,"I'm leaving it up to you. It's my first time trying out, err, mood enhancers, so I'd really appreciate your recommendation.","Оставляю это на твоё усмотрение. Это мой первый раз с, эм, усилителями настроения, так что буду очень благодарна за рекомендацию.",translated,123
+vntext.sq#72573,vntext.sq,SALLYDIVINE,"Oh, thank you so much~","Ох, большое тебе спасибо~",translated,22
+vntext.sq#72575,vntext.sq,SALLYDIVINE,Thank you so much!,Большое спасибо!,translated,18
+vntext.sq#72576,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#72577,vntext.sq,SALLYDIVINE,...?,...?,translated,4
+vntext.sq#72578,vntext.sq,SALLYDIVINE,Perhaps there's been a mistake? I'm afraid this isn't very good...,"Возможно, вышла какая-то ошибка? Боюсь, это не очень вкусно...",translated,66
+vntext.sq#72580,vntext.sq,SALLYDIVINE,...,...,translated,3
+vntext.sq#72581,vntext.sq,SALLYDIVINE,...??,...??,translated,5
+vntext.sq#72582,vntext.sq,SALLYDIVINE,What an interesting... taste.,Какой интересный... вкус.,translated,29
+vntext.sq#72583,vntext.sq,SALLYDIVINE,Well... that was quite... different from what I expected. I suppose I'll have to try again next time.,"Что ж... это оказалось довольно... не тем, что я ожидала. Полагаю, попробую снова в следующий раз.",translated,101
+vntext.sq#72585,vntext.sq,SALLYDIVINE,Oh. Wow.,Ох. Ого.,translated,8
+vntext.sq#72586,vntext.sq,SALLYDIVINE,"I know I'm supposed to do a livestream, but this is making me feel like catching some deadlines!","Знаю, мне вообще-то нужно стримить, но у меня прямо появилось желание нагнать все дедлайны!",translated,96
+vntext.sq#72588,vntext.sq,SALLYDIVINE,"Haha, don't worry. You chose well. I suppose my deadlines have just been on my mind.","Ха-ха, не переживай. Ты выбрал хорошо. Наверное, дедлайны просто не выходили у меня из головы.",translated,84
+vntext.sq#72589,vntext.sq,SALLYDIVINE,Gosh... I must resist this. I... suddenly feel like drawing.,Боже... я должна устоять. Мне... вдруг захотелось рисовать.,translated,60
+vntext.sq#72591,vntext.sq,SALLYDIVINE,"How funny. I don't usually like lemon-flavored things myself, but I think I might want more of this in the future...","Забавно. Обычно я сама не особо люблю лимонный вкус, но, кажется, в будущем захочу этого ещё...",translated,116
+vntext.sq#72592,vntext.sq,SALLYDIVINE,I can't help but think about my fans... the ones who'll be watching the livestream.,"Не могу перестать думать о своих фанатах... тех, кто будет смотреть стрим.",translated,83
+vntext.sq#72593,vntext.sq,SALLYDIVINE,"They keep me going, and I'm always grateful for them...","Они дают мне силы двигаться дальше, и я всегда им благодарна...",translated,55
+vntext.sq#72594,vntext.sq,SALLYDIVINE,"But right now, this feeling's even more intense. It's this donut, isn't it?","Но сейчас это чувство даже сильнее. Это всё из-за пончика, да?",translated,75
+vntext.sq#72596,vntext.sq,SALLYDIVINE,Thank you again. I'll give your cafe and donuts a special mention during my livestream.,Ещё раз спасибо. Я особо отмечу твоё кафе и пончики во время стрима.,translated,87
+vntext.sq#72598,vntext.sq,SALLYDIVINE,Oh. Wow.,Ох. Ого.,translated,8
+vntext.sq#72599,vntext.sq,SALLYDIVINE,This donut's really lovely. And what a great atmosphere you've got here!,Пончик просто прелесть. И какая же тут прекрасная атмосфера!,translated,72
+vntext.sq#72600,vntext.sq,SALLYDIVINE,I feel so... lighthearted right now. Like everything is alright with the world.,Я чувствую себя так... легко сейчас. Будто в мире всё хорошо.,translated,79
+vntext.sq#72602,vntext.sq,SALLYDIVINE,"I [i] adore [/i] this flavor. I must confess that I don't normally seek out fried desserts, but there's this magic to your donuts.","Я просто [i] обожаю [/i] этот вкус. Должна признаться, обычно я не тянусь к жареным десертам, но в твоих пончиках есть какая-то магия.",translated,130
+vntext.sq#72603,vntext.sq,SALLYDIVINE,I'm almost tempted to just sit here and bask in the atmosphere instead of pushing through with the livestream.,"У меня прямо возникает соблазн просто посидеть тут, наслаждаясь атмосферой, вместо того чтобы продолжать стрим.",translated,110
+vntext.sq#72604,vntext.sq,SALLYDIVINE,"That would be bad for publicity, though...",Хотя для пиара это было бы не очень...,translated,42
+vntext.sq#72605,vntext.sq,SALLYDIVINE,"Oh, what am I saying — sorry about that. I'm just a bit tired, that's all.","Ох, что я такое говорю — извини. Я просто немного устала, вот и всё.",translated,74
+vntext.sq#72607,vntext.sq,SALLYDIVINE,This.. this is very different.,Это... это совсем другое.,translated,30
+vntext.sq#72609,vntext.sq,SALLYDIVINE,"Oh, no, it's not that. It's just a mood I'm not used to. Like I can take on anything.","Ох, нет, дело не в этом. Просто настроение непривычное. Такое чувство, будто мне всё по плечу.",translated,85
+vntext.sq#72611,vntext.sq,SALLYDIVINE,Thank you again. I'll give your cafe and donuts a special mention during my livestream.,Ещё раз спасибо. Я особо отмечу твоё кафе и пончики во время стрима.,translated,87
+vntext.sq#72613,vntext.sq,SALLYDIVINE,Oh. Wow.,Ох. Ого.,translated,8
+vntext.sq#72614,vntext.sq,SALLYDIVINE,There's something about this donut... it takes me back to the time when I lived with my grandmother.,"В этом пончике есть что-то такое... он возвращает меня во времена, когда я жила с бабушкой.",translated,100
+vntext.sq#72615,vntext.sq,SALLYDIVINE,"She loved to bake pastries. Strawberries were both our favorite, so she almost always used them.","Она обожала печь выпечку. Клубника была нашим общим любимым вкусом, так что она почти всегда её использовала.",translated,96
+vntext.sq#72616,vntext.sq,SALLYDIVINE,"Oh, to be a child again... with dough-covered fingers, resisting the temptation to lick them, hehe...","Ах, снова стать ребёнком... с пальцами в тесте, изо всех сил сопротивляясь искушению их облизать, хе-хе...",translated,101
+vntext.sq#72618,vntext.sq,SALLYDIVINE,I'm... curious. Do you often eat this particular flavor?,Мне... любопытно. Ты часто ешь именно этот вкус?,translated,56
+vntext.sq#72620,vntext.sq,SALLYDIVINE,"Interesting. Yeah, I just thought this would be perfect for one of those busy days, when everyone's ordering something extra complicated.","Интересно. Ага, просто подумала, что это было бы идеально для тех загруженных дней, когда все заказывают что-то особенно сложное.",translated,137
+vntext.sq#72621,vntext.sq,SALLYDIVINE,"I worked as a barista before, and I definitely could've used this back then.","Раньше я работала бариста, и мне бы это тогда точно пригодилось.",translated,76
+vntext.sq#72624,vntext.sq,SALLYDIVINE,"Wonderful. Takes me back, actually, to the hot springs I used to frequent back home.","Чудесно. Вообще-то, это возвращает меня к горячим источникам, куда я часто ходила у себя дома.",translated,84
+vntext.sq#72625,vntext.sq,SALLYDIVINE,"I did my best not to fall asleep in them, but it was always sooo tempting...","Я изо всех сил старалась там не заснуть, но соблазн был та-а-акой сильный...",translated,76
+vntext.sq#72627,vntext.sq,SALLYDIVINE,"Heh, that would be lovely.","Хех, это было бы прекрасно.",translated,26
+vntext.sq#72628,vntext.sq,SALLYDIVINE,Thank you again. I'll give your cafe and donuts a special mention during my livestream.,Ещё раз спасибо. Я особо отмечу твоё кафе и пончики во время стрима.,translated,87
+vntext.sq#72632,vntext.sq,SALLYDIVINE,So this is what a mood cafe is like... and the vibe of this place is nice and chill.,"Так вот как выглядит кафе настроения... и атмосфера тут приятная, расслабленная.",translated,84
+vntext.sq#72633,vntext.sq,SALLYDIVINE,"I think I might drop by again, but out of streaming hours next time.","Думаю, я, может, зайду ещё раз, но в следующий раз не во время стрима.",translated,68
+vntext.sq#72634,vntext.sq,SALLYDIVINE,"Oh, if you don't mind, that is.","Ох, если ты, конечно, не против.",translated,31
+vntext.sq#72636,vntext.sq,SALLYDIVINE,"Brilliant! I used to work in cafes, you know? The traditional ones with the smell of coffee lingering on your clothes all day.","Прекрасно! Знаешь, я раньше работала в кафе. В обычных, где запах кофе весь день держится на одежде.",translated,126
+vntext.sq#72637,vntext.sq,SALLYDIVINE,"There's just something about sitting in the hustle and bustle, absorbing the human condition. That kind of thing.","Есть что-то особенное в том, чтобы сидеть в самой гуще суеты, впитывая человеческую натуру. Что-то в этом роде.",translated,113
+vntext.sq#72638,vntext.sq,SALLYDIVINE,But my art isn't probably the kind of thing random strangers would want to see in public.,"Но моё творчество, наверное, не то, что случайные незнакомцы захотели бы увидеть на публике.",translated,89
+vntext.sq#72640,vntext.sq,SALLYDIVINE,Haha! Then perhaps I can show you my work next time.,"Ха-ха! Тогда, может, в следующий раз покажу тебе свои работы.",translated,52
+vntext.sq#72641,vntext.sq,SALLYDIVINE,"I'm Sally Divine, by the way.","Кстати, я Sally Divine.",translated,29
+vntext.sq#72643,vntext.sq,SALLYDIVINE,"See you later, {$mcName}!","До встречи, {$mcName}!",translated,25
+vntext.sq#73580,vntext.sq,SALLYDIVINE,"[i] Hullo, my Puppy Pals~ It's me, Sally! [/i]","[i] Приветик, мои Пёсики-Дружочки~ Это я, Sally! [/i]",translated,46

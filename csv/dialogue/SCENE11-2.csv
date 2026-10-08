@@ -1,0 +1,3 @@
+id,file,context,source,target,status,max_len
+vntext.sq#46473,vntext.sq,SCENE11-2,I'll have Connor's favorite donut with his favorite ${toppings}!,Я возьму любимый пончик Connor с его любимыми ${toppings}!,translated,64
+vntext.sq#46474,vntext.sq,SCENE11-2,Okay.,Хорошо.,translated,5

@@ -1,0 +1,435 @@
+id,file,context,source,target,status,max_len
+vntext.sq#10437,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#10438,vntext.sq,HIPSTER,"A pleasant evening, Mood Confectioner!","Приятного вечера, Кондитер Настроения!",translated,38
+vntext.sq#10440,vntext.sq,HIPSTER,Indeed! I was wondering if your boss was here?,"Действительно! Интересовался, здесь ли ваш босс?",translated,46
+vntext.sq#10443,vntext.sq,HIPSTER,Is that so? Hmm...,Вот как? Хм...,translated,18
+vntext.sq#10445,vntext.sq,HIPSTER,"Well, truthfully... I was told by uh, a friend, that Lucky knew someone who was willing to part with a very rare J-nie vinyl...","Ну, если честно... мне сказал, эм, друг, что Лаки знает кого-то, кто готов расстаться с очень редкой виниловой пластинкой J-ni...",translated,127
+vntext.sq#10447,vntext.sq,HIPSTER,"Nothing wrong with pop songs, my friend! Why, this particular album I'm looking for is an absolute masterpiece! She truly showed the haters!","Ничего плохого в поп-песнях, друг мой! Этот конкретный альбом, который я ищу — абсолютный шедевр! Она правда всем ненавистникам показала!",translated,140
+vntext.sq#10450,vntext.sq,HIPSTER,"That's what my friend told me! Lucky Santoro. He's quite well known in some San Juanico circles, apparently.","Именно это мне и сказал мой друг! Лаки Санторо. Он, оказывается, довольно известен в некоторых кругах Сан-Хуанико.",translated,108
+vntext.sq#10452,vntext.sq,HIPSTER,"Heh, I have some artist friends from there. Such as the one who gave me the tip.","Хех, у меня там есть друзья-художники. Например, тот, кто дал мне наводку.",translated,80
+vntext.sq#10454,vntext.sq,HIPSTER,"Don't worry about it, my friend! This can wait.","Не переживайте, друг мой! Это может подождать.",translated,47
+vntext.sq#10455,vntext.sq,HIPSTER,"After all... the thrill of the chase... Looking for my holy grail... Ah, that's part of the collector's joy is it not?","В конце концов... острота погони... поиски моего святого Грааля... ах, разве это не часть радости коллекционера?",translated,118
+vntext.sq#10457,vntext.sq,HIPSTER,Hehe! I knew you'd understand. Just thinking of finally having [i] Ruby [/i] in my hands... oh! My heart beats fast just thinking about that beautiful red finish! I don't even mind if they don't come with the original photocards. I have all of them anyway!,"Хехе! Знал, что вы поймёте. Одна мысль о том, что наконец подержу [i] Руби [/i] в руках... ох! Сердце колотится, стоит подумать о её прекрасной красной отделке! Мне даже неважно, если они будут без оригинальных фотокарточек. У меня и так все они есть!",translated,256
+vntext.sq#10462,vntext.sq,HIPSTER,Are you perhaps talking to me?,"Вы это, случайно, не со мной разговариваете?",translated,30
+vntext.sq#10464,vntext.sq,HIPSTER,Crime? I'm afraid I don't understand —,"Преступление? Боюсь, я не понимаю —",translated,38
+vntext.sq#10465,vntext.sq,HIPSTER,"Ah, I get it! Are you perhaps one of J-nie's haters? Those who think listening to her songs is a crime? How narrow-minded!","А, понял! Вы, случайно, не из ненавистников J-ni? Из тех, кто думает, что слушать её песни — преступление? Как узколобо!",translated,122
+vntext.sq#10466,vntext.sq,HIPSTER,My queen doesn't need to prove anything to the likes of you! Much less I!,"Моей королеве не нужно ничего доказывать таким, как вы! Тем более мне!",translated,73
+vntext.sq#10477,vntext.sq,HIPSTER,…!,…!,translated,2
+vntext.sq#10478,vntext.sq,HIPSTER,Four months ago… the 25th…,Четыре месяца назад… 25-е…,translated,26
+vntext.sq#10479,vntext.sq,HIPSTER,"Ah, my dear detective! I think I know why you suspect me!","Ах, мой дорогой детектив! Кажется, я знаю, почему вы меня подозреваете!",translated,57
+vntext.sq#10480,vntext.sq,HIPSTER,For it is true. I did spend seven days and seven nights in jail four months ago...,Ибо это правда. Я и правда провёл семь дней и семь ночей в тюрьме четыре месяца назад...,translated,82
+vntext.sq#10481,vntext.sq,HIPSTER,"But it was only for the sake of love! You see, I was at a Tay Sweeft concert and I heard a group of young men saying some very [i] unpleasant [/i] things about her.","Но только ради любви! Видите ли, я был на концерте Тэй Свифт и услышал, как группа молодых людей говорила очень [i] неприятные [/i] вещи о ней.",translated,164
+vntext.sq#10482,vntext.sq,HIPSTER,"Naturally, I couldn't allow it! I'm afraid it ended in fisticuffs.","Естественно, я не мог этого допустить! Боюсь, всё закончилось потасовкой.",translated,66
+vntext.sq#10483,vntext.sq,HIPSTER,Agh! I was thrown out of the venue and unable to listen to my favorite song!,"Ах! Меня вышвырнули с мероприятия, и я не смог дослушать свою любимую песню!",translated,76
+vntext.sq#10485,vntext.sq,HIPSTER,"Indeed, my dear Mood Confectioner! But do not fret!","Действительно, мой дорогой Кондитер Настроения! Но не переживайте!",translated,51
+vntext.sq#10486,vntext.sq,HIPSTER,I was cast behind iron bars for merely practicing my craft!,"Меня заключили за решётку лишь за то, что я практиковал своё ремесло!",translated,59
+vntext.sq#10487,vntext.sq,HIPSTER,"Agh! That ungrateful old man! I was merely doing him the favor of beautifying his home, but alas...","Ах! Этот неблагодарный старик! Я всего лишь оказывал ему услугу, украшая его дом, но увы...",translated,99
+vntext.sq#10488,vntext.sq,HIPSTER,He called my mural a form of ‘vandalism!’ The nerve!,Он назвал мою фреску формой 'вандализма!' Какая наглость!,translated,52
+vntext.sq#10489,vntext.sq,HIPSTER,"And if I must leave myself at the mercy of the oppressive gaze of Lady Justice for art, so be it!","И если мне придётся отдать себя на милость гнетущего взгляда Госпожи Правосудия ради искусства, пусть так и будет!",translated,97
+vntext.sq#10491,vntext.sq,HIPSTER,... Really?,... Правда?,translated,11
+vntext.sq#10493,vntext.sq,HIPSTER,... But I was about to order a donut.,... Но я как раз собирался заказать пончик.,translated,37
+vntext.sq#10495,vntext.sq,HIPSTER,"Ahem! Well. I suppose I must go. I'll see you later, friend!","Кхм! Что ж. Полагаю, мне пора идти. Увидимся позже, друг!",translated,60
+vntext.sq#10496,vntext.sq,HIPSTER,…,…,translated,1
+vntext.sq#11992,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#11994,vntext.sq,HIPSTER,"Ah, this place! It's exactly what I need...","Ах, вот оно! Именно то, что мне нужно...",translated,43
+vntext.sq#11995,vntext.sq,HIPSTER,The retro vibe is quite charming. The music isn't bad either!,Ретро-атмосфера довольно очаровательна. И музыка тоже неплоха!,translated,61
+vntext.sq#11998,vntext.sq,HIPSTER,And mood enhancers... I've read about them online.,А ещё усилители настроения... я про них читал в интернете.,translated,50
+vntext.sq#11999,vntext.sq,HIPSTER,Capturing the complexity of emotions in a delectable treat... very unique! Quite bold and ambitious!,Уловить всю сложность эмоций в изысканном лакомстве... очень оригинально! Довольно смело и амбициозно!,translated,100
+vntext.sq#12000,vntext.sq,HIPSTER,Color me intrigued!,"Заинтриговали, ничего не скажешь!",translated,19
+vntext.sq#12001,vntext.sq,HIPSTER,"Now... the truth is, I'm in need of something... a spark... a Muse, if you will!","Так вот... по правде говоря, мне кое-что нужно... искра... своего рода Муза!",translated,80
+vntext.sq#12016,vntext.sq,HIPSTER,"I'm all for [i] avant-garde, [/i] but let's have an actual vision next time, okay?","Я всецело за [i] авангард, [/i] но давай в следующий раз с настоящим замыслом, хорошо?",translated,82
+vntext.sq#12018,vntext.sq,HIPSTER,Don't mind if I do!,Не откажусь!,translated,19
+vntext.sq#12020,vntext.sq,HIPSTER,Beautiful! It looks good from all angles. The tartness of the {$flavors:lemon_acid} is well-balanced...,Прекрасно! Смотрится хорошо со всех сторон. Кислинка {$flavors:lemon_acid} прекрасно сбалансирована...,translated,103
+vntext.sq#12021,vntext.sq,HIPSTER,And the mood enhancer! Oh! Ideas are rushing into my head... I need a pen and paper immediately!,А усилитель настроения! О! Идеи так и хлынули мне в голову... мне срочно нужны ручка и бумага!,translated,96
+vntext.sq#12023,vntext.sq,HIPSTER,"Hm... I guess this isn't too bad. After all, we all need {$moods:passion} for our craft!","Хм... думаю, не так уж плохо. В конце концов, всем нам нужна {$moods:passion} для своего ремесла!",translated,88
+vntext.sq#12024,vntext.sq,HIPSTER,"I appreciate the {$moods:focus}, but I'm afraid I need some {$moods:inspiration} first...","Ценю {$moods:focus}, но боюсь, мне сперва нужна {$moods:inspiration}...",translated,89
+vntext.sq#12025,vntext.sq,HIPSTER,Hmm... Memories of my childhood... my past loves... Those could be good material... But maybe a bit low-concept?,"Хмм... Воспоминания детства... прежние возлюбленные... Это могло бы стать хорошим материалом... Но, может, слегка простовато?",translated,112
+vntext.sq#12026,vntext.sq,HIPSTER,Haah. Maybe I should just take it easy tonight — Oh what am I saying?! Creativity never rests!,"Хаа. Может, стоит просто расслабиться сегодня вечером — ой, что я такое говорю?! Творчество никогда не отдыхает!",translated,94
+vntext.sq#12027,vntext.sq,HIPSTER,"{$moods:patience}... Perhaps if I wait long enough, the {$moods:inspiration} will come...?","{$moods:patience}... Может, если подождать достаточно долго, {$moods:inspiration} придёт сама...?",translated,90
+vntext.sq#12028,vntext.sq,HIPSTER,I'm feeling too happy to think about anything else!,"Я слишком счастлив, чтобы думать о чём-то ещё!",translated,51
+vntext.sq#12029,vntext.sq,HIPSTER,"Ah, I'm getting worried... At this rate, will I be one of those authors who spend their whole lives working on a single masterpiece? Oh, but it's almost a tragedy not to share my greatness to the world!","Ах, я начинаю волноваться... Так и до того недалеко, чтобы стать одним из тех авторов, что всю жизнь пишут единственный шедевр? Но ведь почти трагедия — не поделиться своим величием с миром!",translated,202
+vntext.sq#12030,vntext.sq,HIPSTER,A blank page is nothing to fear! I can do this! ... If only I had ideas...,Чистая страница — это не страшно! Я справлюсь! ...Если бы только у меня были идеи...,translated,74
+vntext.sq#12031,vntext.sq,HIPSTER,"...Oh, I have none of my writing implements at hand! What woe!","...Ох, у меня же нет под рукой ничего для письма! Какое горе!",translated,62
+vntext.sq#12032,vntext.sq,HIPSTER,How was I to know your donuts would be so effective? I need to keep this in mind for when I come here again!,"Откуда мне было знать, что твои пончики окажутся настолько эффективными? Нужно это запомнить на следующий раз!",translated,108
+vntext.sq#12034,vntext.sq,HIPSTER,The feeling is quite different! The sound of my pen moving across the page... the glistening ink... Digital means cannot possibly compare!,"Ощущения совсем другие! Звук пера, скользящего по бумаге... блеск чернил... Цифровые средства и близко не сравнятся!",translated,138
+vntext.sq#12035,vntext.sq,HIPSTER,Perhaps this is your first time speaking to a real author?,"Возможно, ты впервые разговариваешь с настоящим автором?",translated,58
+vntext.sq#12042,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12043,vntext.sq,HIPSTER,"A singer-songwriter, huh? I have a lot of respect for them myself, but I always wonder if perhaps they're spreading themselves too thin.","Певица-автор, значит? Я сам их очень уважаю, но всегда задаюсь вопросом, не разрываются ли они между слишком многим.",translated,136
+vntext.sq#12044,vntext.sq,HIPSTER,"After all, is it really possible to serve more than one Muse?","В конце концов, возможно ли вообще служить больше чем одной Музе?",translated,61
+vntext.sq#12046,vntext.sq,HIPSTER,Goodness! Not at all!,Боже мой! Вовсе нет!,translated,21
+vntext.sq#12047,vntext.sq,HIPSTER,"Well, your craft is more technical, and should I even say... mathematic?","Что ж, твоё ремесло более техническое, я бы даже сказал... математическое?",translated,72
+vntext.sq#12048,vntext.sq,HIPSTER,I suppose it makes sense that you don't understand.,"Полагаю, неудивительно, что ты не понимаешь.",translated,51
+vntext.sq#12050,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12053,vntext.sq,HIPSTER,Indeed? Perhaps it makes sense that creative types would frequent this place.,"Правда? Что ж, логично, что творческие люди наведываются в это место.",translated,77
+vntext.sq#12054,vntext.sq,HIPSTER,"Does your friend, like myself, come here to find inspiration as well?","Твоя подруга, как и я, тоже приходит сюда за вдохновением?",translated,69
+vntext.sq#12056,vntext.sq,HIPSTER,"Ah, quite the purveyor of ideas! I understand completely!","Ах, настоящий поставщик идей! Прекрасно понимаю!",translated,57
+vntext.sq#12058,vntext.sq,HIPSTER,"...I suppose. Your tools are donuts and mood enhancers... and you could even say we, your customers, are your works of art!","...Пожалуй. Твои инструменты — пончики и усилители настроения... и можно даже сказать, что мы, твои клиенты, — твои произведения искусства!",translated,123
+vntext.sq#12059,vntext.sq,HIPSTER,"Ahhh! When I stepped through these doors, I had no idea I would take part in a piece of performance art! How delightful!","Аххх! Когда я переступал этот порог, даже не подозревал, что стану частью перформанса! Как восхитительно!",translated,120
+vntext.sq#12061,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12062,vntext.sq,HIPSTER,"Ah, that donut really could have been better.","Ах, этот пончик и правда мог бы быть получше.",translated,45
+vntext.sq#12063,vntext.sq,HIPSTER,But I suppose every experience could mean something. I will draw on this disappointment for when I start writing!,"Но, полагаю, любой опыт что-то да значит. Я использую это разочарование, когда сяду за письмо!",translated,113
+vntext.sq#12065,vntext.sq,HIPSTER,Not to worry! There's always next time!,Не переживай! Всегда есть следующий раз!,translated,39
+vntext.sq#12066,vntext.sq,HIPSTER,Remember me! For my name will be gracing the shelves of bookstores nationwide... Nay! Worldwide!,Запомни меня! Ведь моё имя однажды украсит полки книжных магазинов по всей стране... Нет! По всему миру!,translated,96
+vntext.sq#12068,vntext.sq,HIPSTER,"Elias Strohman, future New Yorrick Times Bestselling author! At your service!","Элиас Штроман, будущий автор бестселлеров по версии 'Нью-Йоррик Таймс'! К вашим услугам!",translated,77
+vntext.sq#12069,vntext.sq,HIPSTER,"I'll see you again, Mood Confectioner!","Увидимся ещё, Кондитер настроения!",translated,38
+vntext.sq#12073,vntext.sq,HIPSTER,"A wonderful evening to you, Mood Confectioner!","Прекрасного вечера тебе, Кондитер настроения!",translated,46
+vntext.sq#12075,vntext.sq,HIPSTER,I must thank you for the wonderful donut last time.,Должен поблагодарить тебя за тот чудесный пончик в прошлый раз.,translated,51
+vntext.sq#12076,vntext.sq,HIPSTER,"Thanks to the burst of {$moods:inspiration}, I was able to write ten pages that night!",Благодаря всплеску {$moods:inspiration} я смог написать десять страниц в ту же ночь!,translated,86
+vntext.sq#12079,vntext.sq,HIPSTER,"I hope this time, you'll be able to give me the donut that I'm looking for!","Надеюсь, в этот раз ты сможешь дать мне тот самый пончик, который я ищу!",translated,75
+vntext.sq#12083,vntext.sq,HIPSTER,"Hehe, this is exactly why I'm here!","Хе-хе, именно за этим я сюда и хожу!",translated,35
+vntext.sq#12084,vntext.sq,HIPSTER,"You see, I've been thinking about it... Perhaps as a writer, I need to be even more aware of emotions, my own and otherwise.","Видишь ли, я тут размышлял... возможно, как писателю, мне нужно ещё острее осознавать эмоции — свои и чужие.",translated,124
+vntext.sq#12085,vntext.sq,HIPSTER,"Not that I'm not already 110% aware of emotions, of course!","Не то чтобы я и так не осознаю их на все 110%, конечно же!",translated,59
+vntext.sq#12098,vntext.sq,HIPSTER,Ah... this donut is completely inedible.,Ах... этот пончик совершенно несъедобен.,translated,40
+vntext.sq#12099,vntext.sq,HIPSTER,Ah... this donut tastes like absolutely nothing.,Ах... этот пончик совсем никакой на вкус.,translated,48
+vntext.sq#12100,vntext.sq,HIPSTER,But I get it. I asked for such a complicated thing... truly a philosophical quandary. I totally get why people would fail to understand such genius.,"Но я понимаю. Я попросил о столь сложной вещи... поистине философской дилемме. Прекрасно понимаю, почему люди не в силах постичь подобный гений.",translated,148
+vntext.sq#12103,vntext.sq,HIPSTER,"Oh lovely. Well, I guess all's well that ends well.","Ах, чудесно. Что ж, полагаю, всё хорошо, что хорошо кончается.",translated,51
+vntext.sq#12104,vntext.sq,HIPSTER,Except for that poor donut! Hahaha!,Кроме того бедного пончика! Ха-ха-ха!,translated,35
+vntext.sq#12107,vntext.sq,HIPSTER,Now this is more like it!,Вот это уже больше похоже на дело!,translated,25
+vntext.sq#12108,vntext.sq,HIPSTER,"The truth is, perhaps I am a little bit reticent when it comes to my own emotions.","По правде говоря, возможно, я немного скрытен, когда дело касается собственных эмоций.",translated,82
+vntext.sq#12109,vntext.sq,HIPSTER,That can't be a mark of a good writer... It's something I must overcome!,Это не может быть признаком хорошего писателя... Мне нужно это преодолеть!,translated,72
+vntext.sq#12110,vntext.sq,HIPSTER,"Oh! A dark horse, if I do say so myself!","О! Тёмная лошадка, не побоюсь этого слова!",translated,40
+vntext.sq#12111,vntext.sq,HIPSTER,"Indeed, for one such as I, intense {$moods:focus} might just be the key to unlocking the mystery of emotions!","Действительно, для такого, как я, интенсивная {$moods:focus} может оказаться ключом к разгадке тайны эмоций!",translated,109
+vntext.sq#12113,vntext.sq,HIPSTER,My heart is on fire! But perhaps this emotion lacks the depth I've been looking for tonight...,"Моё сердце пылает! Но, возможно, этой эмоции не хватает глубины, которую я искал сегодня вечером...",translated,94
+vntext.sq#12114,vntext.sq,HIPSTER,"Alas... this is my favourite flavor, but not what I need tonight.","Увы... это мой любимый вкус, но не то, что мне нужно сегодня.",translated,65
+vntext.sq#12115,vntext.sq,HIPSTER,"Hmm, I suppose this feeling of longing for the past isn't too bad... but I want to focus on the present as well!","Хм, полагаю, это чувство тоски по прошлому не так уж плохо... но хочу сосредоточиться и на настоящем!",translated,112
+vntext.sq#12116,vntext.sq,HIPSTER,I'm feeling too ${relaxed}... But I must not be complacent!,Я чувствую себя слишком ${relaxed}... Но нельзя расслабляться!,translated,59
+vntext.sq#12117,vntext.sq,HIPSTER,I'm not sure if {$moods:patience} is what I need... the depth of other emotions is quite lacking.,"Не уверен, что {$moods:patience} — это то, что мне нужно... глубины других эмоций явно не хватает.",translated,97
+vntext.sq#12118,vntext.sq,HIPSTER,"Perhaps you want me to {$moods:cheer} up? I appreciate it, but this is not quite what I asked for.","Возможно, ты хочешь, чтобы я {$moods:cheer}? Ценю это, но это не совсем то, о чём я просил.",translated,98
+vntext.sq#12119,vntext.sq,HIPSTER,I have the {$moods:courage} to face my emotions! But... what are they exactly...?,"У меня есть {$moods:courage}, чтобы взглянуть в лицо своим эмоциям! Но... что они вообще такое...?",translated,81
+vntext.sq#12120,vntext.sq,HIPSTER,You know exactly what I need.,"Ты точно знаешь, что мне нужно.",translated,29
+vntext.sq#12121,vntext.sq,HIPSTER,Truly the mark of a master!,Поистине признак мастера!,translated,27
+vntext.sq#12124,vntext.sq,HIPSTER,And humble as well!,И к тому же скромен!,translated,19
+vntext.sq#12125,vntext.sq,HIPSTER,"Not to worry, {$mcName}! A master recognizes another master!","Не переживай, {$mcName}! Мастер узнаёт мастера!",translated,60
+vntext.sq#12127,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12128,vntext.sq,HIPSTER,Hm. The moral lesson is perhaps that things never turn out how we want them to.,"Хм. Моральный урок, наверное, в том, что всё никогда не выходит так, как мы хотим.",translated,79
+vntext.sq#12129,vntext.sq,HIPSTER,And being able to deal with such... isn't that what being alive is about?,И умение с этим справляться... разве не в этом суть жизни?,translated,73
+vntext.sq#12130,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12131,vntext.sq,HIPSTER,Anyway! I'm sure you're dying to hear updates about my book!,"В общем! Уверен, ты умираешь от нетерпения узнать новости о моей книге!",translated,60
+vntext.sq#12133,vntext.sq,HIPSTER,"It's going! And it's going quite well, if I do say so myself!","Продвигается! И, не побоюсь сказать, весьма неплохо!",translated,61
+vntext.sq#12135,vntext.sq,HIPSTER,"A young lady working at a pizza shop that serves as a money-laundering front for the mafia! Left alone by her boss, she must navigate the perils of serving customers and stocking up the ingredients all by herself!","О молодой девушке, работающей в пиццерии, которая служит прикрытием для отмывания денег мафии! Оставленная боссом одна, ей приходится в одиночку справляться с опасностями обслуживания клиентов и закупки ингредиентов!",translated,213
+vntext.sq#12136,vntext.sq,HIPSTER,"At face value, she's just your typical woman in her late 20s. But this is actually a metaphor, an allegory, a parable, and a synecdoche about how our talents and desires are constantly warring within us!","На первый взгляд, она просто типичная женщина под тридцать. Но на самом деле это метафора, аллегория, притча и синекдоха о том, как наши таланты и желания постоянно воюют друг с другом внутри нас!",translated,203
+vntext.sq#12137,vntext.sq,HIPSTER,"How our own selves are being cut into slices for the sake of commodification! And of course, how infernally the cheese covers us all!","О том, как нас самих режут на ломтики ради коммерциализации! И, конечно же, о том, как адски всех нас покрывает сыр!",translated,133
+vntext.sq#12139,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12148,vntext.sq,HIPSTER,"Indeed? Not an avid reader, huh?","Правда? Значит, не заядлый читатель?",translated,32
+vntext.sq#12150,vntext.sq,HIPSTER,What! But... what about the menu? The ingredients?,Что?! Но... а как же меню? Ингредиенты?,translated,50
+vntext.sq#12152,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12153,vntext.sq,HIPSTER,Then I need to make sure my novel also comes as an audiobook!,"Тогда мне нужно проследить, чтобы мой роман тоже вышел в виде аудиокниги!",translated,61
+vntext.sq#12157,vntext.sq,HIPSTER,...!!!,...!!!,translated,6
+vntext.sq#12158,vntext.sq,HIPSTER,"Of course! How could I be so short-sighted?! It's not the cheese that we must look out for, but the pineapple!","Ну конечно! Как я мог быть так близорук?! Не сыр нам нужно остерегаться, а ананас!",translated,110
+vntext.sq#12159,vntext.sq,HIPSTER,"Ah, the way that capitalism has formed our society... and not for the better! It taints everything it touches, much like the pineapple!","Ах, то, как капитализм сформировал наше общество... и не в лучшую сторону! Он оскверняет всё, к чему прикасается, прямо как ананас!",translated,135
+vntext.sq#12160,vntext.sq,HIPSTER,"Oh, {$mcName}, you're a genius!","О, {$mcName}, ты гений!",translated,31
+vntext.sq#12164,vntext.sq,HIPSTER,...! I admit to nothing!,...! Я ни в чём не признаюсь!,translated,24
+vntext.sq#12165,vntext.sq,HIPSTER,"I totally wasn't written to say these things by the same people who wrote your own dialogue, my friend!","Меня совершенно точно не заставляли говорить это те же самые люди, что написали твои собственные реплики, мой друг!",translated,103
+vntext.sq#12167,vntext.sq,HIPSTER,"All of us are confused, don't worry. Such is the problem when a story has branching dialogue!","Не переживай, мы все запутались. Такова проблема, когда у истории есть ветвящиеся диалоги!",translated,93
+vntext.sq#12168,vntext.sq,HIPSTER,Actually... I must go home immediately and write this down.,Вообще-то... мне нужно немедленно бежать домой и записать это.,translated,59
+vntext.sq#12169,vntext.sq,HIPSTER,"Thank you, {$mcName}! You've been an immense help!","Спасибо, {$mcName}! Ты мне невероятно помог!",translated,50
+vntext.sq#12173,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12174,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12176,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12177,vntext.sq,HIPSTER,"Actually, well... do you remember the last time I was here? I asked for a donut to help me connect with my emotions.","Вообще-то... помнишь мой прошлый визит? Я попросил пончик, который поможет мне соприкоснуться со своими эмоциями.",translated,116
+vntext.sq#12179,vntext.sq,HIPSTER,"That night, I began to think. Not only about my craft but my disposition as a writer as well...","В ту ночь я начал думать. Не только о своём ремесле, но и о своём характере как писателя...",translated,95
+vntext.sq#12180,vntext.sq,HIPSTER,Oh... it's not easy to talk about this.,Ох... об этом непросто говорить.,translated,39
+vntext.sq#12181,vntext.sq,HIPSTER,Do you know how it feels to stand in front of a true master? Someone you know is a true genius in their craft?,"Знаешь, каково это — стоять перед настоящим мастером? Кем-то, кто, как ты знаешь, истинный гений своего дела?",translated,110
+vntext.sq#12184,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12185,vntext.sq,HIPSTER,Does it make you just a tiny bit smaller? Seeing that person work?,"Ты чувствуешь себя хоть чуточку меньше? Глядя, как работает такой человек?",translated,66
+vntext.sq#12194,vntext.sq,HIPSTER,Yes! Yes! I knew you'd understand!,"Да! Да! Я знал, что ты поймёшь!",translated,34
+vntext.sq#12198,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12202,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12206,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12207,vntext.sq,HIPSTER,Is this what separates the true masters from mediocre artists like me?,Именно это отделяет истинных мастеров от посредственных художников вроде меня?,translated,70
+vntext.sq#12210,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12211,vntext.sq,HIPSTER,"Thank you for sharing your emotions with me, {$mcName}. I truly appreciate it!","Спасибо, что поделился со мной своими чувствами, {$mcName}. Я по-настоящему это ценю!",translated,78
+vntext.sq#12212,vntext.sq,HIPSTER,"...In fact, I must return the favor. I, too, want to open myself up. But I think I'm going to need a donut to help me out.","...Вообще-то, я должен ответить тем же. Я тоже хочу открыться. Но думаю, для этого мне понадобится пончик.",translated,122
+vntext.sq#12220,vntext.sq,HIPSTER,"Oh, this donut is not for me. I'm sorry, {$mcName}. This isn't up to your own standards.","Ох, этот пончик не для меня. Прости, {$mcName}. Это не соответствует твоим же стандартам.",translated,88
+vntext.sq#12221,vntext.sq,HIPSTER,"Oh, this donut is not for me. Doesn't taste like anything at all. Very confusing.","Ох, этот пончик не для меня. Совсем никакого вкуса. Очень странно.",translated,81
+vntext.sq#12222,vntext.sq,HIPSTER,I can't eat this...,Я не могу это есть...,translated,19
+vntext.sq#12224,vntext.sq,HIPSTER,Thank you...,Спасибо...,translated,12
+vntext.sq#12226,vntext.sq,HIPSTER,"Ahhh, yes... the {$flavors:methberry} is pulling out the tartness of the {$flavors:roid_velvet}...","Аххх, да... {$flavors:methberry} подчёркивает кислинку {$flavors:roid_velvet}...",translated,98
+vntext.sq#12227,vntext.sq,HIPSTER,It makes one think... The truth is not that easy to face... not always sweet...,Заставляет задуматься... Правде не так-то легко посмотреть в лицо... не всегда она сладка...,translated,79
+vntext.sq#12228,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12230,vntext.sq,HIPSTER,Hm... I feel the need to talk about how I feel. But what happened to the {$flavors:roid_velvet} I asked for?,"Хм... я чувствую потребность поговорить о своих чувствах. Но куда делся {$flavors:roid_velvet}, который я просил?",translated,108
+vntext.sq#12232,vntext.sq,HIPSTER,Oh! I feel like I can face my fears now!,"О! Такое чувство, будто теперь я могу взглянуть в лицо своим страхам!",translated,40
+vntext.sq#12233,vntext.sq,HIPSTER,But alas... I'm missing that {$flavors:methberry} boost...,"Но, увы... мне не хватает того самого заряда {$flavors:methberry}...",translated,58
+vntext.sq#12234,vntext.sq,HIPSTER,And you even remembered the {$flavors:ubecstacy} {$decor:filling} and {$decor:drizzle} I asked for! You truly know how to treat your customers right!,"А ты даже вспомнил про {$flavors:ubecstacy} {$decor:filling} и {$decor:drizzle}, которые я просил! Ты и правда умеешь позаботиться о своих клиентах!",translated,149
+vntext.sq#12236,vntext.sq,HIPSTER,I understand that you want to remind me of my {$moods:passion} for the craft... but tonight... I need something else as well...,"Я понимаю, ты хочешь напомнить мне о моей {$moods:passion} к ремеслу... но сегодня... мне нужно ещё кое-что другое...",translated,127
+vntext.sq#12237,vntext.sq,HIPSTER,Usually I wouldn't say no to {$moods:focus}. But I wanted something quite specific...,Обычно я не отказался бы от {$moods:focus}. Но сегодня хотелось чего-то конкретного...,translated,85
+vntext.sq#12238,vntext.sq,HIPSTER,This is indeed my favorite flavor... but I asked for something else...,Это и правда мой любимый вкус... но я просил другое...,translated,70
+vntext.sq#12239,vntext.sq,HIPSTER,I'm not sure looking back at the past is what I need right now...,"Не уверен, что взгляд в прошлое — это то, что мне сейчас нужно...",translated,65
+vntext.sq#12240,vntext.sq,HIPSTER,"...I can't get too ${relaxed} tonight, {$mcName}!","...Мне нельзя быть слишком ${relaxed} сегодня, {$mcName}!",translated,49
+vntext.sq#12241,vntext.sq,HIPSTER,I always appreciate the {$moods:patience}. But I don't think it's the best mood for tonight.,"Я всегда ценю {$moods:patience}. Но не думаю, что это лучшее настроение для сегодняшнего вечера.",translated,92
+vntext.sq#12242,vntext.sq,HIPSTER,I'm happy. But at what cost?,Я счастлив. Но какой ценой?,translated,28
+vntext.sq#12244,vntext.sq,HIPSTER,In exchange for the truth you told me...,"В обмен на ту правду, что ты мне открыл...",translated,40
+vntext.sq#12245,vntext.sq,HIPSTER,I suppose I must tell a truth of my own.,"Полагаю, я должен рассказать и свою собственную.",translated,40
+vntext.sq#12248,vntext.sq,HIPSTER,No! Tonight is the night I bare my soul! For your excellent donut has helped open the gates to my very core!,"Нет! Сегодня та самая ночь, когда я обнажу свою душу! Ведь твой превосходный пончик помог открыть врата в самую мою сердцевину!",translated,108
+vntext.sq#12249,vntext.sq,HIPSTER,I have the {$moods:courage} to face the fact that I haven't written a single line in years!,"У меня есть {$moods:courage}, чтобы взглянуть в лицо тому, что я не написал ни строчки за многие годы!",translated,91
+vntext.sq#12258,vntext.sq,HIPSTER,...!!!,...!!!,translated,6
+vntext.sq#12261,vntext.sq,HIPSTER,Haha! You're such a jokester.,Ха-ха! Ну ты и шутник.,translated,29
+vntext.sq#12262,vntext.sq,HIPSTER,"Unfortunately, I have no such excuses. This is simply the case of writer's block.","К сожалению, у меня нет такого оправдания. Это просто-напросто писательский блок.",translated,81
+vntext.sq#12263,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12264,vntext.sq,HIPSTER,Your donuts helped a bit. I had ideas...,Твои пончики немного помогли. У меня появлялись идеи...,translated,40
+vntext.sq#12265,vntext.sq,HIPSTER,But faced with the blank page... I got too scared.,Но стоило столкнуться с чистой страницей... мне становилось слишком страшно.,translated,50
+vntext.sq#12266,vntext.sq,HIPSTER,What if... What if I started writing and...,Что если... что если я начну писать и...,translated,43
+vntext.sq#12267,vntext.sq,HIPSTER,And everything turned out to be boring and uninspired dross?,И всё окажется скучным и безвдохновенным хламом?,translated,60
+vntext.sq#12268,vntext.sq,HIPSTER,Reading my favorite writers... Jamie Joy... Georg Louie Barges... Emy Dickins... their words sparkle on the page. I could only look up at them as if they are stars...,"Читая любимых писателей... Джейми Джой... Георга Луи Барджеса... Эми Диккенс... их слова сверкают на странице. Мне остаётся только смотреть на них снизу вверх, как на звёзды...",translated,166
+vntext.sq#12269,vntext.sq,HIPSTER,While my words are covered in mud and resting in the gutters.,"Пока мои собственные слова валяются в грязи, в сточных канавах.",translated,61
+vntext.sq#12277,vntext.sq,HIPSTER,Samuel Pepys?,Сэмюэл Пипс?,translated,13
+vntext.sq#12281,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12282,vntext.sq,HIPSTER,"You never fail to surprise me, {$mcName}.","Ты не перестаёшь меня удивлять, {$mcName}.",translated,41
+vntext.sq#12283,vntext.sq,HIPSTER,I didn't know you were familiar with Samuel Pepys's work!,"Не знал, что ты знаком с творчеством Сэмюэла Пипса!",translated,57
+vntext.sq#12284,vntext.sq,HIPSTER,I thought you couldn't read...,"Я думал, ты не умеешь читать...",translated,30
+vntext.sq#12286,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12287,vntext.sq,HIPSTER,But you have a point.,Но в твоих словах есть смысл.,translated,21
+vntext.sq#12289,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12290,vntext.sq,HIPSTER,It's been five years... Maybe this is too long a break?,"Прошло уже пять лет... Может, это слишком долгий перерыв?",translated,55
+vntext.sq#12293,vntext.sq,HIPSTER,Not at all! It's not your fault!,Вовсе нет! Это не твоя вина!,translated,32
+vntext.sq#12294,vntext.sq,HIPSTER,I have a lot to think about...,Мне есть о чём подумать...,translated,30
+vntext.sq#12295,vntext.sq,HIPSTER,"Thank you for the talk! And the donut, of course.","Спасибо за разговор! И за пончик, конечно же.",translated,49
+vntext.sq#12296,vntext.sq,HIPSTER,"I'll see you later, {$mcName}!","Увидимся позже, {$mcName}!",translated,30
+vntext.sq#12297,vntext.sq,HIPSTER,Hmm... Perhaps now is not the best time to bare my very soul after all...,"Хм... возможно, сейчас всё-таки не лучшее время обнажать душу...",translated,73
+vntext.sq#12298,vntext.sq,HIPSTER,"But I'll be coming back! See you soon, {$mcName}!","Но я ещё вернусь! До скорого, {$mcName}!",translated,49
+vntext.sq#12300,vntext.sq,HIPSTER,I'm back!,Я вернулся!,translated,9
+vntext.sq#12302,vntext.sq,HIPSTER,Well... hehe. I have to admit that I cheated a little bit.,"Ну... хе-хе. Должен признать, что немного смошенничал.",translated,58
+vntext.sq#12303,vntext.sq,HIPSTER,"Last time, you gave me a donut that gave me the {$moods:sincerity} to bare my very heart, and the {$moods:courage} to face my fears...","В прошлый раз ты дал мне пончик, который наделил меня {$moods:sincerity}, чтобы обнажить сердце, и {$moods:courage}, чтобы взглянуть в лицо своим страхам...",translated,134
+vntext.sq#12305,vntext.sq,HIPSTER,Weeeeeell... I wouldn't quite say write.,Ну-у-у... я бы не сказал прямо 'написать'.,translated,40
+vntext.sq#12306,vntext.sq,HIPSTER,Although it is technically still writing.,Хотя технически это всё равно письмо.,translated,41
+vntext.sq#12307,vntext.sq,HIPSTER,In fact... you mentioned a friend of yours who wrote her own songs.,"Вообще-то... ты как-то упоминал подругу, которая пишет свои песни.",translated,67
+vntext.sq#12309,vntext.sq,HIPSTER,The truth is... I dabble a bit in songwriting myself.,По правде говоря... я и сам немного балуюсь сочинением песен.,translated,53
+vntext.sq#12310,vntext.sq,HIPSTER,My mentors... they don't think this little hobby of mine is worth anything...,"Мои наставники... они не считают, что это моё маленькое хобби чего-то стоит...",translated,77
+vntext.sq#12312,vntext.sq,HIPSTER,"Hehe... To be fair to them, it's not as if I'm very good at it. I was in a band with some friends from college, but I had to pay out of pocket to get our album out.","Хе-хе... если честно перед ними, у меня получается не то чтобы очень хорошо. Я играл в группе с друзьями по колледжу, но за выпуск нашего альбома пришлось платить из своего кармана.",translated,164
+vntext.sq#12313,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12314,vntext.sq,HIPSTER,"So much for being a New Yorrick Times Bestselling author, huh? I can't even write good songs.","Вот тебе и будущий автор бестселлеров 'Нью-Йоррик Таймс', а? Даже хорошие песни писать не могу.",translated,93
+vntext.sq#12321,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12325,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12328,vntext.sq,HIPSTER,Hehe... I find it hard to imagine somehow.,Хе-хе... почему-то с трудом могу это представить.,translated,42
+vntext.sq#12330,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12335,vntext.sq,HIPSTER,Not at all! But I still want to try!,Вовсе нет! Но всё равно хочу попробовать!,translated,36
+vntext.sq#12340,vntext.sq,HIPSTER,Oh! Oh this taste...,"Ох! Ох, этот вкус...",translated,20
+vntext.sq#12341,vntext.sq,HIPSTER,I could use all the words from the dictionary and still be unable to fully describe the agony of that first bite...,"Мне не хватило бы всех слов из словаря, чтобы полностью описать агонию этого первого укуса...",translated,115
+vntext.sq#12343,vntext.sq,HIPSTER,No... This is what I asked for.,"Нет... это именно то, что я просил.",translated,31
+vntext.sq#12344,vntext.sq,HIPSTER,Why don't you explain the... concept. While I... try to — ahem! — finish...,Почему бы тебе не объяснить... концепцию. Пока я... попытаюсь — кхм! — доесть...,translated,75
+vntext.sq#12351,vntext.sq,HIPSTER,Oh my!,Боже мой!,translated,6
+vntext.sq#12358,vntext.sq,HIPSTER,!!!,!!!,translated,3
+vntext.sq#12360,vntext.sq,HIPSTER,Such deep meaning... for this donut!,Такой глубокий смысл... в этом пончике!,translated,36
+vntext.sq#12361,vntext.sq,HIPSTER,...! But alas... I think this is too high-concept even for me.,"...! Но, увы... думаю, это слишком высокая концепция даже для меня.",translated,62
+vntext.sq#12362,vntext.sq,HIPSTER,"I'm sorry, {$mcName}... I can't finish this.","Прости, {$mcName}... я не могу это доесть.",translated,44
+vntext.sq#12365,vntext.sq,HIPSTER,Oh my... this actually tastes... normal.,"Ох... а на вкус это, оказывается... нормально.",translated,40
+vntext.sq#12366,vntext.sq,HIPSTER,Are you sure this is the worst donut you've ever made?,"Уверен, что это худший пончик, который ты когда-либо делал?",translated,54
+vntext.sq#12367,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12368,vntext.sq,HIPSTER,You have opened my mind to so many possibilities...,Ты открыл мне столько возможностей...,translated,51
+vntext.sq#12369,vntext.sq,HIPSTER,Not being ashamed of the worst kind of inedible donut... and actually owning it beautifully! It's practically genius in itself!,Не стыдиться худшего из несъедобных пончиков... и прекрасно этим владеть! Это же практически гениально само по себе!,translated,127
+vntext.sq#12372,vntext.sq,HIPSTER,And most importantly! It looked like you were having fun.,"И самое главное! Похоже было, что тебе весело.",translated,57
+vntext.sq#12373,vntext.sq,HIPSTER,I understand now.,Теперь я понимаю.,translated,17
+vntext.sq#12374,vntext.sq,HIPSTER,Writing is something I want to do because I enjoy the act of writing... It's okay if the results are bad or boring.,"Писать — это то, чем я хочу заниматься, потому что мне нравится сам процесс письма... Ничего страшного, если результат плохой или скучный.",translated,115
+vntext.sq#12375,vntext.sq,HIPSTER,"After all, one can only improve, correct?","В конце концов, можно только становиться лучше, верно?",translated,41
+vntext.sq#12377,vntext.sq,HIPSTER,"Thank you, {$mcName}! You have been quite helpful once more!","Спасибо, {$mcName}! Ты снова оказался невероятно полезен!",translated,60
+vntext.sq#12378,vntext.sq,HIPSTER,If I ever get to finish writing my song... I promise to dedicate it to you!,Если у меня когда-нибудь получится закончить свою песню... обещаю посвятить её тебе!,translated,75
+vntext.sq#12381,vntext.sq,HIPSTER,"All right, I'll be seeing you!","Хорошо, увидимся!",translated,30
+vntext.sq#12382,vntext.sq,HIPSTER,"Hm, I suppose you tried, which is the point you wanted to make, correct?","Хм, полагаю, ты попробовал — а это ведь и было целью, которую ты хотел донести, верно?",translated,72
+vntext.sq#12384,vntext.sq,HIPSTER,"At any rate, I should return and try to finish my song!","В любом случае, мне пора вернуться и попытаться закончить свою песню!",translated,55
+vntext.sq#12385,vntext.sq,HIPSTER,"I'll see you later, {$mcName}!","Увидимся позже, {$mcName}!",translated,30
+vntext.sq#12388,vntext.sq,HIPSTER,I have returned! And with a surprise!,Я вернулся! И с сюрпризом!,translated,37
+vntext.sq#12390,vntext.sq,HIPSTER,"I have finished writing my song! And because you are the one who helped me get this far, I wish for you to be the first person to hear it.","Я закончил писать свою песню! И раз именно ты помог мне дойти до этого, хочу, чтобы ты стал первым, кто её услышит.",translated,138
+vntext.sq#12391,vntext.sq,HIPSTER,Is that all right?,Ты не против?,translated,18
+vntext.sq#12400,vntext.sq,HIPSTER,Correct!,Верно!,translated,8
+vntext.sq#12403,vntext.sq,HIPSTER,"Oh, I'm sorry. I made it sound like I'm letting you choose.","Ой, прости. Я, кажется, создал впечатление, будто даю тебе выбор.",translated,59
+vntext.sq#12404,vntext.sq,HIPSTER,But I wish for you to listen to me no matter what.,"Но я хочу, чтобы ты выслушал меня, что бы ни случилось.",translated,50
+vntext.sq#12407,vntext.sq,HIPSTER,Ahem! Here you go.,"Кхм! Вот, держи.",translated,18
+vntext.sq#12408,vntext.sq,HIPSTER,"♪ [i] The stars shine so bright in your eyes... Can't figure out your truth from your lies, oh I'm so mystified... I could never read your mind... [/i] ♫","♪ [i] Звёзды так ярко горят в глазах твоих... Не пойму, где правда, а где ложь твоя, ох, я так сбит с толку... Никогда мне не прочесть твои мысли... [/i] ♫",translated,153
+vntext.sq#12409,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12410,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12417,vntext.sq,HIPSTER,High praise! High praise indeed!,Высокая похвала! Поистине высокая похвала!,translated,32
+vntext.sq#12419,vntext.sq,HIPSTER,"...Ah. Tough crowd, huh?","...Ах. Тяжёлая публика, да?",translated,24
+vntext.sq#12420,vntext.sq,HIPSTER,But that's all right. I'll just make sure to write a song that would stir the emotions! Just like your donuts!,"Но ничего страшного. Просто прослежу, чтобы написать песню, которая будет по-настоящему задевать чувства! Прямо как твои пончики!",translated,110
+vntext.sq#12422,vntext.sq,HIPSTER,"Heh, this is totally different from my old band's usual sound... but I wonder if I could bring the gang back together and have it performed.","Хех, это совсем не похоже на обычное звучание моей старой группы... но интересно, смогу ли я снова собрать компанию и это исполнить.",translated,140
+vntext.sq#12424,vntext.sq,HIPSTER,Our guitarist loves this place.,Наш гитарист обожает это место.,translated,31
+vntext.sq#12425,vntext.sq,HIPSTER,"In fact, it's why I dropped by in the first place.","Собственно, именно поэтому я сюда изначально и заглянул.",translated,50
+vntext.sq#12428,vntext.sq,HIPSTER,Guilty as charged! The Velvet Devil herself told me you might be able to help me out with my writer's block.,"Виновен по всем пунктам! Сама Бархатная Дьяволица сказала мне, что ты, возможно, сможешь помочь мне с писательским блоком.",translated,108
+vntext.sq#12429,vntext.sq,HIPSTER,And... well... I haven't given up on being a New Yorrick Times Bestselling author yet!,И... что ж... я ещё не отказался от мечты стать автором бестселлеров 'Нью-Йоррик Таймс'!,translated,86
+vntext.sq#12430,vntext.sq,HIPSTER,But in the meantime... I want to have fun writing.,Но пока что... хочу получать удовольствие от письма.,translated,50
+vntext.sq#12441,vntext.sq,HIPSTER,Wonderful!,Чудесно!,translated,10
+vntext.sq#12443,vntext.sq,HIPSTER,...!,...!,translated,4
+vntext.sq#12444,vntext.sq,HIPSTER,Oh! This reminds me of the donut that... started it all...,О! Это напоминает мне о том самом пончике... с которого всё началось...,translated,58
+vntext.sq#12445,vntext.sq,HIPSTER,I'm grateful... but I still can't eat this.,Я благодарен... но всё равно не могу это съесть.,translated,43
+vntext.sq#12447,vntext.sq,HIPSTER,Thank you!,Спасибо!,translated,10
+vntext.sq#12448,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12449,vntext.sq,HIPSTER,"Ah, I missed the tart sweetness of {$flavors:lemon_acid}! So refreshing, but it has a bite as well...","Ах, как я скучал по кисло-сладкому вкусу {$flavors:lemon_acid}! Так освежает, но и с укусом тоже...",translated,101
+vntext.sq#12450,vntext.sq,HIPSTER,This is exactly what I needed... Ideas for a new song are already firing up my old synapses!,"Это именно то, что мне было нужно... Идеи для новой песни уже разжигают мои старые синапсы!",translated,92
+vntext.sq#12451,vntext.sq,HIPSTER,"My mind... nay, my whole body! It's going overdrive!","Мой разум... да что там, всё тело! Работает на полную мощность!",translated,52
+vntext.sq#12453,vntext.sq,HIPSTER,"Hm. I will never say I have no {$moods:passion} for writing, but this isn't my favorite.","Хм. Никогда не скажу, что во мне нет {$moods:passion} к письму, но это не мой любимый.",translated,88
+vntext.sq#12454,vntext.sq,HIPSTER,"One does need {$moods:focus} while writing, but this isn't my favorite.","Во время письма и правда нужна {$moods:focus}, но это не мой любимый.",translated,71
+vntext.sq#12455,vntext.sq,HIPSTER,Ah those days when my old band used to play downtown... those were the days!,"Ах, те дни, когда моя старая группа играла в центре города... вот это были времена!",translated,76
+vntext.sq#12456,vntext.sq,HIPSTER,"I appreciate the mood, but this isn't my favorite.","Ценю настроение, но это не мой любимый.",translated,50
+vntext.sq#12457,vntext.sq,HIPSTER,"Whew! Perhaps I do need some R&R after all the effort, but this isn't my favorite.","Фух! Может, мне и правда нужен отдых после всех усилий, но это не мой любимый.",translated,82
+vntext.sq#12458,vntext.sq,HIPSTER,"I appreciate the boost in {$moods:patience}, but this isn't my favorite.","Ценю прилив {$moods:patience}, но это не мой любимый.",translated,72
+vntext.sq#12459,vntext.sq,HIPSTER,I want you to know how grateful I am... you helped me find that spark again! Even if you served me the wrong donut.,"Хочу, чтобы ты знал, как я благодарен... ты помог мне снова найти эту искру! Даже если подал не тот пончик.",translated,115
+vntext.sq#12460,vntext.sq,HIPSTER,"This feeling of happiness isn't bad, but I'm afraid this isn't my favorite! Nice try, haha!","Это чувство счастья не так уж плохо, но, боюсь, это не мой любимый! Хорошая попытка, ха-ха!",translated,91
+vntext.sq#12461,vntext.sq,HIPSTER,"I appreciate the boost in {$moods:courage}, but this isn't my favorite.","Ценю прилив {$moods:courage}, но это не мой любимый.",translated,71
+vntext.sq#12462,vntext.sq,HIPSTER,Now if you'll excuse me! I should start writing things down before I forget everything.,"А теперь прошу прощения! Мне нужно начать всё записывать, пока не забыл.",translated,87
+vntext.sq#12463,vntext.sq,HIPSTER,I'll make sure you'll be the first to know when I finish something!,"Обязательно сообщу тебе первому, когда что-то закончу!",translated,67
+vntext.sq#12465,vntext.sq,HIPSTER,"I'm sure they'll understand! After all, you're practically my Muse!","Уверен, они поймут! В конце концов, ты практически моя Муза!",translated,67
+vntext.sq#12466,vntext.sq,HIPSTER,Or rather... your donuts!,Точнее... твои пончики!,translated,25
+vntext.sq#12469,vntext.sq,HIPSTER,"But I must leave! Until the next song, {$mcName}!","Но мне пора! До следующей песни, {$mcName}!",translated,49
+vntext.sq#12470,vntext.sq,HIPSTER,That wasn't exactly what I was expecting... I need to write about this feeling.,"Это было не совсем то, что я ожидал... нужно написать об этом чувстве.",translated,79
+vntext.sq#12471,vntext.sq,HIPSTER,"How does 'Disappointing Donut' sound to you? Catchy, right?","Как тебе название 'Разочаровывающий пончик'? Цепляет, да?",translated,59
+vntext.sq#12473,vntext.sq,HIPSTER,"I'm getting a few ideas... Heh. Thank you, {$mcName}!","У меня появляется несколько идей... Хех. Спасибо, {$mcName}!",translated,53
+vntext.sq#12474,vntext.sq,HIPSTER,See you later!,Увидимся позже!,translated,14
+vntext.sq#12478,vntext.sq,HIPSTER,Ah! Just the smell of fried dough... the heady sweetness of the mood enhanced flavors... I can practically hear the cogs in my brain turning!,"Ах! Один только запах жареного теста... хмельная сладость вкусов с усилителями настроения... я буквально слышу, как шестерёнки в моём мозгу проворачиваются!",translated,141
+vntext.sq#12480,vntext.sq,HIPSTER,"Indeed! You see, I find myself in need of some {$moods:inspiration}...","Ещё как! Видишь ли, я обнаружил, что нуждаюсь в {$moods:inspiration}...",translated,70
+vntext.sq#12481,vntext.sq,HIPSTER,My heroine is currently trying to decide whether to place a possibly failed pizza in the oven or start over from scratch... And I'm unsure where to take the narrative! What kind of message should I put forth?,"Моя героиня сейчас как раз решает, ставить ли в духовку, возможно, неудавшуюся пиццу или начинать всё с нуля... И я не уверен, куда вести повествование! Какое послание мне стоит донести?",translated,208
+vntext.sq#12490,vntext.sq,HIPSTER,"Oh, you can tell? As expected of a Mood Confectioner... nothing escapes your eye when it comes to moods...","Ох, заметно? Как и полагается Кондитеру настроения... от твоего взгляда ничто не ускользнёт, когда дело касается настроений...",translated,106
+vntext.sq#12491,vntext.sq,HIPSTER,I wish I had such skills...,Хотел бы я обладать таким умением...,translated,27
+vntext.sq#12493,vntext.sq,HIPSTER,My manuscript... Oh! I think it would be fair to say I'm quite stuck.,"Моя рукопись... Ох! Пожалуй, будет честно сказать, что я порядком застрял.",translated,69
+vntext.sq#12501,vntext.sq,HIPSTER,"Good evening, {$mcName}!","Добрый вечер, {$mcName}!",translated,24
+vntext.sq#12502,vntext.sq,HIPSTER,I require donut assistance once more!,Мне снова нужна помощь пончика!,translated,37
+vntext.sq#12503,vntext.sq,HIPSTER,Well... that and I'm simply craving for something on the {$heavy} side!,Ну... и ещё я просто жажду чего-нибудь {$heavy}!,translated,71
+vntext.sq#12515,vntext.sq,HIPSTER,"Well, you see. I run a little business on the side... only until I become a full-fledged full-time writer, of course! But well...","Ну, видишь ли. У меня есть небольшой бизнес на стороне... лишь пока не стану полноценным писателем на постоянной основе, конечно! Но, в общем...",translated,129
+vntext.sq#12516,vntext.sq,HIPSTER,I might have procrastinated when it comes to doing the inventory for my goods...,"Возможно, я немного затянул с инвентаризацией товара...",translated,80
+vntext.sq#12518,vntext.sq,HIPSTER,"Ah! Well... I have a bit of interest in music, you see. We sell records and other such memorabilia.","Ах! Ну... у меня есть небольшой интерес к музыке, понимаешь. Мы продаём пластинки и прочие подобные вещицы.",translated,99
+vntext.sq#12520,vntext.sq,HIPSTER,"Of course! You name it, we have it!",Конечно! Что угодно назови — у нас есть!,translated,35
+vntext.sq#12530,vntext.sq,HIPSTER,My friend!,Друг мой!,translated,10
+vntext.sq#12532,vntext.sq,HIPSTER,"Thanks to you and your excellent donut, I was able to finish doing the inventory on time!",Благодаря тебе и твоему превосходному пончику я успел закончить инвентаризацию вовремя!,translated,89
+vntext.sq#12533,vntext.sq,HIPSTER,The inventory got done somehow!,"Инвентаризация как-то, но завершилась!",translated,31
+vntext.sq#12534,vntext.sq,HIPSTER,And now I can finally return to my usual schedule... I feel I have quite neglected my writing...,"И теперь я наконец могу вернуться к обычному расписанию... чувствую, что порядком забросил писательство...",translated,96
+vntext.sq#12535,vntext.sq,HIPSTER,My poor heroine... She's still stuck in front of the oven... Unable to face her fears...,Моя бедная героиня... она всё ещё застряла перед духовкой... не в силах взглянуть в лицо своим страхам...,translated,88
+vntext.sq#12542,vntext.sq,HIPSTER,"A wonderful evening to you, my dear!","Прекрасного вечера тебе, дорогуша!",translated,36
+vntext.sq#12544,vntext.sq,HIPSTER,Well... I had a lot to think about the last time we spoke.,Ну... мне было о чём подумать после нашего последнего разговора.,translated,58
+vntext.sq#12545,vntext.sq,HIPSTER,"The truth is, I don't have a lot of friends to talk about art with... A conversation between two artists... it might be just the thing to light the spark within me!","По правде говоря, у меня немного друзей, с кем можно поговорить об искусстве... Разговор двух творцов... возможно, именно это и разожжёт во мне искру!",translated,164
+vntext.sq#12546,vntext.sq,HIPSTER,"And your donuts, of course!","И твои пончики, конечно же!",translated,27
+vntext.sq#12547,vntext.sq,HIPSTER,"I was able to face some uncomfortable emotions last time, thanks to your {$flavors:methberry} donut.",В прошлый раз я смог взглянуть в лицо неприятным эмоциям благодаря твоему пончику {$flavors:methberry}.,translated,100
+vntext.sq#12548,vntext.sq,HIPSTER,"I was able to {$moods:focus} on what I truly need to do, thanks to your {$flavors:chococaine} donut.","Я смог сосредоточиться, {$moods:focus}, на том, что мне действительно нужно сделать, благодаря твоему пончику {$flavors:chococaine}.",translated,100
+vntext.sq#12554,vntext.sq,HIPSTER,"A wonderful evening to you, Mood Confectioner!","Прекрасного вечера тебе, Кондитер настроения!",translated,46
+vntext.sq#12555,vntext.sq,HIPSTER,I can't stay long... my Muse is demanding my full attention!,Не могу задерживаться... моя Муза требует всего моего внимания!,translated,60
+vntext.sq#12557,vntext.sq,HIPSTER,Exactly! When the Muse calls... what can we do but answer?,"Именно! Когда зовёт Муза... что нам остаётся, кроме как ответить?",translated,58
+vntext.sq#12563,vntext.sq,HIPSTER,"...Good evening, {$mcName}!","...Добрый вечер, {$mcName}!",translated,27
+vntext.sq#12565,vntext.sq,HIPSTER,Hehe! Isn't it interesting how yawning has that effect? I find that my cat reacts the same.,"Хе-хе! Забавно, как зевота так действует, правда? Мой кот реагирует так же.",translated,91
+vntext.sq#12566,vntext.sq,HIPSTER,But I want to get some writing done tonight... I've been too busy at the shop recently.,Но сегодня хочу немного попИсать... в последнее время слишком занят в магазине.,translated,87
+vntext.sq#12574,vntext.sq,HIPSTER,...I was thinking.,...Я тут подумал.,translated,18
+vntext.sq#12575,vntext.sq,HIPSTER,"Have you ever made a donut that... well, that's not good for consumption?","Тебе доводилось делать пончик, который... ну, непригоден для употребления?",translated,73
+vntext.sq#12577,vntext.sq,HIPSTER,"Indeed... This kind of thing happens all the time, right?","И правда... такое ведь случается постоянно, да?",translated,57
+vntext.sq#12578,vntext.sq,HIPSTER,"...I want to do a bit of soul searching. Think about a few things, you know?","...Хочу немного покопаться в себе. Обдумать кое-что, понимаешь?",translated,76
+vntext.sq#12589,vntext.sq,HIPSTER,I just wanted to thank you once again for humoring my little requests.,"Просто хотел ещё раз поблагодарить тебя за то, что потакаешь моим маленьким просьбам.",translated,70
+vntext.sq#12591,vntext.sq,HIPSTER,Haha! That attitude... I kind of envy you.,Ха-ха! Такое отношение... даже немного завидую тебе.,translated,42
+vntext.sq#12593,vntext.sq,HIPSTER,"Honestly... I don't think I feel confident enough with my craft to have that ... that  [i] je ne sais quoi, [/i] you know?","Если честно... не думаю, что чувствую себя достаточно уверенным в своём ремесле, чтобы обладать тем самым... тем [i] je ne sais quoi, [/i] понимаешь?",translated,122
+vntext.sq#12602,vntext.sq,HIPSTER,"Honestly, I feel quite refreshed after our last talk.","Если честно, чувствую себя гораздо свежее после нашего последнего разговора.",translated,53
+vntext.sq#12603,vntext.sq,HIPSTER,"I've been keeping my doubts to myself for so long, you can say it's developed into a fear that's almost tangible...","Я так долго держал свои сомнения при себе, что можно сказать, они переросли в почти осязаемый страх...",translated,115
+vntext.sq#12604,vntext.sq,HIPSTER,Like Moe's 'The Tell-Tale Heart'.,Прямо как в 'Сердце-обличителе' Мо.,translated,33
+vntext.sq#12606,vntext.sq,HIPSTER,"Hehe! I did not, you're right.","Хе-хе! Не убил, ты прав.",translated,30
+vntext.sq#12612,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#12614,vntext.sq,HIPSTER,...Ah. Well. I guess the good news is that nothing has changed.,"...Ах. Ну. Полагаю, хорошая новость в том, что ничего не изменилось.",translated,63
+vntext.sq#12616,vntext.sq,HIPSTER,But I don't want to give up just yet.,Но пока не хочу сдаваться.,translated,37
+vntext.sq#12617,vntext.sq,HIPSTER,Your donuts do give me ideas! But when I'm in front of my computer... the blank document seems to laugh at me.,Твои пончики и правда дарят идеи! Но стоит мне сесть за компьютер... пустой документ будто смеётся надо мной.,translated,110
+vntext.sq#12618,vntext.sq,HIPSTER,"Novels are quite long, aren't they?","Романы довольно длинные, не находишь?",translated,35
+vntext.sq#12626,vntext.sq,HIPSTER,Well. As you can see. I'm back for another {$flavors:lemon_acid} donut.,Ну. Как видишь. Я снова за пончиком {$flavors:lemon_acid}.,translated,71
+vntext.sq#12628,vntext.sq,HIPSTER,...What do you mean?,...Что ты имеешь в виду?,translated,20
+vntext.sq#12630,vntext.sq,HIPSTER,"Hmm... that's not a bad idea. I might as well try, right?","Хмм... неплохая идея. Могу и попробовать, да?",translated,57
+vntext.sq#12636,vntext.sq,HIPSTER,"A wonderful evening to you, my friend!","Прекрасного вечера тебе, друг мой!",translated,38
+vntext.sq#12637,vntext.sq,HIPSTER,Did you know about the wonderful shop nearby? The one with the lovely people who wear animal outfits?,"А ты знал о том чудесном магазинчике неподалёку? С милыми людьми, что носят костюмы животных?",translated,101
+vntext.sq#12639,vntext.sq,HIPSTER,"Indeed! Well, I got to talking to some of the patrons last time.","Именно! Что ж, в прошлый раз я разговорился с некоторыми посетителями.",translated,64
+vntext.sq#12640,vntext.sq,HIPSTER,"They're also quite passionate people! I felt quite envious, in fact. They know exactly what keeps their hearts warm and burning!","Они тоже очень увлечённые люди! Даже позавидовал, если честно. Они точно знают, что согревает и разжигает их сердца!",translated,128
+vntext.sq#12641,vntext.sq,HIPSTER,...I want to feel like that.,...Хочу чувствовать так же.,translated,28
+vntext.sq#12648,vntext.sq,HIPSTER,I'm meeting up with some friends later... They asked me if I wanted to hang out... listen to music...,"Позже встречаюсь с друзьями... Спросили, не хочу ли я потусоваться... послушать музыку...",translated,101
+vntext.sq#12649,vntext.sq,HIPSTER,It [i] has [/i] been a while. So I'm taking a break from writing... or trying to write! Haha...,Уже [i] давно [/i] не собирались. Так что делаю перерыв в писательстве... или в попытках писать! Ха-ха...,translated,95
+vntext.sq#12650,vntext.sq,HIPSTER,But I dropped by to get a donut.,Но заглянул за пончиком.,translated,32
+vntext.sq#12659,vntext.sq,HIPSTER,Not too bad! I've been talking with my former band members... We're thinking of meeting up again and maybe play some music.,"Неплохо! Разговаривал с бывшими участниками группы... Думаем снова собраться и, может, немного поиграть.",translated,123
+vntext.sq#12660,vntext.sq,HIPSTER,"The truth is, I'm pretty rusty!","Если честно, я порядком заржавел!",translated,31
+vntext.sq#12662,vntext.sq,HIPSTER,...Well. I do play the harmonica! But mostly I sing and write the lyrics...,...Ну. Я играю на губной гармошке! Но в основном пою и пишу тексты...,translated,75
+vntext.sq#12669,vntext.sq,HIPSTER,"Recently, I've been looking for {$moods:inspiration}...",В последнее время я ищу {$moods:inspiration}...,translated,55
+vntext.sq#12671,vntext.sq,HIPSTER,Haha! Well... you might be right. I think other flavors can help me just as well.,"Ха-ха! Что ж... возможно, ты прав. Думаю, другие вкусы тоже могут помочь не хуже.",translated,81
+vntext.sq#12672,vntext.sq,HIPSTER,"I want to pull from within myself, you see. Write about my emotions!","Хочу черпать из себя самого, понимаешь. Писать о своих эмоциях!",translated,68
+vntext.sq#12679,vntext.sq,HIPSTER,"...You know, {$mcName}...","...Знаешь, {$mcName}...",translated,25
+vntext.sq#12681,vntext.sq,HIPSTER,I feel like I don't get a lot of {$flavors:vanilla_sky} donuts... I should do something about that!,"Такое чувство, будто мне редко достаются пончики {$flavors:vanilla_sky}... надо это исправить!",translated,99
+vntext.sq#12682,vntext.sq,HIPSTER,"After all, life cannot be a vale of never-ending tears! One must feel joy in order for the pain of tragedy to truly sting!","В конце концов, жизнь не может быть сплошной юдолью бесконечных слёз! Нужно почувствовать радость, чтобы боль трагедии по-настоящему жалила!",translated,122
+vntext.sq#12689,vntext.sq,HIPSTER,"Good evening, my dear Mood Confectioner!","Добрый вечер, мой дорогой Кондитер настроения!",translated,40
+vntext.sq#12690,vntext.sq,HIPSTER,"As you know, I've been trying out different flavors recently... but for tonight... I want to have something that's quite close to my heart.","Как ты знаешь, в последнее время я пробую разные вкусы... но сегодня... хочу что-то, что действительно близко моему сердцу.",translated,139
+vntext.sq#12700,vntext.sq,HIPSTER,"Good evening, my friend!","Добрый вечер, друг мой!",translated,24
+vntext.sq#12701,vntext.sq,HIPSTER,"Ah, I have such a craving for {$flavors:ubecstacy} tonight!","Ах, как же меня сегодня тянет на {$flavors:ubecstacy}!",translated,59
+vntext.sq#12702,vntext.sq,HIPSTER,How did we as a society survive without {$flavors:ubecstacy}?,Как мы вообще выживали как общество без {$flavors:ubecstacy}?,translated,61
+vntext.sq#12715,vntext.sq,HIPSTER,I have come for my usual {$recipe:mr_smile}!,Пришёл за своим обычным {$recipe:mr_smile}!,translated,44
+vntext.sq#12725,vntext.sq,HIPSTER,"Oh, I want something dramatic! How about a {$recipe:violet_belle}?","Ох, хочу чего-то драматичного! Как насчёт {$recipe:violet_belle}?",translated,66
+vntext.sq#12735,vntext.sq,HIPSTER,"Tonight, I'm in the mood for a {$recipe:san_mazo_sunset}. I might not have had the time to gaze upon it myself, but at least I can eat it!","Сегодня в настроении для {$recipe:san_mazo_sunset}. Может, у меня и не было времени полюбоваться им самим, но зато я могу его съесть!",translated,138
+vntext.sq#12739,vntext.sq,HIPSTER,"Good evening, my friend!","Добрый вечер, друг мой!",translated,24
+vntext.sq#12740,vntext.sq,HIPSTER,How is my fellow artist?,Как поживает мой собрат по искусству?,translated,24
+vntext.sq#12743,vntext.sq,HIPSTER,"Well! I've been getting words on paper, at least! But this is where your donuts come in. I would like to have one of my favourites.","Что ж! По крайней мере, слова на бумагу ложатся! Но тут в дело вступают твои пончики. Хочу один из моих любимых.",translated,131
+vntext.sq#12745,vntext.sq,HIPSTER,A {$recipe:berry_parade} would help me sort my mood out for sure!,{$recipe:berry_parade} точно поможет разобраться с настроением!,translated,65
+vntext.sq#21442,vntext.sq,HIPSTER,"Nothing beats a ${relaxed} mind. After all, you can't keep pushing yourself and expect good results!","Ничто не сравнится с ${relaxed} разумом. В конце концов, нельзя постоянно себя подгонять и ждать хороших результатов!",translated,100
+vntext.sq#21443,vntext.sq,HIPSTER,"Hmm... I don't need to rush. Easy does it! A masterpiece doesn't happen overnight, after all.","Хмм... мне некуда спешить. Тише едешь — дальше будешь! В конце концов, шедевр не рождается за одну ночь.",translated,93
+vntext.sq#21444,vntext.sq,HIPSTER,"Ah now this donut has ${cheered} me up considerably! Good bye, melancholia!","Ах, теперь этот пончик изрядно меня ${cheered}! Прощай, меланхолия!",translated,75
+vntext.sq#21445,vntext.sq,HIPSTER,"Do you have the time to listen to me talk about the great modernist classic, [i] Melysses [/i] by Jamie Joy?!","У тебя найдётся время послушать, как я рассуждаю о великой классике модернизма — [i] «Мелиссе» [/i] Джейми Джоя?!",translated,109
+vntext.sq#21446,vntext.sq,HIPSTER,My Muse! It has been a while since I heard your voice!,Моя Муза! Как давно я не слышал твой голос!,translated,54
+vntext.sq#21447,vntext.sq,HIPSTER,This donut... I feel like I can laugh at the face of an empty manuscript! Nothing scares me!,"Этот пончик... такое чувство, что я могу рассмеяться в лицо пустой рукописи! Ничто меня не страшит!",translated,92
+vntext.sq#21448,vntext.sq,HIPSTER,Ah... Emotions are a writer's bread and butter. And this donut brings out these... turbulent emotions within me!,Ах... Эмоции — это хлеб насущный писателя. И этот пончик пробуждает во мне эти... бурные чувства!,translated,112
+vntext.sq#21449,vntext.sq,HIPSTER,"With this donut, I feel like I can sit down and work on my manuscript the whole night!","С этим пончиком я чувствую, что смогу сесть и работать над рукописью всю ночь напролёт!",translated,86
+vntext.sq#21450,vntext.sq,HIPSTER,I am reminded of how I used to write hundreds of words every night... Oh youth!,"Мне вспоминается, как я раньше писал сотни слов каждую ночь... О, юность!",translated,79
+vntext.sq#21452,vntext.sq,HIPSTER,...This donut is perfection in itself! Splendid!,...Этот пончик — само совершенство! Великолепно!,translated,48
+vntext.sq#21453,vntext.sq,HIPSTER,"...Not bad at all! I like it, but a bit of editing can make this a perfect donut!","...Совсем неплохо! Мне нравится, но небольшая редактура сделала бы этот пончик идеальным!",translated,81
+vntext.sq#21454,vntext.sq,HIPSTER,...But is this really the mood I need tonight?,"...Но действительно ли это то настроение, что мне нужно сегодня?",translated,46
+vntext.sq#21455,vntext.sq,HIPSTER,"And now I take my leave, dramatic exit — stage right!","А теперь я откланиваюсь, драматично удаляясь — направо со сцены!",translated,53
+vntext.sq#21458,vntext.sq,HIPSTER,"Aw, thanks!","Ох, спасибо!",translated,11
+vntext.sq#21459,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#21460,vntext.sq,HIPSTER,"Oh, this donut is not for me. Doesn't look or taste good. Very confusing.","Ох, этот пончик не для меня. Ни на вид, ни на вкус не хорош. Весьма озадачивает.",translated,73
+vntext.sq#21464,vntext.sq,HIPSTER,Thanks!,Спасибо!,translated,7
+vntext.sq#21465,vntext.sq,HIPSTER,...,...,translated,3
+vntext.sq#21466,vntext.sq,HIPSTER,This donut makes me want to sit back and read my favorite Jamie Joy novel! My beloved Melysses!,Этот пончик вызывает желание откинуться и почитать мой любимый роман Джейми Джоя! Мою любимую «Мелиссу»!,translated,95
+vntext.sq#21467,vntext.sq,HIPSTER,This feeling of ${calmness}... I shall return to this emotion whenever someone says they hate Shakespeare in my presence!,"Это чувство ${calmness}... Я буду возвращаться к нему всякий раз, когда кто-то при мне скажет, что ненавидит Шекспира!",translated,121
+vntext.sq#21468,vntext.sq,HIPSTER,"Hahaha! Oh, {$mcName}, everything feels better after a good laugh!","Хахаха! Ох, {$mcName}, после хорошего смеха всё становится лучше!",translated,66
+vntext.sq#21469,vntext.sq,HIPSTER,Have you ever thought about the way some words sound? Listen: donut! Now doesn't that make you feel quite fired up?,"Ты когда-нибудь задумывался, как звучат некоторые слова? Послушай: пончик! Разве это не вызывает прилив энергии?",translated,115
+vntext.sq#21470,vntext.sq,HIPSTER,"Themes, phrases... oh, the beautiful metaphor... all of these are running through my head right now!","Темы, фразы... ах, прекрасная метафора... всё это сейчас проносится у меня в голове!",translated,100
+vntext.sq#21471,vntext.sq,HIPSTER,I'm feeling brave enough to take a gander at S.T. Elly's famously complicated poem 'The Wastewater'.,"Чувствую в себе достаточно смелости, чтобы взглянуть на знаменито сложную поэму С.Т. Элли «Сточные воды».",translated,100
+vntext.sq#21472,vntext.sq,HIPSTER,A donut for self-reflection...,Пончик для самоанализа...,translated,30
+vntext.sq#21473,vntext.sq,HIPSTER,There's no other thought in this head but my manuscript! I'm that ${focused}!,"В этой голове нет других мыслей, кроме рукописи! Я настолько ${focused}!",translated,77
+vntext.sq#21474,vntext.sq,HIPSTER,"This got me thinking of the first time I read my beloved modernist classic, [i] Melysses! [/i] I wish I could turn back time and experience reading it again for the first time...","Это заставило меня вспомнить, как я впервые читал мою любимую модернистскую классику — [i] «Мелиссу»! [/i] Как бы я хотел повернуть время вспять и снова пережить это первое чтение...",translated,178
+vntext.sq#21475,vntext.sq,HIPSTER,"Oh... this donut... It has no mood enhancers, correct? Just like us when we enter this world, innocent and unburdened...","Ох... этот пончик... В нём нет усилителей настроения, верно? Прямо как мы, когда приходим в этот мир — невинные и не отягощённые ничем...",translated,120
+vntext.sq#21476,vntext.sq,HIPSTER,...What a treat! I knew I could always count on you for these perfect delights!,"...Что за наслаждение! Я знал, что всегда могу рассчитывать на тебя в этих идеальных лакомствах!",translated,79
+vntext.sq#21477,vntext.sq,HIPSTER,"Oh, it's almost perfect... but I think there's something... we're almost there, my friend!","Ох, почти идеально... но, кажется, чего-то не хватает... мы почти у цели, друг мой!",translated,90
+vntext.sq#21478,vntext.sq,HIPSTER,"...My friend, could it be that this isn't the donut I ordered?","...Друг мой, неужели это не тот пончик, что я заказывал?",translated,62
+vntext.sq#21479,vntext.sq,HIPSTER,I shall see you on the morrow! Whenever that may be!,Увидимся завтра! Когда бы это ни было!,translated,52
+vntext.sq#25830,vntext.sq,HIPSTER,Maybe we should've gotten ethically sourced coffee from Starducks' latest competitor after all...,"Может, всё-таки стоило взять этично выращенный кофе у последнего конкурента Starducks...",translated,97
+vntext.sq#25874,vntext.sq,HIPSTER,"Yes, mine was also rather... atrocious. But I suppose it is to be expected from frazzled servers in this neon-capitalist world...","Да, мой заказ тоже был довольно... отвратительным. Но, полагаю, этого стоило ожидать от вымотанных официантов в этом неонокапиталистическом мире...",translated,129
+vntext.sq#38800,vntext.sq,HIPSTER,Did... did that girl just bark...,Она... она только что гавкнула...,translated,33
+vntext.sq#55559,vntext.sq,HIPSTER,Do you mind if perhaps... we tried again?,"Не против, если, может быть... мы попробуем ещё раз?",translated,41
+vntext.sq#55561,vntext.sq,HIPSTER,Splendid! I look forward to my Donut 2.0!,Великолепно! Жду не дождусь своего Пончика 2.0!,translated,41
+vntext.sq#55562,vntext.sq,HIPSTER,... It appears tonight is not the night for this donut to my grace my lonely mouth.,"...Похоже, сегодня не тот вечер, чтобы этот пончик почтил своим присутствием мой одинокий рот.",translated,83
+vntext.sq#55564,vntext.sq,HIPSTER,Alas! I hope things work out next time.,"Увы! Надеюсь, в следующий раз всё получится.",translated,39
+vntext.sq#55566,vntext.sq,HIPSTER,"I'll see you soon, friend!","Скоро увидимся, друг!",translated,26
+vntext.sq#69053,vntext.sq,HIPSTER,"The glaze seems to be missing, dear friend. Is it an accident or by choice, I wonder...","Похоже, глазури не хватает, дорогой друг. Случайность это или намеренный выбор, интересно...",translated,87
+vntext.sq#69055,vntext.sq,HIPSTER,"Curious... this is different from the glaze I requested, dear Mood Confectioner.","Любопытно... это не та глазурь, что я просил, дорогой кондитер настроения.",translated,80
+vntext.sq#69057,vntext.sq,HIPSTER,Strange... there's hardly any glaze on this donut.,Странно... на этом пончике почти нет глазури.,translated,50
+vntext.sq#69059,vntext.sq,HIPSTER,"Wait, where are my toppings, dear Mood Confectioner?","Погоди, где мои топпинги, дорогой кондитер настроения?",translated,52
+vntext.sq#69061,vntext.sq,HIPSTER,"Unfortunately, I think you've made a mistake with my toppings.","К сожалению, думаю, ты ошибся с моими топпингами.",translated,62
+vntext.sq#69063,vntext.sq,HIPSTER,Is this the full extent of your service? A lackluster donut with barely enough toppings?,Это предел твоего сервиса? Тусклый пончик с едва достаточным количеством топпингов?,translated,88
+vntext.sq#69065,vntext.sq,HIPSTER,Now where is the drizzle that was supposed to be on my donut?,"Так где же потёки, что должны были быть на моём пончике?",translated,61
+vntext.sq#69067,vntext.sq,HIPSTER,Hm? This drizzle... how unexpected. This isn't what I asked for.,"Хм? Эти потёки... как неожиданно. Это не то, что я просил.",translated,64
+vntext.sq#69069,vntext.sq,HIPSTER,"What happened with this drizzle, my friend? It's barely the acceptable amount!","Что случилось с этими потёками, друг мой? Это едва приемлемое количество!",translated,78
+vntext.sq#69071,vntext.sq,HIPSTER,This donut... it's quite like a story without a climax! I'm afraid the filling is missing.,"Этот пончик... он подобен истории без кульминации! Боюсь, начинки не хватает.",translated,90
+vntext.sq#69073,vntext.sq,HIPSTER,"Oh, interesting choice of filling. Alas, it is not what I ordered...","Ох, интересный выбор начинки. Увы, это не то, что я заказывал...",translated,68
+vntext.sq#69075,vntext.sq,HIPSTER,"This donut! Oh, are you trying something experimental? I'm afraid I don't understand it, my friend.","Этот пончик! Ох, ты пробуешь что-то экспериментальное? Боюсь, я этого не понимаю, друг мой.",translated,99
+vntext.sq#69077,vntext.sq,HIPSTER,A surprising twist! I did not imagine my donut could come out looking so crowded...,"Удивительный поворот! Не думал, что мой пончик может выглядеть таким перегруженным...",translated,83
+vntext.sq#69081,vntext.sq,HIPSTER,"This donut... I think it's missing that zest! That pizzazz! Or should I say, glazze?","Этому пончику... думаю, не хватает изюминки! Той самой искры! Или, точнее сказать, глазурьинки?",translated,84
+vntext.sq#69083,vntext.sq,HIPSTER,"Surely, this is different from the glaze I asked for?","Наверняка это не та глазурь, что я просил?",translated,53
+vntext.sq#69085,vntext.sq,HIPSTER,Is it taboo for the common man to indulge in some more glaze? That is the only explanation I can think of for this disappointment...,"Разве простому смертному табу насладиться дополнительной глазурью? Это единственное объяснение этого разочарования, что приходит мне на ум...",translated,132
+vntext.sq#69087,vntext.sq,HIPSTER,Do you not believe that all donuts deserve to have equal toppings? What did my order do to deserve nothing at all?,"Разве не веришь ты, что все пончики заслуживают равных топпингов? Чем провинился мой заказ, чтобы заслужить полное их отсутствие?",translated,114
+vntext.sq#69089,vntext.sq,HIPSTER,"Perhaps some people wouldn't notice one topping from another, but alas! Something is wrong with my beloved topping!","Быть может, кто-то и не отличит один топпинг от другого, но увы! Что-то не так с моим любимым топпингом!",translated,115
+vntext.sq#69091,vntext.sq,HIPSTER,"You may judge my taste in toppings all you want, my friend. But please don't deprive me...","Можешь сколько угодно судить мой вкус в топпингах, друг мой. Но, пожалуйста, не лишай меня их...",translated,90
+vntext.sq#69093,vntext.sq,HIPSTER,No drizzle whatsoever! Did you forget the donut I asked for?,"Совсем никаких потёков! Ты забыл про пончик, что я просил?",translated,60
+vntext.sq#69095,vntext.sq,HIPSTER,My friend... This is sadly not the drizzle I asked for.,"Друг мой... это, увы, не те потёки, что я просил.",translated,55
+vntext.sq#69097,vntext.sq,HIPSTER,"The drizzle should have been the star of this donut, if not the finishing act! Why is there so little of it?","Потёки должны были стать звездой этого пончика, если не финальным аккордом! Почему их так мало?",translated,108
+vntext.sq#69099,vntext.sq,HIPSTER,No filling? I remember asking for some... Do you think perhaps that my choice doesn't suit the donut?,"Без начинки? Помню, я её просил... Думаешь, быть может, мой выбор не подходит пончику?",translated,101
+vntext.sq#69101,vntext.sq,HIPSTER,Why do you insist upon this particular filling? I believe I wanted another.,"Почему ты настаиваешь именно на этой начинке? Полагаю, я хотел другую.",translated,75
+vntext.sq#69103,vntext.sq,HIPSTER,"If I tilt my head and squint a little, this donut does have potential... but alas, its presentation could use some work.","Если наклонить голову и прищуриться, у этого пончика есть потенциал... но увы, подача требует доработки.",translated,120
+vntext.sq#69105,vntext.sq,HIPSTER,What's this? I never asked for the donut to have so many... clashing elements!,"Что это? Я никогда не просил, чтобы у пончика было столько... конфликтующих элементов!",translated,78
+vntext.sq#69109,vntext.sq,HIPSTER,"A donut without glaze...? Why strip away its individuality, dear Mood Confectioner?","Пончик без глазури...? Зачем лишать его индивидуальности, дорогой кондитер настроения?",translated,83
+vntext.sq#69111,vntext.sq,HIPSTER,"Why has my donut been graced with a glaze quite different from what I asked for? Strange, don't you think?","Почему мой пончик удостоился глазури, столь отличной от той, что я просил? Странно, не находишь?",translated,106
+vntext.sq#69113,vntext.sq,HIPSTER,"Another mystery to boggle the mind, perhaps? Surely there's a reason why the glaze is lacking...","Ещё одна загадка, что тревожит разум, быть может? Наверняка есть причина, почему не хватает глазури...",translated,96
+vntext.sq#69115,vntext.sq,HIPSTER,How disappointing that you did not see it fit to add any toppings to my donut... I thought we were of similar minds...,"Как разочаровывающе, что ты не счёл нужным добавить хоть какие-то топпинги на мой пончик... думал, мы мыслим схоже...",translated,118
+vntext.sq#69117,vntext.sq,HIPSTER,"I find it curious how my donut has toppings that do not quite match my request. Were you not paying attention, dear Confectioner?","Нахожу любопытным, что топпинги моего пончика не совсем соответствуют моей просьбе. Ты был невнимателен, дорогой кондитер?",translated,129
+vntext.sq#69119,vntext.sq,HIPSTER,"How disappointing! An abundant spread of toppings would have helped me greatly in my pursuit of hidden truths, but alas...","Как разочаровывающе! Обильное разнообразие топпингов очень помогло бы мне в поисках скрытых истин, но увы...",translated,122
+vntext.sq#69121,vntext.sq,HIPSTER,A good drizzle would've made this donut pop! I can't believe it's missing!,"Хорошие потёки заставили бы этот пончик заиграть! Не могу поверить, что их нет!",translated,74
+vntext.sq#69123,vntext.sq,HIPSTER,Switching out my preferred drizzle with another... how cruel!,Заменить мои любимые потёки другими... как жестоко!,translated,61
+vntext.sq#69125,vntext.sq,HIPSTER,"Without the right amount of drizzle, this donut is just like the others... lacking any individuality.","Без правильного количества потёков этот пончик такой же, как остальные... лишённый всякой индивидуальности.",translated,101
+vntext.sq#69127,vntext.sq,HIPSTER,"I truly believe the filling would have saved this donut, but alas... perhaps it was never meant to be.","Искренне верю, что начинка спасла бы этот пончик, но увы... быть может, этому не суждено было случиться.",translated,102
+vntext.sq#69129,vntext.sq,HIPSTER,"Why is this specific filling in this donut? How curious... if my memory serves me right, I wanted another flavor.","Почему именно эта начинка в этом пончике? Как любопытно... если память мне не изменяет, я хотел другой вкус.",translated,113
+vntext.sq#69131,vntext.sq,HIPSTER,I'm afraid I do not understand your vision. There is a certain chaos to the way the donut looks...,"Боюсь, я не понимаю твоего замысла. В облике этого пончика есть определённый хаос...",translated,98
+vntext.sq#69133,vntext.sq,HIPSTER,"An interesting approach to populate such a small donut with unnecessary elements... even though I cannot fathom the way you think, dear Mood Confectioner.","Интересный подход — населить такой маленький пончик ненужными элементами... хотя не могу постичь ход твоих мыслей, дорогой кондитер настроения.",translated,154
+vntext.sq#69135,vntext.sq,HIPSTER,"Unfortunately, I think you've made a mistake with the donut shape.","К сожалению, думаю, ты ошибся с формой пончика.",translated,66
+vntext.sq#69136,vntext.sq,HIPSTER,"Still, I must keep an open mind and sample everything life has to offer, including imperfect donuts... so I shall eat this regardless!","И всё же я должен сохранять открытость ума и пробовать всё, что предлагает жизнь, включая несовершенные пончики... так что всё равно его съем!",translated,134
+vntext.sq#73513,vntext.sq,HIPSTER,... What the hell are they singing?,...Что за фигню они поют?,translated,35

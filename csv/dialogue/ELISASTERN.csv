@@ -1,0 +1,539 @@
+id,file,context,source,target,status,max_len
+vntext.sq#12749,vntext.sq,ELISASTERN,Good evening! I came back just like I said I would.,"Добрый вечер! Я вернулась, как и обещала.",translated,51
+vntext.sq#12751,vntext.sq,ELISASTERN,"Hmm... I think I remember wanting to order something from the menu, didn't I? What was it again... a {$recipe:cream_pie}?","Хм... кажется, я хотела заказать что-то из меню, не так ли? Что же это было... {$recipe:cream_pie}?",translated,121
+vntext.sq#12753,vntext.sq,ELISASTERN,"Haha! Come on, I wasn't able to embarrass you in front of your friends in your teens... at least, not as much as I would have liked. Won't you let me have this moment?","Ха-ха! Да ладно тебе, мне ведь не удалось смутить тебя перед друзьями в подростковом возрасте... по крайней мере, не так сильно, как хотелось бы. Дашь мне насладиться этим моментом?",translated,167
+vntext.sq#12765,vntext.sq,ELISASTERN,I-Is that so?,П-правда?,translated,13
+vntext.sq#12768,vntext.sq,ELISASTERN,...Are you going to tell me you don't have friends?,"...Хочешь сказать, у тебя нет друзей?",translated,51
+vntext.sq#12771,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12772,vntext.sq,ELISASTERN,I suppose that's true.,"Полагаю, это правда.",translated,22
+vntext.sq#12773,vntext.sq,ELISASTERN,And your friends...,И твои друзья...,translated,19
+vntext.sq#12774,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12775,vntext.sq,ELISASTERN,"They know more about you than I ever did, huh?","Они знают о тебе больше, чем когда-либо знала я, да?",translated,46
+vntext.sq#12777,vntext.sq,ELISASTERN,"Heh, I guess I've become a lot softer in my old age.","Хех, наверное, я стала намного мягче на старости лет.",translated,52
+vntext.sq#12779,vntext.sq,ELISASTERN,"...Hugo really had that effect on people, didn't he?","...Хьюго и правда так на людей действовал, да?",translated,52
+vntext.sq#12780,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12787,vntext.sq,ELISASTERN,"It looks great, {$mcName}!","Выглядит отлично, {$mcName}!",translated,26
+vntext.sq#12789,vntext.sq,ELISASTERN,Oh my! This reminds me of the first time you tried baking by yourself... haha...,"Боже мой! Это напоминает мне о том, как ты впервые пытался печь сам... ха-ха...",translated,80
+vntext.sq#12790,vntext.sq,ELISASTERN,"Uh, well, it's just as inedible. But I still appreciate the effort.","Э, ну, тут точно так же несъедобно. Но я всё равно ценю старания.",translated,67
+vntext.sq#12793,vntext.sq,ELISASTERN,"Are you sure? ...Well, thanks!","Ты уверен? ...Что ж, спасибо!",translated,30
+vntext.sq#12795,vntext.sq,ELISASTERN,So this is a {$recipe:post-nut_clarity}!,"Так вот он какой, {$recipe:post-nut_clarity}!",translated,40
+vntext.sq#12796,vntext.sq,ELISASTERN,"I was kind of scared that all of the {$flavors:vanilla_sky} would get overwhelming, but you're so good at balancing the flavors.","Я немного боялась, что весь этот {$flavors:vanilla_sky} окажется слишком навязчивым, но ты так хорошо балансируешь вкусы.",translated,128
+vntext.sq#12797,vntext.sq,ELISASTERN,"The {$toppings:almonphetamine} add a great texture too! A perfect donut, if I do say so myself~","{$toppings:almonphetamine} тоже добавляет отличную текстуру! Идеальный пончик, не побоюсь этого сказать~",translated,95
+vntext.sq#12798,vntext.sq,ELISASTERN,Hmm... I feel like it needs something more...,"Хм... такое чувство, что чего-то не хватает...",translated,45
+vntext.sq#12799,vntext.sq,ELISASTERN,But I can definitely feel the mood enhancers... Hee!,Но усилители настроения точно чувствую... Хи!,translated,52
+vntext.sq#12801,vntext.sq,ELISASTERN,"I'm feeling a rush! Which I think is similar to {$moods:cheer}, but I know for a fact that you gave me an {$flavors:ubecstacy} donut...","Меня прямо накрывает волной! Думаю, похоже на {$moods:cheer}, но я точно знаю, что ты дал мне пончик {$flavors:ubecstacy}...",translated,135
+vntext.sq#12802,vntext.sq,ELISASTERN,"Oh! I suddenly feel like doing my finances... taxes and all... That can't be the effect of a {$recipe:post-nut_clarity}, surely?","Ой! Мне вдруг захотелось заняться финансами... налогами и всем таким... Не может же это быть эффектом {$recipe:post-nut_clarity}, правда?",translated,128
+vntext.sq#12803,vntext.sq,ELISASTERN,"Oh! I'm pretty sure this is a {$flavors:lemon_acid} donut... Did you get my order wrong, {$mcName}?","Ой! Я почти уверена, что это пончик {$flavors:lemon_acid}... Ты перепутал мой заказ, {$mcName}?",translated,99
+vntext.sq#12804,vntext.sq,ELISASTERN,"Oh... this is {$flavors:matchajuana}, right? I'm not sure what this has to do with {$recipe:post-nut_clarity}... but I do feel rather ${relaxed}.","Ох... это {$flavors:matchajuana}, да? Не уверена, как это связано с {$recipe:post-nut_clarity}... но я и правда чувствую себя довольно ${relaxed}.",translated,145
+vntext.sq#12805,vntext.sq,ELISASTERN,Ah... I'm feeling ${calm}... But I thought a {$recipe:post-nut_clarity} should make me feel ${cheerful}?,"Ах... я чувствую себя ${calm}... Но я думала, {$recipe:post-nut_clarity} должен делать меня ${cheerful}?",translated,104
+vntext.sq#12806,vntext.sq,ELISASTERN,"I still remember the first time you tried baking on your own... Oh wait... I'm getting quite ${nostalgic}. But a {$recipe:post-nut_clarity} is supposed to make me feel ${cheerful}, correct?","До сих пор помню, как ты впервые пытался печь сам... Ой, погоди... я становлюсь довольно ${nostalgic}. Но {$recipe:post-nut_clarity} же должен делать меня ${cheerful}, разве нет?",translated,189
+vntext.sq#12807,vntext.sq,ELISASTERN,"Now that's a {$flavors:methberry} donut! I like the taste, but I wonder what happened to the {$recipe:post-nut_clarity} I ordered...","Ну вот это уже пончик {$flavors:methberry}! Мне нравится вкус, но интересно, что случилось с {$recipe:post-nut_clarity}, который я заказывала...",translated,132
+vntext.sq#12808,vntext.sq,ELISASTERN,Oh! Now this is interesting... I could swear this tastes like {$flavors:roid_velvet}... Are you sure you gave me {$recipe:post-nut_clarity}?,"Ой! А вот это интересно... могла бы поклясться, что на вкус это {$flavors:roid_velvet}... Ты точно дал мне {$recipe:post-nut_clarity}?",translated,140
+vntext.sq#12809,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12810,vntext.sq,ELISASTERN,Maybe that donut is too simple for you.,"Может, этот пончик слишком прост для тебя.",translated,39
+vntext.sq#12811,vntext.sq,ELISASTERN,"I mean, looking at the other items on the menu, you could make a {$recipe:post-nut_clarity} with your eyes closed right?","В смысле, глядя на остальные позиции в меню, ты же мог бы приготовить {$recipe:post-nut_clarity} с закрытыми глазами, да?",translated,120
+vntext.sq#12813,vntext.sq,ELISASTERN,I remember... you always liked a bit of a challenge.,Я помню... ты всегда любил лёгкий вызов.,translated,52
+vntext.sq#12815,vntext.sq,ELISASTERN,"Would you have stuck to your guns, with mood confectioneering, if your father hadn't been so against it?","А ты бы продолжал стоять на своём с кондитерским делом настроения, если бы твой отец не был так против?",translated,104
+vntext.sq#12821,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12822,vntext.sq,ELISASTERN,So do I.,У меня тоже.,translated,8
+vntext.sq#12825,vntext.sq,ELISASTERN,Do you enjoy what you're doing?,"Тебе нравится то, чем ты занимаешься?",translated,31
+vntext.sq#12827,vntext.sq,ELISASTERN,Then does it matter?,Тогда какая разница?,translated,20
+vntext.sq#12829,vntext.sq,ELISASTERN,Well... I don't want to take up too much of your time.,Что ж... не хочу отнимать у тебя слишком много времени.,translated,54
+vntext.sq#12830,vntext.sq,ELISASTERN,"But if I can come again and order something more complicated... that would be fine, right?","Но если я смогу прийти снова и заказать что-нибудь посложнее... это ведь ничего, да?",translated,90
+vntext.sq#12832,vntext.sq,ELISASTERN,"...Heh. Well, then! I'll be dropping by again.","...Хех. Что ж, тогда! Я ещё загляну.",translated,46
+vntext.sq#12833,vntext.sq,ELISASTERN,"See you, {$mcName}.","Увидимся, {$mcName}.",translated,19
+vntext.sq#12835,vntext.sq,ELISASTERN,"Oh... that wasn't quite what I expected, but maybe you're not feeling well tonight...?","Ох... не совсем то, что я ожидала, но, может, ты сегодня неважно себя чувствуешь...?",translated,86
+vntext.sq#12836,vntext.sq,ELISASTERN,"At any rate, I want to come back and try other recipes, if that's all right with you~","В любом случае, хочу вернуться и попробовать другие рецепты, если ты не против~",translated,85
+vntext.sq#12848,vntext.sq,ELISASTERN,Oh! Could it be that you're also following [i] Ghosts Fighting Over The Fighting Damsels? [/i],"Ой! Неужели ты тоже следишь за [i] 'Призраки, сражающиеся за девиц-воительниц'? [/i]",translated,94
+vntext.sq#12849,vntext.sq,ELISASTERN,I didn't know you were into soaps!,"Не знала, что ты увлекаешься мыльными операми!",translated,34
+vntext.sq#12852,vntext.sq,ELISASTERN,"Hee! It's practically a cult classic, of course they're trying to make the story last as long as possible.","Хи! Это же практически культовая классика, конечно, они стараются растянуть историю как можно дольше.",translated,106
+vntext.sq#12854,vntext.sq,ELISASTERN,Hugo hates them. Thinks they're a waste of time.,Хьюго их терпеть не может. Считает пустой тратой времени.,translated,48
+vntext.sq#12855,vntext.sq,ELISASTERN,And they're not exactly full of moral lessons.,И они не то чтобы полны моральных уроков.,translated,46
+vntext.sq#12857,vntext.sq,ELISASTERN,I've almost forgotten about that arc!,Я почти забыла про эту сюжетную линию!,translated,37
+vntext.sq#12859,vntext.sq,ELISASTERN,But I'm really surprised. From what I remember about you... you liked your baking shows and documentaries.,Но я правда удивлена. Насколько я тебя помню... тебе нравились кулинарные шоу и документалки.,translated,106
+vntext.sq#12860,vntext.sq,ELISASTERN,Soap operas... they're not like baking where logical steps lead to good results. It's mostly passion and dramatics.,"Мыльные оперы... они не как выпечка, где логичные шаги ведут к хорошему результату. Тут в основном страсть и драматизм.",translated,115
+vntext.sq#12869,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12874,vntext.sq,ELISASTERN,Haha! They know how to get a rise out of their audience.,Ха-ха! Они умеют раззадорить публику.,translated,56
+vntext.sq#12877,vntext.sq,ELISASTERN,But she's one of the bad guys!,Но она же одна из злодеек!,translated,30
+vntext.sq#12879,vntext.sq,ELISASTERN,Now you're really getting into it!,Вот теперь ты и правда вжился в это!,translated,34
+vntext.sq#12881,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12893,vntext.sq,ELISASTERN,...This donut tastes like the disappointing ending to a well-loved show...,...Этот пончик на вкус как разочаровывающая концовка любимого сериала...,translated,74
+vntext.sq#12895,vntext.sq,ELISASTERN,"It could have been good, but it went wrong somewhere.","Могло бы быть хорошо, но что-то пошло не так.",translated,53
+vntext.sq#12898,vntext.sq,ELISASTERN,Oh this is exactly what I wanted! I can feel my heart pounding in excitement...,"Ох, это именно то, чего я хотела! Чувствую, как сердце колотится от волнения...",translated,79
+vntext.sq#12899,vntext.sq,ELISASTERN,"Ooh, this is it! {$colors:red} hot {$moods:courage}... that's the bread and butter for a lot of spicy soap operas! I love it~","Оо, вот оно! Обжигающая {$colors:red} {$moods:courage}... это же основа для многих острых мыльных опер! Обожаю~",translated,125
+vntext.sq#12900,vntext.sq,ELISASTERN,And you made it with the works too! I do love having additional things on my donut... it looks more special this way.,"И ты ещё сделал его со всеми добавками! Обожаю, когда на пончике много всего дополнительного... так он выглядит более особенным.",translated,117
+vntext.sq#12901,vntext.sq,ELISASTERN,"Oh, but this could use a few more elements perhaps? I wanted a {$heavy} donut for tonight...","Ох, но, может, тут не хватает ещё нескольких элементов? Я хотела {$heavy} пончик на сегодня...",translated,92
+vntext.sq#12903,vntext.sq,ELISASTERN,"Oooh, now I feel like I can watch my favorite shows back to back!","Оооо, теперь чувствую, что могу смотреть любимые шоу без остановки!",translated,65
+vntext.sq#12904,vntext.sq,ELISASTERN,"Not the mood I was looking for, but I'll keep this flavor in mind~","Не то настроение, которое я искала, но запомню этот вкус~",translated,66
+vntext.sq#12905,vntext.sq,ELISASTERN,"Hm, actually I tend to just watch and let the story unfold on its own, but now I'm thinking of theories... I need to discuss this with my drama watching group later!","Хм, вообще-то я обычно просто смотрю и позволяю истории раскрываться самой, но теперь у меня появляются теории... нужно будет обсудить это со своей группой по просмотру драм!",translated,165
+vntext.sq#12906,vntext.sq,ELISASTERN,"This mood isn't bad, but not exactly what I was thinking of.","Настроение неплохое, но не совсем то, о чём я думала.",translated,60
+vntext.sq#12907,vntext.sq,ELISASTERN,"Oh, I do love the {$flavors:matchajuana} flavor... but this is the complete opposite of how I feel whenever I watch my soaps...","Ох, обожаю вкус {$flavors:matchajuana}... но это полная противоположность тому, что я чувствую, когда смотрю свои мыльные оперы...",translated,127
+vntext.sq#12908,vntext.sq,ELISASTERN,Hmm... {$flavors:pumpketamine} is good but maybe '{$moods:patience}' isn't exactly a soap opera feeling?,"Хмм... {$flavors:pumpketamine} хорош, но, может, '{$moods:patience}' — это не совсем то чувство, что нужно для мыльной оперы?",translated,104
+vntext.sq#12909,vntext.sq,ELISASTERN,"...I remember sitting in our dusty attic, crying at the ending of [i] My Heart and Liver are All Yours... [/i]","...Помню, как сидела в нашем пыльном чердаке и плакала над концовкой [i] 'Моё сердце и печень — твои...' [/i]",translated,110
+vntext.sq#12910,vntext.sq,ELISASTERN,"Not exactly the mood I was looking for, but thank you for the memories.","Не совсем то настроение, которое я искала, но спасибо за воспоминания.",translated,71
+vntext.sq#12911,vntext.sq,ELISASTERN,"Oh now I'm feeling good and happy! Not quite the explosive emotion I was looking for, but I don't hate it.","Ох, теперь я чувствую себя хорошо и счастливо! Не совсем та взрывная эмоция, которую я искала, но мне не противно.",translated,106
+vntext.sq#12912,vntext.sq,ELISASTERN,...I wonder now if it was some sort of catharsis... Like watching these shows made crying so much easier.,"...Интересно, было ли это своего рода катарсисом... Будто просмотр этих шоу облегчал плач.",translated,105
+vntext.sq#12913,vntext.sq,ELISASTERN,This isn't the mood I asked for... but I don't mind it.,"Это не то настроение, что я просила... но я не против.",translated,55
+vntext.sq#12914,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12915,vntext.sq,ELISASTERN,I'm glad you decided to stick to the mood confectioneering.,"Я рада, что ты решил остаться в кондитерском деле настроения.",translated,59
+vntext.sq#12916,vntext.sq,ELISASTERN,I don't know much about mood enhancers... talking about chemicals and their effects confuse me. But I know good food when I see it.,Я не особо разбираюсь в усилителях настроения... разговоры о химии и её эффектах меня путают. Но хорошую еду я узнаю с первого взгляда.,translated,131
+vntext.sq#12917,vntext.sq,ELISASTERN,"More importantly, when I eat it. Hehe...",А ещё важнее — на вкус. Хе-хе...,translated,40
+vntext.sq#12918,vntext.sq,ELISASTERN,"Thank you, {$mcName}. I'll definitely come back for more.","Спасибо, {$mcName}. Обязательно приду ещё.",translated,57
+vntext.sq#12919,vntext.sq,ELISASTERN,"Well, that's certainly an experience! I definitely want to know more about these mood-enhanced donuts of yours.","Что ж, это определённо был опыт! Точно хочу узнать побольше об этих твоих пончиках с усилителями настроения.",translated,111
+vntext.sq#12920,vntext.sq,ELISASTERN,That means I'll be coming back for more of course!,"А значит, я, конечно же, приду ещё!",translated,50
+vntext.sq#12921,vntext.sq,ELISASTERN,That really could have been better... but I guess that's what next time is for!,"Могло бы быть и получше... но, наверное, для этого и существует следующий раз!",translated,79
+vntext.sq#12922,vntext.sq,ELISASTERN,"See you soon, {$mcName}!","До скорого, {$mcName}!",translated,24
+vntext.sq#12933,vntext.sq,ELISASTERN,"Oh! Not just soap operas, you also watch reality TV?!","Ой! Не только мыльные оперы, ты ещё и реалити-шоу смотришь?!",translated,53
+vntext.sq#12935,vntext.sq,ELISASTERN,Huh... you really have changed.,Хм... ты и правда изменился.,translated,31
+vntext.sq#12941,vntext.sq,ELISASTERN,"Oh, {$mcName}...","Ох, {$mcName}...",translated,16
+vntext.sq#12944,vntext.sq,ELISASTERN,Hehe...,Хе-хе...,translated,7
+vntext.sq#12945,vntext.sq,ELISASTERN,Do you remember what Hugo used to call them? 'Brain rot'... he wouldn't even let me watch [i] Small Sibling... [/i],"Помнишь, как Хьюго их называл? «Гниль для мозгов»... он даже не разрешал мне смотреть [i] Младшую Сестрёнку... [/i]",translated,115
+vntext.sq#12946,vntext.sq,ELISASTERN,"Especially with you. I suppose that kind of thing isn't really for kids, so maybe he was right.","Особенно с тобой. Полагаю, такое не совсем для детей, так что, может, он был прав.",translated,95
+vntext.sq#12948,vntext.sq,ELISASTERN,"And of course, none of the high society friends he invited to dinner parties would ever do anything as plebian as watch [i] Small Sibling... [/i]","И конечно, никто из великосветских друзей, которых он звал на ужины, никогда не опустился бы до такой пошлости, как просмотр [i] Младшей Сестрёнки... [/i]",translated,145
+vntext.sq#12949,vntext.sq,ELISASTERN,"...Heh. Even though I tried to be the perfect wife, I know I embarrassed him a lot.","...Хех. Хоть я и старалась быть идеальной женой, знаю, что часто его смущала.",translated,83
+vntext.sq#12952,vntext.sq,ELISASTERN,Hee! I'm even part of a Facenook group... we discuss all the juicy scenes as soon as episodes air...,Хи! Я даже состою в группе на Facenook... мы обсуждаем самые сочные сцены сразу после выхода серий...,translated,100
+vntext.sq#12953,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12954,vntext.sq,ELISASTERN,I'm glad you're having fun with [i] Carrying on with the Carrions. [/i] I never could stand Cordana.,"Я рада, что тебе нравится [i] Продолжение падальщиков. [/i] Я никогда не выносила Кордану.",translated,100
+vntext.sq#12956,vntext.sq,ELISASTERN,Even though she's obsessed with Pavonini... Can't she see that he's already moved on?,"Хотя она и одержима Павонини... Неужели она не видит, что он уже давно двигается дальше?",translated,85
+vntext.sq#12958,vntext.sq,ELISASTERN,You think?!,Ты думаешь?!,translated,11
+vntext.sq#12959,vntext.sq,ELISASTERN,...Haha! I'm really glad we can talk about things like this. But don't let me keep you.,"...Ха-ха! Я правда рада, что мы можем говорить о таких вещах. Но не буду тебя задерживать.",translated,87
+vntext.sq#12971,vntext.sq,ELISASTERN,"Oh, I don't think I can eat this...","Ох, кажется, я не смогу это съесть...",translated,35
+vntext.sq#12972,vntext.sq,ELISASTERN,Is this what Pavonini is like? Completely inedible?,Так вот какой Павонини? Совершенно несъедобный?,translated,51
+vntext.sq#12975,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12977,vntext.sq,ELISASTERN,"Ah, that subtle sweetness that hides a deep {$moods:passion}! I wonder if that's what Ravena and Collis see?","Ах, эта тонкая сладость, скрывающая глубокую {$moods:passion}! Может, именно это Равена и видит в Коллисе?",translated,108
+vntext.sq#12978,vntext.sq,ELISASTERN,And you remembered the drawing I asked for! Thank you~,"И ты запомнил рисунок, о котором я просила! Спасибо~",translated,54
+vntext.sq#12979,vntext.sq,ELISASTERN,But did you forget the drawing I asked for? I wanted a heart on my donut...,"Но ты забыл про рисунок, о котором я просила? Я хотела сердечко на пончике...",translated,75
+vntext.sq#12981,vntext.sq,ELISASTERN,{$moods:focus}... I wonder if this is your subtle way of telling Pavonini to {$moods:focus} on one romantic partner...,"{$moods:focus}... Может, это такой тонкий намёк Павонини, чтобы он {$moods:focus} на одном партнёре...",translated,118
+vntext.sq#12982,vntext.sq,ELISASTERN,"{$moods:inspiration}... Is that really what you think of Pavonini? Does he ${inspire} you to make these donuts, perhaps?","{$moods:inspiration}... Ты правда так думаешь о Павонини? Может, это он тебя ${inspire} на такие пончики?",translated,120
+vntext.sq#12983,vntext.sq,ELISASTERN,"${Relaxing}, huh? Is this what you really think Pavonini is like? Maybe I missed something from the show...","${Relaxing}, значит? Ты правда думаешь, что Павонини такой? Может, я что-то упустила в сериале...",translated,107
+vntext.sq#12984,vntext.sq,ELISASTERN,"{$moods:patience}, huh? Is this what Pavonini is like? Perhaps he does have some {$moods:patience} in him... dating so many of those Carrions...","{$moods:patience}, значит? Так вот какой Павонини? Может, в нём и правда есть немного {$moods:patience}... встречаться с таким количеством этих Падальщиков...",translated,144
+vntext.sq#12985,vntext.sq,ELISASTERN,"{$moods:nostalgia}... Hmm, I wonder if I've ever known anyone like Pavonini... I don't think I do...","{$moods:nostalgia}... Хм, интересно, знала ли я когда-нибудь кого-то похожего на Павонини... Кажется, нет...",translated,100
+vntext.sq#12986,vntext.sq,ELISASTERN,Unless it's you? Haha. I wonder if we could ever talk about your love life...,"Разве что это ты? Ха-ха. Интересно, сможем ли мы когда-нибудь поговорить о твоей личной жизни...",translated,77
+vntext.sq#12988,vntext.sq,ELISASTERN,"{$moods:cheer}, huh? I guess I can see it. Even though I don't like him much, I have to say Pavonini does light up the room...","{$moods:cheer}, значит? Пожалуй, вижу в этом смысл. Хоть он мне и не особо нравится, должна признать — Павонини умеет оживить компанию...",translated,126
+vntext.sq#12989,vntext.sq,ELISASTERN,"{$moods:sincerity}, huh... I think that's what a lot of these Carrions need. They should eat your donuts, {$mcName}.","{$moods:sincerity}, значит... Думаю, многим из этих Падальщиков как раз этого и не хватает. Им бы твоих пончиков поесть, {$mcName}.",translated,116
+vntext.sq#12990,vntext.sq,ELISASTERN,"{$moods:courage}, huh? I suppose it takes a lot of {$moods:courage} to sleep with two Carrions...","{$moods:courage}, значит? Полагаю, немало {$moods:courage} нужно, чтобы спать сразу с двумя Падальщиками...",translated,97
+vntext.sq#12991,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#12992,vntext.sq,ELISASTERN,"Hehe, I suppose you've broken a few hearts like Pavonini yourself.","Хе-хе, полагаю, ты и сам разбил не одно сердце, прямо как Павонини.",translated,66
+vntext.sq#12994,vntext.sq,ELISASTERN,Is that so?,Неужели?,translated,11
+vntext.sq#12995,vntext.sq,ELISASTERN,I assume you must charm a lot of people with your looks and amazing mood confectioneering!,"Полагаю, ты очаровываешь немало людей своей внешностью и потрясающим настроенческим кондитерским мастерством!",translated,90
+vntext.sq#12997,vntext.sq,ELISASTERN,I can praise my own child if I want to.,"Я имею право хвалить собственного ребёнка, если хочу.",translated,39
+vntext.sq#12999,vntext.sq,ELISASTERN,...Oh.,...Ох.,translated,6
+vntext.sq#13004,vntext.sq,ELISASTERN,...I'm sorry. It must have been a slip of the tongue!,"...Прости. Должно быть, само сорвалось с языка!",translated,53
+vntext.sq#13005,vntext.sq,ELISASTERN,"It's like riding a bicycle, I suppose.","Это как с ездой на велосипеде, наверное.",translated,38
+vntext.sq#13007,vntext.sq,ELISASTERN,"When I'm with you, I slip back into mom mode.","Когда я рядом с тобой, я снова соскальзываю в мамин режим.",translated,45
+vntext.sq#13008,vntext.sq,ELISASTERN,But I'll do my best to remember!,Но я постараюсь запомнить!,translated,32
+vntext.sq#13011,vntext.sq,ELISASTERN,You'd be surprised! He was so good-looking when we were younger.,"Ты удивишься! Он был очень хорош собой, когда мы были моложе.",translated,64
+vntext.sq#13013,vntext.sq,ELISASTERN,...I guess all the anger and hatred can be quite aging.,"...Полагаю, весь этот гнев и ненависть неплохо старят.",translated,55
+vntext.sq#13015,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13016,vntext.sq,ELISASTERN,Haha!,Ха-ха!,translated,5
+vntext.sq#13018,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13019,vntext.sq,ELISASTERN,"Well, I have to go.","Что ж, мне пора.",translated,19
+vntext.sq#13020,vntext.sq,ELISASTERN,"Well, even if that wasn't exactly the donut I expected, it tasted good!","Что ж, пусть это оказался не совсем тот пончик, что я ждала, но было вкусно!",translated,71
+vntext.sq#13021,vntext.sq,ELISASTERN,I'm sorry I couldn't eat my donut...,"Прости, что не смогла доесть свой пончик...",translated,36
+vntext.sq#13022,vntext.sq,ELISASTERN,I hope you don't mind me dropping by again...,"Надеюсь, ты не против, что я снова заглянула...",translated,45
+vntext.sq#13024,vntext.sq,ELISASTERN,Hee! I just might do that. My soap opera buddies need a treat now and then...,"Хи! Может, я так и сделаю. Моим подругам по сериалам иногда нужно себя побаловать...",translated,77
+vntext.sq#13025,vntext.sq,ELISASTERN,"See you later, {$mcName}!","Увидимся, {$mcName}!",translated,25
+vntext.sq#13027,vntext.sq,ELISASTERN,Good evening!,Добрый вечер!,translated,13
+vntext.sq#13028,vntext.sq,ELISASTERN,No TV today?,Сегодня без телевизора?,translated,12
+vntext.sq#13030,vntext.sq,ELISASTERN,You sure you don't want to catch the news?,Точно не хочешь посмотреть новости?,translated,42
+vntext.sq#13032,vntext.sq,ELISASTERN,I feel the same... It's weird hearing people on the news say my name while reporting about the current situation with Hugo.,"Мне тоже... Странно слышать, как в новостях называют моё имя, рассказывая о текущей ситуации с Хьюго.",translated,123
+vntext.sq#13034,vntext.sq,ELISASTERN,"I mean, I [i] was [/i] his wife, so it's not like public scrutiny is new. But that was always me as Mrs. Stern.","То есть, я [i] была [/i] его женой, так что внимание публики для меня не в новинку. Но тогда я всегда была миссис Стерн.",translated,111
+vntext.sq#13035,vntext.sq,ELISASTERN,Now I'm just Elisa. Hugo Stern's former wife...,А теперь я просто Элиса. Бывшая жена Хьюго Стерна...,translated,47
+vntext.sq#13036,vntext.sq,ELISASTERN,"Heh, does it ever feel like you're living a soap opera life sometimes?","Хех, тебе никогда не кажется, что порой мы живём прямо как в сериале?",translated,70
+vntext.sq#13038,vntext.sq,ELISASTERN,...And you still haven't told me about your love life!,...А ты так и не рассказал мне про свою личную жизнь!,translated,54
+vntext.sq#13048,vntext.sq,ELISASTERN,"Oh? Is the cool girl your type, then?","О? Значит, крутые девушки — это твой тип?",translated,37
+vntext.sq#13052,vntext.sq,ELISASTERN,Your friend from grade school? Super cute and really good at drawing... I remember the two of you kept busy drawing your own comics...,"Твою подругу из начальной школы? Очень милая и правда хорошо рисовала... Помню, вы вдвоём вечно были заняты — рисовали свои собственные комиксы...",translated,134
+vntext.sq#13053,vntext.sq,ELISASTERN,Even though I wasn't allowed to read any of it.,Хоть мне и не разрешалось их читать.,translated,47
+vntext.sq#13056,vntext.sq,ELISASTERN,Oh! Could it be that there are still sparks from back then?,О! Неужели старые искры ещё не погасли?,translated,59
+vntext.sq#13060,vntext.sq,ELISASTERN,Oh. I think I heard you mention her before. But this was during...,"Ох. Кажется, я уже слышала это имя от тебя раньше. Но это было в то время, когда...",translated,66
+vntext.sq#13062,vntext.sq,ELISASTERN,...I'm sorry.,...Прости.,translated,13
+vntext.sq#13064,vntext.sq,ELISASTERN,"Oh, what a small world!","Ох, как тесен мир!",translated,23
+vntext.sq#13068,vntext.sq,ELISASTERN,How are his politics?,А как у него со взглядами?,translated,21
+vntext.sq#13070,vntext.sq,ELISASTERN,What happened?,Что случилось?,translated,14
+vntext.sq#13074,vntext.sq,ELISASTERN,Oh! What kind of girl? Has your type changed at all since you were younger?,"О! И что за девушка? Твой тип вообще изменился с тех пор, как ты был помладше?",translated,75
+vntext.sq#13076,vntext.sq,ELISASTERN,Sounds like a catch then!,Звучит как отличная партия!,translated,25
+vntext.sq#13078,vntext.sq,ELISASTERN,Oh my!,Батюшки!,translated,6
+vntext.sq#13079,vntext.sq,ELISASTERN,Now I kind of understand. Could it be that watching soap operas are actually your way to cope?,"Теперь мне вроде как понятно. Может, просмотр сериалов — это на самом деле твой способ справляться?",translated,94
+vntext.sq#13081,vntext.sq,ELISASTERN,Heehee! I'm just teasing.,Хи-хи! Я просто дразнюсь.,translated,25
+vntext.sq#13082,vntext.sq,ELISASTERN,But I have to say... you sound like you're having fun.,"Но должна сказать... судя по голосу, тебе весело живётся.",translated,54
+vntext.sq#13084,vntext.sq,ELISASTERN,Even though you're complaining about your ex... you sound like you had a lot of fun.,"Хоть ты и жалуешься на бывшую... по голосу похоже, что было очень весело.",translated,84
+vntext.sq#13086,vntext.sq,ELISASTERN,Maybe I can even meet this ex of yours while I'm here in San Mazo.,"Может, я даже смогу познакомиться с этой твоей бывшей, пока я здесь, в Сан-Мазо.",translated,66
+vntext.sq#13097,vntext.sq,ELISASTERN,Looking great! Thanks!,Выглядит отлично! Спасибо!,translated,22
+vntext.sq#13102,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13104,vntext.sq,ELISASTERN,{$flavors:ubecstacy} is becoming my favorite! I think they're just perfect with your donuts... just the right sweetness!,"{$flavors:ubecstacy} становится моим любимым! Мне кажется, он идеально подходит для твоих пончиков... в самый раз сладости!",translated,120
+vntext.sq#13105,vntext.sq,ELISASTERN,"Ah, {$flavors:vanilla_sky}! Almost impossible to mess up, but your {$flavors:vanilla_sky} donuts taste richer somehow. I wonder if that's the mood enhancers?","Ах, {$flavors:vanilla_sky}! Его почти невозможно испортить, но твои пончики с {$flavors:vanilla_sky} почему-то на вкус богаче. Может, дело в усилителях настроения?",translated,157
+vntext.sq#13106,vntext.sq,ELISASTERN,"Oh, this is {$flavors:pumpketamine}! Sweet and earthy... a cozy kind of taste, right? I love it.","О, это {$flavors:pumpketamine}! Сладкий и землистый... такой уютный вкус, да? Обожаю.",translated,96
+vntext.sq#13107,vntext.sq,ELISASTERN,"Oh, {$flavors:roid_velvet} is tough. I won't say it's [i] not [/i] {$tastes:sweet}, but it's kind of on the tart side for me.","Ох, {$flavors:roid_velvet} — это сложно. Не скажу, что он [i] не [/i] {$tastes:sweet}, но для меня он скорее с кислинкой.",translated,125
+vntext.sq#13108,vntext.sq,ELISASTERN,And you remembered I wanted a {$light} donut for tonight!,"И ты запомнил, что я сегодня хотела {$light} пончик!",translated,57
+vntext.sq#13109,vntext.sq,ELISASTERN,"Oh, but this donut is a bit {$heavy} for me...","Ох, но этот пончик для меня слишком {$heavy}...",translated,46
+vntext.sq#13111,vntext.sq,ELISASTERN,"I'm a big {$flavors:chococaine} fan, but I was thinking of something less on the {$tastes:bitter} side...","Я большая поклонница {$flavors:chococaine}, но сегодня хотела чего-то менее {$tastes:bitter}...",translated,105
+vntext.sq#13112,vntext.sq,ELISASTERN,"I suppose {$flavors:lemon_acid} could be {$tastes:sweet}... but that's not exactly the first flavor you think of when someone mentions '{$tastes:sweet}', right?","Полагаю, {$flavors:lemon_acid} тоже может быть {$tastes:sweet}... но это не первый вкус, который приходит на ум, когда говорят «{$tastes:sweet}», верно?",translated,160
+vntext.sq#13113,vntext.sq,ELISASTERN,"{$flavors:matchajuana} is good, but I was thinking of something {$tastes:sweet}, you know?","{$flavors:matchajuana} — это хорошо, но я думала о чём-то {$tastes:sweet}, понимаешь?",translated,90
+vntext.sq#13114,vntext.sq,ELISASTERN,"I love {$flavors:strawpium}, but I was looking for something {$tastes:sweet} tonight...","Обожаю {$flavors:strawpium}, но сегодня искала что-то {$tastes:sweet}...",translated,87
+vntext.sq#13115,vntext.sq,ELISASTERN,I definitely like your {$flavors:methberry} flavor... but this isn't what I asked for.,Мне определённо нравится твой вкус {$flavors:methberry}... но я просила не это.,translated,86
+vntext.sq#13116,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13117,vntext.sq,ELISASTERN,Thank you. I feel so much better after that donut.,Спасибо. После этого пончика мне намного лучше.,translated,50
+vntext.sq#13118,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13119,vntext.sq,ELISASTERN,"Well, it's not quite what I asked for, but I still enjoyed that donut.","Ну, это не совсем то, о чём я просила, но пончик всё равно был хорош.",translated,70
+vntext.sq#13120,vntext.sq,ELISASTERN,Thanks so much!,Огромное спасибо!,translated,15
+vntext.sq#13121,vntext.sq,ELISASTERN,"Hehe, I guess even you can make a bad donut now and then.","Хе-хе, полагаю, даже у тебя иногда получаются неудачные пончики.",translated,57
+vntext.sq#13122,vntext.sq,ELISASTERN,But no worries! Just getting out and having this little talk is more than enough.,Но не переживай! Просто выйти в свет и немного поболтать — уже более чем достаточно.,translated,81
+vntext.sq#13125,vntext.sq,ELISASTERN,"Oh, don't worry~ I don't think the media knows what I look like when I'm not Hugo Stern's accessory. You know, like a human handbag.","Ох, не переживай~ Не думаю, что пресса знает, как я выгляжу, когда я не аксессуар Хьюго Стерна. Ну, знаешь, как живая сумочка.",translated,132
+vntext.sq#13127,vntext.sq,ELISASTERN,Don't make that face. I've left it all behind. [i] We've [/i] left it all behind.,Не строй такое лицо. Я оставила всё это позади. [i] Мы [/i] оставили всё это позади.,translated,81
+vntext.sq#13128,vntext.sq,ELISASTERN,But I wanted to say that I haven't been feeling like doing household stuff... cooking and the like.,"Но я хотела сказать, что в последнее время мне совсем не хочется заниматься домашними делами... готовкой и всем таким.",translated,99
+vntext.sq#13129,vntext.sq,ELISASTERN,"Arch is a champ and has been cleaning up and doing some chores, but cooking is clearly not his forte.","Арч молодец, убирается и делает кое-какую работу по дому, но готовка явно не его конёк.",translated,101
+vntext.sq#13131,vntext.sq,ELISASTERN,"Oh, yes. Archie Williams. My partner.",Ах да. Арчи Уильямс. Мой партнёр.,translated,37
+vntext.sq#13133,vntext.sq,ELISASTERN,"Eh. We're thinking about it. Like, marriage sounds good on paper and Arch is a big fan of contracts... but honestly, I'm not sure if I want to go through all of that again.","Эх. Мы подумываем об этом. Ну, брак неплохо звучит на бумаге, и Арч большой поклонник контрактов... но, если честно, не знаю, хочу ли я снова через всё это проходить.",translated,172
+vntext.sq#13137,vntext.sq,ELISASTERN,And I haven't —,А я так и не —,translated,15
+vntext.sq#13139,vntext.sq,ELISASTERN,Oh... Haha. It's nothing important.,Ох... Ха-ха. Ничего важного.,translated,35
+vntext.sq#13140,vntext.sq,ELISASTERN,I was going to say I haven't had any time to cook and we've been getting takeout for a few days now... so getting one of your donuts is actually quite a treat.,"Я хотела сказать, что у меня совсем не было времени готовить, и мы уже несколько дней заказываем еду навынос... так что твой пончик — это настоящее лакомство.",translated,159
+vntext.sq#13141,vntext.sq,ELISASTERN,It's not homemade but...,"Это не домашнее, но...",translated,24
+vntext.sq#13148,vntext.sq,ELISASTERN,...!,...!,translated,4
+vntext.sq#13149,vntext.sq,ELISASTERN,Would you?,Правда?,translated,10
+vntext.sq#13152,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13154,vntext.sq,ELISASTERN,"Oh, of course!","Ох, ну конечно!",translated,14
+vntext.sq#13155,vntext.sq,ELISASTERN,...But you're always welcome to drop by.,...Но тебе всегда рады заглянуть в гости.,translated,40
+vntext.sq#13161,vntext.sq,ELISASTERN,"Hehe, don't you think it's rude to call a mood-enhanced donut made by a professional 'homemade'?","Хе-хе, тебе не кажется грубым называть «домашним» пончик с усилителем настроения, сделанный профессионалом?",translated,96
+vntext.sq#13163,vntext.sq,ELISASTERN,"At any rate, it's way better than the food we've been eating at home.","В любом случае, это намного лучше того, что мы едим дома в последнее время.",translated,69
+vntext.sq#13164,vntext.sq,ELISASTERN,"Speaking of home, I really should get going.","Кстати, о доме — мне и правда пора.",translated,44
+vntext.sq#13165,vntext.sq,ELISASTERN,But I'm glad we got to talk more.,"Но я рада, что нам удалось ещё немного поговорить.",translated,33
+vntext.sq#13166,vntext.sq,ELISASTERN,Thanks so much for telling me about yourself.,"Огромное спасибо, что рассказал мне о себе.",translated,45
+vntext.sq#13169,vntext.sq,ELISASTERN,I'll see you later!,Увидимся!,translated,19
+vntext.sq#13173,vntext.sq,ELISASTERN,"Good evening! As you can see, I can't stay away from your donuts.","Добрый вечер! Как видишь, я не могу устоять перед твоими пончиками.",translated,65
+vntext.sq#13176,vntext.sq,ELISASTERN,"Oh, you remembered!","Ох, ты запомнил!",translated,19
+vntext.sq#13177,vntext.sq,ELISASTERN,And yes. I've been in the mood to experiment in the kitchen recently...,И да. В последнее время меня тянет поэкспериментировать на кухне...,translated,71
+vntext.sq#13178,vntext.sq,ELISASTERN,If you don't mind... maybe I can bring you a meal or two here?,"Если ты не против... может, я принесу тебе сюда пару блюд?",translated,62
+vntext.sq#13186,vntext.sq,ELISASTERN,"Good! It's just me and Arch, you know. We can't really finish it all.",Отлично! Нас же только двое с Арчем. Мы всё равно не съедаем всё до конца.,translated,69
+vntext.sq#13188,vntext.sq,ELISASTERN,"Not at all! I mean, well, yes. I do have a ton to do... I've been doing some front-end developer work after I left.","Вовсе нет! То есть, ну, да. Дел действительно куча... После ухода я занялась фронтенд-разработкой.",translated,115
+vntext.sq#13189,vntext.sq,ELISASTERN,"Can you imagine? Me with a real job? But I wanted something to do with my days that's not just watching my soaps, hee!","Можешь представить? Я — и настоящая работа? Но мне хотелось занять себя чем-то помимо просмотра сериалов, хи!",translated,118
+vntext.sq#13190,vntext.sq,ELISASTERN,"At any rate, I'm going to cook our meals anyway. It's just me and Arch, so it's not like we can finish it all...","В любом случае, я всё равно буду готовить нам еду. Нас только двое с Арчем, так что мы всё равно не съедаем всё до конца...",translated,112
+vntext.sq#13192,vntext.sq,ELISASTERN,I think something that's easy to eat when you're on your break... nothing too saucy...,"Думаю, что-нибудь, что легко есть в перерыве... не слишком соусное...",translated,86
+vntext.sq#13194,vntext.sq,ELISASTERN,"Of course! I mean... Well, I wasn't really interested in cooking before.","Конечно! То есть... Ну, раньше готовка меня особо не интересовала.",translated,72
+vntext.sq#13195,vntext.sq,ELISASTERN,But then you started learning how to bake seriously... remember? You made rock-hard cookies. Not bad for a first attempt.,Но потом ты серьёзно взялся учиться печь... помнишь? Ты делал печенье твёрдое как камень. Неплохо для первой попытки.,translated,121
+vntext.sq#13197,vntext.sq,ELISASTERN,And you told me you'll definitely get better...,"И ты говорил мне, что обязательно станешь лучше...",translated,47
+vntext.sq#13198,vntext.sq,ELISASTERN,"...Well. I left, so I guess I never got to taste those cookies after all.","...Ну. Я ушла, так что, полагаю, мне так и не довелось попробовать то печенье.",translated,73
+vntext.sq#13200,vntext.sq,ELISASTERN,I guess... sometimes I miss being in the kitchen. So I started learning how to cook for real.,Наверное... иногда мне не хватает кухни. Поэтому я всерьёз взялась учиться готовить.,translated,93
+vntext.sq#13202,vntext.sq,ELISASTERN,When people like what you made... they have these smiles on their faces. I'm sure you're quite familiar with that as a mood confectioner.,"Когда людям нравится то, что ты приготовил... у них на лицах эти улыбки. Уверена, тебе это хорошо знакомо как настроенческому кондитеру.",translated,137
+vntext.sq#13204,vntext.sq,ELISASTERN,Anyway! I want to see you smile. So I'm going to do my best!,В общем! Я хочу видеть твою улыбку. Так что я буду очень стараться!,translated,60
+vntext.sq#13206,vntext.sq,ELISASTERN,I don't want it to be burnt! I want it to be a good meal!,"Я не хочу, чтобы подгорело! Я хочу, чтобы получилось хорошее блюдо!",translated,57
+vntext.sq#13212,vntext.sq,ELISASTERN,Thank you!,Спасибо!,translated,10
+vntext.sq#13214,vntext.sq,ELISASTERN,I'm sorry... Are you trying to tell me something with this donut?,Прости... Ты пытаешься мне что-то этим пончиком сказать?,translated,65
+vntext.sq#13216,vntext.sq,ELISASTERN,"It's inedible, I'm afraid...","Боюсь, он несъедобен...",translated,28
+vntext.sq#13217,vntext.sq,ELISASTERN,Wasn't this supposed to have some flavor?,Разве в нём не должен был быть какой-то вкус?,translated,41
+vntext.sq#13220,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13221,vntext.sq,ELISASTERN,"Yes, that's exactly what I needed! My mind is clear... I feel like I can {$moods:focus} on recipes better now!","Да, это именно то, что мне было нужно! В голове прояснилось... Кажется, теперь я могу лучше {$moods:focus} на рецептах!",translated,110
+vntext.sq#13222,vntext.sq,ELISASTERN,Haha... maybe I get distracted too easily?,"Ха-ха... может, я слишком легко отвлекаюсь?",translated,42
+vntext.sq#13224,vntext.sq,ELISASTERN,"Is this your way of telling me to be more ${passionate} with cooking? It's not the donut I asked for, but I don't mind it...","Это ты так намекаешь, что мне нужно готовить с большей ${passionate}? Это не тот пончик, что я просила, но я не против...",translated,124
+vntext.sq#13225,vntext.sq,ELISASTERN,"I'm getting some ideas for new recipes! This isn't the donut I asked for, but I don't mind.","У меня появляются идеи для новых рецептов! Это не тот пончик, о котором я просила, но я не против.",translated,91
+vntext.sq#13226,vntext.sq,ELISASTERN,Oh this is ${relaxing}! But maybe not the right mood for when you need to pay attention to what you're cooking...,"Ох, это ${relaxing}! Но, наверное, не то настроение, когда нужно внимательно следить за готовкой...",translated,113
+vntext.sq#13227,vntext.sq,ELISASTERN,I never cooked much when I was with Hugo... we had a cook and the food he made always tasted better than mine...,"Я почти не готовила, пока была с Хьюго... у нас был повар, и его еда всегда была вкуснее моей...",translated,112
+vntext.sq#13228,vntext.sq,ELISASTERN,But I remember trying to pack your school lunches... Hah... Now I've gotten all ${nostalgic}...,"Но помню, как пыталась собирать тебе обеды в школу... Хах... Вот меня и накрыло ${nostalgic}...",translated,95
+vntext.sq#13229,vntext.sq,ELISASTERN,"Oh, okay I think {$moods:patience} would be good while cooking in the kitchen! It's not what I asked for, but I'll keep this in mind.","О, кажется, {$moods:patience} было бы кстати во время готовки на кухне! Это не то, что я просила, но я запомню.",translated,133
+vntext.sq#13230,vntext.sq,ELISASTERN,Oh this {$moods:cheer} donut! I'm feeling pretty happy... even if this isn't the donut I asked for.,"Ох, этот пончик с {$moods:cheer}! Мне очень радостно... даже если это не тот пончик, что я просила.",translated,99
+vntext.sq#13231,vntext.sq,ELISASTERN,It's kind of intimidating making food for a professional... hah! This {$moods:sincerity} donut...,Готовить еду для профессионала — это немного пугает... хах! Этот пончик с {$moods:sincerity}...,translated,97
+vntext.sq#13232,vntext.sq,ELISASTERN,"Oh... do you mean to tell me to have more {$moods:courage} in the kitchen? I'll keep that in mind, I guess...","Ох... ты хочешь сказать, что мне нужно больше {$moods:courage} на кухне? Что ж, учту...",translated,109
+vntext.sq#13233,vntext.sq,ELISASTERN,"Well, I think I should go and try out some recipes!","Что ж, думаю, мне пора идти опробовать пару рецептов!",translated,51
+vntext.sq#13234,vntext.sq,ELISASTERN,That wasn't what I wanted... but how can I say no to a tasty donut?,"Это было не то, что я хотела... но как я могу отказаться от вкусного пончика?",translated,67
+vntext.sq#13235,vntext.sq,ELISASTERN,...I'm glad you're not trying to tell me not to bring food...,"...Я рада, что ты не пытаешься сказать мне, чтобы я не приносила еду...",translated,61
+vntext.sq#13236,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13237,vntext.sq,ELISASTERN,And uh... {$mcName}...,"И, эм... {$mcName}...",translated,22
+vntext.sq#13238,vntext.sq,ELISASTERN,You can tell me to stop when you're tired of it... or if I go overboard or anything like that.,"Ты можешь сказать мне остановиться, если это надоест... или если я перегну палку, или что-то в этом роде.",translated,94
+vntext.sq#13246,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13247,vntext.sq,ELISASTERN,I understand.,Я понимаю.,translated,13
+vntext.sq#13248,vntext.sq,ELISASTERN,And I want you to know that I did reach out because of... a sense of obligation. Of wanting to do the right thing.,"И я хочу, чтобы ты знал — я потянулась к тебе поначалу из... чувства долга. Желания поступить правильно.",translated,114
+vntext.sq#13249,vntext.sq,ELISASTERN,But this... Everything after that is because I do want to know you better.,"Но это... всё, что было после, — потому что я действительно хочу узнать тебя лучше.",translated,74
+vntext.sq#13251,vntext.sq,ELISASTERN,We can always take things slowly. And you can always tell me to back off.,Мы всегда можем не торопиться. И ты всегда можешь сказать мне отступить.,translated,73
+vntext.sq#13255,vntext.sq,ELISASTERN,...Heh. I'm not sure if you've changed a lot or not at all.,"...Хех. Не пойму, изменился ли ты сильно или совсем не изменился.",translated,59
+vntext.sq#13256,vntext.sq,ELISASTERN,You've never been good with meeting expectations.,У тебя никогда не получалось соответствовать ожиданиям.,translated,49
+vntext.sq#13258,vntext.sq,ELISASTERN,Is it?,Разве?,translated,6
+vntext.sq#13260,vntext.sq,ELISASTERN,...Are you happy where you are?,"...Ты счастлив там, где сейчас находишься?",translated,31
+vntext.sq#13263,vntext.sq,ELISASTERN,That's all I need to hear.,"Это всё, что мне нужно было услышать.",translated,26
+vntext.sq#13264,vntext.sq,ELISASTERN,"I have to go, but I'll definitely be back!","Мне пора, но я обязательно вернусь!",translated,42
+vntext.sq#13265,vntext.sq,ELISASTERN,"Hopefully with something edible, hehe!","Надеюсь, с чем-то съедобным, хе-хе!",translated,38
+vntext.sq#13266,vntext.sq,ELISASTERN,"See you later, {$mcName}!","Увидимся, {$mcName}!",translated,25
+vntext.sq#13270,vntext.sq,ELISASTERN,I was in the area so I thought I'd drop by.,"Я была неподалёку, вот и решила заглянуть.",translated,43
+vntext.sq#13271,vntext.sq,ELISASTERN,"The truth is, I've been craving donuts ever since. They never used to be my go-to snack.","По правде говоря, с тех пор меня всё тянет на пончики. Раньше это никогда не было моей любимой едой.",translated,88
+vntext.sq#13273,vntext.sq,ELISASTERN,Haha! Now you're sounding like a parent.,Ха-ха! Вот теперь ты говоришь прямо как родитель.,translated,40
+vntext.sq#13282,vntext.sq,ELISASTERN,My common sense tells me not to eat something so heavy before going to sleep... but I'm not that good at listening to my common sense.,Здравый смысл подсказывает мне не есть такое тяжёлое перед сном... но я не очень хорошо умею слушать здравый смысл.,translated,134
+vntext.sq#13284,vntext.sq,ELISASTERN,...!,...!,translated,4
+vntext.sq#13285,vntext.sq,ELISASTERN,Haha... I feel like I should apologize somehow.,"Ха-ха... Чувствую, что должна как-то извиниться.",translated,47
+vntext.sq#13292,vntext.sq,ELISASTERN,Hey there!,Привет!,translated,10
+vntext.sq#13293,vntext.sq,ELISASTERN,Our talk last time got me thinking of romances...,Наш прошлый разговор навёл меня на мысли о романах...,translated,49
+vntext.sq#13295,vntext.sq,ELISASTERN,"Hehe... Well. That and my soaps, of course!","Хе-хе... Ну, и мои сериалы, конечно же!",translated,43
+vntext.sq#13301,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13303,vntext.sq,ELISASTERN,I've been re-watching old episodes of [i] Ghosts Fighting Over Fighting Damsels [/i] and that got me in such a ${nostalgic} mood!,"Я тут пересматривала старые серии [i] Призраков, сражающихся за девиц-воительниц, [/i] и это навеяло на меня такое ${nostalgic} настроение!",translated,129
+vntext.sq#13305,vntext.sq,ELISASTERN,How about a cute donut to match this feeling?,Как насчёт милого пончика под стать этому чувству?,translated,45
+vntext.sq#13312,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13313,vntext.sq,ELISASTERN,How are things?,Как дела?,translated,15
+vntext.sq#13315,vntext.sq,ELISASTERN,"Well, I think I'm getting fewer requests for interviews. But my cooking journey? Not going too well.","Ну, кажется, мне стали реже предлагать интервью. А вот с моим кулинарным путём дела не очень.",translated,100
+vntext.sq#13317,vntext.sq,ELISASTERN,What if I'm not good with frying eggs?,"А что, если у меня не получается жарить яйца?",translated,38
+vntext.sq#13319,vntext.sq,ELISASTERN,That's true! I guess I need some {$moods:patience} for it... Hm.,"Точно! Наверное, тут нужно немного {$moods:patience}... Хм.",translated,64
+vntext.sq#13325,vntext.sq,ELISASTERN,"Hey, {$mcName}!","Привет, {$mcName}!",translated,15
+vntext.sq#13327,vntext.sq,ELISASTERN,"I think the donut helped with the cooking, actually! I made an omelette somewhat successfully!","Кажется, пончик и правда помог с готовкой! Мне даже более-менее удался омлет!",translated,94
+vntext.sq#13328,vntext.sq,ELISASTERN,So I was thinking... maybe that's the trick! Hehe.,"Так что я подумала... может, в этом весь секрет! Хе-хе.",translated,50
+vntext.sq#13329,vntext.sq,ELISASTERN,Donut before cooking!,Пончик перед готовкой!,translated,21
+vntext.sq#13331,vntext.sq,ELISASTERN,"...You're right. But hey! Maybe once in a while, right?","...Ты прав. Но эй! Иногда же можно, да?",translated,55
+vntext.sq#13339,vntext.sq,ELISASTERN,...My lawyer said I could accept an interview with a women's magazine as long as I don't say anything about Hugo.,"...Мой адвокат сказал, что я могу дать интервью женскому журналу, если не буду упоминать Хьюго.",translated,113
+vntext.sq#13341,vntext.sq,ELISASTERN,"But that got me in a bit of a nostalgic mood, I guess.","Но это навеяло на меня немного ностальгии, наверное.",translated,54
+vntext.sq#13342,vntext.sq,ELISASTERN,I don't miss being Mrs. Stern at all. But having all of this attention on me reminds me of that time.,Мне ничуть не хочется снова быть миссис Стерн. Но всё это внимание ко мне напоминает о том времени.,translated,101
+vntext.sq#13344,vntext.sq,ELISASTERN,And you know what made me feel better back then? Donuts.,"А знаешь, что мне тогда помогало? Пончики.",translated,56
+vntext.sq#13353,vntext.sq,ELISASTERN,I actually had fun! We talked about my soap opera group and our work on women's shelters.,Мне даже понравилось! Мы поговорили про мой сериальный кружок и про нашу работу с приютами для женщин.,translated,89
+vntext.sq#13354,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#13356,vntext.sq,ELISASTERN,I guess I'm a bit tired. How about something that will help give me a little boost?,"Наверное, я немного устала. Как насчёт чего-то, что придаст мне немного бодрости?",translated,83
+vntext.sq#13362,vntext.sq,ELISASTERN,Whew! Today has been so busy!,Уф! Сегодня был такой суматошный день!,translated,29
+vntext.sq#13364,vntext.sq,ELISASTERN,We had an event at the women's shelter I work with and I've been on my feet all day.,"У нас было мероприятие в приюте для женщин, с которым я сотрудничаю, и я весь день на ногах.",translated,84
+vntext.sq#13371,vntext.sq,ELISASTERN,Tonight is a soap opera night with my friends and I need a... is it something like a pre-game snack?,"Сегодня вечер сериалов с подругами, и мне нужен... это как называется, разминочный перекус?",translated,100
+vntext.sq#13372,vntext.sq,ELISASTERN,A pre-show snack? Pre-marathon? Hehe...,Перекус перед сериалом? Перед марафоном? Хе-хе...,translated,39
+vntext.sq#13385,vntext.sq,ELISASTERN,"I'll have my favorite {$recipe:chocoberry} for tonight, please!","Сегодня, пожалуйста, мой любимый {$recipe:chocoberry}!",translated,63
+vntext.sq#13393,vntext.sq,ELISASTERN,"Hmm, you're right. We need food. It's energy!","Хм, ты прав. Нам нужна еда. Это же энергия!",translated,45
+vntext.sq#13395,vntext.sq,ELISASTERN,"Heehee, I want to treat myself a bit tonight, so how about a {$recipe:velvet_devil}?","Хи-хи, хочу сегодня немного себя побаловать, так что как насчёт {$recipe:velvet_devil}?",translated,84
+vntext.sq#13405,vntext.sq,ELISASTERN,"It's time for my soap opera marathon, which means a {$recipe:velvety_ube} is a must!","Пришло время моего сериального марафона, а значит, {$recipe:velvety_ube} обязателен!",translated,84
+vntext.sq#13409,vntext.sq,ELISASTERN,"Good evening, {$mcName}!","Добрый вечер, {$mcName}!",translated,24
+vntext.sq#13410,vntext.sq,ELISASTERN,Before you say it... I know I've been dropping by quite a lot...,"Прежде чем ты скажешь... я знаю, что заглядываю довольно часто...",translated,64
+vntext.sq#13411,vntext.sq,ELISASTERN,But what can I do? Donuts have become one of my guilty pleasures.,Но что поделать? Пончики стали одной из моих маленьких слабостей.,translated,65
+vntext.sq#13413,vntext.sq,ELISASTERN,"Hmm, you're right. We need food. It's energy!","Хм, ты прав. Нам нужна еда. Это же энергия!",translated,45
+vntext.sq#13415,vntext.sq,ELISASTERN,I really can't stay away from your {$recipe:royal_blood}. It's just too good!,Я правда не могу устоять перед твоим {$recipe:royal_blood}. Он слишком хорош!,translated,77
+vntext.sq#13418,vntext.sq,ELISASTERN,It's been a while... I've been thinking about a lot of things...,Прошло уже немало времени... Я много о чём думала...,translated,64
+vntext.sq#13419,vntext.sq,ELISASTERN,"I don't think I owe you an explanation, but I still want to talk...","Не думаю, что я обязана тебе что-то объяснять, но всё равно хочу поговорить...",translated,67
+vntext.sq#13420,vntext.sq,ELISASTERN,Will you give me another chance? -El,Дашь мне ещё один шанс? -Эл,translated,36
+vntext.sq#13426,vntext.sq,ELISASTERN,I know it's you...,"Я знаю, что это ты...",translated,18
+vntext.sq#13427,vntext.sq,ELISASTERN,Please. Let's talk. I want to make things right.,Пожалуйста. Давай поговорим. Я хочу всё исправить.,translated,48
+vntext.sq#13429,vntext.sq,ELISASTERN,I understand... maybe we can talk some other time then?,"Понимаю... может, тогда поговорим в другой раз?",translated,55
+vntext.sq#13432,vntext.sq,ELISASTERN,My account name is: I_know_it's_you,Имя моего аккаунта: я_знаю_это_ты,translated,35
+vntext.sq#13433,vntext.sq,ELISASTERN,Please. Let's talk. I want to make things right.,Пожалуйста. Давай поговорим. Я хочу всё исправить.,translated,48
+vntext.sq#13434,vntext.sq,ELISASTERN,"I know I don't have any right to demand anything from you, let alone your time or attention","Я знаю, что не имею права требовать от тебя чего бы то ни было, не говоря уже о твоём времени или внимании",translated,91
+vntext.sq#13435,vntext.sq,ELISASTERN,But I don't want to end what we have gone through like this,"Но я не хочу, чтобы то, через что мы прошли, закончилось вот так",translated,59
+vntext.sq#13436,vntext.sq,ELISASTERN,Please,Пожалуйста,translated,6
+vntext.sq#13437,vntext.sq,ELISASTERN,I was watching my favorite daytime soap and they were eating sopapillas,"Я смотрела свой любимый дневной сериал, и там ели сопапильи",translated,71
+vntext.sq#13438,vntext.sq,ELISASTERN,Remember the time we tried to make those at home? It was a disaster and they were burned and misshapen,"Помнишь, как мы пытались приготовить их дома? Это была катастрофа, они подгорели и вышли кривыми",translated,102
+vntext.sq#13439,vntext.sq,ELISASTERN,But they still tasted amazing,Но на вкус всё равно были потрясающими,translated,29
+vntext.sq#13440,vntext.sq,ELISASTERN,Have you seen the news?,Ты видел новости?,translated,23
+vntext.sq#13441,vntext.sq,ELISASTERN,"Please, {$mcName}, we need to talk","Пожалуйста, {$mcName}, нам нужно поговорить",translated,34
+vntext.sq#13442,vntext.sq,ELISASTERN,Please reply if you have the time,"Пожалуйста, ответь, если будет время",translated,33
+vntext.sq#13445,vntext.sq,ELISASTERN,Not if I have anything to say about it.,Только не пока я могу этому помешать.,translated,39
+vntext.sq#13446,vntext.sq,ELISASTERN,"It's been a long and expensive legal battle to get where I am now, {$mcName}","Чтобы оказаться там, где я сейчас, потребовалась долгая и дорогостоящая юридическая борьба, {$mcName}",translated,76
+vntext.sq#13447,vntext.sq,ELISASTERN,And watching the news makes me wonder if he's in for a round two,"И, глядя на новости, я думаю, не готовится ли он ко второму раунду",translated,64
+vntext.sq#13450,vntext.sq,ELISASTERN,"Will you talk to me, {$mcName}?","Ты поговоришь со мной, {$mcName}?",translated,31
+vntext.sq#13453,vntext.sq,ELISASTERN,No. I mean face to face,Нет. Я имею в виду лицом к лицу,translated,23
+vntext.sq#13454,vntext.sq,ELISASTERN,I want to see you,Я хочу тебя увидеть,translated,17
+vntext.sq#13458,vntext.sq,ELISASTERN,I don't expect it to,Я и не рассчитывала на это,translated,20
+vntext.sq#13462,vntext.sq,ELISASTERN,It's okay,Всё нормально,translated,9
+vntext.sq#13463,vntext.sq,ELISASTERN,We can take things slowly,Мы можем не торопиться,translated,25
+vntext.sq#13465,vntext.sq,ELISASTERN,"Okay, will be there","Хорошо, буду там",translated,19
+vntext.sq#13466,vntext.sq,ELISASTERN,See you soon,Скоро увидимся,translated,12
+vntext.sq#22061,vntext.sq,ELISASTERN,This feels like taking a nice long bath and reading one of my favorite novels! So ${relaxing}!,"Такое чувство, будто принимаешь долгую приятную ванну и читаешь один из любимых романов! Так ${relaxing}!",translated,94
+vntext.sq#22062,vntext.sq,ELISASTERN,This donut reminds me that I need to be ${patient} with myself as well. Change is an ongoing process...,"Этот пончик напоминает мне, что нужно быть ${patient} и к себе самой. Перемены — это непрерывный процесс...",translated,103
+vntext.sq#22063,vntext.sq,ELISASTERN,Hahaha! Oh this is just like watching my favorite sitcoms... fun and comforting!,"Хахаха! Ох, это прямо как смотреть любимые ситкомы... весело и уютно!",translated,80
+vntext.sq#22064,vntext.sq,ELISASTERN,Oh! This donut has gotten me all fired up! I almost feel like dancing the tango!,Ох! Этот пончик меня прямо зажёг! Мне почти хочется станцевать танго!,translated,80
+vntext.sq#22065,vntext.sq,ELISASTERN,"Now I'm feeling all ${inspired}! I want to try learning a new craft, you know! Maybe start quilting?","Теперь я вся ${inspired}! Хочу попробовать освоить новое ремесло, знаешь ли! Может, заняться лоскутным шитьём?",translated,100
+vntext.sq#22066,vntext.sq,ELISASTERN,...This is what an excess of {$moods:courage} feels like! I feel like I can do anything!,"...Вот, значит, каково это — избыток {$moods:courage}! Чувствую, что мне по силам всё!",translated,88
+vntext.sq#22067,vntext.sq,ELISASTERN,...Heh. You know how sometimes emotions are too heavy for words? I feel like that.,"...Хех. Знаешь, как иногда чувства слишком тяжелы для слов? Вот и я так себя чувствую.",translated,82
+vntext.sq#22068,vntext.sq,ELISASTERN,I feel like I can watch my telenovelas [i] and [/i] read my romance novels at the same time!,"Такое чувство, что я могу смотреть свои теленовеллы [i] и [/i] читать любовные романы одновременно!",translated,92
+vntext.sq#22069,vntext.sq,ELISASTERN,"Oh... This donut reminds me of the past. You know... It's not all fun and rainbows, but we had good days, didn't we?","Ох... Этот пончик напоминает мне о прошлом. Знаешь... Не всё было безоблачно, но у нас были и хорошие дни, правда?",translated,116
+vntext.sq#22071,vntext.sq,ELISASTERN,"Oh, look at you! You've become such a whiz with mood enhancers. This donut is incredible!","Ох, ты только посмотри на себя! Ты стал настоящим асом усилителей настроения. Этот пончик потрясающий!",translated,89
+vntext.sq#22072,vntext.sq,ELISASTERN,"Hm, I love this donut, but I feel like it's not up to your usual standard.","Хм, мне нравится этот пончик, но чувствую, что он не дотягивает до твоего обычного уровня.",translated,74
+vntext.sq#22073,vntext.sq,ELISASTERN,"Hey, {$mcName}... Did you make a mistake with my donut?","Эй, {$mcName}... Ты не ошибся с моим пончиком?",translated,55
+vntext.sq#22074,vntext.sq,ELISASTERN,"I'm just a phone call away, if you need anything. See you!","Я всегда на расстоянии звонка, если что-то понадобится. Увидимся!",translated,58
+vntext.sq#22078,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#22079,vntext.sq,ELISASTERN,Oh! I'm not... not sure I can eat this. I'm so sorry...,"Ох! Я не... не уверена, что смогу это съесть. Мне так жаль...",translated,55
+vntext.sq#22083,vntext.sq,ELISASTERN,Thank you!,Спасибо!,translated,10
+vntext.sq#22084,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#22085,vntext.sq,ELISASTERN,"Hehe, now I'm getting sleepy... Make sure you get enough rest, okay?","Хихи, а меня уже клонит в сон... Смотри, высыпайся как следует, ладно?",translated,68
+vntext.sq#22086,vntext.sq,ELISASTERN,The anger and anxieties of the day are all melting away...,Гнев и тревоги этого дня понемногу тают...,translated,58
+vntext.sq#22087,vntext.sq,ELISASTERN,This donut has really ${cheered} me up. I feel lighter!,Этот пончик реально меня ${cheered}. Мне стало легче!,translated,55
+vntext.sq#22088,vntext.sq,ELISASTERN,This mood... Oh! It's like watching those steamy telenovelas... I always wonder how they managed to avoid censorship...,"Это настроение... Ох! Это прямо как смотреть те жаркие теленовеллы... Всегда удивляюсь, как им удаётся обходить цензуру...",translated,119
+vntext.sq#22089,vntext.sq,ELISASTERN,Oh this is making me want to get creative! Maybe I should try some adventurous recipes... you know the ones that include all the jelly?,"Ох, меня прямо тянет на творчество! Может, попробовать какие-нибудь смелые рецепты... знаешь, из тех, где сплошное желе?",translated,135
+vntext.sq#22090,vntext.sq,ELISASTERN,I've been trying to be less afraid recently... and this donut is really helping with that!,В последнее время я стараюсь меньше бояться... и этот пончик правда в этом помогает!,translated,90
+vntext.sq#22091,vntext.sq,ELISASTERN,There are still so many things I want to say to the people I care about... I think this donut helps me figure it out one by one...,"Мне ещё столько всего хочется сказать людям, которые мне дороги... кажется, этот пончик помогает разобраться со всем по порядку...",translated,130
+vntext.sq#22092,vntext.sq,ELISASTERN,"Hehe, I haven't felt this ${focused} since I took the CPA exam!","Хихи, я не была настолько ${focused} с самого экзамена на бухгалтера!",translated,63
+vntext.sq#22093,vntext.sq,ELISASTERN,"I remember when you were just a baby — Haha, don't make that face, {$mcName}!","Помню, когда ты был совсем малышом — Хаха, не делай такое лицо, {$mcName}!",translated,77
+vntext.sq#22094,vntext.sq,ELISASTERN,"Oh! This is a donut without any of those funky flavors, right? It's so nice and chewy!","Ох! Это пончик без всех этих чудны́х вкусов, да? Такой приятный, тягучий!",translated,86
+vntext.sq#22095,vntext.sq,ELISASTERN,...Amazing! You've come so far from making simple cupcakes at home... I'm so proud of you!,...Потрясающе! Ты так далеко ушёл от простых кексиков дома... Я так тобой горжусь!,translated,90
+vntext.sq#22096,vntext.sq,ELISASTERN,"Not bad at all! It's not one of your best, but it's yummy~","Совсем неплохо! Не лучший твой пончик, но вкусный~",translated,58
+vntext.sq#22097,vntext.sq,ELISASTERN,"...Well. It's not what I wanted for tonight. Still tasty, though!","...Что ж. Это не то, чего я хотела сегодня. Но всё равно вкусно!",translated,65
+vntext.sq#22098,vntext.sq,ELISASTERN,Don't forget to brush your teeth regularly! What... You don't need this kind of reminder anymore? Well... Until the next time then!,Не забывай регулярно чистить зубы! Что... тебе больше не нужны такие напоминания? Ну... тогда до следующего раза!,translated,131
+vntext.sq#46054,vntext.sq,ELISASTERN,"Hi, {$mcName}. It's been a while.","Привет, {$mcName}. Давно не виделись.",translated,33
+vntext.sq#46057,vntext.sq,ELISASTERN,"Oh, yes, of course. We're here to talk about Hugo, among other things. But I like to think I raised you better than that.","О, да, конечно. Мы здесь, чтобы поговорить о Хьюго, среди прочего. Но мне хочется думать, что я воспитала тебя лучше.",translated,121
+vntext.sq#46060,vntext.sq,ELISASTERN,You and your father... you always put business first.,Ты и твой отец... вы всегда ставили дело на первое место.,translated,53
+vntext.sq#46062,vntext.sq,ELISASTERN,"So, how have you been?",Так как у тебя дела?,translated,22
+vntext.sq#46068,vntext.sq,ELISASTERN,"Oh, look at you! You're all grown up.","Ох, посмотри на себя! Совсем взрослый.",translated,37
+vntext.sq#46069,vntext.sq,ELISASTERN,"And this place... you don't own it, do you?","И это место... оно ведь не твоё, да?",translated,43
+vntext.sq#46071,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46072,vntext.sq,ELISASTERN,I'm glad to see you're still baking.,"Рада видеть, что ты всё ещё печёшь.",translated,36
+vntext.sq#46074,vntext.sq,ELISASTERN,"Ah, it's more than just baking. You're right. This is still kind of new to me... the enhancers. The mood cafes...","Ах, это больше, чем просто выпечка. Ты прав. Для меня это всё ещё в новинку... усилители. Кафе настроений...",translated,113
+vntext.sq#46076,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46077,vntext.sq,ELISASTERN,Are you going to use this tone for the rest of the night?,Ты собираешься говорить таким тоном весь оставшийся вечер?,translated,57
+vntext.sq#46082,vntext.sq,ELISASTERN,...I thought the customer was always right.,"...Я думала, клиент всегда прав.",translated,43
+vntext.sq#46086,vntext.sq,ELISASTERN,Do you have recommendations? What's the bestseller?,У тебя есть рекомендации? Что бестселлер?,translated,51
+vntext.sq#46092,vntext.sq,ELISASTERN,"{$recipe:royal_blood}, huh?","{$recipe:royal_blood}, значит?",translated,27
+vntext.sq#46093,vntext.sq,ELISASTERN,It does sound very... rich. More complicated than any of the donuts you made at home.,"Звучит очень... насыщенно. Сложнее любого из пончиков, что ты делал дома.",translated,85
+vntext.sq#46099,vntext.sq,ELISASTERN,{$mcName}...,{$mcName}...,translated,12
+vntext.sq#46100,vntext.sq,ELISASTERN,I'm sorry.,Извини.,translated,10
+vntext.sq#46103,vntext.sq,ELISASTERN,I beg your pardon?,Прошу прощения?,translated,18
+vntext.sq#46107,vntext.sq,ELISASTERN,I just wanted to see how you're doing. If you're doing okay—,"Я просто хотела узнать, как у тебя дела. Всё ли у тебя хорошо—",translated,60
+vntext.sq#46109,vntext.sq,ELISASTERN,...!,...!,translated,4
+vntext.sq#46110,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46111,vntext.sq,ELISASTERN,You may be right. I—I was young. Nothing could have prepared me for what life with Hugo was like.,"Может, ты и права. Я—я была молода. Ничто не могло подготовить меня к тому, какой будет жизнь с Хьюго.",translated,97
+vntext.sq#46113,vntext.sq,ELISASTERN,It's that firm belief in himself and his ideals... people can't help getting pulled in and believing his lies.,Это его твёрдая вера в себя и свои идеалы... люди не могут не поддаться и не поверить в его ложь.,translated,110
+vntext.sq#46114,vntext.sq,ELISASTERN,Even the lies he's been telling himself.,"Даже во ложь, которую он рассказывает самому себе.",translated,40
+vntext.sq#46116,vntext.sq,ELISASTERN,I would never have thought—,Я бы никогда не подумала—,translated,27
+vntext.sq#46117,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46118,vntext.sq,ELISASTERN,"At first, I thought it was self-assurance. You know, he had an answer for everything, a solution to all problems...","Сначала я думала, что это уверенность в себе. Знаешь, у него был ответ на всё, решение любой проблемы...",translated,115
+vntext.sq#46119,vntext.sq,ELISASTERN,"When we were younger, I was so taken in. He was smarter than anyone I knew. He was [i] nothing [/i] like anyone I knew...","Когда мы были моложе, я была так очарована. Он был умнее всех, кого я знала. Он был [i] совсем не похож [/i] ни на кого, кого я знала...",translated,121
+vntext.sq#46120,vntext.sq,ELISASTERN,"So even though neither of our parents approved of the match, we got married.","Так что, хотя ни его, ни мои родители не одобряли этот союз, мы поженились.",translated,76
+vntext.sq#46122,vntext.sq,ELISASTERN,"The things I thought I loved about him... that self-assurance, his conviction... it all became unbearable. I couldn't make any choice without consulting him. Even the things I wore...","Всё то, что мне, как казалось, нравилось в нём... эта уверенность в себе, его убеждённость... всё это стало невыносимым. Я не могла принять ни одного решения, не посоветовавшись с ним. Даже насчёт того, что носить...",translated,183
+vntext.sq#46123,vntext.sq,ELISASTERN,I thought I was losing my mind.,"Мне казалось, что я схожу с ума.",translated,31
+vntext.sq#46127,vntext.sq,ELISASTERN,It changed a bit when we adopted you. I actually thought for a while things were going to get better.,"Всё немного изменилось, когда мы тебя усыновили. Одно время я правда думала, что всё станет лучше.",translated,101
+vntext.sq#46128,vntext.sq,ELISASTERN,"But turns out, he just found one more person to control.","Но оказалось, он просто нашёл ещё одного человека, которого можно контролировать.",translated,56
+vntext.sq#46133,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46136,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46137,vntext.sq,ELISASTERN,I'm sorry—,Мне жаль—,translated,10
+vntext.sq#46140,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46144,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46145,vntext.sq,ELISASTERN,No. You're right.,Нет. Ты права.,translated,17
+vntext.sq#46146,vntext.sq,ELISASTERN,"I've been talking about it with my therapist, and she told me about the different kinds of strength—","Я говорила об этом со своим терапевтом, и она рассказала мне про разные виды силы—",translated,100
+vntext.sq#46149,vntext.sq,ELISASTERN,—the strength to forgive myself.,—силу простить саму себя.,translated,32
+vntext.sq#46151,vntext.sq,ELISASTERN,And the strength to face the responsibilities I ran away from.,"И силу встретиться с обязанностями, от которых я сбежала.",translated,62
+vntext.sq#46153,vntext.sq,ELISASTERN,I thought at the time I was doing what was best for you.,"Тогда мне казалось, что я делаю то, что лучше для тебя.",translated,56
+vntext.sq#46154,vntext.sq,ELISASTERN,"Hugo can offer so many doors, so many opportunities for your future. I thought you'd be better off staying with him.","Хьюго может открыть столько дверей, столько возможностей для твоего будущего. Мне казалось, тебе будет лучше остаться с ним.",translated,116
+vntext.sq#46155,vntext.sq,ELISASTERN,"But... I think I was also lying to myself. At the end of the day, I was just tired of it. The pretending, the enduring. 'Playing house' like you said, except the house was really just a prison. And I chose the easiest—","Но... думаю, я тоже врала себе. В конце концов, я просто устала от всего этого. От притворства, от терпения. «Играть в семью», как ты сказал, только дом на самом деле был просто тюрьмой. И я выбрала самый простой—",translated,218
+vntext.sq#46158,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46160,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46161,vntext.sq,ELISASTERN,Thank you for agreeing to speak with me. Even if it's because Hugo left you with no choice.,"Спасибо, что согласился со мной поговорить. Даже если это потому, что Хьюго не оставил тебе выбора.",translated,91
+vntext.sq#46164,vntext.sq,ELISASTERN,"Heh... credit where credit is due, I guess. I should thank your father for this.","Хех... нужно отдать должное, наверное. Стоит поблагодарить твоего отца за это.",translated,80
+vntext.sq#46170,vntext.sq,ELISASTERN,{$mcName}... Is it all right if I come again?,{$mcName}... можно мне прийти ещё раз?,translated,45
+vntext.sq#46172,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46173,vntext.sq,ELISASTERN,Thank you.,Спасибо.,translated,10
+vntext.sq#46175,vntext.sq,ELISASTERN,Y-You know... maybe it's too late to pick up where we left off. But...,"З-знаешь... может, уже слишком поздно продолжить с того, на чём мы остановились. Но...",translated,70
+vntext.sq#46176,vntext.sq,ELISASTERN,"I'm really... when I saw you behind the counter, I thought... hey, you did it...","Я правда... когда увидела тебя за прилавком, подумала... эй, у тебя получилось...",translated,80
+vntext.sq#46177,vntext.sq,ELISASTERN,"Hugo always wanted you to follow in his footsteps... even when you were just a small kid. He was taking you to dinner parties, important gatherings...","Хьюго всегда хотел, чтобы ты пошёл по его стопам... даже когда ты был совсем маленьким. Он водил тебя на званые ужины, важные собрания...",translated,150
+vntext.sq#46178,vntext.sq,ELISASTERN,We've had so many arguments about it... He wanted you to act like a little grown up.,"У нас было столько споров из-за этого... Он хотел, чтобы ты вёл себя как маленький взрослый.",translated,84
+vntext.sq#46180,vntext.sq,ELISASTERN,Seeing you like this... I feel like you've changed so much...,"Видеть тебя таким... я чувствую, что ты так сильно изменился...",translated,61
+vntext.sq#46181,vntext.sq,ELISASTERN,But I want to get to know you better.,Но я хочу узнать тебя получше.,translated,37
+vntext.sq#46183,vntext.sq,ELISASTERN,...If that's all right with you?,...Если ты не против?,translated,32
+vntext.sq#46188,vntext.sq,ELISASTERN,"Oh! {$mcName}, it's beautiful!","Ох! {$mcName}, он прекрасен!",translated,30
+vntext.sq#46190,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46191,vntext.sq,ELISASTERN,I smuggled in cupcakes... donuts... snacks... just small things that no one would notice.,"Я проносила контрабандой капкейки... пончики... закуски... просто мелочи, которые никто бы не заметил.",translated,89
+vntext.sq#46192,vntext.sq,ELISASTERN,So we could have a little party. Just the two of us...,Чтобы у нас был маленький праздник. Только вдвоём...,translated,54
+vntext.sq#46194,vntext.sq,ELISASTERN,Something we wouldn't need to hide...,"То, что не нужно будет прятать...",translated,37
+vntext.sq#46195,vntext.sq,ELISASTERN,But this is really too big to eat by myself. Will you join me?,"Но это правда слишком много, чтобы съесть одной. Присоединишься ко мне?",translated,62
+vntext.sq#46202,vntext.sq,ELISASTERN,"Oh, of course, you don't have to. This donut has enhancers, right? I guess you shouldn't eat when you're on the clock—","О, конечно, не обязательно. У этого пончика есть усилители, да? Наверное, тебе не стоит есть на работе—",translated,118
+vntext.sq#46204,vntext.sq,ELISASTERN,I'm glad. It looks so good! And that buttery smell... I've never seen a donut quite like it!,Я рада. Он выглядит так вкусно! И этот сливочный запах... я никогда не видела такого пончика!,translated,92
+vntext.sq#46205,vntext.sq,ELISASTERN,...!,...!,translated,4
+vntext.sq#46206,vntext.sq,ELISASTERN,Mmm! It's really good! It's like when we tried cronuts for the first time... this is such a game-changer!,Ммм! Он правда вкусный! Как когда мы впервые попробовали кронаты... это же настоящий прорыв!,translated,105
+vntext.sq#46208,vntext.sq,ELISASTERN,You think so?,Ты так думаешь?,translated,13
+vntext.sq#46209,vntext.sq,ELISASTERN,"You're just trying to sound humble, aren't you? You know it's good.","Ты просто пытаешься звучать скромно, да? Ты же знаешь, что это вкусно.",translated,67
+vntext.sq#46213,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46215,vntext.sq,ELISASTERN,"Heh, nothing. I was just thinking you're really good at this.","Хех, ничего. Просто подумала, что у тебя правда хорошо получается.",translated,61
+vntext.sq#46217,vntext.sq,ELISASTERN,But you haven't tasted your own creation yet!,Но ты ещё не пробовал своё собственное творение!,translated,45
+vntext.sq#46218,vntext.sq,ELISASTERN,Come on! It's not fun when you're eating alone.,Ну давай! Не весело есть в одиночку.,translated,47
+vntext.sq#46222,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46225,vntext.sq,ELISASTERN,Hm. There you are with that false modesty again.,Хм. Вот опять эта ложная скромность.,translated,48
+vntext.sq#46227,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46228,vntext.sq,ELISASTERN,"Oh, that's strange... it's like I can smell...","Ох, как странно... как будто я чувствую запах...",translated,46
+vntext.sq#46230,vntext.sq,ELISASTERN,The attic... that was the one place in the house we knew Hugo wouldn't think of going.,"Чердак... это было единственное место в доме, куда, как мы знали, Хьюго никогда бы не подумал заглянуть.",translated,86
+vntext.sq#46232,vntext.sq,ELISASTERN,That's why we chose that as our hiding place...,Вот почему мы выбрали его как наше укрытие...,translated,47
+vntext.sq#46233,vntext.sq,ELISASTERN,"Remember how dusty it smelled? I wouldn't have said dust has a smell, but it smelled so dry.","Помнишь, как там пахло пылью? Я бы не сказала, что у пыли есть запах, но там пахло так сухо.",translated,92
+vntext.sq#46235,vntext.sq,ELISASTERN,"But on your birthdays, we'd go up to the attic with the snacks I'd smuggled into the house, and the sweet smell of freshly made donuts would win out...","Но на твои дни рождения мы поднимались на чердак с закусками, которые я проносила в дом, и сладкий запах свежих пончиков перебивал всё остальное...",translated,151
+vntext.sq#46237,vntext.sq,ELISASTERN,Your dad was too busy to pay attention to details.,"Твой отец был слишком занят, чтобы обращать внимание на детали.",translated,50
+vntext.sq#46239,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46242,vntext.sq,ELISASTERN,"It is, actually! I've always wanted to try them out... but I guess I was too scared. Letting your emotions loose... there's a certain kind of honesty to it. I almost feel like I'm surrendering something...","Да, вообще-то! Мне всегда хотелось попробовать... но, наверное, я слишком боялась. Отпустить свои эмоции на волю... в этом есть какая-то особая честность. У меня чувство, будто я что-то сдаю...",translated,205
+vntext.sq#46245,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46246,vntext.sq,ELISASTERN,It's like I'm actually in the attic. Can you see it as well?,Как будто я правда на чердаке. Ты тоже это видишь?,translated,60
+vntext.sq#46249,vntext.sq,ELISASTERN,But it's so much better... Is that what you mean about enhancers?,Но это намного лучше... Это ты и имел в виду про усилители?,translated,65
+vntext.sq#46250,vntext.sq,ELISASTERN,I can practically taste the lights!,Я почти чувствую вкус огоньков!,translated,35
+vntext.sq#46252,vntext.sq,ELISASTERN,Lucy? Your friend... the one who likes to draw?,"Люси? Твоя подруга... та, что любит рисовать?",translated,47
+vntext.sq#46254,vntext.sq,ELISASTERN,Your donuts... the things you baked...,"Твои пончики... то, что ты пёк...",translated,38
+vntext.sq#46255,vntext.sq,ELISASTERN,They always tasted like lights to me. I just realized.,У них всегда был вкус огоньков для меня. Я только сейчас это поняла.,translated,54
+vntext.sq#46257,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46258,vntext.sq,ELISASTERN,"Thank you, {$mcName}.","Спасибо, {$mcName}.",translated,21
+vntext.sq#46260,vntext.sq,ELISASTERN,"Oh, there's so many other recipes I want to try!","Ох, я хочу попробовать ещё столько других рецептов!",translated,48
+vntext.sq#46261,vntext.sq,ELISASTERN,Like {$recipe:post-nut_clarity}! Or {$recipe:cream_pie}!,Как {$recipe:post-nut_clarity}! Или {$recipe:cream_pie}!,translated,56
+vntext.sq#46264,vntext.sq,ELISASTERN,...!,...!,translated,4
+vntext.sq#46266,vntext.sq,ELISASTERN,Hehe...,Хе-хе...,translated,7
+vntext.sq#46267,vntext.sq,ELISASTERN,"I wondered if Hugo was overreacting... you know how he is. Getting heated up about kids on motorbikes, kids glued to their phones, kids with no manners...","Мне было интересно, не преувеличивает ли Хьюго... ты же знаешь, какой он. Заводится из-за детей на мотоциклах, детей, приклеенных к телефонам, детей без манер...",translated,154
+vntext.sq#46268,vntext.sq,ELISASTERN,And now it's kids and their mood enhancers.,А теперь ещё и дети с их усилителями настроения.,translated,43
+vntext.sq#46271,vntext.sq,ELISASTERN,Of course he does. He likes to keep tabs on us.,Конечно знает. Ему нравится следить за нами.,translated,47
+vntext.sq#46273,vntext.sq,ELISASTERN,You know what he did when I left. The threats... the legal battles...,"Ты же знаешь, что он сделал, когда я ушла. Угрозы... судебные тяжбы...",translated,69
+vntext.sq#46274,vntext.sq,ELISASTERN,"It wasn't just the alimony that riled him up... it was the fact that his property could leave him, just like that.","Его взбесили не только алименты... его взбесило, что его собственность может вот так просто от него уйти.",translated,114
+vntext.sq#46276,vntext.sq,ELISASTERN,I suppose he'll try.,"Полагаю, он попытается.",translated,20
+vntext.sq#46282,vntext.sq,ELISASTERN,"But we don't have to let him, you know?","Но мы не обязаны ему это позволять, знаешь?",translated,39
+vntext.sq#46283,vntext.sq,ELISASTERN,"Well, mostly me. I guess this is part of what I came here to talk about.","Ну, в основном мне. Наверное, это часть того, о чём я пришла поговорить.",translated,72
+vntext.sq#46285,vntext.sq,ELISASTERN,"This is a critical moment for his campaign, and he just got the support of conservative groups. It wouldn't be good if his ex-wife started talking to the press about how he treated his family, would it?","Это критический момент для его кампании, и он только что заручился поддержкой консервативных групп. Было бы нехорошо, если бы его бывшая жена начала рассказывать прессе о том, как он обращался со своей семьёй, правда?",translated,202
+vntext.sq#46289,vntext.sq,ELISASTERN,Haha... I guess you can say this is part of the twelve-step program.,"Ха-ха... наверное, можно сказать, что это часть двенадцатиступенчатой программы.",translated,68
+vntext.sq#46290,vntext.sq,ELISASTERN,"Don't worry, {$mcName}. I'm not doing this just for you, even though I'd like to pretend that I'm helping you just a little bit...","Не переживай, {$mcName}. Я делаю это не только ради тебя, хотя мне бы хотелось притвориться, что я помогаю тебе хоть немного...",translated,130
+vntext.sq#46291,vntext.sq,ELISASTERN,But this is also for the Elisa back then.,Но это ещё и ради той Элизы из прошлого.,translated,41
+vntext.sq#46294,vntext.sq,ELISASTERN,Does that mean I can keep coming here to talk to you?,"Значит ли это, что я могу и дальше приходить сюда, чтобы поговорить с тобой?",translated,53
+vntext.sq#46297,vntext.sq,ELISASTERN,"Thanks, {$mcName}.","Спасибо, {$mcName}.",translated,18
+vntext.sq#46300,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46302,vntext.sq,ELISASTERN,I'll see you later!,Увидимся!,translated,19
+vntext.sq#46305,vntext.sq,ELISASTERN,"Great flavors, amazing donuts, and a lovable and hardworking mood confectioner! Who wouldn't love the Hotbox? Recommended 100%","Отличные вкусы, потрясающие пончики и милый, трудолюбивый кондитер настроений! Кто бы не полюбил Hotbox? Рекомендую на все сто",translated,126
+vntext.sq#46593,vntext.sq,ELISASTERN,Oh! Am I too late? I can come back another time!,Ой! Я опоздала? Могу зайти в другой раз!,translated,48
+vntext.sq#46595,vntext.sq,ELISASTERN,"Don't worry about it, {$mcName}. And this way, I'll have an excuse to come again some other time.","Не переживай, {$mcName}. И так у меня будет повод зайти ещё раз в другое время.",translated,97
+vntext.sq#46597,vntext.sq,ELISASTERN,Hmm... I think maybe I'd like to order from the menu.,"Хмм... думаю, хочу заказать что-то из меню.",translated,53
+vntext.sq#46598,vntext.sq,ELISASTERN,Something that will {$moods:cheer} me up.,"Что-то, что поднимет мне настроение — {$moods:cheer}.",translated,41
+vntext.sq#46600,vntext.sq,ELISASTERN,"Haha, I did my research online, if you have to know. I want to learn more about this... about your craft.","Ха-ха, я провела исследование в интернете, если хочешь знать. Хочу узнать об этом побольше... о твоём ремесле.",translated,105
+vntext.sq#46608,vntext.sq,ELISASTERN,...Heh.,...Хех.,translated,7
+vntext.sq#46610,vntext.sq,ELISASTERN,There's no need to pretend. I know you're really serious about this. The baking and the mood enhancers.,"Не нужно притворяться. Я знаю, что ты правда серьёзно к этому относишься. К выпечке и усилителям настроения.",translated,103
+vntext.sq#46611,vntext.sq,ELISASTERN,The way you speak about the flavors... and the way you look when you're making donuts...,"То, как ты говоришь про вкусы... и то, как ты выглядишь, когда делаешь пончики...",translated,88
+vntext.sq#46612,vntext.sq,ELISASTERN,"You're really having fun, right?","Тебе правда весело, да?",translated,32
+vntext.sq#46614,vntext.sq,ELISASTERN,And I want to know more about that.,И я хочу узнать об этом побольше.,translated,35
+vntext.sq#46616,vntext.sq,ELISASTERN,...Heh.,...Хех.,translated,7
+vntext.sq#46618,vntext.sq,ELISASTERN,Can I count that as an invitation to drop by more often?,Могу я считать это приглашением заходить почаще?,translated,56
+vntext.sq#46620,vntext.sq,ELISASTERN,If you say so.,Как скажешь.,translated,14
+vntext.sq#46621,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46622,vntext.sq,ELISASTERN,"Well, I'll be looking forward to that donut!","Ну, буду ждать этот пончик с нетерпением!",translated,44
+vntext.sq#46624,vntext.sq,ELISASTERN,...,...,translated,3
+vntext.sq#46625,vntext.sq,ELISASTERN,"Oh, uh... did you read the article? How was I?","Ой, эм... ты читал статью? Как я выглядела?",translated,46
+vntext.sq#46626,vntext.sq,ELISASTERN,Did I sound girlboss enough?,Звучала достаточно как гёрлбосс?,translated,28
+vntext.sq#46628,vntext.sq,ELISASTERN,The slang changes too quickly...,Сленг меняется слишком быстро...,translated,32
+vntext.sq#46632,vntext.sq,ELISASTERN,"Oh, {$mcName}... you've grown a lot more stronger through the years.","Ох, {$mcName}... ты стал намного сильнее за эти годы.",translated,68
+vntext.sq#46634,vntext.sq,ELISASTERN,But you and I... we had been fighting our own battles in that house for so long.,Но мы с тобой... мы так долго вели свои собственные битвы в том доме.,translated,80
+vntext.sq#46635,vntext.sq,ELISASTERN,You can't keep fighting when you're already hurt.,"Нельзя продолжать сражаться, когда ты уже ранен.",translated,49
+vntext.sq#46637,vntext.sq,ELISASTERN,"And this isn't the end, after all. It takes more than just bad press to take Hugo down. I'm not even sure if this did anything at all.","И это же не конец, в конце концов. Чтобы свалить Хьюго, нужно больше, чем просто плохая пресса. Я даже не уверена, что это вообще что-то дало.",translated,134
+vntext.sq#46638,vntext.sq,ELISASTERN,But for now... we can enjoy our donuts.,Но пока что... можем наслаждаться нашими пончиками.,translated,39
+vntext.sq#46643,vntext.sq,ELISASTERN,"Heh... And of course, enjoy the company of your friends.","Хех... И, конечно, наслаждайся компанией друзей.",translated,56
+vntext.sq#46645,vntext.sq,ELISASTERN,And he's right. I should go and leave you kids to it.,"И он прав. Мне стоит уйти и оставить вас, детишки, наедине.",translated,53
+vntext.sq#46647,vntext.sq,ELISASTERN,Of course! I still have so many new donuts to try.,Конечно! Мне ещё столько новых пончиков нужно попробовать.,translated,50
+vntext.sq#46648,vntext.sq,ELISASTERN,"See you later, {$mcName}!","Увидимся, {$mcName}!",translated,25
+vntext.sq#69305,vntext.sq,ELISASTERN,This... seems to be missing the glaze I asked for.,"Тут... похоже, не хватает глазури, что я просил.",translated,50
+vntext.sq#69307,vntext.sq,ELISASTERN,The glaze turned out... different from what I expected.,"Глазурь получилась... не такой, как я ожидал.",translated,55
+vntext.sq#69309,vntext.sq,ELISASTERN,"{$mcName}, could you please add more glaze next time?","{$mcName}, не мог бы ты добавить больше глазури в следующий раз?",translated,53
+vntext.sq#69311,vntext.sq,ELISASTERN,"Are you out of the toppings I asked for, {$mcName}?","У тебя закончились топпинги, что я просил, {$mcName}?",translated,51
+vntext.sq#69313,vntext.sq,ELISASTERN,Huh. I recall asking for different toppings...,"Хм. Помню, просил другие топпинги...",translated,46
+vntext.sq#69315,vntext.sq,ELISASTERN,It might be nice if you add more toppings next time.,"Было бы неплохо, если бы ты добавил больше топпингов в следующий раз.",translated,52
+vntext.sq#69317,vntext.sq,ELISASTERN,"...I asked for something with drizzle, didn't I?","...Я же просил что-то с потёками, разве нет?",translated,48
+vntext.sq#69319,vntext.sq,ELISASTERN,Oh... This is not the drizzle I wanted...,"Ох... это не те потёки, что я хотел...",translated,41
+vntext.sq#69321,vntext.sq,ELISASTERN,Oh you can add a bit more drizzle next time. They make donuts extra fun to eat.,"Ох, можешь добавить чуть больше потёков в следующий раз. С ними есть пончики намного веселее.",translated,79
+vntext.sq#69323,vntext.sq,ELISASTERN,I remember asking for filling...,"Помню, просил начинку...",translated,32
+vntext.sq#69325,vntext.sq,ELISASTERN,Oh. What a surprise. This is not the filling I was expecting.,"Ох. Вот так сюрприз. Это не та начинка, что я ожидал.",translated,61
+vntext.sq#69327,vntext.sq,ELISASTERN,"It could be prettier, I suppose...","Полагаю, мог бы быть и красивее...",translated,34
+vntext.sq#69329,vntext.sq,ELISASTERN,I don't know if all these ingredients would work well together...,"Не знаю, хорошо ли сочетаются все эти ингредиенты вместе...",translated,65
+vntext.sq#69333,vntext.sq,ELISASTERN,Ummm... if I may be so bold... I think you might have forgotten the glaze.,"Эмм... если позволите такую дерзость... думаю, вы могли забыть про глазурь.",translated,74
+vntext.sq#69335,vntext.sq,ELISASTERN,"Oh, is everything all right? Heh... I think you might want to double check what you did with the glaze...","Ох, всё в порядке? Хех... думаю, тебе стоит перепроверить, что ты сделал с глазурью...",translated,105
+vntext.sq#69337,vntext.sq,ELISASTERN,"Now, I may not be an expert on donuts, but I think you could have been more generous with your glaze...","Так, я, может, и не эксперт по пончикам, но думаю, ты мог бы быть щедрее с глазурью...",translated,103
+vntext.sq#69339,vntext.sq,ELISASTERN,"Huh... where did the toppings I asked for go? Did they all run away? Heh... sorry, just some mom humor...","Хм... куда делись топпинги, что я просила? Они все разбежались? Хех... прости, просто мамский юмор...",translated,105
+vntext.sq#69341,vntext.sq,ELISASTERN,"Oh, sorry, I think I asked for different toppings...","Ох, извини, кажется, я просила другие топпинги...",translated,52
+vntext.sq#69343,vntext.sq,ELISASTERN,"Hmmm, I think you could afford to put a bit more toppings... you never were the stingy type when it came to food.","Хмм, думаю, ты мог бы позволить себе положить чуть больше топпингов... ты никогда не был скупым, когда дело касалось еды.",translated,113
+vntext.sq#69345,vntext.sq,ELISASTERN,I... think you may have forgotten the drizzle... are you nervous?,"Я... думаю, ты, возможно, забыл про потёки... ты нервничаешь?",translated,65
+vntext.sq#69347,vntext.sq,ELISASTERN,"Hmmm, something's not quite right with this drizzle...","Хмм, что-то не совсем так с этими потёками...",translated,54
+vntext.sq#69349,vntext.sq,ELISASTERN,"I'm not that picky when it comes to the specifics, but I think you could have put just a bit more drizzle on this donut, if that's all right for me to say...","Я не так уж придирчива к деталям, но думаю, ты мог бы положить чуть больше потёков на этот пончик, если мне позволительно так сказать...",translated,157
+vntext.sq#69351,vntext.sq,ELISASTERN,"Hmmmm? Would you look at that, the filling I asked for must have taken a day off.","Хммм? Ты только посмотри, начинка, что я просила, видимо, взяла выходной.",translated,81
+vntext.sq#69353,vntext.sq,ELISASTERN,"Oh, dear. This filling isn't the one I had in mind I'm afraid...","Ох, боже. Боюсь, это не та начинка, что я имела в виду...",translated,64
+vntext.sq#69355,vntext.sq,ELISASTERN,"Oh... this donut... it looks a bit... strange don't you think? Oh, well, you tried...","Ох... этот пончик... он выглядит немного... странно, не находишь? Ну что ж, ты старался...",translated,85
+vntext.sq#69357,vntext.sq,ELISASTERN,Oh... there's just so much going on here... I'm honestly not sure what to say...,"Ох... тут просто столько всего происходит... честно, не знаю, что и сказать...",translated,80
+vntext.sq#69361,vntext.sq,ELISASTERN,Odd... I recall asking for glaze...,"Странно... помню, просила глазурь...",translated,35
+vntext.sq#69363,vntext.sq,ELISASTERN,I think you need to check the order again. The glaze isn't exactly what I asked for.,"Думаю, тебе нужно ещё раз проверить заказ. Глазурь не совсем та, что я просила.",translated,84
+vntext.sq#69365,vntext.sq,ELISASTERN,Hm... the donut would be more filling and also prettier if it had just a bit more glaze.,"Хм... пончик был бы сытнее, да и красивее, если бы в нём было чуть больше глазури.",translated,88
+vntext.sq#69367,vntext.sq,ELISASTERN,Oh... no toppings? Did you run out?,Ох... без топпингов? У тебя закончились?,translated,35
+vntext.sq#69369,vntext.sq,ELISASTERN,"...Something's not right with the toppings, {$mcName}.","...Что-то не так с топпингами, {$mcName}.",translated,54
+vntext.sq#69371,vntext.sq,ELISASTERN,"What a shame, I was looking forward to those toppings... seems like you don't have enough.","Как жаль, я так рассчитывала на эти топпинги... похоже, у тебя их недостаточно.",translated,90
+vntext.sq#69373,vntext.sq,ELISASTERN,Oh... what happened to the drizzle?,Ох... что случилось с потёками?,translated,35
+vntext.sq#69375,vntext.sq,ELISASTERN,I think you've mixed up the drizzle...,"Думаю, ты перепутал потёки...",translated,38
+vntext.sq#69377,vntext.sq,ELISASTERN,Do you think we can have a bit more drizzle next time?,"Думаешь, в следующий раз можно чуть больше потёков?",translated,54
+vntext.sq#69379,vntext.sq,ELISASTERN,Wait a minute — where's the filling?,Погоди-ка — где начинка?,translated,36
+vntext.sq#69381,vntext.sq,ELISASTERN,Oh. Hm. I was not expecting that filling flavor at all.,Ох. Хм. Совсем не ожидала такого вкуса начинки.,translated,55
+vntext.sq#69383,vntext.sq,ELISASTERN,"A pretty donut can really help bring joy to your customers, you know...","Красивый пончик правда может принести радость твоим клиентам, знаешь ли...",translated,71
+vntext.sq#69385,vntext.sq,ELISASTERN,This might be a bit too much for me...,"Это, может, немного чересчур для меня...",translated,38
+vntext.sq#69387,vntext.sq,ELISASTERN,"This is not the right donut shape, I'm afraid...","Боюсь, это не та форма пончика...",translated,48
+vntext.sq#69388,vntext.sq,ELISASTERN,"Well, a donut's a donut, and I'm glad to have one.","Ну, пончик есть пончик, и я рада, что он у меня есть.",translated,50

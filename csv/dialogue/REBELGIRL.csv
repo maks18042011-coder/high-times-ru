@@ -1,0 +1,408 @@
+id,file,context,source,target,status,max_len
+vntext.sq#683,vntext.sq,REBELGIRL,"Mood Meister, sup?","Мастер настроения, как оно?",translated,18
+vntext.sq#685,vntext.sq,REBELGIRL,Yeah...,Ага...,translated,7
+vntext.sq#686,vntext.sq,REBELGIRL,Say... I wanted to ask you something.,Слушай... хотела кое-что спросить.,translated,37
+vntext.sq#688,vntext.sq,REBELGIRL,"So like, I had a pretty bad break up awhile back. Called it quits, went our separate ways... so much for my happy ending.","В общем, у меня было довольно тяжёлое расставание не так давно. Мы разбежались, пошли каждый своей дорогой... вот тебе и счастливый конец.",translated,121
+vntext.sq#689,vntext.sq,REBELGIRL,"But then afterwards, he tried talking to me, you know?","Но потом он попытался со мной заговорить, понимаешь?",translated,54
+vntext.sq#690,vntext.sq,REBELGIRL,Asked if we could meet up and hang out just like the old days. Heh... his innocence is brilliant...,"Спросил, можем ли мы встретиться и потусоваться, как в старые времена. Хех... его наивность просто прекрасна...",translated,99
+vntext.sq#691,vntext.sq,REBELGIRL,"So I said yes, and now we're friends again, I guess?","В общем, я согласилась, и теперь мы вроде как снова друзья?",translated,52
+vntext.sq#692,vntext.sq,REBELGIRL,Though I'm still not so sure what this will lead to... hard to really tell when it comes to guys. I just know I'm nobody's fool.,"Хотя я всё ещё не уверена, к чему это приведёт... с парнями сложно что-то предугадать. Знаю только, что я не дурочка.",translated,128
+vntext.sq#693,vntext.sq,REBELGIRL,"But in the middle of all of this, I got to work out how I really feel about it.","Но посреди всего этого мне нужно разобраться, что я на самом деле чувствую.",translated,79
+vntext.sq#694,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#695,vntext.sq,REBELGIRL,Hmmm... maybe you can help me out Mood Meister.,"Хм... может, ты мне поможешь, Мастер настроения.",translated,47
+vntext.sq#705,vntext.sq,REBELGIRL,Cool.,Круто.,translated,5
+vntext.sq#708,vntext.sq,REBELGIRL,"Mood Meister, I think you killed this one... in a bad kinda way.","Мастер настроения, кажется, ты запорол этот... в плохом смысле.",translated,64
+vntext.sq#712,vntext.sq,REBELGIRL,It is what is.,"Как есть, так есть.",translated,14
+vntext.sq#716,vntext.sq,REBELGIRL,"A {$flavors:methberry} donut... huh, what an interesting taste...","Пончик со вкусом {$flavors:methberry}... хм, какой интересный вкус...",translated,65
+vntext.sq#717,vntext.sq,REBELGIRL,"And this ${sincere}, warm mood... I think this donut's really got me ready to open up.","И это ${sincere}, тёплое настроение... кажется, этот пончик и правда настроил меня раскрыться.",translated,86
+vntext.sq#718,vntext.sq,REBELGIRL,"All right, here goes...","Ладно, ну поехали...",translated,23
+vntext.sq#719,vntext.sq,REBELGIRL,"Deep down, a part of me sometimes lingers on the thought of us getting back together.","Глубоко внутри часть меня иногда задерживается на мысли о том, чтобы снова быть вместе.",translated,85
+vntext.sq#721,vntext.sq,REBELGIRL,What do you think though? Walking down that road again... is it too much to ask?,Но что ты думаешь? Пройти этот путь снова... это слишком многого просить?,translated,80
+vntext.sq#736,vntext.sq,REBELGIRL,"Great advice, Mood Meister.","Отличный совет, Мастер настроения.",translated,27
+vntext.sq#737,vntext.sq,REBELGIRL,"Heh, you sounded like you're coming from like... a really deep and personal space you know?","Хех, звучало так, будто ты говорил, типа... из какого-то по-настоящему глубокого и личного места, понимаешь?",translated,91
+vntext.sq#739,vntext.sq,REBELGIRL,"Well, keep it up. I'll take to heart what you said. Until next time.","Ну, продолжай в том же духе. Я приму твои слова близко к сердцу. До следующего раза.",translated,68
+vntext.sq#742,vntext.sq,REBELGIRL,"Huh, this is ${relaxing}... like I've just gotta keep calm before the storm. Not wanting less but not wanting more.","Хм, это ${relaxing}... будто мне просто нужно сохранять спокойствие перед бурей. Не хочу меньше, но и не хочу больше.",translated,115
+vntext.sq#743,vntext.sq,REBELGIRL,This mood is making me want to just lie back... after everything's been said and done.,"Из-за этого настроения хочется просто откинуться назад... после того, как всё сказано и сделано.",translated,86
+vntext.sq#744,vntext.sq,REBELGIRL,"Sometimes I feel like jumping the gun, but this mood makes me feel like slowing down and waiting...","Иногда мне хочется поторопить события, но это настроение заставляет меня притормозить и подождать...",translated,99
+vntext.sq#745,vntext.sq,REBELGIRL,"A pretty chill mood… like a wave of {$moods:patience} surging through me, telling me to just wait it out and keep my head above water.","Довольно расслабленное настроение... будто волна {$moods:patience} накатывает на меня, говоря просто переждать и держать голову над водой.",translated,134
+vntext.sq#746,vntext.sq,REBELGIRL,Hehehe! This donut... it's been awhile since I've smiled...,Хехехе! Этот пончик... давно я не улыбалась...,translated,59
+vntext.sq#747,vntext.sq,REBELGIRL,This donut's bringing on the {$moods:cheer}. I guess that's why I smile.,"Этот пончик приносит {$moods:cheer}. Наверное, поэтому я и улыбаюсь.",translated,72
+vntext.sq#748,vntext.sq,REBELGIRL,You know when it's time to spin the bottle and you end up doing things you don't talk about until tomorrow? {$moods:passion}! That's what I'm feeling.,"Знаешь, когда приходит время крутить бутылочку и в итоге творишь такое, о чём не говоришь до самого утра? {$moods:passion}! Вот что я чувствую.",translated,150
+vntext.sq#749,vntext.sq,REBELGIRL,"That feeling of {$moods:passion} in the air... playing truth or dare, just hanging out in our underwear... yeah, that's what I'm feeling.","Это ощущение {$moods:passion} в воздухе... играть в правду или действие, тусоваться в одном белье... да, вот что я чувствую.",translated,137
+vntext.sq#750,vntext.sq,REBELGIRL,My brain is exploding with all these different thoughts! Count me ${inspired}.,"Мой мозг взрывается от всех этих разных мыслей! Считай, я ${inspired}.",translated,78
+vntext.sq#751,vntext.sq,REBELGIRL,"Huh, feels like I'm underneath a spell... ${inspired} by all these thoughts...","Хм, чувствую себя будто под заклятьем... ${inspired} всеми этими мыслями...",translated,78
+vntext.sq#752,vntext.sq,REBELGIRL,What a boost! I feel like even if I fall or crawl or break... I can still turn it into the bravery I need to push on.,"Вот это заряд! Такое чувство, что даже если я упаду, поползу или сломаюсь... я всё равно смогу превратить это в смелость, которая нужна мне, чтобы двигаться дальше.",translated,117
+vntext.sq#753,vntext.sq,REBELGIRL,"This mood... it's giving me the {$moods:courage} to just keep fighting the good fight, you know?","Это настроение... даёт мне {$moods:courage} продолжать бороться за правое дело, понимаешь?",translated,96
+vntext.sq#754,vntext.sq,REBELGIRL,"Gotta say, this feeling of {$moods:focus}. Like my head was up in space and now I'm coming back down to earth.","Надо сказать, это чувство {$moods:focus}. Будто моя голова витала где-то в космосе, а теперь возвращается на землю.",translated,110
+vntext.sq#755,vntext.sq,REBELGIRL,"I'm feeling the {$moods:focus}... that's right, I can't stop this rush...","Я чувствую {$moods:focus}... точно, не могу остановить этот прилив...",translated,73
+vntext.sq#756,vntext.sq,REBELGIRL,"This donut's making me remember all those crazy things he said. He left them running through my head, you know?","Из-за этого пончика я вспоминаю все те безумные вещи, что он говорил. Они у меня в голове крутятся, понимаешь?",translated,111
+vntext.sq#757,vntext.sq,REBELGIRL,This mood brings me back to those days when me and him would just watch the stars together...,"Это настроение возвращает меня в те дни, когда мы с ним просто вместе смотрели на звёзды...",translated,93
+vntext.sq#758,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#759,vntext.sq,REBELGIRL,"Huh, not sure if this is the best donut for connecting with my inner feelings...","Хм, не уверена, что это лучший пончик, чтобы разобраться со своими чувствами...",translated,80
+vntext.sq#760,vntext.sq,REBELGIRL,"Oh well, you tried...","Ну что ж, ты хотя бы попытался...",translated,21
+vntext.sq#761,vntext.sq,REBELGIRL,"Anyway, I should head on home. Later...","В общем, мне пора домой. Пока...",translated,39
+vntext.sq#764,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#765,vntext.sq,REBELGIRL,"Damn, what a day...","Чёрт, ну и денёк...",translated,19
+vntext.sq#767,vntext.sq,REBELGIRL,Just a bit tired... I work as a nurse at the local hospital and it's been a busy day...,"Просто немного устала... Я работаю медсестрой в местной больнице, и день выдался напряжённый...",translated,87
+vntext.sq#768,vntext.sq,REBELGIRL,Well... maybe it's a bit more than that...,"Ну... может, дело не только в этом...",translated,42
+vntext.sq#770,vntext.sq,REBELGIRL,One of the patients I'm taking care of... nice old lady... but... not sure how much time she has left.,"Одна из моих пациенток... милая пожилая женщина... но... не уверена, сколько ей осталось времени.",translated,102
+vntext.sq#771,vntext.sq,REBELGIRL,"Keeps looking for her daughter, but from what I know, they aren't on good terms... though I don't think she remembers that.","Она всё время ищет свою дочь, но, насколько я знаю, они не в лучших отношениях... хотя, кажется, она этого уже не помнит.",translated,123
+vntext.sq#774,vntext.sq,REBELGIRL,"Hey, got a question for you. You work a job where you talk to people on the regular, hearing people's stories...","Слушай, есть вопрос. У тебя работа, где ты постоянно общаешься с людьми, слушаешь их истории...",translated,112
+vntext.sq#775,vntext.sq,REBELGIRL,Do you ever have trouble in... getting overly invested? Even when you shouldn't?,Тебе бывает сложно... не переусердствовать с вовлечённостью? Даже когда не стоило бы?,translated,80
+vntext.sq#782,vntext.sq,REBELGIRL,"Heh... kind of ironic, don't you think? In order to give people the right emotions they need, you gotta make sure you don't experience any yourself.","Хех... немного иронично, не находишь? Чтобы дать людям нужные им эмоции, тебе нужно следить, чтобы самому их не испытывать.",translated,148
+vntext.sq#784,vntext.sq,REBELGIRL,I see...,Понятно...,translated,8
+vntext.sq#786,vntext.sq,REBELGIRL,"Heh, that's surprising... but good to hear.","Хех, неожиданно... но приятно слышать.",translated,43
+vntext.sq#787,vntext.sq,REBELGIRL,"I suppose that's why we work these kind of jobs, huh? We just can't help ourselves.","Наверное, поэтому мы и работаем на такой работе, да? Просто не можем иначе.",translated,83
+vntext.sq#794,vntext.sq,REBELGIRL,That's the hard part I suppose...,"Наверное, это самое сложное...",translated,33
+vntext.sq#795,vntext.sq,REBELGIRL,Thinking about my ex... a part of me really thought I needed to stick by his side. To help him out...,"Думая о своём бывшем... часть меня правда считала, что мне нужно быть рядом с ним. Помогать ему...",translated,101
+vntext.sq#796,vntext.sq,REBELGIRL,"But it's like when someone breaks their leg... you need crutches when you're healing, sure...","Но это как когда кто-то ломает ногу... костыли нужны, пока идёт заживление, конечно...",translated,93
+vntext.sq#797,vntext.sq,REBELGIRL,"But when they've come to rely on the crutches, well, sometimes always being there for someone to lean on just means you're stopping them from gathering the courage to walk on their own two feet.","Но когда человек начинает полагаться на костыли, что ж, иногда быть тем, на кого всегда можно опереться, означает лишь мешать ему набраться смелости пойти на своих двоих.",translated,194
+vntext.sq#798,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#799,vntext.sq,REBELGIRL,Heh... you know what? Can you hook me up with a mood you think I might need when it comes to these sort of things?,"Хех... знаешь что? Можешь подкинуть мне настроение, которое, как думаешь, мне нужно в подобных делах?",translated,114
+vntext.sq#808,vntext.sq,REBELGIRL,Solid.,Отлично.,translated,6
+vntext.sq#810,vntext.sq,REBELGIRL,Yikes! This one's pretty bad!,Ой! Этот совсем плохой!,translated,29
+vntext.sq#811,vntext.sq,REBELGIRL,"Uh... hang in there, Mood Meister. Your donuts take a nasty hit when you're not at a hundred percent.","Эм... держись, Мастер настроения. Твои пончики сильно страдают, когда ты не на все сто.",translated,101
+vntext.sq#817,vntext.sq,REBELGIRL,"Interesting... a {$flavors:chococaine} donut. You're right... I need to {$moods:focus}. I'm here to help people, that comes first.","Интересно... пончик со вкусом {$flavors:chococaine}. Ты прав... мне нужен {$moods:focus}. Я здесь, чтобы помогать людям, это на первом месте.",translated,130
+vntext.sq#818,vntext.sq,REBELGIRL,Interesting... a {$flavors:pumpketamine} donut. {$moods:patience} for a girl who's got a lot of patients... heh... this does make it easier.,"Интересно... пончик со вкусом {$flavors:pumpketamine}. {$moods:patience} для девушки, у которой полно пациентов... хех... с этим правда легче.",translated,140
+vntext.sq#819,vntext.sq,REBELGIRL,Interesting... a {$flavors:vanilla_sky} donut. I should remember why I'm doing this in the first place. Makes me happy — and pays the bills — but let's focus on the former for now.,"Интересно... пончик со вкусом {$flavors:vanilla_sky}. Мне стоит помнить, ради чего я вообще этим занимаюсь. Это делает меня счастливой — и оплачивает счета — но давай пока сосредоточимся на первом.",translated,180
+vntext.sq#820,vntext.sq,REBELGIRL,"Interesting... a {$flavors:roid_velvet} donut. It's reminding me to keep fighting the good fight... not just for me, but for the people around me too...","Интересно... пончик со вкусом {$flavors:roid_velvet}. Он напоминает мне продолжать бороться за правое дело... не только ради себя, но и ради людей вокруг...",translated,152
+vntext.sq#821,vntext.sq,REBELGIRL,"An {$flavors:ubecstacy} donut, huh? Though the going gets tough, I still do love what I do... I shouldn't ever forget that...","Пончик со вкусом {$flavors:ubecstacy}, значит? Пусть порой приходится нелегко, я всё равно люблю своё дело... не стоит об этом забывать...",translated,125
+vntext.sq#822,vntext.sq,REBELGIRL,"A {$flavors:methberry} donut, huh? Interesting... I suppose I need to be more honest with myself. Caring for others, their pain becomes your pain... and sometimes that's okay...","Пончик со вкусом {$flavors:methberry}, значит? Интересно... наверное, мне нужно быть честнее с самой собой. Когда заботишься о других, их боль становится твоей... и иногда это нормально...",translated,177
+vntext.sq#823,vntext.sq,REBELGIRL,"A {$flavors:strawpium} donut, huh? Interesting...","Пончик со вкусом {$flavors:strawpium}, значит? Интересно...",translated,49
+vntext.sq#824,vntext.sq,REBELGIRL,Heh... this donut is taking me back to a room that always smelled of medicine... and freshly picked sunflowers at the bedside table.,"Хех... этот пончик возвращает меня в комнату, где всегда пахло лекарствами... и свежесорванными подсолнухами на прикроватном столике.",translated,132
+vntext.sq#825,vntext.sq,REBELGIRL,"My mom was sick for most of my childhood. I had to grow up fast to help my dad care for her. And if I wasn't at home taking care of her, I was helping my dad out at the music store...","Моя мама болела почти всё моё детство. Мне пришлось быстро повзрослеть, чтобы помогать отцу заботиться о ней. А если я не была дома, ухаживая за ней, то помогала отцу в музыкальном магазине...",translated,183
+vntext.sq#826,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#827,vntext.sq,REBELGIRL,Thanks... heh...,Спасибо... хех...,translated,16
+vntext.sq#828,vntext.sq,REBELGIRL,Glad I dropped by tonight. See ya around!,"Рада, что зашла сегодня. Увидимся!",translated,41
+vntext.sq#830,vntext.sq,REBELGIRL,"A {$flavors:lemon_acid} donut, huh? I usually associate this with music...","Пончик со вкусом {$flavors:lemon_acid}, значит? Обычно у меня это ассоциируется с музыкой...",translated,74
+vntext.sq#831,vntext.sq,REBELGIRL,"A {$flavors:matchajuana} donut, huh? I don't mind, but... not sure this is what I need.","Пончик со вкусом {$flavors:matchajuana}, значит? Я не против, но... не уверена, что это то, что мне нужно.",translated,87
+vntext.sq#832,vntext.sq,REBELGIRL,"Eh, whatever...","Эх, ладно...",translated,15
+vntext.sq#833,vntext.sq,REBELGIRL,"Anyway, at least we got to chat and stuff. Bye...","В общем, хотя бы поболтали. Пока...",translated,49
+vntext.sq#835,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#837,vntext.sq,REBELGIRL,Why does life have to be like this?,Почему жизнь вообще должна быть такой?,translated,35
+vntext.sq#838,vntext.sq,REBELGIRL,"So like... think I mentioned it before, but my ex and I are friends again, right?","В общем... кажется, я уже говорила, но мы с бывшим снова друзья, да?",translated,81
+vntext.sq#839,vntext.sq,REBELGIRL,"And for awhile it was great, you know? Just the two of us being natural with each other...","И какое-то время это было классно, понимаешь? Мы просто были естественными друг с другом...",translated,90
+vntext.sq#840,vntext.sq,REBELGIRL,"We both made friends with a duck, how is that not awesome?","Мы вместе подружились с уткой, разве это не круто?",translated,58
+vntext.sq#841,vntext.sq,REBELGIRL,But a part of me just couldn't help myself... I started... I started thinking about him all the time... it's just so addictive...,Но часть меня просто не смогла удержаться... я начала... я начала думать о нём постоянно... это так затягивает...,translated,129
+vntext.sq#843,vntext.sq,REBELGIRL,"And the other day, I just show up unannounced. I was all dressed up like I was somebody else...","И на днях я просто заявилась без предупреждения. Разоделась, будто была кем-то другим...",translated,95
+vntext.sq#844,vntext.sq,REBELGIRL,"Trying so hard, I'd strike a pose... I came in wearing all these preppy clothes...","Так старалась, принимала позы... заявилась вся такая в этих правильных шмотках...",translated,82
+vntext.sq#845,vntext.sq,REBELGIRL,"I was trying so hard to be cool... but in the end, I looked like a fool...",Так старалась выглядеть крутой... а в итоге выглядела дурой...,translated,74
+vntext.sq#846,vntext.sq,REBELGIRL,"Going out on a date... things just felt different, you know? He told me he still wasn't sure if we should get back together...","Пошли на свидание... но всё было как-то не так, понимаешь? Он сказал, что всё ещё не уверен, стоит ли нам сходиться снова...",translated,126
+vntext.sq#847,vntext.sq,REBELGIRL,"Looking back, I don't know what I was thinking... we already had something good together...","Оглядываясь назад, не понимаю, о чём я вообще думала... у нас уже было что-то хорошее...",translated,91
+vntext.sq#848,vntext.sq,REBELGIRL,Why... just why did I have to go and make things so... so...,Почему... ну почему мне надо было всё сделать таким... таким...,translated,60
+vntext.sq#854,vntext.sq,REBELGIRL,Yes! How'd you know? That was exactly what I wanted to say!,"Да! Как ты узнал? Это именно то, что я хотела сказать!",translated,59
+vntext.sq#856,vntext.sq,REBELGIRL,"You did it again! Okay, now that's just real creepy...","Ты опять это сделал! Ладно, это уже реально жутковато...",translated,54
+vntext.sq#858,vntext.sq,REBELGIRL,"Yeah, maybe? But delicate is such a hard word to rhyme with. But you know what, I'll make do.","Ну, может быть? Но к слову «хрупкий» так сложно подобрать рифму. Но знаешь что, обойдусь.",translated,93
+vntext.sq#860,vntext.sq,REBELGIRL,Ummm... that ain't exactly the way I was feeling that night.,"Эмм... это не совсем то, что я чувствовала в тот вечер.",translated,60
+vntext.sq#861,vntext.sq,REBELGIRL,"But like, seriously... I... I don't really know what to do. Should I just act like it never happened and just continue being friends?","Но типа, серьёзно... я... я правда не знаю, что делать. Мне просто сделать вид, что ничего не было, и продолжать дружить?",translated,133
+vntext.sq#862,vntext.sq,REBELGIRL,Or should I go for it... just tell him that I want him and get back together? I might need a mood to work my feelings out.,"Или мне стоит рискнуть... просто сказать ему, что я хочу его и сойтись снова? Может, мне нужно настроение, чтобы разобраться в чувствах.",translated,122
+vntext.sq#863,vntext.sq,REBELGIRL,"Can you help me out, Mood Meister?","Поможешь мне, Мастер настроения?",translated,34
+vntext.sq#864,vntext.sq,REBELGIRL,The mood you give me now... just might really help me decide what to do next...,"Настроение, которое ты дашь мне сейчас... может и правда помочь понять, что делать дальше...",translated,79
+vntext.sq#876,vntext.sq,REBELGIRL,"...Whoa! Bad donut alert, Mood Master!","...Ого! Тревога, плохой пончик, Мастер настроения!",translated,38
+vntext.sq#878,vntext.sq,REBELGIRL,Are you okay? Did I make it too hard for you?,Ты в порядке? Я тебе слишком усложнила задачу?,translated,45
+vntext.sq#881,vntext.sq,REBELGIRL,"Thanks. Just watch out next time, 'kay?","Спасибо. Просто будь повнимательнее в следующий раз, ладно?",translated,39
+vntext.sq#882,vntext.sq,REBELGIRL,"Anyway, at least we got to chat and stuff. See ya...","В общем, хотя бы поболтали. Увидимся...",translated,52
+vntext.sq#884,vntext.sq,REBELGIRL,You're right... I should {$moods:focus} on what really matters. We've got something good going as friends... no need to ruin that.,"Ты прав... мне нужно {$moods:focus} на том, что действительно важно. У нас хорошо получается дружить... не стоит это разрушать.",translated,130
+vntext.sq#885,vntext.sq,REBELGIRL,I'm jumping in too fast... I need to take things slow...,Я слишком тороплюсь... мне нужно притормозить...,translated,56
+vntext.sq#886,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#887,vntext.sq,REBELGIRL,We should just be friends for now...,Пока нам стоит просто оставаться друзьями...,translated,36
+vntext.sq#888,vntext.sq,REBELGIRL,"Cool, a {$flavors:vanilla_sky} donut. That's right... we were... happy just being friends...","Круто, пончик со вкусом {$flavors:vanilla_sky}. Точно... мы были... счастливы, просто будучи друзьями...",translated,92
+vntext.sq#889,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#890,vntext.sq,REBELGIRL,I think I know what to do now.,"Кажется, теперь я знаю, что делать.",translated,30
+vntext.sq#891,vntext.sq,REBELGIRL,"Cool, a {$flavors:matchajuana} donut. Heh... I have been fussing over the small things, huh? I should just take things slow...","Круто, пончик со вкусом {$flavors:matchajuana}. Хех... я, видимо, зацикливалась на мелочах? Мне стоит просто не торопиться...",translated,126
+vntext.sq#892,vntext.sq,REBELGIRL,"Whoa... this intense, burning feeling...","Ого... это интенсивное, пылающее чувство...",translated,40
+vntext.sq#893,vntext.sq,REBELGIRL,I think I know what I have to do now... I need to tell him how I feel.,"Кажется, теперь я знаю, что мне делать... мне нужно сказать ему, что я чувствую.",translated,70
+vntext.sq#894,vntext.sq,REBELGIRL,{$flavors:lemon_acid}? These thoughts flowing through my head... a spark of {$moods:inspiration}...,"{$flavors:lemon_acid}? Эти мысли, текущие в голове... искра {$moods:inspiration}...",translated,99
+vntext.sq#895,vntext.sq,REBELGIRL,"Whoa... I... I think I know what I have to do now... I need to tell him how I feel, and I have some ideas how to go about it.","Ого... я... кажется, теперь я знаю, что мне делать... мне нужно сказать ему, что я чувствую, и у меня уже есть пара идей, как это сделать.",translated,125
+vntext.sq#896,vntext.sq,REBELGIRL,I've been hiding my feelings all this time... I guess I was just scared... started overthinking and making all these mistakes.,"Всё это время я скрывала свои чувства... наверное, я просто боялась... начала слишком много думать и наделала кучу ошибок.",translated,126
+vntext.sq#897,vntext.sq,REBELGIRL,But this mood is giving me that little boost of bravery that I need.,"Но это настроение даёт мне ту самую капельку смелости, которая мне нужна.",translated,68
+vntext.sq#898,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#899,vntext.sq,REBELGIRL,I... I think I'm ready to tell him how I feel.,"Я... кажется, я готова сказать ему, что чувствую.",translated,46
+vntext.sq#900,vntext.sq,REBELGIRL,I've been hiding my feelings all this time... and running away from it.,Всё это время я скрывала свои чувства... и убегала от них.,translated,71
+vntext.sq#901,vntext.sq,REBELGIRL,"But hey, this mood's making me realize that it's okay for me to be honest and vulnerable with him...","Но эй, это настроение помогает мне понять, что быть честной и уязвимой с ним — это нормально...",translated,100
+vntext.sq#902,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#904,vntext.sq,REBELGIRL,I've been hiding my feelings all this time...,Всё это время я скрывала свои чувства...,translated,45
+vntext.sq#905,vntext.sq,REBELGIRL,I keep thinking back to when I first met him. He was a skaterboy doing tricks in the park. He bumped into me and started apologizing... then we hung out.,"Я всё время вспоминаю, как мы впервые встретились. Он был скейтбордистом, откалывал трюки в парке. Он врезался в меня и начал извиняться... а потом мы стали тусоваться вместе.",translated,153
+vntext.sq#906,vntext.sq,REBELGIRL,"Heh, even back then, I don't think it could've been any more obvious... what more can I say?","Хех, даже тогда, кажется, всё было предельно очевидно... что тут ещё сказать?",translated,92
+vntext.sq#907,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#908,vntext.sq,REBELGIRL,I... I think I know what I have to do now... I need to tell him how I feel.,"Я... кажется, теперь я знаю, что мне делать... мне нужно сказать ему, что я чувствую.",translated,75
+vntext.sq#909,vntext.sq,REBELGIRL,Thanks Mood Meister. This really put things into perspective!,"Спасибо, Мастер настроения. Это правда всё расставило по местам!",translated,61
+vntext.sq#910,vntext.sq,REBELGIRL,Glad I dropped by tonight. Bye!,"Рада, что зашла сегодня. Пока!",translated,31
+vntext.sq#913,vntext.sq,REBELGIRL,"Yooo, good to see you, Mood Meister!","Йоу, рада тебя видеть, Мастер настроения!",translated,36
+vntext.sq#916,vntext.sq,REBELGIRL,"Haven't you heard? We're back together, rockin' each other's world~","Ты разве не слышал? Мы снова вместе, сносим друг другу крышу~",translated,67
+vntext.sq#917,vntext.sq,REBELGIRL,Kolt here is back to being my skaterboy.,Колт снова мой скейтбордист.,translated,40
+vntext.sq#919,vntext.sq,REBELGIRL,"Well, remember what I told you last time... Kolt and I had a long talk about it, and we decided to just stay friends.","Ну, помнишь, что я говорила в прошлый раз... мы с Колтом долго это обсуждали и решили остаться просто друзьями.",translated,117
+vntext.sq#922,vntext.sq,REBELGIRL,We even brought Rebel with us!,Мы даже привели с собой Ребела!,translated,30
+vntext.sq#925,vntext.sq,REBELGIRL,"He's got so much to say and so much to do, there's no other duck when it comes to the truth.","Ему есть что сказать и что сделать, нет другой такой утки, когда дело доходит до правды.",translated,92
+vntext.sq#931,vntext.sq,REBELGIRL,Hell yeah!,Вот это да!,translated,10
+vntext.sq#934,vntext.sq,REBELGIRL,"...This donut's really weird, Mood Meister! Not our style!","...Этот пончик реально странный, Мастер настроения! Не в нашем стиле!",translated,58
+vntext.sq#935,vntext.sq,REBELGIRL,"This donut is really bumming me out, though... It's got no mood enhancers...",Этот пончик меня прям расстраивает... В нём вообще нет усилителей настроения...,translated,76
+vntext.sq#938,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#939,vntext.sq,REBELGIRL,It's fine...,Всё нормально...,translated,12
+vntext.sq#940,vntext.sq,REBELGIRL,"Anyway, bye.","Ладно, пока.",translated,12
+vntext.sq#941,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#943,vntext.sq,REBELGIRL,Ha... this donut is everything... everything that I ever wanted. Like it was just meant to be! Supposed to be! And I'm never losing this feeling...,"Ха... этот пончик — это всё... всё, чего я когда-либо хотела. Будто так и было суждено! Так и должно было быть! И я никогда не потеряю это чувство...",translated,147
+vntext.sq#948,vntext.sq,REBELGIRL,"Eh, this'll do, I guess. Pretty boring though.","Эх, сойдёт, наверное. Хотя довольно скучновато.",translated,46
+vntext.sq#951,vntext.sq,REBELGIRL,"Glad we've got you as a friend, I suppose this is how the story ends.","Рады, что ты у нас есть как друг, наверное, вот так эта история и заканчивается.",translated,69
+vntext.sq#953,vntext.sq,REBELGIRL,See you later.,Увидимся.,translated,14
+vntext.sq#956,vntext.sq,REBELGIRL,"Hey, hey, you, you~","Эй, эй, ты, ты~",translated,19
+vntext.sq#958,vntext.sq,REBELGIRL,Touching base here. I just came from a gig and I kind of want to sit with those vibes.,"Просто заскочила на связь. Я только что с концерта, и мне хочется побыть в этом настрое подольше.",translated,86
+vntext.sq#964,vntext.sq,REBELGIRL,Mood Meister.,Мастер настроения.,translated,13
+vntext.sq#966,vntext.sq,REBELGIRL,"So I was waiting outside — right there, grinning with a lost stare. That's when I decided, why should I care?","В общем, я ждала снаружи — прямо там, ухмыляясь с потерянным взглядом. И тогда я решила — а мне-то что до этого?",translated,109
+vntext.sq#967,vntext.sq,REBELGIRL,"Then it hit me, your girl here might be in need of some {$moods:sincerity}.","И тут меня осенило — этой девчонке, кажется, не помешает немного {$moods:sincerity}.",translated,75
+vntext.sq#973,vntext.sq,REBELGIRL,You need to listen. Or am I in this thing alone?,Тебе нужно слушать. Или я тут одна во всём этом?,translated,48
+vntext.sq#981,vntext.sq,REBELGIRL,"All right, Mood Meister. Got a new one for ya.","Ладно, Мастер настроения. Есть для тебя кое-что новенькое.",translated,46
+vntext.sq#982,vntext.sq,REBELGIRL,"Sensing my world a stimulation, so maybe hook me up with some {$moodset:motivation}.","Чувствую в своём мире стимуляцию, так что подкинь мне немного {$moodset:motivation}.",translated,84
+vntext.sq#988,vntext.sq,REBELGIRL,"Mood Meister, I'm banking on one of your donuts for today.","Мастер настроения, сегодня рассчитываю на один из твоих пончиков.",translated,58
+vntext.sq#995,vntext.sq,REBELGIRL,Mood Meister. Hi.,Мастер настроения. Привет.,translated,17
+vntext.sq#997,vntext.sq,REBELGIRL,"I'm seeking something {$colors:pink} — makes me feel like a precious princess, you know?","Ищу что-то {$colors:pink} — чтобы чувствовать себя настоящей принцессой, понимаешь?",translated,88
+vntext.sq#1003,vntext.sq,REBELGIRL,Got another donut request! Wooo!,У меня для тебя ещё один заказ! Ву-у!,translated,32
+vntext.sq#1004,vntext.sq,REBELGIRL,... Sorry about that. I think I need to {$moodset:chill} out... what am I yellin' for?,"...Извини за это. Кажется, мне нужно {$moodset:chill}... чего это я вообще ору?",translated,86
+vntext.sq#1005,vntext.sq,REBELGIRL,"I need to lay back, it's all been done before...","Мне нужно откинуться назад, всё это уже было...",translated,48
+vntext.sq#1011,vntext.sq,REBELGIRL,"Strike a pose, you've got it!","Замри в позе, ты попал в точку!",translated,29
+vntext.sq#1014,vntext.sq,REBELGIRL,"Mood Meister, I think I'm game for a {$glaze:multiglaze}.","Мастер настроения, думаю, я готова на {$glaze:multiglaze}.",translated,57
+vntext.sq#1015,vntext.sq,REBELGIRL,"For one flavor, I'm thinking {$moodset:chill}... you know? The other... kinda feeling {$moodset:vibes}, you dig?","Для одного вкуса думаю про {$moodset:chill}... понимаешь? А для другого... как-то чувствую {$moodset:vibes}, улавливаешь?",translated,112
+vntext.sq#1022,vntext.sq,REBELGIRL,"Mood Meister, I remember last time... when... talking about exes...","Мастер настроения, помню в прошлый раз... когда... говорили про бывших...",translated,67
+vntext.sq#1023,vntext.sq,REBELGIRL,"You said I should go for it. Well, you've given me one heck of a challenge, but what the hell.","Ты сказал мне рискнуть. Ну, ты задал мне тот ещё вызов, но какого чёрта.",translated,94
+vntext.sq#1024,vntext.sq,REBELGIRL,"You told me to take it one step at a time, and so I'm doing just that.","Ты сказал мне действовать шаг за шагом, вот именно этим я и занимаюсь.",translated,70
+vntext.sq#1025,vntext.sq,REBELGIRL,"You said be careful... glad you're looking out for me. Don't worry, I will.","Ты сказал быть осторожной... рада, что ты за меня переживаешь. Не волнуйся, буду.",translated,75
+vntext.sq#1031,vntext.sq,REBELGIRL,"Hey, hey, you, you, I just wanna donut!","Эй, эй, ты, ты, мне просто нужен пончик!",translated,39
+vntext.sq#1033,vntext.sq,REBELGIRL,"I'm thinking... you know anything that can just hook me up with the {$moodset:vibes}, you know?","Я тут подумываю... ну, что-то, что подкинет мне {$moodset:vibes}, понимаешь?",translated,95
+vntext.sq#1039,vntext.sq,REBELGIRL,Yo Mood Meister. How're you meistering those moods?,"Йо, Мастер настроения. Как там мастеришь настроения?",translated,51
+vntext.sq#1044,vntext.sq,REBELGIRL,"Thanks, Mood Meister.","Спасибо, Мастер настроения.",translated,21
+vntext.sq#1046,vntext.sq,REBELGIRL,Just got out of work. Pretty eventful day.,Только что с работы. Насыщенный был день.,translated,42
+vntext.sq#1048,vntext.sq,REBELGIRL,Heh... I suppose.,Хех... наверное.,translated,17
+vntext.sq#1049,vntext.sq,REBELGIRL,I'm keeping my distance.,Держу дистанцию.,translated,24
+vntext.sq#1050,vntext.sq,REBELGIRL,Like what you said last time.,Как ты и говорил в прошлый раз.,translated,29
+vntext.sq#1051,vntext.sq,REBELGIRL,"It's a lonely road but... well, it's a safer one. Helps me keep a cool head.","Дорога одинокая, но... что ж, зато безопаснее. Помогает сохранять холодную голову.",translated,76
+vntext.sq#1052,vntext.sq,REBELGIRL,"I'm just feeling everything in the moment, you know? Helping people out... even if that means getting invested.","Я просто проживаю всё в моменте, понимаешь? Помогаю людям... даже если это значит вовлекаться.",translated,111
+vntext.sq#1053,vntext.sq,REBELGIRL,Trying my best to follow what you told me last time.,"Стараюсь изо всех сил следовать тому, что ты сказал в прошлый раз.",translated,52
+vntext.sq#1054,vntext.sq,REBELGIRL,I'm choosing my battles. All about balance... and I'd say it's working pretty well.,"Выбираю свои битвы. Всё дело в балансе... и, скажу я тебе, неплохо получается.",translated,83
+vntext.sq#1055,vntext.sq,REBELGIRL,Trying my best to follow what you told me last time.,"Стараюсь изо всех сил следовать тому, что ты сказал в прошлый раз.",translated,52
+vntext.sq#1056,vntext.sq,REBELGIRL,Old lady is still going strong though... so that's nice.,"Старушка всё ещё держится молодцом, кстати... так что это хорошо.",translated,56
+vntext.sq#1064,vntext.sq,REBELGIRL,"Got another rhyme for you! Give me a donut that you think really captures it, all right?","Есть для тебя ещё одна рифма! Дай мне пончик, который, по-твоему, лучше всего её передаёт, лады?",translated,88
+vntext.sq#1066,vntext.sq,REBELGIRL,"Oh, he's sour, just so sour. Got his brain held up in space, but bright as day, he's still on my mind.","Ох, он кислый, такой кислый. Мозги где-то витают в космосе, но ясно как день — он всё ещё у меня в голове.",translated,102
+vntext.sq#1078,vntext.sq,REBELGIRL,"Heh. Mood Meister, how's it going?","Хех. Мастер настроения, как оно?",translated,34
+vntext.sq#1080,vntext.sq,REBELGIRL,Was just thinking of MJ — that rocker girl who performs here? Big fan.,"Тут думала про MJ — рокершу, которая тут выступает? Я её большая фанатка.",translated,70
+vntext.sq#1081,vntext.sq,REBELGIRL,Her lyrics put mine to shame. But I'll try my best to catch up.,Её тексты заставляют мои стыдиться. Но я постараюсь дотянуться до её уровня.,translated,63
+vntext.sq#1093,vntext.sq,REBELGIRL,"Heh. Mood Meister, glad to see you again.","Хех. Мастер настроения, рада снова тебя видеть.",translated,41
+vntext.sq#1095,vntext.sq,REBELGIRL,"Heh... you know what? Give me a {$bubble} donut with {$decor:drizzle}, {$toppings:sugar}, and some {$toppings:almonphetamine}!","Хех... знаешь что? Дай мне {$bubble} пончик с {$decor:drizzle}, {$toppings:sugar} и немного {$toppings:almonphetamine}!",translated,126
+vntext.sq#1101,vntext.sq,REBELGIRL,"Mood Meister, got something to tell ya.","Мастер настроения, есть что тебе сказать.",translated,39
+vntext.sq#1103,vntext.sq,REBELGIRL,"Was listening to Clean Day, you know what? They're growing on me.","Слушала Clean Day, знаешь что? Они мне всё больше нравятся.",translated,65
+vntext.sq#1115,vntext.sq,REBELGIRL,"Mood Meister, it's me. Hey.","Мастер настроения, это я. Привет.",translated,27
+vntext.sq#1117,vntext.sq,REBELGIRL,"These days, I've just been thinking about my ex again...",В последнее время опять думаю про бывшего...,translated,56
+vntext.sq#1128,vntext.sq,REBELGIRL,"And if you can, make it a {$longjohn} donut with some {$flavors:methberry} {$decor:filling}, okay? Thanks.","И если можешь, сделай его {$longjohn} с {$flavors:methberry} {$decor:filling}, ладно? Спасибо.",translated,106
+vntext.sq#1130,vntext.sq,REBELGIRL,"Hey, hey, you, you, I just want a donut.","Эй, эй, ты, ты, мне просто нужен пончик.",translated,40
+vntext.sq#1137,vntext.sq,REBELGIRL,Mood Meister!,Мастер настроения!,translated,13
+vntext.sq#1139,vntext.sq,REBELGIRL,I really liked that donut you served me last time.,"Мне правда понравился тот пончик, что ты дал мне в прошлый раз.",translated,50
+vntext.sq#1140,vntext.sq,REBELGIRL,"It's so fine, I want it mine, it's so delicious — I think about it all the time, addictive.","Он такой классный, хочу себе, такой вкусный — думаю о нём постоянно, затягивает.",translated,91
+vntext.sq#1152,vntext.sq,REBELGIRL,"All right, Mood Meister, got a beat ready for you today.","Ладно, Мастер настроения, сегодня у меня для тебя готов бит.",translated,56
+vntext.sq#1154,vntext.sq,REBELGIRL,"Green fields, we're free, deep in, deep out, that's me. I'm floating down the river, and feeling no pain, but I stick true to myself, so I've got no one to blame.","Зелёные поля, мы свободны, глубоко внутри, глубоко наружу, это я. Плыву вниз по реке, не чувствуя боли, но остаюсь верной себе, так что винить некого.",translated,162
+vntext.sq#1166,vntext.sq,REBELGIRL,"I'm really feeling it today, Mood Meister!","Сегодня меня прям накрыло, Мастер настроения!",translated,42
+vntext.sq#1168,vntext.sq,REBELGIRL,"Heh, that's a secret! But let's just say I feel like a superstar! I'd slam the notes down if I had a guitar.","Хех, это секрет! Но скажем так, чувствую себя суперзвездой! Я бы жахнула по струнам, будь у меня гитара.",translated,108
+vntext.sq#1174,vntext.sq,REBELGIRL,"Mood Meister. Meeting up with Kolt, so I think I'd like a donut.","Мастер настроения. Встречаюсь с Колтом, так что хочу пончик.",translated,64
+vntext.sq#1177,vntext.sq,REBELGIRL,{$recipe:royal_blood}'s the name. That's what I want. One of the favs.,{$recipe:royal_blood} — вот как его зовут. Именно его хочу. Один из любимых.,translated,70
+vntext.sq#1184,vntext.sq,REBELGIRL,"Hook me up with a {$recipe:harvest_time}, Mood Meister. I'm a huge fan of that one.","Подкинь мне {$recipe:harvest_time}, Мастер настроения. Я огромная фанатка этого пончика.",translated,83
+vntext.sq#1188,vntext.sq,REBELGIRL,"Hey, Mood Meister! Life's looking good, can you hook me up with a donut?","Эй, Мастер настроения! Жизнь налаживается, подкинешь пончик?",translated,72
+vntext.sq#1191,vntext.sq,REBELGIRL,How about I order a {$recipe:purple_pillows} today? Soft and ${passionate}... just how I like it.,"Может, закажу сегодня {$recipe:purple_pillows}? Мягкий и ${passionate}... именно как я люблю.",translated,97
+vntext.sq#14273,vntext.sq,REBELGIRL,What d'you know... They really can taste fear...,Надо же... они и правда чуют страх на вкус...,translated,48
+vntext.sq#18703,vntext.sq,REBELGIRL,"Oooh, I love that play! Do what it takes till you touch the sky girl!","Ооо, обожаю эту пьесу! Делай всё, что нужно, пока не коснёшься неба, детка!",translated,69
+vntext.sq#18764,vntext.sq,REBELGIRL,That was so good!,Это было так круто!,translated,17
+vntext.sq#21106,vntext.sq,REBELGIRL,Huh... how ${relaxing}... like I've just gotta keep calm before the storm. Not wanting less but not wanting more.,"Хм... как ${relaxing}... будто нужно просто сохранять спокойствие перед бурей. Не желая меньшего, но и не желая большего.",translated,113
+vntext.sq#21107,vntext.sq,REBELGIRL,"Sometimes I feel like jumping the gun, but this mood makes me feel like slowing down and waiting...","Иногда хочется поторопить события, но это настроение заставляет притормозить и подождать...",translated,99
+vntext.sq#21108,vntext.sq,REBELGIRL,Hehehe! This donut... it's been awhile since I smiled...,Хихихи! Этот пончик... я давно так не улыбалась...,translated,56
+vntext.sq#21109,vntext.sq,REBELGIRL,You know when it's time to spin the bottle and you end up doing things you don't want to talk about until tomorrow? A bit of {$moods:passion}! That's what I'm feeling.,"Знаешь, когда приходит время крутить бутылочку, и в итоге делаешь такое, о чём не хочешь говорить до завтра? Немного {$moods:passion}! Вот что я сейчас чувствую.",translated,167
+vntext.sq#21110,vntext.sq,REBELGIRL,My brain is exploding with all these different thoughts! Count me ${inspired}.,У меня в голове взрываются самые разные мысли! Считай меня ${inspired}.,translated,78
+vntext.sq#21111,vntext.sq,REBELGIRL,What a boost... I feel like even if I fall or crawl or break... I can still turn it into the bravery I need to push on.,"Вот это заряд... такое чувство, что даже если я упаду, поползу или сломаюсь... я всё равно смогу превратить это в смелость, чтобы двигаться дальше.",translated,119
+vntext.sq#21112,vntext.sq,REBELGIRL,"No way, no way... now I've got no secrets... this that {$moods:sincerity} mood working on me, right?","Да ладно, да ладно... теперь у меня нет секретов... это же настроение {$moods:sincerity} на меня действует, да?",translated,100
+vntext.sq#21113,vntext.sq,REBELGIRL,"Gotta say, this feeling of {$moods:focus}? Like my head was up in space and now I'm coming back down to earth.","Надо сказать, это чувство {$moods:focus}? Будто голова была в космосе, а теперь я возвращаюсь на землю.",translated,110
+vntext.sq#21114,vntext.sq,REBELGIRL,This donut's making me remember all those crazy things that he said. It's all running through my head.,"Этот пончик заставляет меня вспоминать все те безумные вещи, что он говорил. Всё это крутится у меня в голове.",translated,102
+vntext.sq#21116,vntext.sq,REBELGIRL,"Mmm! Thanks, Mood Meister! I'm really digging this one!","Ммм! Спасибо, Мастер настроения! Мне реально заходит!",translated,55
+vntext.sq#21117,vntext.sq,REBELGIRL,"...This one is good, though it's not perfect, can I make it any more obvious?","...Этот хорош, хоть и не идеален, куда уж яснее сказать?",translated,77
+vntext.sq#21118,vntext.sq,REBELGIRL,...But I don't think this mood works for me right now...,"...Но не думаю, что это настроение мне сейчас подходит...",translated,56
+vntext.sq#21119,vntext.sq,REBELGIRL,"Well, see ya around, Mood Meister.","Ну, увидимся, Мастер настроения.",translated,34
+vntext.sq#21122,vntext.sq,REBELGIRL,"Rock on, Mood Meister!","Зажигай, Мастер настроения!",translated,22
+vntext.sq#21123,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#21124,vntext.sq,REBELGIRL,Yo! This donut's got some pretty bad vibes!,Йо! У этого пончика реально плохой вайб!,translated,43
+vntext.sq#21129,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#21130,vntext.sq,REBELGIRL,Heh... this mood is making me want to just lay back... after all everything that's been done has been done before.,"Хех... это настроение заставляет меня просто расслабиться и откинуться... в конце концов, всё, что сделано, уже было сделано до этого.",translated,114
+vntext.sq#21131,vntext.sq,REBELGIRL,"A pretty {$moodset:chill} mood... like a wave of {$moods:patience} surging through me, telling me to just wait it out and keep my head above the water.","Довольно {$moodset:chill} настроение... будто волна {$moods:patience} захлёстывает меня, говоря просто переждать и держать голову над водой.",translated,151
+vntext.sq#21132,vntext.sq,REBELGIRL,This donut's bringing on the {$moods:cheer}. And that's why I smile.,Этот пончик приносит {$moods:cheer}. И поэтому я улыбаюсь.,translated,68
+vntext.sq#21133,vntext.sq,REBELGIRL,"That feeling of {$moods:passion} in the air, playing truth or dare. Just hanging out in our underwear... yeah, that's what I'm feeling.","Это чувство {$moods:passion} в воздухе, играем в правду или действие. Просто тусуемся в одном белье... да, вот что я чувствую.",translated,135
+vntext.sq#21134,vntext.sq,REBELGIRL,Huh... like I'm underneath a spell... ${inspired} by all these thoughts...,Хм... будто я под заклятием... ${inspired} всеми этими мыслями...,translated,74
+vntext.sq#21135,vntext.sq,REBELGIRL,"This mood, it's giving me the {$moods:courage} to just keep fighting the good fight.","Это настроение даёт мне {$moods:courage}, чтобы продолжать бороться за правое дело.",translated,84
+vntext.sq#21136,vntext.sq,REBELGIRL,"This mood... it's ${honesty}, right? The type that makes me want to promise that no one will ever find me faking...","Это настроение... это ${honesty}, да? Из тех, что заставляют пообещать, что никто никогда не поймает меня на притворстве...",translated,115
+vntext.sq#21137,vntext.sq,REBELGIRL,"I'm feeling the {$moods:focus}... that's right, I can't stop this rush...","Я чувствую {$moods:focus}... точно, не могу остановить этот прилив...",translated,73
+vntext.sq#21138,vntext.sq,REBELGIRL,This mood brings me back to those days when me and him would just watch the stars together...,"Это настроение возвращает меня в те дни, когда мы с ним просто смотрели на звёзды вместе...",translated,93
+vntext.sq#21139,vntext.sq,REBELGIRL,"I think about these donuts all the time, it's so addictive! Even without the mood enhancers!","Я думаю об этих пончиках постоянно, это так затягивает! Даже без усилителей настроения!",translated,92
+vntext.sq#21140,vntext.sq,REBELGIRL,"... Heh, awesome vibes! I know you always got my back, Mood Meister! This donut is perfect.","...Хех, крутой вайб! Я знаю, ты всегда прикроешь мне спину, Мастер настроения! Этот пончик идеален.",translated,91
+vntext.sq#21141,vntext.sq,REBELGIRL,"...It's pretty good, but is it too much to ask for something perfect?","...Довольно неплохо, но неужели попросить идеал — это слишком много?",translated,69
+vntext.sq#21142,vntext.sq,REBELGIRL,"...It's not the worst donut, of course. But I don't think this is the right mood.","...Конечно, не худший пончик. Но, кажется, это не то настроение.",translated,81
+vntext.sq#21143,vntext.sq,REBELGIRL,"Anyway, I'll be back, Mood Meister. See ya.","В общем, я ещё вернусь, Мастер настроения. Увидимся.",translated,43
+vntext.sq#47437,vntext.sq,REBELGIRL,"...Hey, Kolt. I'm finally here.","...Эй, Кольт. Я наконец тут.",translated,31
+vntext.sq#47438,vntext.sq,REBELGIRL,"So, what's up with this place?",Так что с этим местом?,translated,30
+vntext.sq#47442,vntext.sq,REBELGIRL,"Yo, that's solid!","Йо, звучит отлично!",translated,17
+vntext.sq#47444,vntext.sq,REBELGIRL,It's all right. Life's like this... that's the way it is...,Всё нормально. Жизнь такая... так уж повелось...,translated,59
+vntext.sq#47445,vntext.sq,REBELGIRL,I don't mind just hangin' out here though...,Хотя я не против просто потусить здесь...,translated,44
+vntext.sq#47447,vntext.sq,REBELGIRL,Sure...,Ну да...,translated,7
+vntext.sq#47450,vntext.sq,REBELGIRL,"Got ya covered, bud. Let me check first.","Прикрою, друг. Дай сначала проверю.",translated,40
+vntext.sq#47756,vntext.sq,REBELGIRL,"Sorry, Kolt. Rocker chick's a no-show. Bummer.","Извини, Кольт. Рокерша не пришла. Облом.",translated,46
+vntext.sq#47757,vntext.sq,REBELGIRL,I was lookin' forward to tonight... so much for my happy ending...,Я так ждала сегодняшнего вечера... вот тебе и счастливый конец...,translated,66
+vntext.sq#47761,vntext.sq,REBELGIRL,I dunno...,Не знаю...,translated,10
+vntext.sq#47762,vntext.sq,REBELGIRL,"Hey, wanna feed some ducks at the park instead?","Эй, хочешь вместо этого покормить уток в парке?",translated,47
+vntext.sq#47764,vntext.sq,REBELGIRL,Yeah. So what?,Да. И что?,translated,14
+vntext.sq#47767,vntext.sq,REBELGIRL,"Dude, I swear this'll be worth it!","Чувак, клянусь, оно того стоит!",translated,34
+vntext.sq#47768,vntext.sq,REBELGIRL,There's this one duck that's got a wicked scar on his left eye...,Там есть одна утка со злым шрамом на левом глазу...,translated,65
+vntext.sq#47769,vntext.sq,REBELGIRL,I named him — Rebel. That's his name 'cos I can see the fight in his eyes!,"Я назвала его — Бунтарь. Так его зовут, потому что я вижу бойцовский дух в его глазах!",translated,74
+vntext.sq#47770,vntext.sq,REBELGIRL,He probably stood up to the boss duck or something.,"Он, наверное, дал отпор главной утке или типа того.",translated,51
+vntext.sq#48036,vntext.sq,REBELGIRL,Nice. But rocker chick ain't though. Not yet anyway.,Отлично. А вот рокерши нет. Пока что.,translated,52
+vntext.sq#48038,vntext.sq,REBELGIRL,"Same, but... I just wanna vibe to some music, ya know?","Взаимно, но... я просто хочу словить вайб под музыку, знаешь?",translated,54
+vntext.sq#48039,vntext.sq,REBELGIRL,"I hope tonight's anything but ordinary, please.","Надеюсь, сегодняшний вечер будет каким угодно, только не обычным, пожалуйста.",translated,47
+vntext.sq#48041,vntext.sq,REBELGIRL,"Yah. You're right, Kolt. I should chill...","Ага. Ты прав, Кольт. Мне стоит расслабиться...",translated,42
+vntext.sq#48043,vntext.sq,REBELGIRL,Let's go.,Пойдём.,translated,9
+vntext.sq#48372,vntext.sq,REBELGIRL,...Ugh. Finally got out of that hell hole!,...Уф. Наконец выбралась из этой адской дыры!,translated,42
+vntext.sq#48374,vntext.sq,REBELGIRL,"Hey, Kolt. 'Sup?","Привет, Кольт. Как дела?",translated,16
+vntext.sq#48377,vntext.sq,REBELGIRL,"Whoa, it's fine! He'll forgive you...","Ого, всё нормально! Он тебя простит...",translated,37
+vntext.sq#48378,vntext.sq,REBELGIRL,He's a wild duck of the lake after all. He'll manage.,"Он же дикая озёрная утка, в конце концов. Справится.",translated,53
+vntext.sq#48380,vntext.sq,REBELGIRL,"Listen, why don't we just wait for the music and relax?","Слушай, может, просто подождём музыку и расслабимся?",translated,55
+vntext.sq#48382,vntext.sq,REBELGIRL,Me too.,Я тоже надеюсь.,translated,7
+vntext.sq#48645,vntext.sq,REBELGIRL,"...Man, that shift sucked. Glad I get to relax now.","...Чувак, эта смена была отстойной. Рада, что теперь могу расслабиться.",translated,51
+vntext.sq#48646,vntext.sq,REBELGIRL,"Anyway, what's happenin', Kolt?","Ладно, что нового, Кольт?",translated,31
+vntext.sq#48648,vntext.sq,REBELGIRL,Born ready.,Рождена готовой.,translated,11
+vntext.sq#48650,vntext.sq,REBELGIRL,What is it?,Что это?,translated,11
+vntext.sq#48652,vntext.sq,REBELGIRL,I haven't asked him yet. Wanna visit him later?,Я ещё не спрашивала его. Хочешь навестить его попозже?,translated,47
+vntext.sq#48654,vntext.sq,REBELGIRL,Rad. We could go after the show and tell him all about MJ.,Круто. Можем пойти после шоу и рассказать ему всё про Эм-Джей.,translated,58
+vntext.sq#48991,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#48992,vntext.sq,REBELGIRL,"So, Kolt... you ready to ask the mood meister about bringing Rebel here?","Так, Кольт... готов спросить у кудесника настроений насчёт того, чтобы привести сюда Бунтаря?",translated,72
+vntext.sq#49014,vntext.sq,REBELGIRL,Hell yeah!,Ещё бы!,translated,10
+vntext.sq#49015,vntext.sq,REBELGIRL,"Thanks, mood meister. You're cool...","Спасибо, кудесник настроений. Ты классный...",translated,36
+vntext.sq#49295,vntext.sq,REBELGIRL,Yep. We gave you extra sprinkles 'cos you're a well-behaved duck!,"Ага. Мы дали тебе побольше посыпки, потому что ты воспитанная утка!",translated,65
+vntext.sq#49298,vntext.sq,REBELGIRL,"Ha! Anytime, Rebel.","Ха! В любое время, Бунтарь.",translated,19
+vntext.sq#50088,vntext.sq,REBELGIRL,I think so. If she's cool with it...,"Думаю, да. Если она не против...",translated,36
+vntext.sq#50091,vntext.sq,REBELGIRL,"Dude, Rebel's a wise duck! He knows the complicated systems of our world...","Чувак, Бунтарь мудрая утка! Он знает сложные устройства нашего мира...",translated,75
+vntext.sq#50092,vntext.sq,REBELGIRL,"He'll understand, okay?","Он поймёт, ладно?",translated,23
+vntext.sq#50094,vntext.sq,REBELGIRL,"Besides, bad vibes are a self-fulfilling prophecy...","Кроме того, плохой вайб — самосбывающееся пророчество...",translated,52
+vntext.sq#50095,vntext.sq,REBELGIRL,He might get angry if he finds out you're not enjoying yourself.,"Он может разозлиться, если узнает, что ты не наслаждаешься вечером.",translated,64
+vntext.sq#50099,vntext.sq,REBELGIRL,"Hey, no sweat!","Эй, не парься!",translated,14
+vntext.sq#50100,vntext.sq,REBELGIRL,"If you feel so bad about it, we can buy him a VIP ticket for MJ's San Mazo Rising event!","Если тебе так плохо из-за этого, можем купить ему VIP-билет на San Mazo Rising Эм-Джей!",translated,88
+vntext.sq#50102,vntext.sq,REBELGIRL,I know!,Я знаю!,translated,7
+vntext.sq#50103,vntext.sq,REBELGIRL,"Anyway, why don't we wait for our resident rocker chick, eh?","Ладно, может, подождём нашу штатную рокершу, а?",translated,60
+vntext.sq#50144,vntext.sq,REBELGIRL,"Yo, MJ!","Йо, Эм-Джей!",translated,7
+vntext.sq#50148,vntext.sq,REBELGIRL,He's a big fan. He said 'Years and Years' was awesome.,"Он твой большой фанат. Сказал, что «Годы и годы» были потрясающие.",translated,54
+vntext.sq#50150,vntext.sq,REBELGIRL,"For sure! Thanks, MJ.","Точно! Спасибо, Эм-Джей.",translated,21
+vntext.sq#50160,vntext.sq,REBELGIRL,"Yeah, keep rockin' MJ. Can't wait for the San Mazo Rising!","Да, продолжай рок-н-роллить, Эм-Джей. Не можем дождаться San Mazo Rising!",translated,58
+vntext.sq#50609,vntext.sq,REBELGIRL,"Yo, Mood Meister.","Йо, Мастер Настроения.",translated,17
+vntext.sq#50612,vntext.sq,REBELGIRL,"Yeah, we got three V.I.P. tickets to the front row.","Ага, у нас три VIP-билета в первый ряд.",translated,51
+vntext.sq#50617,vntext.sq,REBELGIRL,Looking forward to it!,С нетерпением ждём!,translated,22
+vntext.sq#50818,vntext.sq,REBELGIRL,"Rebel's right, Kolt. You aren't late for anything...","Бунтарь прав, Колт. Ты никуда и не опоздал...",translated,52
+vntext.sq#50819,vntext.sq,REBELGIRL,Rocker chick's a no show on her big night.,Рокерша не явилась на свой же большой вечер.,translated,42
+vntext.sq#50821,vntext.sq,REBELGIRL,Yup. Bummer...,Ага. Обидно...,translated,14
+vntext.sq#50825,vntext.sq,REBELGIRL,"I know, Rebel. I know...","Знаю, Бунтарь. Знаю...",translated,24
+vntext.sq#50826,vntext.sq,REBELGIRL,"Let me talk to the mood meister, aight?","Дай-ка я поговорю с кудесником настроений, ладно?",translated,39
+vntext.sq#50828,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#50829,vntext.sq,REBELGIRL,"Yo, Mood Meister, what gives?","Йо, Кудесник Настроений, в чём дело?",translated,29
+vntext.sq#50830,vntext.sq,REBELGIRL,Those posters said you were gonna have this big show tonight. We've been waiting here for more than an hour!,"На афишах было написано, что сегодня будет большое шоу. Мы тут уже больше часа ждём!",translated,108
+vntext.sq#50831,vntext.sq,REBELGIRL,"I mean, we like hangin' out here, but this ain't cool.","В смысле, нам тут нравится тусоваться, но это не круто.",translated,54
+vntext.sq#50836,vntext.sq,REBELGIRL,"Nah, I'm good...","Не, всё нормально...",translated,16
+vntext.sq#50837,vntext.sq,REBELGIRL,"It's like, we were lookin' forward to this epic night, ya know?","Просто, мы так ждали этот эпичный вечер, понимаешь?",translated,63
+vntext.sq#50840,vntext.sq,REBELGIRL,"Sure, let's bounce...","Ладно, погнали...",translated,21
+vntext.sq#50841,vntext.sq,REBELGIRL,"See ya around, Mood Meister. We're out...","Увидимся, Кудесник Настроений. Мы пошли...",translated,41
+vntext.sq#51856,vntext.sq,REBELGIRL,"You sure he ain't messing with me, Rebel?","Ты уверен, что он меня не разыгрывает, Бунтарь?",translated,41
+vntext.sq#51858,vntext.sq,REBELGIRL,Hmmm...,Хмм...,translated,7
+vntext.sq#51861,vntext.sq,REBELGIRL,Fine...,Ладно...,translated,7
+vntext.sq#51862,vntext.sq,REBELGIRL,"Yo, Mood Meister. MJ's back, huh?","Йо, Кудесник Настроений. Эм-Джей вернулась, да?",translated,33
+vntext.sq#51864,vntext.sq,REBELGIRL,"Heh... well, well, looks like we're gonna get another chance to be backstage after the show.","Хех... так-так, похоже, у нас будет ещё один шанс попасть за кулисы после шоу.",translated,92
+vntext.sq#51865,vntext.sq,REBELGIRL,We gotta check this out... I wonder what she's gonna say.,"Надо сходить проверить... интересно, что она скажет.",translated,57
+vntext.sq#51954,vntext.sq,REBELGIRL,"Yeah! That's the spirit, rebel!","Да! Вот это боевой дух, бунтарь!",translated,31
+vntext.sq#68543,vntext.sq,REBELGIRL,What the hell? Where's the glaze?,Какого чёрта? Где глазурь?,translated,33
+vntext.sq#68545,vntext.sq,REBELGIRL,This glaze is different from what I asked for! So much for my happy ending tonight…,"Эта глазурь не та, что я просил! Вот тебе и счастливый финал сегодня вечером…",translated,83
+vntext.sq#68547,vntext.sq,REBELGIRL,No way. That can't be all of the glaze. There's barely any.,Не может быть. Не может это быть вся глазурь. Её почти нет.,translated,59
+vntext.sq#68549,vntext.sq,REBELGIRL,What's with this donut? The toppings are missing!,Что с этим пончиком? Топпингов не хватает!,translated,49
+vntext.sq#68551,vntext.sq,REBELGIRL,"Yo, you totally messed up the toppings on my donut!","Йо, ты совсем напортачил с топпингами на моём пончике!",translated,51
+vntext.sq#68553,vntext.sq,REBELGIRL,Can I ask for more toppings? You barely put any on this donut!,Можно попросить побольше топпингов? Ты почти ничего не положил на этот пончик!,translated,62
+vntext.sq#68555,vntext.sq,REBELGIRL,"Wait a minute, isn't this donut missing something? Where's the drizzle?","Погоди-ка, разве этому пончику ничего не не хватает? Где потёки?",translated,71
+vntext.sq#68557,vntext.sq,REBELGIRL,Did you mess up my drizzle? It's not the right one.,Ты напортачил с моими потёками? Это не те.,translated,51
+vntext.sq#68559,vntext.sq,REBELGIRL,Helloooo? Is this all the drizzle you have?,"Аллооо? Это все потёки, что у тебя есть?",translated,43
+vntext.sq#68561,vntext.sq,REBELGIRL,Yo! Did you really forget about the filling?,Йо! Ты правда забыл про начинку?,translated,44
+vntext.sq#68563,vntext.sq,REBELGIRL,"Aaaand that's not the filling I wanted. You should check on your donuts before serving them, you know.","И-и это не та начинка, что я хотел. Тебе стоит проверять пончики перед подачей, знаешь ли.",translated,102
+vntext.sq#68565,vntext.sq,REBELGIRL,What the hell is going on with that donut? Ain't your cleanest work.,Что за фигня происходит с этим пончиком? Не самая аккуратная твоя работа.,translated,68
+vntext.sq#68567,vntext.sq,REBELGIRL,Yo! What's with the donut? I don't remember asking for any of that!,"Йо! Что с пончиком? Не помню, чтобы просил что-то из этого!",translated,67
+vntext.sq#68571,vntext.sq,REBELGIRL,"If this donut just had some glaze, it'd be the best damn thing.","Если бы на этом пончике была глазурь, это была бы самая крутая штука на свете.",translated,63
+vntext.sq#68573,vntext.sq,REBELGIRL,Glaze is different. Don't sweat it. But yeah...,Глазурь не та. Не парься. Но да...,translated,47
+vntext.sq#68575,vntext.sq,REBELGIRL,"I can't believe you're giving me a donut with hardly any glaze. Wait a sec, I can write a song about the disappointment I'm feeling.","Не могу поверить, ты даёшь мне пончик почти без глазури. Погоди-ка, могу написать песню про разочарование, что я чувствую.",translated,132
+vntext.sq#68577,vntext.sq,REBELGIRL,"You know, this donut kinda sucks without the toppings.","Знаешь, этот пончик как-то так себе без топпингов.",translated,54
+vntext.sq#68579,vntext.sq,REBELGIRL,What? These are different from the toppings I wanted!,"Что? Это не те топпинги, что я хотел!",translated,53
+vntext.sq#68581,vntext.sq,REBELGIRL,This donut would be a lot better if it had more toppings on it.,Этот пончик был бы намного лучше с бо́льшим количеством топпингов.,translated,63
+vntext.sq#68583,vntext.sq,REBELGIRL,No way you forgot to put the drizzle on my donut…,"Не может быть, ты забыл положить потёки на мой пончик…",translated,49
+vntext.sq#68585,vntext.sq,REBELGIRL,Come on! This ain't the drizzle I asked for.,"Да ладно! Это не те потёки, что я просил.",translated,44
+vntext.sq#68587,vntext.sq,REBELGIRL,I had a rough day at work and all you're giving me is… this? There's hardly any drizzle here!,"У меня был тяжёлый день на работе, а ты мне даёшь… это? Тут почти нет потёков!",translated,93
+vntext.sq#68589,vntext.sq,REBELGIRL,That sucks. There's no filling in here at all…,Вот отстой. Тут вообще нет начинки…,translated,46
+vntext.sq#68591,vntext.sq,REBELGIRL,"Wait, what? Why's the filling different?","Погоди, что? Почему начинка не та?",translated,40
+vntext.sq#68593,vntext.sq,REBELGIRL,Were you in a hurry or something? At least make the donut look good.,Ты спешил или что? Хотя бы сделай пончик красивым.,translated,68
+vntext.sq#68595,vntext.sq,REBELGIRL,All that extra stuff for free? Don't tell me I gotta shell out more cash for things I didn't ask for...,"Всё это лишнее бесплатно? Только не говори, что мне нужно раскошелиться на то, чего я не просил...",translated,103
+vntext.sq#68599,vntext.sq,REBELGIRL,What happened to my glaze? Was it too much to ask?,Что случилось с моей глазурью? Слишком много было просить?,translated,50
+vntext.sq#68601,vntext.sq,REBELGIRL,I asked for a different glaze. Everything okay?,Я просил другую глазурь. Всё в порядке?,translated,47
+vntext.sq#68603,vntext.sq,REBELGIRL,"Wow, if only this donut had more glaze on it. Real bummer.","Вау, если бы только на этом пончике было больше глазури. Реально обидно.",translated,58
+vntext.sq#68605,vntext.sq,REBELGIRL,Why'd you skip out on adding the toppings? Now it's nothing special!,Почему ты пропустил добавление топпингов? Теперь ничего особенного!,translated,68
+vntext.sq#68607,vntext.sq,REBELGIRL,"Huh, you got the toppings mixed up. Everything all right?","Хм, ты перепутал топпинги. Всё в порядке?",translated,57
+vntext.sq#68609,vntext.sq,REBELGIRL,There's hardly enough toppings to count on one finger! What kind of donut is this?,"Топпингов едва хватит, чтобы посчитать на одном пальце! Что это за пончик такой?",translated,82
+vntext.sq#68611,vntext.sq,REBELGIRL,"I really wanted drizzle on my donut, but now I'll have to make do without it…","Я правда хотел потёки на своём пончике, но теперь придётся обходиться без них…",translated,77
+vntext.sq#68613,vntext.sq,REBELGIRL,"Mixed up the drizzles, Mood Meister.","Перепутал потёки, Мастер Настроения.",translated,36
+vntext.sq#68615,vntext.sq,REBELGIRL,"Couldn't be bothered to spare a little more drizzle, could you?","Не мог заморочиться выделить чуть больше потёков, да?",translated,63
+vntext.sq#68617,vntext.sq,REBELGIRL,This donut's not any good without the filling…,Этот пончик так себе без начинки…,translated,46
+vntext.sq#68619,vntext.sq,REBELGIRL,That's the wrong filling. Ain't what I asked for.,"Это не та начинка. Не то, что я просил.",translated,49
+vntext.sq#68621,vntext.sq,REBELGIRL,Did a child make this? Why's it so... janky-looking?,Ребёнок это делал что ли? Почему это выглядит так... кривовато?,translated,52
+vntext.sq#68623,vntext.sq,REBELGIRL,Is all that stuff on the donut really necessary? It looks so... complicated.,Всё это на пончике правда необходимо? Выглядит так... сложно.,translated,76
+vntext.sq#68625,vntext.sq,REBELGIRL,"Mood Meister, afraid this is the wrong donut shape.","Мастер Настроения, боюсь, это не та форма пончика.",translated,51
+vntext.sq#68626,vntext.sq,REBELGIRL,"Well, I came all this way… might as well eat it.","Ну, я так долго добирался… всё равно съем.",translated,48
+vntext.sq#71366,vntext.sq,REBELGIRL,"Sup, you must be the Mood Meister.","Здарова, ты, видимо, тот самый Мастер настроения.",translated,34
+vntext.sq#71368,vntext.sq,REBELGIRL,"Hope you don't mind me asking, but how long have you been slinging donuts?","Надеюсь, не против, если спрошу — как давно ты толкаешь пончики?",translated,74
+vntext.sq#71370,vntext.sq,REBELGIRL,"Nothing, really.","Да так, ничего особенного.",translated,16
+vntext.sq#71371,vntext.sq,REBELGIRL,Name's Ainsley by the way. Heard from a certain [i] someone [/i] that this place is anything but ordinary.,"Кстати, меня зовут Ainsley. Слышала от одного [i] человечка [/i], что это место совсем не обычное.",translated,106
+vntext.sq#71372,vntext.sq,REBELGIRL,"So I'll take my shot, hoping for bite me levels of hot, a break away that'll help me say those things I'd never say.","Так что рискну — надеюсь на что-то обжигающе горячее, передышку, которая поможет сказать то, что я никогда бы не сказала.",translated,116
+vntext.sq#71374,vntext.sq,REBELGIRL,"Sorry. Grew up in a music store, so if you catch me losing my grip, just know that I'm with you, you got that?","Извини. Выросла в музыкальном магазине, так что если заметишь, что я теряю контроль — знай, я с тобой, усёк?",translated,110
+vntext.sq#71376,vntext.sq,REBELGIRL,"Speaking of music, I'm looking for a new place to haunt. Got any good bands that play here?","Кстати про музыку — ищу новое место, где можно зависать. У вас тут играют хорошие группы?",translated,91
+vntext.sq#71380,vntext.sq,REBELGIRL,"Nice, I will.","Круто, гляну.",translated,13
+vntext.sq#71381,vntext.sq,REBELGIRL,"Though, hmmm, trying to read you, but it's hard. What type of music you into?","Хотя, хм, пытаюсь тебя раскусить, но это непросто. Какую музыку ты слушаешь?",translated,77
+vntext.sq#71387,vntext.sq,REBELGIRL,"Ahhhh, gotta love the classics. Love their old stuff. But I gotta say, they kind of lost their edge as of late, you know?","Аааа, классику нельзя не любить. Обожаю их старые вещи. Но скажу честно, в последнее время они как-то растеряли остроту, тебе не кажется?",translated,121
+vntext.sq#71390,vntext.sq,REBELGIRL,"True. But I mean, respect to them, what was the story again?","Верно. Но, тем не менее, респект им — напомни, какая у них была история?",translated,60
+vntext.sq#71391,vntext.sq,REBELGIRL,"They were a humble group of custodians who did music on the side. Then one day, they staged a full on rebellion against the law firm they were working for.","Они были скромной группой уборщиков, которые между делом занимались музыкой. А потом в один прекрасный день устроили настоящий бунт против юридической фирмы, в которой работали.",translated,155
+vntext.sq#71392,vntext.sq,REBELGIRL,"Armed with nothing but their old guitars and mops, they locked the CEO in the broom closet. They cleaned the place out alright, hence Clean Day.","Вооружившись лишь старыми гитарами и швабрами, они заперли гендиректора в чулане. Уж они там навели порядок как следует — отсюда и Clean Day.",translated,144
+vntext.sq#71394,vntext.sq,REBELGIRL,Course. I try not to say things about stuff unless I really know 'em.,"Конечно. Я стараюсь не говорить о том, в чём реально не разбираюсь.",translated,69
+vntext.sq#71397,vntext.sq,REBELGIRL,"You know what? I get it. Rock is cool and all, but it ain't exactly the best music to work to.","Знаешь что? Понимаю тебя. Рок, конечно, крут, но под работу он не особо годится.",translated,94
+vntext.sq#71403,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#71404,vntext.sq,REBELGIRL,"Not gonna lie, got no idea what you're talking about.","Если честно, вообще не понимаю, о чём ты говоришь.",translated,53
+vntext.sq#71405,vntext.sq,REBELGIRL,But the way you just said that with such stone cold confidence... I can't help but be interested.,"Но то, как ты это сказал с такой ледяной уверенностью... не могу не заинтересоваться.",translated,97
+vntext.sq#71406,vntext.sq,REBELGIRL,"Anyway... so I wanted to try out these donuts. It's got mood enhancers, yeah?","Ладно... в общем, я хотела попробовать эти пончики. В них ведь усилители настроения, да?",translated,77
+vntext.sq#71411,vntext.sq,REBELGIRL,Thanks.,Спасибо.,translated,7
+vntext.sq#71412,vntext.sq,REBELGIRL,...,...,translated,3
+vntext.sq#71413,vntext.sq,REBELGIRL,Whoa... what the hell is with this donut?,Ого... что вообще не так с этим пончиком?,translated,41
+vntext.sq#71414,vntext.sq,REBELGIRL,I remember asking for anything as long as there's toppings. How could you forget?,"Я же вроде просила что угодно, лишь бы с топпингами. Как ты мог забыть?",translated,81
+vntext.sq#71415,vntext.sq,REBELGIRL,This donut would be a lot better if it had more toppings on it.,"Этот пончик был бы намного лучше, если бы на нём было побольше топпингов.",translated,63
+vntext.sq#71416,vntext.sq,REBELGIRL,"I don't think I'll be finishing this one, Mood Meister. Ew.","Не думаю, что доем этот, Мастер настроения. Фу.",translated,59
+vntext.sq#71418,vntext.sq,REBELGIRL,Thanks...,Спасибо...,translated,9
+vntext.sq#71419,vntext.sq,REBELGIRL,"Anyway, that's it for tonight. See ya...","Ладно, на сегодня всё. Увидимся...",translated,40
+vntext.sq#71420,vntext.sq,REBELGIRL,"Mmm! Thanks, Mood Meister! I'm really digging this one!","Ммм! Спасибо, Мастер настроения! Мне реально нравится!",translated,55
+vntext.sq#71421,vntext.sq,REBELGIRL,And you didn't forget my toppings too... though I wish you could've put more.,И топпинги ты тоже не забыл... хотя хотелось бы побольше.,translated,77
+vntext.sq#71422,vntext.sq,REBELGIRL,And you didn't forget my toppings too. Awesome.,И топпинги ты тоже не забыл. Класс.,translated,47
+vntext.sq#71423,vntext.sq,REBELGIRL,A {$flavors:matchajuana} donut. Good choice...,Пончик {$flavors:matchajuana}. Хороший выбор...,translated,46
+vntext.sq#71424,vntext.sq,REBELGIRL,I do wanna get some sleep later.,Я как раз хотела бы потом поспать.,translated,32
+vntext.sq#71425,vntext.sq,REBELGIRL,A {$flavors:pumpketamine} donut. Good choice...,Пончик {$flavors:pumpketamine}. Хороший выбор...,translated,47
+vntext.sq#71426,vntext.sq,REBELGIRL,I can finally calm down and de-stress.,Наконец-то смогу успокоиться и снять стресс.,translated,38
+vntext.sq#71427,vntext.sq,REBELGIRL,A {$flavors:vanilla_sky} donut. Good choice...,Пончик {$flavors:vanilla_sky}. Хороший выбор...,translated,46
+vntext.sq#71428,vntext.sq,REBELGIRL,"Finally, something light and fun.",Наконец-то что-то лёгкое и весёлое.,translated,33
+vntext.sq#71429,vntext.sq,REBELGIRL,"{$flavors:ubecstacy}, huh? I like the vibe...","{$flavors:ubecstacy}, значит? Мне нравится настрой...",translated,45
+vntext.sq#71430,vntext.sq,REBELGIRL,I feel like listening to some love songs later.,"Чувствую, что позже захочется послушать песни про любовь.",translated,47
+vntext.sq#71431,vntext.sq,REBELGIRL,"{$flavors:lemon_acid}, huh? I like the vibe...","{$flavors:lemon_acid}, значит? Мне нравится настрой...",translated,46
+vntext.sq#71432,vntext.sq,REBELGIRL,"I feel like listening to some songs later. For, ya know, inspiration!","Чувствую, что позже захочется послушать музыку. Ну знаешь, для вдохновения!",translated,69
+vntext.sq#71433,vntext.sq,REBELGIRL,"{$flavors:roid_velvet}, huh? I like the vibe...","{$flavors:roid_velvet}, значит? Мне нравится настрой...",translated,47
+vntext.sq#71434,vntext.sq,REBELGIRL,I feel like listening to some songs later. Maybe I could write one myself!,"Чувствую, что позже захочется послушать музыку. Может, даже сама что-нибудь напишу!",translated,74
+vntext.sq#71435,vntext.sq,REBELGIRL,"{$flavors:methberry}, huh? I like the vibe...","{$flavors:methberry}, значит? Мне нравится настрой...",translated,45
+vntext.sq#71436,vntext.sq,REBELGIRL,"To be honest, work's so stressful lately... I'd rather spend a day just listening to songs.","Если честно, работа в последнее время такая напряжная... лучше бы провести день, просто слушая музыку.",translated,91
+vntext.sq#71437,vntext.sq,REBELGIRL,"Hmmm, a {$flavors:chococaine} donut?","Хм, пончик {$flavors:chococaine}?",translated,36
+vntext.sq#71438,vntext.sq,REBELGIRL,"Well, I could [i] focus [/i] on getting some later. Heh.","Что ж, позже я вполне могла бы [i] сосредоточиться [/i] на том, чтобы это раздобыть. Хех.",translated,56
+vntext.sq#71439,vntext.sq,REBELGIRL,"Hmmm, a {$flavors:strawpium} donut?","Хм, пончик {$flavors:strawpium}?",translated,35
+vntext.sq#71440,vntext.sq,REBELGIRL,"This is giving me some nice memories, heh...","Это навевает приятные воспоминания, хех...",translated,44
+vntext.sq#71441,vntext.sq,REBELGIRL,"Anyway, thanks for the donut. Time for me to bounce. See ya!","Ладно, спасибо за пончик. Мне пора бежать. Увидимся!",translated,60
+vntext.sq#73605,vntext.sq,REBELGIRL,"Oh, are those cheerleaders? Brings back memories.","Ой, это черлидерши? Аж воспоминания нахлынули.",translated,49
+vntext.sq#73608,vntext.sq,REBELGIRL,With their eyes?,Глазами чуют?,translated,16

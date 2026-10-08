@@ -1,0 +1,240 @@
+id,file,context,source,target,status,max_len,len_delta
+recipes.sq#22#name,recipes.sq,recipe:name:menu-item,Angel's Reverie,Angel's Reverie,kept,15,0.0
+recipes.sq#22#description,recipes.sq,recipe:description,"Have you ever dreamt about what it would be like to dance on a cloud? This donut can do just that, but for your mouth.","Мечтали, каково это — танцевать на облаке? Этот пончик подарит именно это ощущение, но вашему рту.",translated,118,-16.9
+recipes.sq#23#name,recipes.sq,recipe:name:menu-item,Angel's Reverie Custom,Angel's Reverie Custom,kept,22,0.0
+recipes.sq#24#name,recipes.sq,recipe:name:menu-item,Angel's Reverie Custom,Angel's Reverie Custom,kept,22,0.0
+recipes.sq#25#name,recipes.sq,recipe:name:menu-item,any example,any example,kept,11,0.0
+recipes.sq#26#name,recipes.sq,recipe:name:menu-item,Berry Classic,Berry Classic,kept,13,0.0
+recipes.sq#26#description,recipes.sq,recipe:description,"Nostalgia made festive with sprinkles. Even if you can't turn back time, at least your donut looks cute. ","Ностальгия, приправленная посыпкой. Время назад не повернуть, зато пончик выглядит мило. ",translated,105,-15.2
+recipes.sq#27#name,recipes.sq,recipe:name:menu-item,Berry Parade,Berry Parade,kept,12,0.0
+recipes.sq#27#description,recipes.sq,recipe:description,"Inspired by My Alchemical Affair's hit song 'Welcome to the Berry Parade', this one will have you in your most emo feels.",Вдохновлён хитом My Alchemical Affair «Welcome to the Berry Parade» — этот пончик заставит вас окунуться в самые эмо-чувства.,translated,121,3.3
+recipes.sq#34#name,recipes.sq,recipe:name:menu-item,Any Bitter Donut,Any Bitter Donut,kept,16,0.0
+recipes.sq#35#name,recipes.sq,recipe:name:menu-item,Bittersweet Memories,Bittersweet Memories,kept,20,0.0
+recipes.sq#35#description,recipes.sq,recipe:description,"Ah, the sweet taste of the better days, coupled with the sour reality that things will never be the same... How inspiring!","Ах, сладкий вкус лучших дней в сочетании с кислой реальностью того, что всё уже не будет прежним... Как вдохновляюще!",translated,122,-4.1
+recipes.sq#36#name,recipes.sq,recipe:name:menu-item,Bloody Mary,Bloody Mary,kept,11,0.0
+recipes.sq#36#description,recipes.sq,recipe:description,Eat three of these in front of a mirror and it'll make your stomach hurt.,Съешьте три штуки перед зеркалом — и у вас заболит живот.,review,73,-21.9
+recipes.sq#37#name,recipes.sq,recipe:name:menu-item,Bloody Mary Custom,Bloody Mary Custom,kept,18,0.0
+recipes.sq#38#name,recipes.sq,recipe:name:menu-item,Blue-Balls,Blue-Balls,kept,10,0.0
+recipes.sq#38#description,recipes.sq,recipe:description,"Despite its name, the taste won't leave you hanging.","Несмотря на название, вкус вас не разочарует.",review,52,-13.5
+recipes.sq#39#name,recipes.sq,recipe:name:menu-item,Blue-Balls Custom,Blue-Balls Custom,kept,17,0.0
+recipes.sq#40#name,recipes.sq,recipe:name:menu-item,Any Blue Donut,Any Blue Donut,kept,14,0.0
+recipes.sq#41#name,recipes.sq,recipe:name:menu-item,Blueberry Cheer,Blueberry Cheer,kept,15,0.0
+recipes.sq#41#description,recipes.sq,recipe:description,"The classic 'We need to talk' donut, for moments that require sincerity. Also known as 'It's not you, it's me.'","Классический пончик «нам надо поговорить» для моментов, требующих искренности. Также известен как «дело не в тебе, дело во мне».",translated,111,15.3
+recipes.sq#42#name,recipes.sq,recipe:name:menu-item,Any Blueberry Donut,Any Blueberry Donut,kept,19,0.0
+recipes.sq#43#name,recipes.sq,recipe:name:menu-item,Boston Cream,Boston Cream,kept,12,0.0
+recipes.sq#43#description,recipes.sq,recipe:description,"A donut inspired by the mythical land of Boston, it's sure to keep you happy and focused!","Пончик, вдохновлённый мифической землёй Бостона, он точно подарит счастье и фокус!",translated,89,-7.9
+recipes.sq#44#name,recipes.sq,recipe:name:menu-item,Boston Cream Custom,Boston Cream Custom,kept,19,0.0
+recipes.sq#45#name,recipes.sq,recipe:name:menu-item,Boston Cream Custom 2,Boston Cream Custom 2,kept,21,0.0
+recipes.sq#63#name,recipes.sq,recipe:name:menu-item,<color=#8d4f47>Breakfast</color> <color=#606060>Bowl</color>,<color=#8d4f47>Breakfast</color> <color=#606060>Bowl</color>,kept,60,0.0
+recipes.sq#63#description,recipes.sq,recipe:description,The most important meal of the day now as a donut.,Самый важный приём пищи дня теперь в виде пончика.,translated,50,0.0
+recipes.sq#64#name,recipes.sq,recipe:name:menu-item,Breakfast Bowl Custom,Breakfast Bowl Custom,kept,21,0.0
+recipes.sq#65#name,recipes.sq,recipe:name:menu-item,Bruised Nuts,Bruised Nuts,kept,12,0.0
+recipes.sq#65#description,recipes.sq,recipe:description,Got a bruised ego? Or just feeling a little salty? This is the donut for you.,Задето самолюбие? Или просто немного подгорело? Это пончик для вас.,translated,77,-13.0
+recipes.sq#66#name,recipes.sq,recipe:name:menu-item,Bruised Nuts Custom,Bruised Nuts Custom,kept,19,0.0
+recipes.sq#67#name,recipes.sq,recipe:name:menu-item,<color=#d784ab>Butter</color><color=#5db5c8>fly</color>,<color=#d784ab>Butter</color><color=#5db5c8>fly</color>,kept,55,0.0
+recipes.sq#67#description,recipes.sq,recipe:description,"If you ever had butterflies in your stomach, this'll give you butterflies in your head.","Если у вас когда-нибудь порхали бабочки в животе, этот пончик подарит бабочек в голове.",translated,87,0.0
+recipes.sq#68#name,recipes.sq,recipe:name:menu-item,Butterfly Custom,Butterfly Custom,kept,16,0.0
+recipes.sq#73#name,recipes.sq,recipe:name:menu-item,<color=#d784ab>Cherry</color> <color=#d2526c>Rose</color>,<color=#d784ab>Cherry</color> <color=#d2526c>Rose</color>,kept,57,0.0
+recipes.sq#73#description,recipes.sq,recipe:description,Senpai will surely notice you if you give them this donut... as the cherry blossoms fall in the background.,"Senpai точно вас заметит, если подарить ему этот пончик... пока на фоне падают лепестки сакуры.",review,107,-11.2
+recipes.sq#74#name,recipes.sq,recipe:name:menu-item,Any Chill Donut,Any Chill Donut,kept,15,0.0
+recipes.sq#75#name,recipes.sq,recipe:name:menu-item,Choc-Nut,Choc-Nut,kept,8,0.0
+recipes.sq#75#description,recipes.sq,recipe:description,"Named after a famous snack (iykyk), this one adds crunch to the usual chocolate-focus mood enhancers!","Назван в честь известного снека (кто в теме, тот поймёт), добавляет хруст к привычному шоколадному усилителю фокуса!",translated,101,14.9
+recipes.sq#76#name,recipes.sq,recipe:name:menu-item,Choc-Nut Custom,Choc-Nut Custom,kept,15,0.0
+recipes.sq#77#name,recipes.sq,recipe:name:menu-item,<color=#8d4f47>Choco</color> <color=#daac06>Lemon</color>,<color=#8d4f47>Choco</color> <color=#daac06>Lemon</color>,kept,57,0.0
+recipes.sq#77#description,recipes.sq,recipe:description,For workaholics who need all the ideas they can get.,"Для трудоголиков, которым нужны любые идеи.",translated,52,-17.3
+recipes.sq#78#name,recipes.sq,recipe:name:menu-item,<color=#8d4f47>Choco</color> <color=#d784ab>Berry</color>,<color=#8d4f47>Choco</color> <color=#d784ab>Berry</color>,kept,57,0.0
+recipes.sq#78#description,recipes.sq,recipe:description,"Half chocolate, half strawberry, but more delicious than both! Great for reconnecting with the past!","Наполовину шоколад, наполовину клубника, но вкуснее их обоих! Отлично подходит, чтобы воссоединиться с прошлым!",translated,100,11.0
+recipes.sq#79#name,recipes.sq,recipe:name:menu-item,Chocoberry Custom,Chocoberry Custom,kept,17,0.0
+recipes.sq#80#name,recipes.sq,recipe:name:menu-item,Chocoberry Custom 2,Chocoberry Custom 2,kept,19,0.0
+recipes.sq#81#name,recipes.sq,recipe:name:menu-item,Any Chocolate Donut,Any Chocolate Donut,kept,19,0.0
+recipes.sq#82#name,recipes.sq,recipe:name:menu-item,Chocolate Factory,Chocolate Factory,kept,17,0.0
+recipes.sq#82#description,recipes.sq,recipe:description,For those who really need an overload of focus. No golden tickets in this one though. Too bad.,"Для тех, кому реально нужна перегрузка фокуса. Золотых билетов тут, правда, нет. Увы.",translated,94,-9.6
+recipes.sq#83#name,recipes.sq,recipe:name:menu-item,Chocolate Factory Custom,Chocolate Factory Custom,kept,24,0.0
+recipes.sq#84#name,recipes.sq,recipe:name:menu-item,<color=#5bbc50>Christ</color><color=#d2526c>mas</color>,<color=#5bbc50>Christ</color><color=#d2526c>mas</color>,kept,55,0.0
+recipes.sq#84#description,recipes.sq,recipe:description,"Not only does this hook you up with festive cheer, but also the courage to survive family reunions.","Этот не только зарядит праздничным настроением, но и даст смелости пережить семейные посиделки.",translated,99,-4.0
+recipes.sq#85#name,recipes.sq,recipe:name:menu-item,Cinnamon Roll,Cinnamon Roll,kept,13,0.0
+recipes.sq#85#description,recipes.sq,recipe:description,No cinnamon was hurt during the making of this donut. Because there's no actual cinnamon in this item.,Ни одна корица не пострадала при изготовлении этого пончика. Потому что корицы тут вообще нет.,translated,102,-7.8
+recipes.sq#86#name,recipes.sq,recipe:name:menu-item,Cinnamon Roll Custom,Cinnamon Roll Custom,kept,20,0.0
+recipes.sq#87#name,recipes.sq,recipe:name:menu-item,Cinnamon Roll Custom 2,Cinnamon Roll Custom 2,kept,22,0.0
+recipes.sq#88#name,recipes.sq,recipe:name:menu-item,Classic High,Classic High,kept,12,0.0
+recipes.sq#88#description,recipes.sq,recipe:description,Simple. Sweet. Connor's favorite — and he's the most vanilla person I know.,"Простой. Сладкий. Любимый у Connor — а он самый «ванильный» человек из всех, кого я знаю.",translated,75,18.7
+recipes.sq#89#name,recipes.sq,recipe:name:menu-item,Classic High,Classic High,kept,12,0.0
+recipes.sq#89#description,recipes.sq,recipe:description,Simple. Sweet. Connor's favorite — and he's the most vanilla person I know.,"Простой. Сладкий. Любимый у Connor — а он самый «ванильный» человек из всех, кого я знаю.",translated,75,18.7
+recipes.sq#90#name,recipes.sq,recipe:name:menu-item,Coca Classic,Coca Classic,kept,12,0.0
+recipes.sq#90#description,recipes.sq,recipe:description,Need to pull an all-nighter? This donut is the answer; it's basically capitalism with sprinkles.,"Нужно продержаться всю ночь? Вот ответ — это, по сути, капитализм с посыпкой.",translated,96,-19.8
+recipes.sq#91#name,recipes.sq,recipe:name:menu-item,Coca Classic Custom,Coca Classic Custom,kept,19,0.0
+recipes.sq#92#name,recipes.sq,recipe:name:menu-item,Coca Crumble,Coca Crumble,kept,12,0.0
+recipes.sq#92#description,recipes.sq,recipe:description,We put cookies on this one. That's how this donut crumbles.,Мы добавили сюда печенье. Вот как крошится этот пончик.,translated,59,-6.8
+recipes.sq#96#name,recipes.sq,recipe:name:menu-item,Any Complicated Donut,Any Complicated Donut,kept,21,0.0
+recipes.sq#98#name,recipes.sq,recipe:name:menu-item,Connor Arc 2 Scene 5B Custom,Connor Arc 2 Scene 5B Custom,kept,28,0.0
+recipes.sq#99#name,recipes.sq,recipe:name:menu-item,Connor Arc 2 Scene 5R Custom,Connor Arc 2 Scene 5R Custom,kept,28,0.0
+recipes.sq#100#name,recipes.sq,recipe:name:menu-item,Connor Arc 2 Scene 5B Custom,Connor Arc 2 Scene 5B Custom,kept,28,0.0
+recipes.sq#106#name,recipes.sq,recipe:name:menu-item,Cookies & Cream,Cookies & Cream,kept,15,0.0
+recipes.sq#106#description,recipes.sq,recipe:description,"Inspired by the ice cream, with a sweet vanilla and a playful crunch, this one's sure to put a smile on your face.",Вдохновлён мороженым — сладкая ваниль и игривый хруст точно вызовут улыбку.,translated,114,-34.2
+recipes.sq#107#name,recipes.sq,recipe:name:menu-item,Cream Pie,Cream Pie,kept,9,0.0
+recipes.sq#107#description,recipes.sq,recipe:description,A dish based off my mom's old recipe and totally not a sex joke — I'm a wholesome person deep down. ,"Блюдо по старому маминому рецепту, и это совсем не шутка про секс — в глубине души я приличный человек. ",translated,100,4.0
+recipes.sq#111#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom,Debora Arc 1 Scene 4G Custom,kept,28,0.0
+recipes.sq#112#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 2,Debora Arc 1 Scene 4G Custom 2,kept,30,0.0
+recipes.sq#113#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 3,Debora Arc 1 Scene 4G Custom 3,kept,30,0.0
+recipes.sq#114#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 4,Debora Arc 1 Scene 4G Custom 4,kept,30,0.0
+recipes.sq#115#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 5,Debora Arc 1 Scene 4G Custom 5,kept,30,0.0
+recipes.sq#116#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 6,Debora Arc 1 Scene 4G Custom 6,kept,30,0.0
+recipes.sq#117#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 7,Debora Arc 1 Scene 4G Custom 7,kept,30,0.0
+recipes.sq#118#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 8,Debora Arc 1 Scene 4G Custom 8,kept,30,0.0
+recipes.sq#119#name,recipes.sq,recipe:name:menu-item,Debora Arc 1 Scene 4G Custom 9,Debora Arc 1 Scene 4G Custom 9,kept,30,0.0
+recipes.sq#130#name,recipes.sq,recipe:name:menu-item,Eclair,Eclair,kept,6,0.0
+recipes.sq#130#description,recipes.sq,recipe:description,"Just like a real eclair, but without the choux dough. That's hard to make, you know? ","Точь-в-точь настоящий эклер, только без заварного теста. Его, знаете ли, сложно готовить. ",translated,85,5.9
+recipes.sq#131#name,recipes.sq,recipe:name:menu-item,Eclair Custom,Eclair Custom,kept,13,0.0
+recipes.sq#132#name,recipes.sq,recipe:name:menu-item,Eclair Custom 2,Eclair Custom 2,kept,15,0.0
+recipes.sq#162#name,recipes.sq,recipe:name:menu-item,Emmette Arc 4 Scene 4B Custom,Emmette Arc 4 Scene 4B Custom,kept,29,0.0
+recipes.sq#163#name,recipes.sq,recipe:name:menu-item,Emmette Arc 4 Scene 4G Custom,Emmette Arc 4 Scene 4G Custom,kept,29,0.0
+recipes.sq#164#name,recipes.sq,recipe:name:menu-item,Velvet Devil,Velvet Devil,kept,12,0.0
+recipes.sq#165#name,recipes.sq,recipe:name:menu-item,Emmette Arc 4 Scene 5G Custom,Emmette Arc 4 Scene 5G Custom,kept,29,0.0
+recipes.sq#173#name,recipes.sq,recipe:name:menu-item,Emmette Context 1 Arc 4 Scene 6G Custom,Emmette Context 1 Arc 4 Scene 6G Custom,kept,39,0.0
+recipes.sq#181#name,recipes.sq,recipe:name:menu-item,Emmette Context 2 Arc 4 Scene 4G Custom,Emmette Context 2 Arc 4 Scene 4G Custom,kept,39,0.0
+recipes.sq#182#name,recipes.sq,recipe:name:menu-item,<color=#5db5c8>Fight</color> <color=#d2526c>Club</color>,<color=#5db5c8>Fight</color> <color=#d2526c>Club</color>,kept,56,0.0
+recipes.sq#182#description,recipes.sq,recipe:description,We don't talk about how this recipe was made.,"Мы не обсуждаем, как был создан этот рецепт.",translated,45,-2.2
+recipes.sq#183#name,recipes.sq,recipe:name:menu-item,Freestyle,Freestyle,kept,9,0.0
+recipes.sq#184#name,recipes.sq,recipe:name:menu-item,Golden Shower,Golden Shower,kept,13,0.0
+recipes.sq#184#description,recipes.sq,recipe:description,"All that glitters is not gold. Sometimes, it's a donut.","Не всё то золото, что блестит. Иногда это пончик.",translated,55,-10.9
+recipes.sq#186#name,recipes.sq,recipe:name:menu-item,Halo-Halo,Halo-Halo,kept,9,0.0
+recipes.sq#186#description,recipes.sq,recipe:description,An homage to the original dessert — overloaded with ube.,Дань уважения оригинальному десерту — с горой убе.,translated,56,-10.7
+recipes.sq#187#name,recipes.sq,recipe:name:menu-item,halo-halo_custom,halo-halo_custom,kept,16,0.0
+recipes.sq#188#name,recipes.sq,recipe:name:menu-item,Happy Place,Happy Place,kept,11,0.0
+recipes.sq#188#description,recipes.sq,recipe:description,This donut should not be a replacement for true happiness.,Этот пончик не должен заменять настоящее счастье.,translated,58,-15.5
+recipes.sq#189#name,recipes.sq,recipe:name:menu-item,Happy Place Custom,Happy Place Custom,kept,18,0.0
+recipes.sq#190#name,recipes.sq,recipe:name:menu-item,Happy Place Custom 2,Happy Place Custom 2,kept,20,0.0
+recipes.sq#210#name,recipes.sq,recipe:name:menu-item,Harvest Time,Harvest Time,kept,12,0.0
+recipes.sq#210#description,recipes.sq,recipe:description,For fans of earthy flavors. Eating too much will give your mouth an earthy smell though.,"Для фанатов землистых вкусов. Правда, если переесть, во рту появится землистый привкус.",translated,88,-1.1
+recipes.sq#211#name,recipes.sq,recipe:name:menu-item,Any Heavy Donut,Any Heavy Donut,kept,15,0.0
+recipes.sq#212#name,recipes.sq,recipe:name:menu-item,Honeybee,Honeybee,kept,8,0.0
+recipes.sq#212#description,recipes.sq,recipe:description,Bee warned — this one will have bears chasing after you. If that's your thing.,Прожужжим сразу: за вами будут гоняться медведи. Если вам такое по душе.,review,78,-7.7
+recipes.sq#213#name,recipes.sq,recipe:name:menu-item,Honeybee Custom,Honeybee Custom,kept,15,0.0
+recipes.sq#214#name,recipes.sq,recipe:name:menu-item,Jack O' Lantern,Jack O' Lantern,kept,15,0.0
+recipes.sq#214#description,recipes.sq,recipe:description,"Said to ward off evil spirits. Might not necessarily protect you from your exes, though.","Говорят, отгоняет злых духов. Но вот от бывших вряд ли защитит.",translated,88,-28.4
+recipes.sq#215#name,recipes.sq,recipe:name:menu-item,Jack O' Lantern,Jack O' Lantern,kept,15,0.0
+recipes.sq#223#name,recipes.sq,recipe:name:menu-item,Jojo Arc 2 Scene 5B Custom,Jojo Arc 2 Scene 5B Custom,kept,26,0.0
+recipes.sq#224#name,recipes.sq,recipe:name:menu-item,Jojo Arc 2 Scene 5G Custom,Jojo Arc 2 Scene 5G Custom,kept,26,0.0
+recipes.sq#225#name,recipes.sq,recipe:name:menu-item,<color=#606060>White</color> <color=#d2526c>Velvet</color>,<color=#606060>White</color> <color=#d2526c>Velvet</color>,kept,58,0.0
+recipes.sq#241#name,recipes.sq,recipe:name:menu-item,Kyle Arc 2 Scene 2B Zoey Custom,Kyle Arc 2 Scene 2B Zoey Custom,kept,31,0.0
+recipes.sq#242#name,recipes.sq,recipe:name:menu-item,Kyle Arc 2 Scene 2B Zone Custom,Kyle Arc 2 Scene 2B Zone Custom,kept,31,0.0
+recipes.sq#243#name,recipes.sq,recipe:name:menu-item,Kyle Arc 2 Scene 2G Custom,Kyle Arc 2 Scene 2G Custom,kept,26,0.0
+recipes.sq#244#name,recipes.sq,recipe:name:menu-item,Kyle Arc 2 Scene 3B Custom,Kyle Arc 2 Scene 3B Custom,kept,26,0.0
+recipes.sq#245#name,recipes.sq,recipe:name:menu-item,Kyle Arc 3 Scene 1B Zone Custom,Kyle Arc 3 Scene 1B Zone Custom,kept,31,0.0
+recipes.sq#248#name,recipes.sq,recipe:name:menu-item,Any Lemon Donut,Any Lemon Donut,kept,15,0.0
+recipes.sq#249#name,recipes.sq,recipe:name:menu-item,Any Light Donut,Any Light Donut,kept,15,0.0
+recipes.sq#273#name,recipes.sq,recipe:name:menu-item,Matcha-mellow,Matcha-mellow,kept,13,0.0
+recipes.sq#273#description,recipes.sq,recipe:description,The mellowest of donuts. Eat too much and you might fall asleep.,Самый умиротворяющий из пончиков. Съешьте слишком много — и можете уснуть.,translated,64,15.6
+recipes.sq#274#name,recipes.sq,recipe:name:menu-item,Matcha-mellow Custom,Matcha-mellow Custom,kept,20,0.0
+recipes.sq#275#name,recipes.sq,recipe:name:menu-item,Any Matcha Donut,Any Matcha Donut,kept,16,0.0
+recipes.sq#276#name,recipes.sq,recipe:name:menu-item,Mean Girl,Mean Girl,kept,9,0.0
+recipes.sq#276#description,recipes.sq,recipe:description,A lot of people order this on Wednesdays.,Многие заказывают это по средам.,review,41,-22.0
+recipes.sq#277#name,recipes.sq,recipe:name:menu-item,Mean Girl Custom,Mean Girl Custom,kept,16,0.0
+recipes.sq#278#name,recipes.sq,recipe:name:menu-item,<color=#d2526c>Meaty</color> <color=#ed7e30>Pumpkin</color>,<color=#d2526c>Meaty</color> <color=#ed7e30>Pumpkin</color>,kept,59,0.0
+recipes.sq#278#description,recipes.sq,recipe:description,For those meat lovers who want that savory crunch of bacon paired with chocolate pumpkin goodness!,"Для любителей мяса, кто хочет солёный хруст бекона в паре с шоколадно-тыквенной вкуснотой!",translated,98,-8.2
+recipes.sq#279#name,recipes.sq,recipe:name:menu-item,Meaty Pumpkin Custom,Meaty Pumpkin Custom,kept,20,0.0
+recipes.sq#286#name,recipes.sq,recipe:name:menu-item,MJ Arc 1 Scene S1 Custom,MJ Arc 1 Scene S1 Custom,kept,24,0.0
+recipes.sq#305#name,recipes.sq,recipe:name:menu-item,MJ Context 2 Arc 4 Scene 5G Custom,MJ Context 2 Arc 4 Scene 5G Custom,kept,34,0.0
+recipes.sq#306#name,recipes.sq,recipe:name:menu-item,MJ Context 2 Arc 4 Scene 6G Custom,MJ Context 2 Arc 4 Scene 6G Custom,kept,34,0.0
+recipes.sq#307#name,recipes.sq,recipe:name:menu-item,Any Motivation Donut,Any Motivation Donut,kept,20,0.0
+recipes.sq#308#name,recipes.sq,recipe:name:menu-item,Mr. Smile,Mr. Smile,kept,9,0.0
+recipes.sq#308#description,recipes.sq,recipe:description,"To clarify, this is a genuine smile, not a passive aggressive emoji.","Для ясности: это настоящая улыбка, а не пассивно-агрессивный смайлик.",translated,68,1.5
+recipes.sq#309#name,recipes.sq,recipe:name:menu-item,multiple example,multiple example,kept,16,0.0
+recipes.sq#310#name,recipes.sq,recipe:name:menu-item,Multitopping Example,Multitopping Example,kept,20,0.0
+recipes.sq#310#description,recipes.sq,recipe:description,"Example for multitopping donuts, same syntax as multiglaze","Пример мультитоппинга, синтаксис как у мультиглазури.",translated,58,-8.6
+recipes.sq#318#name,recipes.sq,recipe:name:menu-item,Ogre-dosed,Ogre-dosed,kept,10,0.0
+recipes.sq#318#description,recipes.sq,recipe:description,Somebody once told me to cover this in layers and layers of matcha.,Кто-то однажды сказал мне покрыть это слоями и слоями матчи.,review,67,-10.4
+recipes.sq#319#name,recipes.sq,recipe:name:menu-item,Ogre-dosed,Ogre-dosed,kept,10,0.0
+recipes.sq#324#name,recipes.sq,recipe:name:menu-item,<color=#d784ab>Pink</color><color=#606060>Black</color>,<color=#d784ab>Pink</color><color=#606060>Black</color>,kept,55,0.0
+recipes.sq#324#description,recipes.sq,recipe:description,Said to be the favorite donut of a certain girl group. Enjoy one as if it's your last!,"Говорят, любимый пончик одной известной герлз-группы. Наслаждайтесь, как в последний раз!",translated,86,3.5
+recipes.sq#325#name,recipes.sq,recipe:name:menu-item,Pinkblack Custom,Pinkblack Custom,kept,16,0.0
+recipes.sq#326#name,recipes.sq,recipe:name:menu-item,Plain Donut,Plain Donut,kept,11,0.0
+recipes.sq#326#description,recipes.sq,recipe:description,The plainest donut of them all. No fancy mood enhancers whatsoever.,Самый обычный пончик из всех. Никаких навороченных усилителей настроения.,translated,67,9.0
+recipes.sq#327#name,recipes.sq,recipe:name:menu-item,Post-Nut Clarity,Post-Nut Clarity,kept,16,0.0
+recipes.sq#327#description,recipes.sq,recipe:description,Eating this one won't give you any regrets.,"Съев этот пончик, ни о чём не пожалеете.",review,43,-7.0
+recipes.sq#328#name,recipes.sq,recipe:name:menu-item,Post-Nut Rapture,Post-Nut Rapture,kept,16,0.0
+recipes.sq#329#name,recipes.sq,recipe:name:menu-item,Any Pumpkin Donut,Any Pumpkin Donut,kept,17,0.0
+recipes.sq#330#name,recipes.sq,recipe:name:menu-item,<color=#ed7e30>Pumpkin</color> <color=#5bbc50>Patch</color>,<color=#ed7e30>Pumpkin</color> <color=#5bbc50>Patch</color>,kept,59,0.0
+recipes.sq#330#description,recipes.sq,recipe:description,"When life makes you want to scream, take a trip to the pumpkin patch instead!","Когда жизнь заставляет вас кричать, лучше отправьтесь на тыквенную грядку!",translated,77,-3.9
+recipes.sq#331#name,recipes.sq,recipe:name:menu-item,Purple Pillows,Purple Pillows,kept,14,0.0
+recipes.sq#331#description,recipes.sq,recipe:description,Sweeter than any pillow talk I've ever had.,Слаще любых нежностей в постели.,translated,43,-25.6
+recipes.sq#332#name,recipes.sq,recipe:name:menu-item,Rainbow High,Rainbow High,kept,12,0.0
+recipes.sq#332#description,recipes.sq,recipe:description,A sprinkle of rainbow added to an all time classic! Adding bright colors makes everything better!,"Щепотка радуги, добавленная в вечную классику! Яркие цвета всё делают лучше!",translated,97,-21.6
+recipes.sq#333#name,recipes.sq,recipe:name:menu-item,Rainbow High Custom,Rainbow High Custom,kept,19,0.0
+recipes.sq#334#name,recipes.sq,recipe:name:menu-item,Red Meat,Red Meat,kept,8,0.0
+recipes.sq#334#description,recipes.sq,recipe:description,For your carnivorous needs.,"Для тех, кому нужно мясо.",translated,27,-7.4
+recipes.sq#335#name,recipes.sq,recipe:name:menu-item,Any Red Velvet Donut,Any Red Velvet Donut,kept,20,0.0
+recipes.sq#336#name,recipes.sq,recipe:name:menu-item,Any Ring Donut,Any Ring Donut,kept,14,0.0
+recipes.sq#346#name,recipes.sq,recipe:name:menu-item,Riverside Romp,Riverside Romp,kept,14,0.0
+recipes.sq#346#description,recipes.sq,recipe:description,"Soul searching, but keep it chill. I promise it's gonna be all right as long as you have donuts. ","Поиски себя, но без напряга. Обещаю, всё будет хорошо, пока у вас есть пончики. ",translated,97,-17.5
+recipes.sq#347#name,recipes.sq,recipe:name:menu-item,Riverside Romp Custom,Riverside Romp Custom,kept,21,0.0
+recipes.sq#348#name,recipes.sq,recipe:name:menu-item,Riverside Romp Custom 2,Riverside Romp Custom 2,kept,23,0.0
+recipes.sq#349#name,recipes.sq,recipe:name:menu-item,<color=#b289f3>Royal</color> <color=#d2526c>Blood</color>,<color=#b289f3>Royal</color> <color=#d2526c>Blood</color>,kept,57,0.0
+recipes.sq#349#description,recipes.sq,recipe:description,"So rich and thick, you might actually choke on this one.","Такой насыщенный и густой, что можно и подавиться.",translated,56,-10.7
+recipes.sq#350#name,recipes.sq,recipe:name:menu-item,<color=#b289f3>Royal</color> <color=#d2526c>Blood</color>,<color=#b289f3>Royal</color> <color=#d2526c>Blood</color>,kept,57,0.0
+recipes.sq#351#name,recipes.sq,recipe:name:menu-item,Royal Blood Custom 2,Royal Blood Custom 2,kept,20,0.0
+recipes.sq#360#name,recipes.sq,recipe:name:menu-item,<color=#daac06>San Mazo</color> <color=#ed7e30>Sunset</color>,<color=#daac06>San Mazo</color> <color=#ed7e30>Sunset</color>,kept,61,0.0
+recipes.sq#360#description,recipes.sq,recipe:description,"A tourist attraction. My drawing basically looks like a photo, wdym.","Туристическая достопримечательность. Мой рисунок — почти фото, серьёзно.",review,68,5.9
+recipes.sq#361#name,recipes.sq,recipe:name:menu-item,San Mazo Sunset Custom,San Mazo Sunset Custom,kept,22,0.0
+recipes.sq#362#name,recipes.sq,recipe:name:menu-item,<color=#b289f3>Shooting</color> <color=#daac06>Star</color>,<color=#b289f3>Shooting</color> <color=#daac06>Star</color>,kept,59,0.0
+recipes.sq#362#description,recipes.sq,recipe:description,"A donut you can make wishes on — can't guarantee they'll come true, though.","Пончик, на который можно загадывать желания — но что они сбудутся, не гарантируем.",translated,75,9.3
+recipes.sq#363#name,recipes.sq,recipe:name:menu-item,S'more,S'more,kept,6,0.0
+recipes.sq#363#description,recipes.sq,recipe:description,You can feel the campfire while eating it. Much like roasting a real s'more.,"Пока едите, будто чувствуете костёр. Совсем как поджаривать настоящий смор.",translated,76,-1.3
+recipes.sq#377#name,recipes.sq,recipe:name:menu-item,Stacy Arc 4 Scene 4B Custom,Stacy Arc 4 Scene 4B Custom,kept,27,0.0
+recipes.sq#378#name,recipes.sq,recipe:name:menu-item,Stacy Arc 4 Scene 4G Custom,Stacy Arc 4 Scene 4G Custom,kept,27,0.0
+recipes.sq#383#name,recipes.sq,recipe:name:menu-item,<color=#d784ab>Strawberry</color> <color=#daac06>Alarm</color> <color=#8d4f47>Clock</color>,<color=#d784ab>Strawberry</color> <color=#daac06>Alarm</color> <color=#8d4f47>Clock</color>,kept,91,0.0
+recipes.sq#383#description,recipes.sq,recipe:description,"Who cares the glaze we choose? Little to win, but nothing to lose.","Какая разница, какую глазурь выбрать? Выиграть мало, но и терять нечего.",translated,66,9.1
+recipes.sq#384#name,recipes.sq,recipe:name:menu-item,<color=#d784ab>Strawberry</color> <color=#606060>Cream</color>,<color=#d784ab>Strawberry</color> <color=#606060>Cream</color>,kept,62,0.0
+recipes.sq#384#description,recipes.sq,recipe:description,"When you're filled with longing, but you're actually happy about it. ","Когда вас переполняет тоска, но на самом деле вы этому рады. ",translated,69,-11.6
+recipes.sq#385#name,recipes.sq,recipe:name:menu-item,Any Strawberry Donut,Any Strawberry Donut,kept,20,0.0
+recipes.sq#386#name,recipes.sq,recipe:name:menu-item,Sunflower,Sunflower,kept,9,0.0
+recipes.sq#386#description,recipes.sq,recipe:description,Some say this one's made of perfect gold and the yearnings of girls in love.,"Говорят, этот сделан из чистого золота и тоски влюблённых девушек.",translated,76,-13.2
+recipes.sq#387#name,recipes.sq,recipe:name:menu-item,Any Sweet Donut,Any Sweet Donut,kept,15,0.0
+recipes.sq#388#name,recipes.sq,recipe:name:menu-item,Thanksgiving,Thanksgiving,kept,12,0.0
+recipes.sq#388#description,recipes.sq,recipe:description,When you want those fall flavors in the middle of July.,Когда хочется осенних вкусов посреди июля.,translated,55,-23.6
+recipes.sq#389#name,recipes.sq,recipe:name:menu-item,Thanksgiving Custom,Thanksgiving Custom,kept,19,0.0
+recipes.sq#419#name,recipes.sq,recipe:name:menu-item,<color=#daac06>Tutti</color> <color=#d784ab>Frutti</color>,<color=#daac06>Tutti</color> <color=#d784ab>Frutti</color>,kept,58,0.0
+recipes.sq#419#description,recipes.sq,recipe:description,My fruitiest donut. Not as healthy as actual fruits though.,"Мой самый фруктовый пончик, но не такой полезный, как настоящие фрукты.",translated,59,20.3
+recipes.sq#420#name,recipes.sq,recipe:name:menu-item,Any Ube Donut,Any Ube Donut,kept,13,0.0
+recipes.sq#421#name,recipes.sq,recipe:name:menu-item,Ube Dream,Ube Dream,kept,9,0.0
+recipes.sq#421#description,recipes.sq,recipe:description,Legends say that eating this right before you sleep will give you... juicy dreams.,Легенды гласят: съешьте это перед сном — и увидите... сочные сны.,translated,82,-20.7
+recipes.sq#422#name,recipes.sq,recipe:name:menu-item,Ube Dream Custom,Ube Dream Custom,kept,16,0.0
+recipes.sq#423#name,recipes.sq,recipe:name:menu-item,Ube Dream Custom 2,Ube Dream Custom 2,kept,18,0.0
+recipes.sq#424#name,recipes.sq,recipe:name:menu-item,<color=#b289f3>Unicorn</color> <color=#d784ab>Bash</color>,<color=#b289f3>Unicorn</color> <color=#d784ab>Bash</color>,kept,58,0.0
+recipes.sq#424#description,recipes.sq,recipe:description,This'll bash your insides with sweetness and magic.,Это взорвёт вас изнутри сладостью и магией.,translated,51,-15.7
+recipes.sq#425#name,recipes.sq,recipe:name:menu-item,Valentine,Valentine,kept,9,0.0
+recipes.sq#425#description,recipes.sq,recipe:description,"Made from the taste of sweet, sweet heartbreak. ",Приготовлен на вкусе сладкого-сладкого разбитого сердца. ,translated,48,18.8
+recipes.sq#426#name,recipes.sq,recipe:name:menu-item,Any Vanilla Donut,Any Vanilla Donut,kept,17,0.0
+recipes.sq#427#name,recipes.sq,recipe:name:menu-item,Velvet Devil,Velvet Devil,kept,12,0.0
+recipes.sq#427#description,recipes.sq,recipe:description,"They say 'the devil's in the details.' For this donut, the details are made of red velvet.","Говорят, «дьявол кроется в деталях». У этого пончика детали сделаны из красного бархата.",translated,90,-2.2
+recipes.sq#428#name,recipes.sq,recipe:name:menu-item,<color=#d2526c>Velvety</color> <color=#b289f3>Ube</color>,<color=#d2526c>Velvety</color> <color=#b289f3>Ube</color>,kept,57,0.0
+recipes.sq#428#description,recipes.sq,recipe:description,Trendy flavors that are probably [i] over [/i] once this donut hits the streets because that's how the fickle viral gods work.,"Модные вкусы, которые, скорее всего, уже [i] не в тренде [/i] к тому моменту, как этот пончик выйдет в свет — такова уж природа капризных богов вирусности.",translated,126,23.0
+recipes.sq#429#name,recipes.sq,recipe:name:menu-item,Velvety Ube Custom,Velvety Ube Custom,kept,18,0.0
+recipes.sq#430#name,recipes.sq,recipe:name:menu-item,Any Vibes Donut,Any Vibes Donut,kept,15,0.0
+recipes.sq#431#name,recipes.sq,recipe:name:menu-item,<color=#b289f3>Violet</color> <color=#daac06>Belle</color>,<color=#b289f3>Violet</color> <color=#daac06>Belle</color>,kept,58,0.0
+recipes.sq#431#description,recipes.sq,recipe:description,Inspired passion. But keep it demure. ,"Вдохновлённая страсть, но в рамках приличия.",translated,38,15.8
+recipes.sq#432#name,recipes.sq,recipe:name:menu-item,Violet Belle Custom,Violet Belle Custom,kept,19,0.0
+recipes.sq#433#name,recipes.sq,recipe:name:menu-item,<color=#606060>White</color> <color=#5db5c8>Berry</color>,<color=#606060>White</color> <color=#5db5c8>Berry</color>,kept,57,0.0
+recipes.sq#433#description,recipes.sq,recipe:description,Cheers you up and helps you feel more sincere. The downside? Therapists hate this donut.,Поднимает настроение и помогает быть искреннее. Минус? Терапевты ненавидят этот пончик.,translated,88,-1.1
+recipes.sq#434#name,recipes.sq,recipe:name:menu-item,<color=#606060>White</color> <color=#5db5c8>Berry</color>,<color=#606060>White</color> <color=#5db5c8>Berry</color>,kept,57,0.0
+recipes.sq#435#name,recipes.sq,recipe:name:menu-item,<color=#606060>White</color> <color=#d2526c>Velvet</color>,<color=#606060>White</color> <color=#d2526c>Velvet</color>,kept,58,0.0
+recipes.sq#435#description,recipes.sq,recipe:description,"Smooth as real velvet, with the subtlety of vanilla drizzle.","Гладкий, как настоящий бархат, с тонкой ноткой ванильного дриззла.",translated,60,10.0
+recipes.sq#436#name,recipes.sq,recipe:name:menu-item,White Velvet Custom,White Velvet Custom,kept,19,0.0
+recipes.sq#437#name,recipes.sq,recipe:name:menu-item,<color=#606060>Winter</color> <color=#5bbc50>Forest</color>,<color=#606060>Winter</color> <color=#5bbc50>Forest</color>,kept,59,0.0
+recipes.sq#437#description,recipes.sq,recipe:description,Smells like a forest. It's a good thing it doesn't taste like a forest.,"Пахнет лесом. Хорошо, что на вкус он не как лес.",translated,71,-32.4
+recipes.sq#438#name,recipes.sq,recipe:name:menu-item,Winter Forest Custom,Winter Forest Custom,kept,20,0.0
+recipes.sq#439#name,recipes.sq,recipe:name:menu-item,Winter Forest Custom 2,Winter Forest Custom 2,kept,22,0.0
+recipes.sq#440#name,recipes.sq,recipe:name:menu-item,<color=#606060>Winter</color> <color=#5bbc50>Forest</color>,<color=#606060>Winter</color> <color=#5bbc50>Forest</color>,kept,59,0.0
+recipes.sq#440#description,recipes.sq,recipe:description,Smells like a forest. It's a good thing it doesn't taste like a forest.,"Пахнет лесом. Хорошо, что на вкус он не как лес.",translated,71,-32.4
+recipes.sq#441#name,recipes.sq,recipe:name:menu-item,<color=#606060>Winter</color> <color=#5db5c8>Wonderland</color>,<color=#606060>Winter</color> <color=#5db5c8>Wonderland</color>,kept,63,0.0
+recipes.sq#441#description,recipes.sq,recipe:description,"After one bite, some people just can't let this donut go.",После одного укуса некоторые просто не могут отпустить этот пончик.,translated,57,17.5
+recipes.sq#442#name,recipes.sq,recipe:name:menu-item,Winter Wonderland Custom,Winter Wonderland Custom,kept,24,0.0
+recipes.sq#443#name,recipes.sq,recipe:name:menu-item,<color=#606060>Yin</color>-<color=#8d4f47>Yang</color>,<color=#606060>Yin</color>-<color=#8d4f47>Yang</color>,kept,54,0.0
+recipes.sq#443#description,recipes.sq,recipe:description,Chocolate for focus. Vanilla for cheer. Two different concepts in perfect balance. ,Шоколад для фокуса. Ваниль для веселья. Два разных понятия в идеальном балансе. ,translated,83,-3.6
+recipes.sq#444#name,recipes.sq,recipe:name:menu-item,Yin-Yang Custom,Yin-Yang Custom,kept,15,0.0
+recipes.sq#445#name,recipes.sq,recipe:name:menu-item,Yin-Yang Custom 2,Yin-Yang Custom 2,kept,17,0.0
+recipes.sq#446#name,recipes.sq,recipe:name:menu-item,Yin-Yang,Yin-Yang,kept,8,0.0
+recipes.sq#447#name,recipes.sq,recipe:name:menu-item,<color=#daac06>Zes</color><color=#5bbc50>tea</color>,<color=#daac06>Zes</color><color=#5bbc50>tea</color>,kept,52,0.0
+recipes.sq#447#description,recipes.sq,recipe:description,"As zesty as your favorite fitness instructor, and as relaxing as the massages they give.","Такой же бодрящий, как ваш любимый фитнес-инструктор, и такой же расслабляющий, как их массаж.",translated,88,6.8
+recipes.sq#448#name,recipes.sq,recipe:name:menu-item,Zestea Custom,Zestea Custom,kept,13,0.0
+recipes.sq#464#name,recipes.sq,recipe:name:menu-item,Zoey Context Loopable Custom,Zoey Context Loopable Custom,kept,28,0.0

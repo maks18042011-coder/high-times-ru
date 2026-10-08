@@ -1,0 +1,89 @@
+id,file,context,source,target,status,max_len,len_delta
+localized.sq#4,localized.sq,mainmenu,Continue,Продолжить,translated,8,25.0
+localized.sq#9,localized.sq,mainmenu,Extras,Экстра,translated,6,0.0
+localized.sq#7,localized.sq,mainmenu,Gallery,Галерея,translated,7,0.0
+localized.sq#6,localized.sq,mainmenu,Load Game,Загрузить,translated,9,0.0
+localized.sq#3,localized.sq,mainmenu,Main Menu,Главное меню,translated,9,33.3
+localized.sq#5,localized.sq,mainmenu,New Game,Новая игра,translated,8,25.0
+localized.sq#8,localized.sq,mainmenu,Options,Настройки,translated,7,28.6
+localized.sq#2,localized.sq,mainmenu,Press anywhere to continue,"Нажмите, чтобы продолжить",translated,26,-3.8
+localized.sq#10,localized.sq,mainmenu,Quit Game,Выход,translated,9,-44.4
+localized.sq#56,localized.sq,options,Save Changes,Применить,translated,12,-25.0
+localized.sq#38,localized.sq,options,Audio,Звук,translated,5,-20.0
+localized.sq#26,localized.sq,options,Autoplay Speed,Автоскорость,translated,14,-14.3
+localized.sq#41,localized.sq,options,BGM Volume,Музыка,translated,10,-40.0
+localized.sq#58,localized.sq,options,Reset Changes,Сбросить,translated,13,-38.5
+localized.sq#55,localized.sq,options,Change in main menu.,Меняется в главном меню.,translated,20,20.0
+localized.sq#57,localized.sq,options,Controls,Управление,translated,8,25.0
+localized.sq#67,localized.sq,options,Control Scheme,Схема управления,translated,14,14.3
+localized.sq#59,localized.sq,options,Set To Default,По умолчанию,translated,14,-14.3
+localized.sq#33,localized.sq,options,Display,Экран,translated,7,-28.6
+localized.sq#34,localized.sq,options,Display Mode,Режим экрана,translated,12,0.0
+localized.sq#27,localized.sq,options,Donut Cursor Speed,Скорость курсора,translated,18,-11.1
+localized.sq#24,localized.sq,options,Gameplay,Геймплей,translated,8,0.0
+localized.sq#51,localized.sq,options,Classic,Классика,translated,7,14.3
+localized.sq#46,localized.sq,options,Fullscreen,Полный экран,translated,10,20.0
+localized.sq#48,localized.sq,options,Borderless Window,Окно без рамки,translated,17,-17.6
+localized.sq#52,localized.sq,options,Instant,Мгновенно,translated,7,28.6
+localized.sq#50,localized.sq,options,OFF,ВЫКЛ,translated,3,33.3
+localized.sq#49,localized.sq,options,ON,ВКЛ,translated,2,50.0
+localized.sq#47,localized.sq,options,Window,Окно,translated,6,-33.3
+localized.sq#37,localized.sq,options,Language,Язык,translated,8,-50.0
+localized.sq#62,localized.sq,options,中文,中文,translated,2,0.0
+localized.sq#63,localized.sq,options,Deutsch,Русский,translated,7,0.0
+localized.sq#60,localized.sq,options,Default,Системный,translated,7,28.6
+localized.sq#61,localized.sq,options,English,English,translated,7,0.0
+localized.sq#64,localized.sq,options,Français,Français,translated,8,0.0
+localized.sq#40,localized.sq,options,Master Volume,Общая громкость,translated,13,15.4
+localized.sq#45,localized.sq,options,Others,Другое,translated,6,0.0
+localized.sq#28,localized.sq,options,Run in Background,В фоновом режиме,translated,17,-5.9
+localized.sq#54,localized.sq,options,Careful - you have unsaved changes!,Внимание: есть несохранённые изменения!,translated,35,11.4
+localized.sq#53,localized.sq,options,Settings changed!,Настройки изменены!,translated,17,11.8
+localized.sq#35,localized.sq,options,Resolution,Разрешение,translated,10,0.0
+localized.sq#42,localized.sq,options,SFX Volume,Эффекты,translated,10,-30.0
+localized.sq#29,localized.sq,options,Show Debug Info,Показать отладку,translated,15,6.7
+localized.sq#66,localized.sq,options,Show Controller Hints,Подсказки геймпада,translated,21,-14.3
+localized.sq#65,localized.sq,options,Show Tooltips,Подсказки,translated,13,-30.8
+localized.sq#30,localized.sq,options,Skip,Скип,translated,4,0.0
+localized.sq#31,localized.sq,options,Skip Mode,Режим скипа,translated,9,22.2
+localized.sq#39,localized.sq,options,General,Общие,translated,7,-28.6
+localized.sq#32,localized.sq,options,Stop Skip at Unread Text,Не скипать непрочитанное,translated,24,0.0
+localized.sq#25,localized.sq,options,Text Speed,Темп текста,translated,10,10.0
+localized.sq#36,localized.sq,options,Texture Quality,Качество текстур,translated,15,6.7
+localized.sq#44,localized.sq,options,Voice Volume,Голос,translated,12,-58.3
+localized.sq#43,localized.sq,options,Voice Over,Озвучка,translated,10,-30.0
+localized.sq#68,localized.sq,options,Zoom,Зум,translated,4,-25.0
+localized.sq#465,localized.sq,settings,Control Scheme,Схема управления,translated,14,14.3
+localized.sq#471,localized.sq,settings,Interact,Действие,translated,8,0.0
+localized.sq#466,localized.sq,settings,Keyboard,Клавиатура,translated,8,25.0
+localized.sq#468,localized.sq,settings,Playstation 4,Playstation 4,kept,13,0.0
+localized.sq#469,localized.sq,settings,Playstation 5,Playstation 5,kept,13,0.0
+localized.sq#473,localized.sq,settings,Serve,Подать,translated,5,20.0
+localized.sq#470,localized.sq,settings,Switch,Switch,translated,6,0.0
+localized.sq#472,localized.sq,settings,Trash,Мусор,translated,5,0.0
+localized.sq#467,localized.sq,settings,Xbox,Xbox,translated,4,0.0
+localized.sq#113,localized.sq,controls,Hide UI,Скрыть UI,translated,7,28.6
+localized.sq#114,localized.sq,controls,Keyboard & Mouse,Клавиатура и мышь,translated,16,6.2
+localized.sq#103,localized.sq,controls,Confirm/Proceed,Подтвердить,translated,15,-26.7
+localized.sq#111,localized.sq,controls,Load Game,Загрузить,translated,9,0.0
+localized.sq#107,localized.sq,controls,Main Menu,Главное меню,translated,9,33.3
+localized.sq#109,localized.sq,controls,(Hold) Manual Skip,(Удерж.) Ручной скип,translated,18,11.1
+localized.sq#112,localized.sq,controls,Options,Настройки,translated,7,28.6
+localized.sq#106,localized.sq,controls,Proceed,Далее,translated,7,-28.6
+localized.sq#104,localized.sq,controls,Save Game/Close UI,Сохранить/Закрыть,translated,18,-5.6
+localized.sq#110,localized.sq,controls,Save Game,Сохранить,translated,9,0.0
+localized.sq#105,localized.sq,controls,(Scroll) Backlog,(Скролл) Журнал,translated,16,-6.2
+localized.sq#108,localized.sq,controls,Skip,Скип,translated,4,0.0
+localized.sq#116,localized.sq,controls,Xbox Controller,Контроллер Xbox,translated,15,0.0
+localized.sq#129,localized.sq,msg,Are you sure you want to return to Main Menu? All unsaved progress will be lost.,Вернуться в главное меню? Несохранённый прогресс будет потерян.,translated,80,-21.2
+localized.sq#126,localized.sq,msg,Are you sure you want to quit?,Выйти из игры?,translated,30,-53.3
+localized.sq#153,localized.sq,gamemenu,Load,Загрузить,translated,4,125.0
+localized.sq#152,localized.sq,gamemenu,Settings,Опции,translated,8,-37.5
+localized.sq#101,localized.sq,game,continue without saving,продолжить без сохранения,translated,23,8.7
+localized.sq#81,localized.sq,game,Controls,Управление,translated,8,25.0
+localized.sq#82,localized.sq,game,Exit,Выход,translated,4,25.0
+localized.sq#79,localized.sq,game,Load,Загрузить,translated,4,125.0
+localized.sq#72,localized.sq,game,Menu,Меню,translated,4,0.0
+localized.sq#80,localized.sq,game,Options,Настройки,translated,7,28.6
+localized.sq#78,localized.sq,game,Save,Сохранить,translated,4,125.0
+localized.sq#102,localized.sq,game,save in a different slot,сохранить в другом слоте,translated,24,0.0

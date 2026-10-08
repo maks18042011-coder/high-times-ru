@@ -1,0 +1,688 @@
+id,file,context,source,target,status,max_len
+vntext.sq#8721,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8722,vntext.sq,DEBORA,Good evening.,Добрый вечер.,translated,13
+vntext.sq#8725,vntext.sq,DEBORA,Indeed. I found myself in the neighborhood once more.,Действительно. Я снова оказалась в этом районе.,translated,53
+vntext.sq#8729,vntext.sq,DEBORA,"Haha! You truly are a 'glass half empty' type of person. But we can find beauty in unexpected places, no?","Ха-ха! Вы правда человек, который видит стакан наполовину пустым. Но красоту можно найти и в неожиданных местах, не так ли?",translated,105
+vntext.sq#8731,vntext.sq,DEBORA,"I have to admit that like most tourists that come here to San Mazo, I have been entranced by the sunset. And I find the view from downtown quite special.","Должна признать, что, как и большинство туристов, приезжающих сюда, в Сан-Мазо, я очарована закатом. И вид из центра города кажется мне особенным.",translated,153
+vntext.sq#8732,vntext.sq,DEBORA,We simply don't have the same colours at home.,У нас дома просто нет таких цветов.,translated,46
+vntext.sq#8734,vntext.sq,DEBORA,Haha! You truly are a 'glass half full' type of person.,"Ха-ха! Вы правда человек, который видит стакан наполовину полным.",translated,55
+vntext.sq#8736,vntext.sq,DEBORA,...Hm. I suppose you're not wrong.,"...Хм. Полагаю, вы правы.",translated,34
+vntext.sq#8737,vntext.sq,DEBORA,"After all, you seem to have enjoyed the view before.","В конце концов, похоже, вам уже нравился этот вид раньше.",translated,52
+vntext.sq#8738,vntext.sq,DEBORA,I thought I'd present it to you once more.,"Я подумала, представлю его вам ещё раз.",translated,42
+vntext.sq#8740,vntext.sq,DEBORA,"Haha! You're turning red, darling...","Ха-ха! Вы краснеете, дорогой...",translated,36
+vntext.sq#8744,vntext.sq,DEBORA,Oh yes. I've heard.,О да. Я слышала.,translated,19
+vntext.sq#8746,vntext.sq,DEBORA,"...Of all the mood cafes in every city... no, in the [i] whole [/i] world... do you know why I chose this place?","...Из всех кафе настроения в каждом городе... нет, во [i] всём [/i] мире... знаете, почему я выбрала именно это место?",translated,112
+vntext.sq#8759,vntext.sq,DEBORA,Where's the fun in that?,Где же в этом веселье?,translated,24
+vntext.sq#8761,vntext.sq,DEBORA,"Haha, well I [i] am [/i] here to partake, but I wouldn't say I do it professionally.","Ха-ха, ну, я [i] правда [/i] здесь, чтобы отведать, но не сказала бы, что делаю это профессионально.",translated,84
+vntext.sq#8764,vntext.sq,DEBORA,"Haha, nothing quite as exciting as that. But we can pretend, if that's what you like.","Ха-ха, ничего настолько захватывающего. Но можем притвориться, если вам так больше нравится.",translated,85
+vntext.sq#8766,vntext.sq,DEBORA,"You see, I've heard of this place. And I was intrigued. The donuts... your creations... I want to experience them for myself.","Видите ли, я слышала об этом месте. И заинтересовалась. Пончики... ваши творения... хочу испытать их сама.",translated,125
+vntext.sq#8768,vntext.sq,DEBORA,Why don't you show me what you're made of? Let's see if it's as hot as advertised.,"Почему бы вам не показать, из чего вы сделаны? Посмотрим, действительно ли тут так горячо, как обещает реклама.",translated,82
+vntext.sq#8770,vntext.sq,DEBORA,"Give me something {$heavy}, something I can sink my teeth into. And nothing {$tastes:sweet}. I'll leave it to you.","Дайте мне что-нибудь {$heavy}, что-то, во что можно как следует вгрызться. И ничего {$tastes:sweet}. Остальное оставляю на ваше усмотрение.",translated,114
+vntext.sq#8774,vntext.sq,DEBORA,"I want a donut with four or more elements. And nothing {$tastes:sweet}... how about something {$tastes:bitter}, {$tastes:sour} or {$tastes:savory} instead? I'll leave the details to you.","Хочу пончик минимум с четырьмя элементами. И ничего {$tastes:sweet}... как насчёт чего-то {$tastes:bitter}, {$tastes:sour} или {$tastes:savory}? Детали оставляю на ваше усмотрение.",translated,186
+vntext.sq#8777,vntext.sq,DEBORA,...You're Ifalian?,...Вы ифальянец?,translated,18
+vntext.sq#8779,vntext.sq,DEBORA,I see...,Понятно...,translated,8
+vntext.sq#8780,vntext.sq,DEBORA,"What's your name, darling?","Как вас зовут, дорогой?",translated,26
+vntext.sq#8782,vntext.sq,DEBORA,"Well, {$mcName}, this habit might get you into a bit of trouble if you keep it up. Are you ready for that kind of action?","Что ж, {$mcName}, эта привычка может доставить вам немного неприятностей, если вы продолжите. Готовы к такому повороту?",translated,121
+vntext.sq#8784,vntext.sq,DEBORA,"Haha! Now, I like this attitude. I'm looking forward to that donut, {$mcName}.","Ха-ха! А вот это мне нравится. Жду не дождусь этого пончика, {$mcName}.",translated,78
+vntext.sq#8787,vntext.sq,DEBORA,[i] Grazie. [/i],[i] Grazie. [/i],translated,16
+vntext.sq#8789,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#8790,vntext.sq,DEBORA,Darling! Is this really what you're serving customers?,Дорогой! Это вы правда подаёте клиентам?,translated,54
+vntext.sq#8791,vntext.sq,DEBORA,"Why, I can't even say this is a donut.",Да я даже не могу назвать это пончиком.,translated,38
+vntext.sq#8792,vntext.sq,DEBORA,This donut has no mood enhancers!,В этом пончике нет усилителей настроения!,translated,33
+vntext.sq#8794,vntext.sq,DEBORA,[i] Forza! [/i],[i] Forza! [/i],translated,15
+vntext.sq#8799,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8800,vntext.sq,DEBORA,Finally! What was that? Some sort of experiment?,Наконец-то! Что это было? Какой-то эксперимент?,translated,48
+vntext.sq#8802,vntext.sq,DEBORA,Then what was it?,Тогда что это было?,translated,17
+vntext.sq#8804,vntext.sq,DEBORA,I... I see.,Я... понятно.,translated,11
+vntext.sq#8805,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8807,vntext.sq,DEBORA,"I expected better from this place. From you, darling.","Я ожидала от этого места большего. От вас, дорогой.",translated,53
+vntext.sq#8814,vntext.sq,DEBORA,This is... [i] decent. [/i],Это... [i] неплохо. [/i],translated,27
+vntext.sq#8815,vntext.sq,DEBORA,The donut looks presentable. Quite well-balanced; the elements are not fighting each other.,Пончик выглядит презентабельно. Довольно хорошо сбалансирован; элементы не борются друг с другом.,translated,91
+vntext.sq#8816,vntext.sq,DEBORA,"As for the mood... ${relaxed} without being complacent. You're not heavy handed with your enhancers, a good blend.","Что касается настроения... ${relaxed}, но без самодовольства. Вы не переборщили с усилителями, хорошее сочетание.",translated,114
+vntext.sq#8817,vntext.sq,DEBORA,"As for the mood... I'm ${focused}, but not enough to ruin an otherwise mellow night. You think about your customers and what fits the occasion.","Что касается настроения... я ${focused}, но не настолько, чтобы испортить в остальном спокойный вечер. Вы думаете о клиентах и о том, что подходит случаю.",translated,143
+vntext.sq#8818,vntext.sq,DEBORA,"I can taste the zest of dreams and {$moods:inspiration}! This is a {$flavors:lemon_acid} donut, no? To be honest with you, I associate this kind of feeling with youth... but perhaps it's never too late.","Я чувствую вкус жажды мечты и {$moods:inspiration}! Это пончик с {$flavors:lemon_acid}, да? Если честно, я ассоциирую это чувство с молодостью... но, возможно, никогда не поздно.",translated,202
+vntext.sq#8819,vntext.sq,DEBORA,"Oh, darling! I can taste sweet memories from long ago... the innocence of childhood and the smell of fried dough. This is definitely a {$flavors:strawpium} donut.","О, дорогой! Я чувствую вкус сладких воспоминаний из далёкого прошлого... невинность детства и запах жареного теста. Это точно пончик с {$flavors:strawpium}.",translated,162
+vntext.sq#8820,vntext.sq,DEBORA,I can taste the vulnerability... the overflowing of emotions! Only a {$flavors:methberry} donut can do this.,Я чувствую вкус уязвимости... переполняющих эмоций! Только пончик с {$flavors:methberry} может такое.,translated,108
+vntext.sq#8821,vntext.sq,DEBORA,"But you need to do better than this to make me tell you about my secrets, darling.","Но вам нужно постараться получше, чтобы я рассказала вам свои секреты, дорогой.",translated,82
+vntext.sq#8822,vntext.sq,DEBORA,"Indeed, this is what I would expect from a popular bakery chain.","В самом деле, именно этого я и ожидала от популярной сети пекарен.",translated,64
+vntext.sq#8823,vntext.sq,DEBORA,"But is this all you've got? You're quite skilled, that much I can see.","Но это всё, на что вы способны? Вы явно умелы, это я вижу.",translated,70
+vntext.sq#8824,vntext.sq,DEBORA,"However, the soul of your creation escapes me...",Однако душа вашего творения ускользает от меня...,translated,48
+vntext.sq#8825,vntext.sq,DEBORA,"I can't taste you in this, darling.","Я не чувствую в этом вас, дорогой.",translated,35
+vntext.sq#8827,vntext.sq,DEBORA,I find that the act of making food and eating that food is a conversation.,"Я нахожу, что процесс готовки еды и её поедания — это своего рода разговор.",translated,74
+vntext.sq#8828,vntext.sq,DEBORA,Are you really that scared to share yourself?,Вам правда так страшно поделиться собой?,translated,45
+vntext.sq#8831,vntext.sq,DEBORA,"Hm. And that's not a bad thing. But like I said, it's a conversation.","Хм. И это неплохо. Но, как я и сказала, это разговор.",translated,69
+vntext.sq#8832,vntext.sq,DEBORA,"I would like to hear your voice as well, [i] darling. [/i]","Я бы хотела услышать и ваш голос тоже, [i] дорогой. [/i]",translated,58
+vntext.sq#8835,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#8836,vntext.sq,DEBORA,"Darling, this isn't what I wanted...","Дорогой, я не этого хотела...",translated,36
+vntext.sq#8837,vntext.sq,DEBORA,Did not I say I didn't want anything {$tastes:sweet}?,"Разве я не говорила, что не хочу ничего {$tastes:sweet}?",translated,53
+vntext.sq#8838,vntext.sq,DEBORA,"I can taste ecstacy and {$moods:passion}! This is the taste of {$flavors:ubecstacy}, isn't it?","Я чувствую вкус экстаза и {$moods:passion}! Это вкус {$flavors:ubecstacy}, не так ли?",translated,94
+vntext.sq#8839,vntext.sq,DEBORA,I can taste calmness and serenity... A {$flavors:pumpketamine} donut no doubt.,"Я чувствую вкус спокойствия и безмятежности... Несомненно, пончик с {$flavors:pumpketamine}.",translated,78
+vntext.sq#8840,vntext.sq,DEBORA,I can taste {$moods:cheer}... happiness! I have no doubt that this is a {$flavors:vanilla_sky} donut.,"Я чувствую вкус {$moods:cheer}... счастья! Не сомневаюсь, что это пончик с {$flavors:vanilla_sky}.",translated,101
+vntext.sq#8841,vntext.sq,DEBORA,"I can taste something bold... something fierce! Ah, the typical {$flavors:roid_velvet} donut.","Я чувствую что-то дерзкое... что-то яростное! Ах, типичный пончик с {$flavors:roid_velvet}.",translated,93
+vntext.sq#8843,vntext.sq,DEBORA,"Well, I hope this wouldn't happen the next time I come here.","Что ж, надеюсь, в следующий раз, когда я приду, этого не повторится.",translated,60
+vntext.sq#8844,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8845,vntext.sq,DEBORA,"Hm. That taste... though they're not what I asked for, I can say that you clearly have the skills for mood confectioneering.","Хм. Этот вкус... хоть это и не то, что я просила, но могу сказать, что у вас явно есть талант к кондитерству настроения.",translated,124
+vntext.sq#8846,vntext.sq,DEBORA,But still... there's something quite lacking.,Но всё же... чего-то определённо не хватает.,translated,45
+vntext.sq#8848,vntext.sq,DEBORA,"Haha! Well, that would have made my night even better, darling.","Ха-ха! Что ж, это сделало бы мой вечер ещё лучше, дорогой.",translated,63
+vntext.sq#8849,vntext.sq,DEBORA,But I don't mind. I can roll with the punches.,Но я не против. Умею держать удар.,translated,46
+vntext.sq#8851,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8852,vntext.sq,DEBORA,"A personal flair, perhaps?","Возможно, личного колорита?",translated,26
+vntext.sq#8853,vntext.sq,DEBORA,"It feels like you're singing along to a song, but you're not owning it.","Такое чувство, будто вы подпеваете песне, но не делаете её своей.",translated,71
+vntext.sq#8861,vntext.sq,DEBORA,Debora.,Дебора.,translated,7
+vntext.sq#8863,vntext.sq,DEBORA,"You were going to ask me what my name is, no?","Вы же собирались спросить, как меня зовут, нет?",translated,45
+vntext.sq#8865,vntext.sq,DEBORA,Ahaha! I've been remiss.,Ахаха! Я забыла представиться.,translated,24
+vntext.sq#8866,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8867,vntext.sq,DEBORA,I have visited bustling cities and small towns with names I can barely pronounce.,"Я побывала в шумных городах и маленьких городках, названия которых едва могу выговорить.",translated,81
+vntext.sq#8868,vntext.sq,DEBORA,"And of course, I have partaken of the delights those places have to offer.","И, конечно же, я вкусила всё, что могли предложить эти места.",translated,74
+vntext.sq#8869,vntext.sq,DEBORA,...You can say I'm very passionate about food. And donuts in particular.,"...Можно сказать, я очень увлечена едой. И пончиками в частности.",translated,72
+vntext.sq#8870,vntext.sq,DEBORA,"I'm Debora... and I'm not a food critic, don't worry.","Я Дебора... и не переживайте, я не кулинарный критик.",translated,53
+vntext.sq#8871,vntext.sq,DEBORA,"Unfortunately, I can't say more than that.","К сожалению, больше сказать не могу.",translated,42
+vntext.sq#8873,vntext.sq,DEBORA,"Hehe... You can take it or leave it, darling.","Хехе... можете принять это или нет, дорогой.",translated,45
+vntext.sq#8875,vntext.sq,DEBORA,Do you mind if I tell you something?,"Не против, если я кое-что расскажу?",translated,36
+vntext.sq#8884,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8885,vntext.sq,DEBORA,"Once upon a time, there were siblings. A sister and her little brother.",Жили-были брат с сестрой.,translated,71
+vntext.sq#8886,vntext.sq,DEBORA,"They were... how do you call it, poor little rich kids. More money than God, with parents just as strict and absent.","Они были... как это у вас называют, бедные богатые детки. Денег больше, чем у бога, а родители такие же строгие и отсутствующие.",translated,116
+vntext.sq#8887,vntext.sq,DEBORA,"They spent a lot of time with their [i] nonna. [/i] The three of them, they were the family...",Они проводили много времени со своей [i] nonna. [/i] Втроём они и были семьёй...,translated,94
+vntext.sq#8888,vntext.sq,DEBORA,"She used to make us the most wonderful zeppole. The smell of fried dough can still bring me back to those days... simpler days. When the warmth of the sun on my skin didn't hurt and the world... well, you know how it is.","Она готовила нам самые чудесные дзепполе. Запах жареного теста до сих пор может вернуть меня в те дни... более простые дни. Когда тепло солнца на коже не причиняло боли, а мир... ну, вы понимаете, как это бывает.",translated,220
+vntext.sq#8889,vntext.sq,DEBORA,That was a long time ago.,Это было давно.,translated,25
+vntext.sq#8890,vntext.sq,DEBORA,I don't even remember her voice anymore.,Я уже даже не помню её голос.,translated,40
+vntext.sq#8891,vntext.sq,DEBORA,"I can remember the taste of the food she made, but not her voice. Is that not strange?","Я помню вкус еды, которую она готовила, но не её голос. Разве не странно?",translated,86
+vntext.sq#8894,vntext.sq,DEBORA,"My brother... I know he's chasing the memory of those zeppole too, but his path is a dangerous one.","Мой брат... я знаю, он тоже гонится за воспоминанием об этих дзепполе, но его путь опасен.",translated,99
+vntext.sq#8895,vntext.sq,DEBORA,Me? I suppose my search has brought me here.,"Я? Полагаю, мои поиски привели меня сюда.",translated,44
+vntext.sq#8901,vntext.sq,DEBORA,"Ahaha! There's no need to rush, darling.","Ахаха! Не нужно торопиться, дорогой.",translated,40
+vntext.sq#8902,vntext.sq,DEBORA,"Perhaps your perfomance tonight left a lot to be desired, but I have to say...","Возможно, ваше выступление сегодня вечером оставляло желать лучшего, но должна сказать...",translated,78
+vntext.sq#8903,vntext.sq,DEBORA,I'm intrigued.,Мне любопытно.,translated,14
+vntext.sq#8905,vntext.sq,DEBORA,Do you really?,Правда?,translated,14
+vntext.sq#8911,vntext.sq,DEBORA,You have that much confidence in your skills?,У вас настолько есть уверенность в своих навыках?,translated,45
+vntext.sq#8913,vntext.sq,DEBORA,"[i] Bene. [/i] If you hadn't said that... well, I think I would have left.","[i] Bene. [/i] Если бы вы этого не сказали... что ж, думаю, я бы ушла.",translated,74
+vntext.sq#8914,vntext.sq,DEBORA,I don't have time for someone who can't stand behind their skills.,"У меня нет времени на того, кто не может постоять за свои навыки.",translated,66
+vntext.sq#8916,vntext.sq,DEBORA,"After all, you fed me this donut. How insulting if you can't even stand by it.","В конце концов, вы накормили меня этим пончиком. Как оскорбительно, если вы даже не можете за него постоять.",translated,78
+vntext.sq#8920,vntext.sq,DEBORA,"It was intriguing, but yes. I think you can push it further.","Он был интригующим, но да. Думаю, вы можете пойти дальше.",translated,60
+vntext.sq#8921,vntext.sq,DEBORA,"I want to hear your voice, darling.","Я хочу услышать ваш голос, дорогой.",translated,35
+vntext.sq#8923,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8925,vntext.sq,DEBORA,"Oh, I can see the fire in your eyes...","О, я вижу огонь в ваших глазах...",translated,38
+vntext.sq#8926,vntext.sq,DEBORA,"You remind me a little of my brother, actually.",Вообще-то вы немного напоминаете мне моего брата.,translated,47
+vntext.sq#8928,vntext.sq,DEBORA,Ahaha... how funny.,Ахаха... как забавно.,translated,19
+vntext.sq#8929,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8930,vntext.sq,DEBORA,I will certainly come back here.,Я обязательно вернусь сюда.,translated,32
+vntext.sq#8931,vntext.sq,DEBORA,"The night is long, but I have much to do.","Ночь длинна, но у меня много дел.",translated,41
+vntext.sq#8932,vntext.sq,DEBORA,"[i] Ciao [/i] for now, darling.","[i] Ciao [/i] пока, дорогой.",translated,31
+vntext.sq#8940,vntext.sq,DEBORA,[i] Buona sera. [/i],[i] Buona sera. [/i],translated,20
+vntext.sq#8941,vntext.sq,DEBORA,I hope you're doing well this incredibly sultry evening.,"Надеюсь, у вас всё хорошо этим невероятно знойным вечером.",translated,56
+vntext.sq#8944,vntext.sq,DEBORA,I take it you're not a fan of the heat?,"Полагаю, вы не поклонник жары?",translated,39
+vntext.sq#8946,vntext.sq,DEBORA,Haha! Even though you work at the hottest box in town?,Ха-ха! Хотя вы работаете в самой горячей коробке города?,translated,54
+vntext.sq#8948,vntext.sq,DEBORA,Indeed. A little bird told me you have added a new flavor to your menu.,"Действительно. Одна птичка напела мне, что вы добавили новый вкус в меню.",translated,71
+vntext.sq#8949,vntext.sq,DEBORA,"{$flavors:roid_velvet}... the heat of overflowing emotions, like the trembling of your hands and the roar of blood rushing through your veins as you take that first step...","{$flavors:roid_velvet}... жар переполняющих эмоций, как дрожь в руках и рёв крови, несущейся по венам, когда вы делаете тот самый первый шаг...",translated,172
+vntext.sq#8950,vntext.sq,DEBORA,"Whether it's a confession of love, a decision you'd rather not make — or perhaps facing that which you have been dreading...","Будь то признание в любви, решение, которое вы предпочли бы не принимать — или, может быть, столкновение с тем, чего вы страшились...",translated,124
+vntext.sq#8952,vntext.sq,DEBORA,This is truly not a flavor for the weak of heart.,Это правда не вкус для слабонервных.,translated,49
+vntext.sq#8954,vntext.sq,DEBORA,"Ahaha, the annoyance in your voice, darling. Is this a pet peeve perhaps?","Ахаха, сколько раздражения в вашем голосе, дорогой. Это, случайно, не больная мозоль?",translated,73
+vntext.sq#8957,vntext.sq,DEBORA,"Well then, I want to give this a try. How about it, darling? I want a {$heavy} donut with {$flavors:roid_velvet}.","Что ж, тогда хочу это попробовать. Ну как, дорогой? Хочу {$heavy} пончик с {$flavors:roid_velvet}.",translated,113
+vntext.sq#8966,vntext.sq,DEBORA,"Let me taste this heat of yours, darling.","Дайте мне ощутить этот ваш жар, дорогой.",translated,41
+vntext.sq#8968,vntext.sq,DEBORA,[i] Grazie. [/i],[i] Grazie. [/i],translated,16
+vntext.sq#8970,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#8971,vntext.sq,DEBORA,"Another bad one. I expected better from you, darling.","Ещё один плохой. Я ожидала от вас большего, дорогой.",translated,53
+vntext.sq#8972,vntext.sq,DEBORA,Let's try one more time.,Давайте попробуем ещё раз.,translated,24
+vntext.sq#8974,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#8976,vntext.sq,DEBORA,"I will not stop asking for a donut, until you make something edible.","Я не перестану просить пончик, пока вы не сделаете что-то съедобное.",translated,68
+vntext.sq#8977,vntext.sq,DEBORA,"I will not stop asking for a donut, until you make something that tastes right.","Я не перестану просить пончик, пока вы не сделаете что-то с правильным вкусом.",translated,79
+vntext.sq#8978,vntext.sq,DEBORA,"Obviously, I will not pay for the bad ones you make.","Разумеется, я не буду платить за неудачные попытки.",translated,52
+vntext.sq#8982,vntext.sq,DEBORA,I'll be fine. I only took one small bite...,Всё будет в порядке. Я взяла только один маленький кусочек...,translated,43
+vntext.sq#8983,vntext.sq,DEBORA,"That is all I need to judge the worth of a donut. And this one... well, to take more than one bite would be bad for anyone's health.","Этого мне достаточно, чтобы оценить пончик. А этот... что ж, откусить больше одного кусочка было бы вредно для чьего угодно здоровья.",translated,132
+vntext.sq#8986,vntext.sq,DEBORA,"...Hmm, yes, the slight ${bitterness} of cocoa... and that tartness, a beautiful balance indeed.","...Хм, да, лёгкая ${bitterness} какао... и эта кислинка, поистине прекрасный баланс.",translated,96
+vntext.sq#8987,vntext.sq,DEBORA,"Ah, my heart is pounding... the warm air is like a lover's breath against my skin...","Ах, моё сердце колотится... тёплый воздух — как дыхание любовника на коже...",translated,84
+vntext.sq#8988,vntext.sq,DEBORA,Tonight is full of possibilities.,Сегодняшний вечер полон возможностей.,translated,33
+vntext.sq#8991,vntext.sq,DEBORA,"{$moods:courage} and {$moods:passion}, I suppose there's a lot of overlap between the two.","{$moods:courage} и {$moods:passion}, полагаю, между ними много общего.",translated,90
+vntext.sq#8992,vntext.sq,DEBORA,"But you should know the difference, correct?","Но вам ведь известна разница, верно?",translated,44
+vntext.sq#8994,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8995,vntext.sq,DEBORA,I suppose so.,"Полагаю, вы правы.",translated,13
+vntext.sq#8997,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#8998,vntext.sq,DEBORA,"Have you ever fallen in love, darling?","Вы когда-нибудь влюблялись, дорогой?",translated,38
+vntext.sq#9000,vntext.sq,DEBORA,"The turbulence of first love, the pangs of rejection, the stinging tears from a big fight... you have surely experienced this.","Смятение первой любви, укол отказа, жгучие слёзы после большой ссоры... вы наверняка через это проходили.",translated,126
+vntext.sq#9002,vntext.sq,DEBORA,I suppose you're the type who never makes the first move?,"Полагаю, вы из тех, кто никогда не делает первый шаг?",translated,57
+vntext.sq#9005,vntext.sq,DEBORA,And you hold yourself back. Just like this donut.,И вы сдерживаете себя. Прямо как этот пончик.,translated,49
+vntext.sq#9008,vntext.sq,DEBORA,I didn't say that.,Я такого не говорила.,translated,18
+vntext.sq#9010,vntext.sq,DEBORA,"Darling, this donut has other {$tastes:sweet} elements in it. Didn't I ask you to be careful of the balance?","Дорогой, в этом пончике есть и другие {$tastes:sweet} элементы. Разве я не просила вас быть осторожнее с балансом?",translated,108
+vntext.sq#9011,vntext.sq,DEBORA,But you have given me an interesting flavor...,Но вы дали мне интересный вкус...,translated,46
+vntext.sq#9012,vntext.sq,DEBORA,"The zest of {$flavors:lemon_acid}, no doubt. I was looking for tartness, but this is not what I wanted for tonight.","Пикантность {$flavors:lemon_acid}, несомненно. Я искала кислинку, но это не то, чего я хотела сегодня вечером.",translated,115
+vntext.sq#9013,vntext.sq,DEBORA,The nutty sweetness of {$flavors:ubecstacy}. The mood is perfect for such an evening... but this isn't what I asked for darling.,"Ореховая сладость {$flavors:ubecstacy}. Настроение идеально для такого вечера... но это не то, о чём я просила, дорогой.",translated,128
+vntext.sq#9014,vntext.sq,DEBORA,"The rich bitterness of {$flavors:matchajuana}. Truly one of my favorites, but not what I was looking for tonight.","Насыщенная горечь {$flavors:matchajuana}. Правда один из моих любимых, но не то, что я искала сегодня.",translated,113
+vntext.sq#9015,vntext.sq,DEBORA,"The mild sweetness of {$flavors:pumpketamine}. Refreshing in this intense weather, but I believe I asked for something completely different.","Мягкая сладость {$flavors:pumpketamine}. Освежает в такую жару, но, кажется, я просила совсем другое.",translated,140
+vntext.sq#9016,vntext.sq,DEBORA,"The tartness of ${strawberries}. I was looking for that flavor profile, but this is too fresh... too spring-like, if you will. Not the best fit for tonight.","Кислинка ${strawberries}. Я искала именно этот вкусовой профиль, но этот слишком свежий... слишком весенний, если хотите. Не лучший выбор для сегодняшнего вечера.",translated,156
+vntext.sq#9017,vntext.sq,DEBORA,"The floral sweetness of {$flavors:vanilla_sky}. A lot more complex than the standard... I commend you for this blend, but this isn't what I asked for, darling.","Цветочная сладость {$flavors:vanilla_sky}. Гораздо сложнее стандартной... хвалю вас за это сочетание, но это не то, о чём я просила, дорогой.",translated,159
+vntext.sq#9018,vntext.sq,DEBORA,"The sourness of ${blueberries}. Hmm... I [i] was [/i] looking for something sour tonight, but this isn't quite the flavor profile I wanted.","Кислинка ${blueberries}. Хм... я [i] искала [/i] что-то кислое сегодня, но это не совсем тот вкусовой профиль, что я хотела.",translated,139
+vntext.sq#9019,vntext.sq,DEBORA,"The bittersweet richness of {$flavors:chococaine}. Close, very close, darling. But I want that extra kick... just a little something else that {$flavors:chococaine} can't provide.","Горько-сладкая насыщенность {$flavors:chococaine}. Близко, очень близко, дорогой. Но мне нужен ещё тот самый заряд... что-то ещё, чего {$flavors:chococaine} дать не может.",translated,179
+vntext.sq#9022,vntext.sq,DEBORA,Perhaps not this time.,"Возможно, не в этот раз.",translated,22
+vntext.sq#9023,vntext.sq,DEBORA,We don't always get what we want in life... I might as well enjoy this delectable little offering.,"Мы не всегда получаем то, что хотим в жизни... с тем же успехом могу насладиться этим восхитительным маленьким подношением.",translated,98
+vntext.sq#9024,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9025,vntext.sq,DEBORA,"You're still holding yourself back, yes. But this time, I can taste the hesitation...","Вы всё ещё сдерживаетесь, да. Но на этот раз я чувствую вкус нерешительности...",translated,85
+vntext.sq#9027,vntext.sq,DEBORA,It makes you a part of the conversation. How can it be a bad thing?,Это делает вас частью разговора. Как это может быть плохо?,translated,67
+vntext.sq#9028,vntext.sq,DEBORA,"After all, even if it's not what I asked for, it [i] did [/i] tell me something.","В конце концов, даже если это не то, о чём я просила, это [i] всё же [/i] мне кое-что рассказало.",translated,80
+vntext.sq#9030,vntext.sq,DEBORA,"Perhaps you're not ready to serve {$moods:courage}, darling?","Может быть, вы ещё не готовы подавать {$moods:courage}, дорогой?",translated,60
+vntext.sq#9033,vntext.sq,DEBORA,"Tell me, darling. What is it that you're afraid of?","Скажите, дорогой. Чего вы боитесь?",translated,51
+vntext.sq#9040,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9046,vntext.sq,DEBORA,"Oh, darling...","О, дорогой...",translated,14
+vntext.sq#9049,vntext.sq,DEBORA,Ahaha! Is that really true? I think you might enjoy getting disciplined by me.,"Ахаха! Это правда так? Думаю, вам могло бы понравиться, если бы я вас проучила.",translated,78
+vntext.sq#9051,vntext.sq,DEBORA,Haha! You really are interesting.,Ха-ха! Вы правда интересный.,translated,33
+vntext.sq#9054,vntext.sq,DEBORA,Everybody's afraid of something.,Все чего-то боятся.,translated,32
+vntext.sq#9055,vntext.sq,DEBORA,"Back then... no. Even now, I am driven to find the courage I need to move forward.","Тогда... нет. Даже сейчас меня толкает вперёд поиск храбрости, чтобы двигаться дальше.",translated,82
+vntext.sq#9056,vntext.sq,DEBORA,"But after [i] nonna [/i] passed away, there was no family. Me and my brother had to learn how to protect ourselves... after all, who else did we have?","Но после смерти [i] nonna [/i] у нас не осталось семьи. Мне и брату пришлось научиться защищать себя самим... в конце концов, кто ещё у нас был?",translated,150
+vntext.sq#9058,vntext.sq,DEBORA,It takes a certain kind of bravery to look back...,"Нужна определённая храбрость, чтобы оглянуться назад...",translated,50
+vntext.sq#9059,vntext.sq,DEBORA,"Back then, we were the most vulnerable. But we were also innocent.",Тогда мы были наиболее уязвимы. Но и наиболее невинны.,translated,66
+vntext.sq#9060,vntext.sq,DEBORA,"Did you know, darling? In Ifalia, we have a saying...","Знаете, дорогой? В Ифалии у нас есть поговорка...",translated,53
+vntext.sq#9061,vntext.sq,DEBORA,"When things clash, that's when it gets interesting.'","Когда всё сталкивается, вот тогда и становится интересно.'",translated,52
+vntext.sq#9062,vntext.sq,DEBORA,"Making mistakes is part of the process of finding oneself, no?","Совершать ошибки — часть процесса нахождения себя, не так ли?",translated,62
+vntext.sq#9064,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9065,vntext.sq,DEBORA,Perhaps.,Возможно.,translated,8
+vntext.sq#9066,vntext.sq,DEBORA,My brother... he took a very dangerous path in order to find himself.,"Мой брат... он выбрал очень опасный путь, чтобы найти себя.",translated,69
+vntext.sq#9067,vntext.sq,DEBORA,There you go. Another thing I'm afraid of.,"Вот вам ещё одна вещь, которой я боюсь.",translated,42
+vntext.sq#9069,vntext.sq,DEBORA,"He is, at the moment. But the way he's been living... I have to admit... I worry.","На данный момент да. Но то, как он живёт... должна признать... я переживаю.",translated,81
+vntext.sq#9072,vntext.sq,DEBORA,"You know... talking to you, enjoying your donuts, just being in this place...","Знаете... разговор с вами, наслаждение вашими пончиками, просто пребывание здесь...",translated,77
+vntext.sq#9073,vntext.sq,DEBORA,I wonder... Maybe he's not completely gone.,"Мне интересно... может, он не совсем потерян.",translated,43
+vntext.sq#9075,vntext.sq,DEBORA,"But look at the time! I must run, darling.","Но посмотрите на время! Мне нужно бежать, дорогой.",translated,42
+vntext.sq#9076,vntext.sq,DEBORA,"The night might be long, but so is my list of appointments.","Ночь может быть длинной, но и список моих встреч тоже.",translated,59
+vntext.sq#9077,vntext.sq,DEBORA,[i] Ciao! [/i] I look forward to your next creation.,[i] Ciao! [/i] Жду не дождусь вашего следующего творения.,translated,52
+vntext.sq#9088,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9090,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9092,vntext.sq,DEBORA,... [i] Buona sera. [/i],... [i] Buona sera. [/i],translated,24
+vntext.sq#9094,vntext.sq,DEBORA,Hah! Flirt. You'll fit quite well in Ifalia with that tongue of yours.,Ха! Льстец. С таким языком вы бы неплохо вписались в Ифалии.,translated,70
+vntext.sq#9096,vntext.sq,DEBORA,"Hm, I sure hope so. After all, in your line of work, taste is quite important, no?","Хм, надеюсь на это. В конце концов, в вашей работе вкус довольно важен, не так ли?",translated,82
+vntext.sq#9097,vntext.sq,DEBORA,...And I see you've added even more items to your arsenal.,"...И вижу, вы добавили ещё пунктов в свой арсенал.",translated,58
+vntext.sq#9098,vntext.sq,DEBORA,"${Bacon}, huh? This is going to be interesting.","${Bacon}, значит? Это будет интересно.",translated,47
+vntext.sq#9101,vntext.sq,DEBORA,Haha! I suppose that sharpness of yours is more than just for mood confectioneering.,"Ха-ха! Полагаю, эта ваша проницательность нужна не только для кондитерства настроения.",translated,84
+vntext.sq#9103,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9104,vntext.sq,DEBORA,Something happened.,Кое-что случилось.,translated,19
+vntext.sq#9105,vntext.sq,DEBORA,I received a call earlier that frankly has left me ill at ease.,"Мне позвонили ранее, и, честно говоря, это выбило меня из колеи.",translated,63
+vntext.sq#9110,vntext.sq,DEBORA,[i] Grazie. [/i],[i] Grazie. [/i],translated,16
+vntext.sq#9112,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#9113,vntext.sq,DEBORA,"Hah! This one's a bad donut, darling.","Ха! Это плохой пончик, дорогой.",translated,37
+vntext.sq#9114,vntext.sq,DEBORA,"Surely you can do better than this. Give me something that is actually edible, yes?","Уверена, вы можете лучше. Дайте мне что-то действительно съедобное, да?",translated,83
+vntext.sq#9117,vntext.sq,DEBORA,Good. I'm waiting for that donut.,Хорошо. Жду этот пончик.,translated,33
+vntext.sq#9118,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#9119,vntext.sq,DEBORA,"Hah! This one's a bad donut, [i] caro. [/i]","Ха! Это плохой пончик, [i] caro. [/i]",translated,43
+vntext.sq#9120,vntext.sq,DEBORA,"Surely you can do better than this. Give me something that is actually edible, yes?","Уверена, вы можете лучше. Дайте мне что-то действительно съедобное, да?",translated,83
+vntext.sq#9121,vntext.sq,DEBORA,"Surely you can do better than this. Give me something I can actually taste, yes?","Уверена, вы можете лучше. Дайте мне что-то, что я и правда смогу распробовать, да?",translated,80
+vntext.sq#9123,vntext.sq,DEBORA,Good. I'm waiting for that donut.,Хорошо. Жду этот пончик.,translated,33
+vntext.sq#9125,vntext.sq,DEBORA,...Not bad. You're learning.,...Неплохо. Вы учитесь.,translated,28
+vntext.sq#9126,vntext.sq,DEBORA,"The sweetness of the {$flavors:pumpketamine} works well with the saltiness of ${Bacon}. Your past creations have shown me you're good at balancing the elements in your donuts, but you've reached a different level here.","Сладость {$flavors:pumpketamine} хорошо сочетается с солоноватостью ${Bacon}. Ваши прошлые творения показали, что вы умеете балансировать элементы в пончиках, но здесь вы вышли на новый уровень.",translated,218
+vntext.sq#9127,vntext.sq,DEBORA,It would be so easy for the ${Bacon} to overpower the main star of the show... but here you've made them bring out the best in each other.,${Bacon} было бы так легко заглушить главную звезду... но здесь вы заставили их раскрыть лучшее друг в друге.,translated,138
+vntext.sq#9128,vntext.sq,DEBORA,What a beautiful duet!,Какой прекрасный дуэт!,translated,22
+vntext.sq#9129,vntext.sq,DEBORA,I feel much calmer now...,Теперь я чувствую себя намного спокойнее...,translated,25
+vntext.sq#9130,vntext.sq,DEBORA,"Ah, the bitterness of {$flavors:matchajuana} with the ${Bacon}... how interesting. A bold decision, but I think you were able to pull it off.","Ах, горечь {$flavors:matchajuana} с ${Bacon}... как интересно. Смелое решение, но, думаю, вам удалось его воплотить.",translated,141
+vntext.sq#9131,vntext.sq,DEBORA,"The trick is to make sure every element is just right... not too salty, not too sweet... and this way they're able to complement each other. A harmony instead of chaos...","Хитрость в том, чтобы каждый элемент был выверен точно... не слишком солёно, не слишком сладко... и тогда они дополняют друг друга. Гармония вместо хаоса...",translated,170
+vntext.sq#9132,vntext.sq,DEBORA,"Yes... this helps, [i] darling. [/i] I don't feel quite as tense now.","Да... это помогает, [i] дорогой. [/i] Я уже не чувствую себя такой напряжённой.",translated,69
+vntext.sq#9133,vntext.sq,DEBORA,"Hm. ${Blueberries} with ${bacon}... a breakfast staple in this country, if I'm correct.","Хм. ${Blueberries} с ${bacon}... классика завтрака в этой стране, если не ошибаюсь.",translated,87
+vntext.sq#9134,vntext.sq,DEBORA,"And I can't blame you. This combination could be the perfect balance of sweet, sour, and salty. The kind that would make you keep wanting to go back for more.","И я вас не виню. Это сочетание может быть идеальным балансом сладкого, кислого и солёного. Из тех, что заставляют возвращаться за добавкой.",translated,158
+vntext.sq#9135,vntext.sq,DEBORA,...And this mood...,...А это настроение...,translated,19
+vntext.sq#9136,vntext.sq,DEBORA,"Haha, well, it [i] is [/i] a bit heavy-handed. But I suppose I did ask for a push in the right direction.","Ха-ха, что ж, оно [i] и правда [/i] несколько прямолинейное. Но, полагаю, я сама просила подтолкнуть меня в верном направлении.",translated,105
+vntext.sq#9137,vntext.sq,DEBORA,But to share my troubles with you... is that a part of mood confectioneering as well?,Но делиться с вами своими проблемами... это тоже часть кондитерства настроения?,translated,85
+vntext.sq#9140,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9142,vntext.sq,DEBORA,Interesting. Very interesting indeed.,Интересно. Правда очень интересно.,translated,37
+vntext.sq#9143,vntext.sq,DEBORA,"{$flavors:lemon_acid} and ${Bacon} is not a combination that I would think works, but this isn't too bad.","{$flavors:lemon_acid} и ${Bacon} — не то сочетание, которое я сочла бы рабочим, но это не так уж плохо.",translated,105
+vntext.sq#9144,vntext.sq,DEBORA,"On the other hand... I'm not sure this is the push I needed for tonight, [i] darling. [/i] I need ${calmness}.","С другой стороны... не уверена, что это тот толчок, что нужен мне сегодня, [i] дорогой. [/i] Мне нужно ${calmness}.",translated,110
+vntext.sq#9145,vntext.sq,DEBORA,To think of a solution... I think that needs to come later.,"Думать о решении... это, думаю, должно прийти позже.",translated,59
+vntext.sq#9146,vntext.sq,DEBORA,{$flavors:ubecstacy} and ${Bacon}... I wouldn't have thought of it myself.,{$flavors:ubecstacy} и ${Bacon}... сама бы я до этого не додумалась.,translated,74
+vntext.sq#9147,vntext.sq,DEBORA,"But this mood... I'm not sure tonight calls for {$moods:passion}, [i] darling. [/i] I need ${calmness}, not to fan my already turbulent emotions.","Но это настроение... не уверена, что сегодня вечером мне нужна {$moods:passion}, [i] дорогой. [/i] Мне нужно ${calmness}, а не раздувать и без того неспокойные эмоции.",translated,145
+vntext.sq#9148,vntext.sq,DEBORA,{$flavors:strawpium} and ${Bacon}... I can see the vision behind it.,{$flavors:strawpium} и ${Bacon}... вижу вашу задумку.,translated,68
+vntext.sq#9149,vntext.sq,DEBORA,"But this mood... I'm afraid this is too distracting for me, [i] darling. [/i] I need clarity of mind and looking at the past with rose-tinted glasses... it really won't do.","Но это настроение... боюсь, оно слишком отвлекает меня, [i] дорогой. [/i] Мне нужна ясность ума, а смотреть на прошлое сквозь розовые очки... это точно не подойдёт.",translated,172
+vntext.sq#9150,vntext.sq,DEBORA,"{$flavors:vanilla_sky} and ${Bacon}... A very good combination, if I do say so myself.","{$flavors:vanilla_sky} и ${Bacon}... очень хорошее сочетание, если можно так сказать.",translated,86
+vntext.sq#9151,vntext.sq,DEBORA,"But this mood... I can see why you chose this, [i] darling, [/i] but there are truths I need to face tonight. ${Cheerfulness} isn't quite what I need right now.","Но это настроение... понимаю, почему вы это выбрали, [i] дорогой, [/i] но сегодня мне нужно встретиться с некоторыми истинами лицом к лицу. ${Cheerfulness} — это не совсем то, что мне сейчас нужно.",translated,160
+vntext.sq#9152,vntext.sq,DEBORA,"{$flavors:roid_velvet} and ${Bacon}... Well, I have seen worse.","{$flavors:roid_velvet} и ${Bacon}... что ж, бывало и хуже.",translated,63
+vntext.sq#9153,vntext.sq,DEBORA,"I can see why you chose {$moods:courage}, of course. But I'm worried that too much {$moods:courage} might push me into actions I would later regret...","Понимаю, почему вы выбрали {$moods:courage}, конечно. Но переживаю, что слишком много {$moods:courage} может подтолкнуть меня к действиям, о которых я потом пожалею...",translated,150
+vntext.sq#9154,vntext.sq,DEBORA,"{$flavors:chococaine} and ${Bacon}... a bold choice, but not bad.","{$flavors:chococaine} и ${Bacon}... смелый выбор, но неплохо.",translated,65
+vntext.sq#9155,vntext.sq,DEBORA,"This mood, on the other hand... I can see why you chose this, [i] darling, [/i] but I need to calm down first. {$moods:focus} is good, but it can do nothing to allay my fears...","А вот это настроение... понимаю, почему вы это выбрали, [i] дорогой, [/i] но мне сначала нужно успокоиться. {$moods:focus} — это хорошо, но с моими страхами оно ничего поделать не может...",translated,177
+vntext.sq#9158,vntext.sq,DEBORA,"...Thank you, [i] caro. [/i]","...Спасибо, [i] caro. [/i]",translated,28
+vntext.sq#9159,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9160,vntext.sq,DEBORA,My brother... the one I told you about...,"Мой брат... тот, о котором я вам рассказывала...",translated,41
+vntext.sq#9161,vntext.sq,DEBORA,He's always been a rebellious one. The one who wants to fight...,"Он всегда был мятежным. Тем, кто хочет драться...",translated,64
+vntext.sq#9162,vntext.sq,DEBORA,"Bad food, our parents, the system... there's always something for him to hate.","Плохая еда, наши родители, система... у него всегда находится что ненавидеть.",translated,78
+vntext.sq#9163,vntext.sq,DEBORA,"When [i] nonna [/i] passed away, it's as if he lost the ability to feel anything.","Когда [i] nonna [/i] умерла, будто он потерял способность что-либо чувствовать.",translated,81
+vntext.sq#9164,vntext.sq,DEBORA,"But the anger... that remained. He has done a lot of things, stupid and dangerous things, because of this. I worry about him constantly.","Но злость... она осталась. Он натворил из-за неё много всего, глупого и опасного. Я постоянно за него переживаю.",translated,136
+vntext.sq#9166,vntext.sq,DEBORA,One of his... friends called me earlier this evening.,Один из его... друзей позвонил мне сегодня вечером.,translated,53
+vntext.sq#9168,vntext.sq,DEBORA,He's in the hospital in San Luis. Gunshot wound!,Он в больнице в Сан-Луисе. Огнестрельное ранение!,translated,48
+vntext.sq#9169,vntext.sq,DEBORA,"First, that [i] chaos [/i] he caused in San Juanico. Now this!","Сначала тот [i] хаос, [/i] что он устроил в Сан-Хуанико. А теперь это!",translated,62
+vntext.sq#9170,vntext.sq,DEBORA,"Ah, Lucca, what am I going to do with you?","Ах, Лукка, что мне с тобой делать?",translated,42
+vntext.sq#9174,vntext.sq,DEBORA,"...Yes, the wound is not fatal. He's always been a lucky one. The stars aligned when he was born, [i] nonna [/i] used to say.","...Да, рана не смертельна. Он всегда был везунчиком. Звёзды сошлись, когда он родился, говорила [i] nonna. [/i]",translated,125
+vntext.sq#9176,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9177,vntext.sq,DEBORA,Lucca Santoro!,Лукка Санторо!,translated,14
+vntext.sq#9178,vntext.sq,DEBORA,I had to find out from Sandy! Of all people! You couldn't have called me earlier?,Пришлось узнавать от Сэнди! Из всех людей! Не мог позвонить мне раньше?,translated,81
+vntext.sq#9179,vntext.sq,DEBORA,"...I know you're fine. You can jump off a cliff and land on your feet. But I will not hear any news of you from a [i] friend [/i] again, do you understand?","...Знаю, ты в порядке. Ты можешь прыгнуть со скалы и приземлиться на ноги. Но я больше не желаю узнавать новости о тебе от [i] друга, [/i] понимаешь?",translated,155
+vntext.sq#9180,vntext.sq,DEBORA,"If you can't tell me you landed yourself in trouble again, if you can't call me yourself, to tell me [i] to my face [/i] about the excrement you have stepped on, don't bother to call.","Если не можешь сказать мне, что снова влип в неприятности, если не можешь сам мне позвонить и рассказать [i] мне в лицо, [/i] во что ты вляпался, тогда даже не звони.",translated,183
+vntext.sq#9183,vntext.sq,DEBORA,...Oh you will see me. Perhaps sooner than you think.,"...О, вы меня увидите. Возможно, скорее, чем думаете.",translated,53
+vntext.sq#9184,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9185,vntext.sq,DEBORA,"...[i] Darling, [/i] does it ever feel like my brother and I give you more trouble than we are worth?","...[i] Дорогой, [/i] вам когда-нибудь кажется, что мы с братом доставляем вам больше хлопот, чем того стоим?",translated,101
+vntext.sq#9189,vntext.sq,DEBORA,...Is that so? How surprising...,...Правда? Как удивительно...,translated,32
+vntext.sq#9190,vntext.sq,DEBORA,"That's why we call him Lucky, you know.","Вот почему мы зовём его Лаки, знаете ли.",translated,39
+vntext.sq#9192,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#9193,vntext.sq,DEBORA,Lucca Santoro!,Лукка Санторо!,translated,14
+vntext.sq#9195,vntext.sq,DEBORA,I had to find out from Sandy! Of all people! You couldn't have called me earlier?,Пришлось узнавать от Сэнди! Из всех людей! Не мог позвонить мне раньше?,translated,81
+vntext.sq#9196,vntext.sq,DEBORA,"...I know you're fine. You can jump off a cliff and land on your feet. But I will not hear any news of you from a [i] friend [/i] again, do you understand?","...Знаю, ты в порядке. Ты можешь прыгнуть со скалы и приземлиться на ноги. Но я больше не желаю узнавать новости о тебе от [i] друга, [/i] понимаешь?",translated,155
+vntext.sq#9197,vntext.sq,DEBORA,"If you can't tell me you landed yourself in trouble again, if you can't call me yourself, to tell me [i] to my face [/i] about the excrement you have stepped on, don't bother to call.","Если не можешь сказать мне, что снова влип в неприятности, если не можешь сам мне позвонить и рассказать [i] мне в лицо, [/i] во что ты вляпался, тогда даже не звони.",translated,183
+vntext.sq#9200,vntext.sq,DEBORA,...Oh you will see me. Perhaps sooner than you think.,"...О, вы меня увидите. Возможно, скорее, чем думаете.",translated,53
+vntext.sq#9201,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9204,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9205,vntext.sq,DEBORA,"Haha... I didn't intend to keep it a secret for long. But I wanted to get the feel of this place, a taste of your donuts, before revealing my connection to your boss.","Ха-ха... я не собиралась долго хранить это в тайне. Но хотела почувствовать это место, попробовать ваши пончики, прежде чем раскрыть свою связь с вашим боссом.",translated,166
+vntext.sq#9236,vntext.sq,DEBORA,"...Everything I told you was the truth. If nothing else, I want you to know this, darling.","...Всё, что я вам рассказала, было правдой. Если не считать больше ничего, хочу, чтобы вы это знали, дорогой.",translated,90
+vntext.sq#9238,vntext.sq,DEBORA,Our [i] nonna's [/i] death... I think that's when it started. Lucca has always been the emotional one. So warm and passionate.,"Смерть нашей [i] nonna... [/i] думаю, именно тогда всё и началось. Лукка всегда был эмоциональным. Таким тёплым и страстным.",translated,126
+vntext.sq#9239,vntext.sq,DEBORA,But all that passion... I'm afraid he had no idea how to channel any of it into something positive. Less destructive.,"Но всю эту страсть... боюсь, он понятия не имел, как направить её во что-то позитивное. Менее разрушительное.",translated,117
+vntext.sq#9240,vntext.sq,DEBORA,"And me? It might come as a surprise, but I'm the opposite...","А я? Может показаться удивительным, но я противоположность...",translated,60
+vntext.sq#9241,vntext.sq,DEBORA,"I'm colder, more reserved... not quite the stereotypical Ifalian.","Я холоднее, сдержаннее... не совсем стереотипная ифальянка.",translated,65
+vntext.sq#9242,vntext.sq,DEBORA,"Without these mood enhancers, I find it harder to express myself.",Без этих усилителей настроения мне труднее выражать себя.,translated,65
+vntext.sq#9244,vntext.sq,DEBORA,"Haha! But I've already eaten one of your creations, haven't I?","Ха-ха! Но я уже съела одно из ваших творений, не так ли?",translated,62
+vntext.sq#9246,vntext.sq,DEBORA,"I suppose I'm partly to blame. We lost something precious after [i] nonna's [/i] death, but that wasn't the end of the family. We still had each other.","Полагаю, отчасти я сама виновата. Мы потеряли что-то драгоценное после смерти [i] nonna, [/i] но это не было концом семьи. У нас всё ещё были друг друга.",translated,151
+vntext.sq#9247,vntext.sq,DEBORA,"Lucca tried to reach out to me, but I was dealing with my hurt in my own way. I withdrew within myself.","Лукка пытался протянуть мне руку, но я справлялась со своей болью по-своему. Я замкнулась в себе.",translated,103
+vntext.sq#9251,vntext.sq,DEBORA,"And before I knew it, Lucca had chosen his own path... one I couldn't follow.","И не успела я опомниться, как Лукка выбрал свой собственный путь... которым я пойти не могла.",translated,77
+vntext.sq#9253,vntext.sq,DEBORA,...I know. And we're both adults now... he can make his own decisions.,...Я знаю. И мы оба теперь взрослые... он может сам принимать решения.,translated,70
+vntext.sq#9254,vntext.sq,DEBORA,But I still worry... I think that one day I'll wake up and I'll see my little brother's name on the news.,"Но я всё равно переживаю... думаю, что однажды проснусь и увижу имя моего младшего брата в новостях.",translated,105
+vntext.sq#9255,vntext.sq,DEBORA,...And I won't have a family anymore.,...И у меня больше не будет семьи.,translated,37
+vntext.sq#9258,vntext.sq,DEBORA,"But that's why I'm here, darling.","Но именно поэтому я здесь, дорогой.",translated,33
+vntext.sq#9260,vntext.sq,DEBORA,"When I found out about this place, about Lucca hiring a mood confectioner... I was curious.","Когда я узнала про это место, про то, что Лукка нанял кондитера настроения... мне стало любопытно.",translated,91
+vntext.sq#9261,vntext.sq,DEBORA,"You see, I've been traveling the world in search of [i] nonna's [/i] zeppole. Anything that would remind me of that warm fried dough, that sweet filling...","Видите ли, я путешествую по миру в поисках дзепполе [i] nonna. [/i] Чего угодно, что напомнило бы мне о том тёплом жареном тесте, той сладкой начинке...",translated,155
+vntext.sq#9262,vntext.sq,DEBORA,And I thought... Could it be that Lucca was doing the same?,И я подумала... а вдруг Лукка занимается тем же самым?,translated,59
+vntext.sq#9264,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9265,vntext.sq,DEBORA,Haha! Perhaps this is too much pressure to put on a stranger.,"Ха-ха! Возможно, это слишком большое давление для незнакомца.",translated,61
+vntext.sq#9266,vntext.sq,DEBORA,"After all, I am Lucca's family. And this is a family problem.","В конце концов, я семья Лукки. А это семейная проблема.",translated,61
+vntext.sq#9268,vntext.sq,DEBORA,"My mind is much clearer now, darling. Thank you for listening to me.","У меня в голове теперь намного яснее, дорогой. Спасибо, что выслушали.",translated,68
+vntext.sq#9269,vntext.sq,DEBORA,"And truly, I didn't meant to keep it from you for so long.","И правда, я не хотела скрывать это от вас так долго.",translated,58
+vntext.sq#9272,vntext.sq,DEBORA,"Of course, darling. They're not mine to tell in the first place.","Конечно, дорогой. Это в любом случае не мне рассказывать.",translated,64
+vntext.sq#9275,vntext.sq,DEBORA,"Now if you'll excuse me, I have some things to attend to.","А теперь прошу меня извинить, у меня есть некоторые дела.",translated,57
+vntext.sq#9276,vntext.sq,DEBORA,"[i] Ciao, [/i] darling.","[i] Ciao, [/i] дорогой.",translated,23
+vntext.sq#9288,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9289,vntext.sq,DEBORA,[i] Buona sera. [/i],[i] Buona sera. [/i],translated,20
+vntext.sq#9292,vntext.sq,DEBORA,"Well, darling... I have been worse.","Что ж, дорогой... бывало и хуже.",translated,35
+vntext.sq#9294,vntext.sq,DEBORA,"...It would take more than a gunshot wound to stop that [i] coglione. [/i] He's back on his feet after a few days, terrorizing the women of San Luis.","...Нужно нечто большее, чем огнестрельная рана, чтобы остановить этого [i] coglione. [/i] Он снова на ногах спустя пару дней, терроризирует женщин Сан-Луиса.",translated,149
+vntext.sq#9296,vntext.sq,DEBORA,"Sandy lets my brother get away with many things. Too many things, if you ask me.","Сэнди позволяет моему брату многое сходить с рук. Слишком многое, если вы спросите меня.",translated,80
+vntext.sq#9300,vntext.sq,DEBORA,"Of course, that's why I'm here.","Конечно, я за этим и пришла.",translated,31
+vntext.sq#9301,vntext.sq,DEBORA,Now how about something like a ${Red Velv}—,Как насчёт чего-то вроде ${Red Velv}—,translated,43
+vntext.sq#9303,vntext.sq,DEBORA,[i] Amica. [/i] And different?,[i] Amica. [/i] И другое?,translated,30
+vntext.sq#9305,vntext.sq,DEBORA,"Yes, because I want to hear your voice... to taste your own emotions in the donut, darling.","Да, потому что хочу услышать ваш голос... почувствовать вкус ваших собственных эмоций в пончике, дорогой.",translated,91
+vntext.sq#9307,vntext.sq,DEBORA,Hmm... interesting.,Хм... интересно.,translated,19
+vntext.sq#9308,vntext.sq,DEBORA,"Very well. This is another version of our little duet, no?","Что ж, хорошо. Это ведь ещё одна версия нашего маленького дуэта, не так ли?",translated,58
+vntext.sq#9310,vntext.sq,DEBORA,I want a {$whole} donut. And the heat of {$moods:courage} for tonight's {$decor:glaze}.,Хочу {$whole} пончик. И жар {$moods:courage} для сегодняшней {$decor:glaze}.,translated,87
+vntext.sq#9318,vntext.sq,DEBORA,"... {$moods:sincerity}, yes?","... {$moods:sincerity}, да?",translated,28
+vntext.sq#9319,vntext.sq,DEBORA,"Are you saying I haven't been very ${sincere} with you, darling?","Вы намекаете, что я не была с вами очень ${sincere}, дорогой?",translated,64
+vntext.sq#9321,vntext.sq,DEBORA,...I'll take it.,...Приму это.,translated,16
+vntext.sq#9322,vntext.sq,DEBORA,And I do apologise. I didn't mean to trick you.,И приношу извинения. Я не хотела вас обмануть.,translated,47
+vntext.sq#9325,vntext.sq,DEBORA,"... {$flavors:ubecstacy}, yes?","... {$flavors:ubecstacy}, да?",translated,30
+vntext.sq#9326,vntext.sq,DEBORA,"I don't hate it. After all, {$moods:courage} and {$moods:passion} go hand in hand in many ways.","Не могу сказать, что мне это не нравится. В конце концов, {$moods:courage} и {$moods:passion} во многом идут рука об руку.",translated,95
+vntext.sq#9329,vntext.sq,DEBORA,"Ooh, that's a bold decision, darling.","Ох, это смелое решение, дорогой.",translated,37
+vntext.sq#9330,vntext.sq,DEBORA,A monochromatic painting is also quite exciting in its own way.,Монохромная картина тоже по-своему довольно волнующая.,translated,63
+vntext.sq#9331,vntext.sq,DEBORA,I want to see where this is going.,"Хочу увидеть, к чему это приведёт.",translated,34
+vntext.sq#9333,vntext.sq,DEBORA,"Hmm... my first instinct is to go for {$toppings:maple_thebacon}, but perhaps I should try something else.","Хм... первый инстинкт — выбрать {$toppings:maple_thebacon}, но, возможно, стоит попробовать что-то другое.",translated,106
+vntext.sq#9334,vntext.sq,DEBORA,How about the sweet smokiness of {$toppings:almonphetamine}?,Как насчёт сладковатой копчёности {$toppings:almonphetamine}?,translated,60
+vntext.sq#9342,vntext.sq,DEBORA,... {$moods:nostalgia}.,... {$moods:nostalgia}.,translated,23
+vntext.sq#9344,vntext.sq,DEBORA,"No, no, no. This is our duet, darling. I couldn't possibly refuse.","Нет-нет-нет. Это наш дуэт, дорогой. Я не могла бы отказаться.",translated,66
+vntext.sq#9346,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9347,vntext.sq,DEBORA,But then what's the point of {$moods:courage} if I can't even accept this?,"Но тогда какой смысл в {$moods:courage}, если я даже этого принять не могу?",translated,74
+vntext.sq#9348,vntext.sq,DEBORA,Let's have the {$flavors:strawpium}.,Возьмём {$flavors:strawpium}.,translated,36
+vntext.sq#9350,vntext.sq,DEBORA,"{$moods:cheer}... well, it's not a flavor I would usually go for.","{$moods:cheer}... что ж, это не тот вкус, который я бы обычно выбрала.",translated,65
+vntext.sq#9352,vntext.sq,DEBORA,"...No particular reason, really.","...Без особой причины, правда.",translated,32
+vntext.sq#9353,vntext.sq,DEBORA,"Happiness... now that's something I'm not unfamiliar with. A good meal with the right wine, the sparkling lights reflected on the wet streets of a cold rainy night, a kiss stolen in the dark theatre right before the intermission...","Счастье... вот это мне отнюдь не чуждо. Хороший ужин с правильным вином, сверкающие огни, отражённые на мокрых улицах холодной дождливой ночью, украденный поцелуй в тёмном театре прямо перед антрактом...",translated,231
+vntext.sq#9354,vntext.sq,DEBORA,"No, I'm not a stranger to happiness. But {$moods:cheer}?","Нет, счастье мне не чуждо. Но {$moods:cheer}?",translated,56
+vntext.sq#9355,vntext.sq,DEBORA,There's something brash about it.,В этом есть что-то дерзкое.,translated,33
+vntext.sq#9357,vntext.sq,DEBORA,"For tonight, darling, I want to try something new.","Сегодня, дорогой, я хочу попробовать что-то новое.",translated,50
+vntext.sq#9358,vntext.sq,DEBORA,Let's have it.,Давайте возьмём это.,translated,14
+vntext.sq#9360,vntext.sq,DEBORA,"... {$moods:inspiration}? I have no complaints, but I'm surprised.","... {$moods:inspiration}? Никаких претензий, но я удивлена.",translated,66
+vntext.sq#9361,vntext.sq,DEBORA,"Perhaps I [i] have [/i] been too set in my ways. I need to try something new, no?","Возможно, я [i] и правда [/i] слишком закоснела в своих привычках. Мне нужно попробовать что-то новое, не так ли?",translated,81
+vntext.sq#9364,vntext.sq,DEBORA,"...In a way, it's not a bad combination with {$moods:courage}.",...В каком-то смысле неплохое сочетание с {$moods:courage}.,translated,62
+vntext.sq#9365,vntext.sq,DEBORA,Very well. I like this.,"Что ж, хорошо. Мне это нравится.",translated,23
+vntext.sq#9366,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9376,vntext.sq,DEBORA,"Now, I want to see the results of our duet, darling.","Теперь хочу увидеть результат нашего дуэта, дорогой.",translated,52
+vntext.sq#9380,vntext.sq,DEBORA,[i] Grazie. [/i],[i] Grazie. [/i],translated,16
+vntext.sq#9382,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#9383,vntext.sq,DEBORA,"Darling, this creation is unbefitting of your skills!","Дорогой, это творение недостойно ваших навыков!",translated,53
+vntext.sq#9384,vntext.sq,DEBORA,"I must return this bad donut. I will not pay for this, and you [i] must [/i] return with a better donut...","Мне придётся вернуть этот плохой пончик. Я за него не заплачу, и вы [i] обязаны [/i] вернуться с пончиком получше...",translated,106
+vntext.sq#9385,vntext.sq,DEBORA,Is that clear?,Ясно?,translated,14
+vntext.sq#9387,vntext.sq,DEBORA,[i] Bene. [/i] Again!,[i] Bene. [/i] Ещё раз!,translated,21
+vntext.sq#9388,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#9389,vntext.sq,DEBORA,"Darling, this creation is unbefitting of your skills!","Дорогой, это творение недостойно ваших навыков!",translated,53
+vntext.sq#9390,vntext.sq,DEBORA,"I must return this bad donut. I will not pay for this, and you [i] must [/i] return with a better donut...","Мне придётся вернуть этот плохой пончик. Я за него не заплачу, и вы [i] обязаны [/i] вернуться с пончиком получше...",translated,106
+vntext.sq#9391,vntext.sq,DEBORA,Is that clear?,Ясно?,translated,14
+vntext.sq#9393,vntext.sq,DEBORA,[i] Bene. [/i] Again!,[i] Bene. [/i] Ещё раз!,translated,21
+vntext.sq#9394,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9395,vntext.sq,DEBORA,Ah! I understand.,Ах! Понимаю.,translated,17
+vntext.sq#9396,vntext.sq,DEBORA,"Interesting. Very interesting indeed, darling. I can feel the rush of {$moods:courage} of course, you have such a delicate touch for mood confectioneering.","Интересно. Правда очень интересно, дорогой. Я чувствую прилив {$moods:courage}, конечно, у вас такой тонкий подход к кондитерству настроения.",translated,155
+vntext.sq#9397,vntext.sq,DEBORA,"The enhancers are a gentle push, never overwhelming. There's always depth in your flavors.","Усилители — лёгкий толчок, никогда не подавляющий. В ваших вкусах всегда есть глубина.",translated,90
+vntext.sq#9398,vntext.sq,DEBORA,"Now, the {$flavors:methberry}... it's a beautiful addition. Tart and sweet.","Теперь, {$flavors:methberry}... прекрасное дополнение. Кисло-сладкое.",translated,75
+vntext.sq#9400,vntext.sq,DEBORA,"Now, the {$flavors:ubecstacy}... that nutty sweetness balances out the rest of the flavors.","Теперь, {$flavors:ubecstacy}... эта ореховая сладость уравновешивает остальные вкусы.",translated,91
+vntext.sq#9402,vntext.sq,DEBORA,"And... I have to admit, I've been avoiding {$flavors:strawpium}. A trip down memory lane... where can it lead me but resentment?","И... должна признать, я избегала {$flavors:strawpium}. Прогулка по закоулкам памяти... куда она может привести, кроме как к обиде?",translated,128
+vntext.sq#9408,vntext.sq,DEBORA,And... it has been a while since I experienced this... this [i] exuberance [/i] of emotions.,И... давно я не испытывала этой... этой [i] бурности [/i] эмоций.,translated,92
+vntext.sq#9413,vntext.sq,DEBORA,And... I can see what you mean about {$moods:inspiration}. This donut is giving me quite a rush!,"И... понимаю, что вы имели в виду насчёт {$moods:inspiration}. Этот пончик даёт мне настоящий прилив!",translated,96
+vntext.sq#9418,vntext.sq,DEBORA,"I have enjoyed many of your creations before, but this donut is quite nothing like the rest.","Мне нравились многие ваши творения раньше, но этот пончик совсем не похож на остальные.",translated,92
+vntext.sq#9419,vntext.sq,DEBORA,You're not scared of letting the elements work against and with each other.,Вы не боитесь позволить элементам работать друг против друга и вместе с друг другом.,translated,75
+vntext.sq#9421,vntext.sq,DEBORA,"It's a beautiful duet, darling.","Это прекрасный дуэт, дорогой.",translated,31
+vntext.sq#9422,vntext.sq,DEBORA,I feel like I understand you a little bit better because of this.,"Мне кажется, я стала понимать вас чуть лучше благодаря этому.",translated,65
+vntext.sq#9424,vntext.sq,DEBORA,"Darling, what's this? These aren't the elements we chose together, no?","Дорогой, что это? Это ведь не те элементы, что мы выбрали вместе, нет?",translated,70
+vntext.sq#9425,vntext.sq,DEBORA,How could you get it so wrong?,Как вы могли так ошибиться?,translated,30
+vntext.sq#9426,vntext.sq,DEBORA,I've always been a fan of your {$flavors:chococaine}. Bittersweet without being overpowering. You let the cacao beans take center stage.,"Я всегда была поклонницей вашего {$flavors:chococaine}. Горько-сладкий, но не подавляющий. Вы позволяете какао-бобам быть на первом плане.",translated,136
+vntext.sq#9427,vntext.sq,DEBORA,"But perhaps {$moods:focus} isn't quite what I need tonight, darling.","Но, возможно, {$moods:focus} — это не совсем то, что мне нужно сегодня, дорогой.",translated,68
+vntext.sq#9428,vntext.sq,DEBORA,"Thoughts and memories can be as sharp as razors, no?","Мысли и воспоминания могут быть острыми, как бритва, не так ли?",translated,52
+vntext.sq#9429,vntext.sq,DEBORA,"That bitterness... it's not for everybody, but {$flavors:matchajuana} is one of my favorites, you know.","Эта горечь... не для всех, но {$flavors:matchajuana} — один из моих любимых, знаете ли.",translated,103
+vntext.sq#9430,vntext.sq,DEBORA,"Quite refreshing, I can never have enough of it.","Весьма освежает, мне никогда не бывает достаточно.",translated,48
+vntext.sq#9431,vntext.sq,DEBORA,"And I won't ever say no to ${relaxation}, but perhaps this isn't quite the right mood for tonight?","И я никогда не откажусь от ${relaxation}, но, возможно, это не совсем подходящее настроение для сегодняшнего вечера?",translated,98
+vntext.sq#9432,vntext.sq,DEBORA,"Ah, the subtle sweetness of {$flavors:pumpketamine}... quite a refreshing taste. And I do feel calmer now.","Ах, тонкая сладость {$flavors:pumpketamine}... весьма освежающий вкус. И теперь я правда чувствую себя спокойнее.",translated,106
+vntext.sq#9433,vntext.sq,DEBORA,"But I don't think this is the flavor we agreed on, [i] caro? [/i]","Но не думаю, что это тот вкус, о котором мы договорились, [i] caro? [/i]",translated,65
+vntext.sq#9434,vntext.sq,DEBORA,"Ah, {$flavors:methberry}... tart and sweet.","Ах, {$flavors:methberry}... кисло-сладкий.",translated,43
+vntext.sq#9435,vntext.sq,DEBORA,And what else is more courageous than baring your heart to someone else?,"И что может быть более смелым, чем открыть кому-то своё сердце?",translated,72
+vntext.sq#9437,vntext.sq,DEBORA,"Ah, {$flavors:ubecstacy}... that nutty sweetness...","Ах, {$flavors:ubecstacy}... эта ореховая сладость...",translated,51
+vntext.sq#9438,vntext.sq,DEBORA,"My heart is fluttering, like the very first time I confessed my love...","Моё сердце трепещет, как в самый первый раз, когда я призналась в любви...",translated,71
+vntext.sq#9440,vntext.sq,DEBORA,"...I have to admit, I've been avoiding {$flavors:strawpium}. A trip down memory lane... where can it lead me but resentment?","...Должна признать, я избегала {$flavors:strawpium}. Прогулка по закоулкам памяти... куда она может привести, кроме как к обиде?",translated,124
+vntext.sq#9441,vntext.sq,DEBORA,"The paths I can never tread again, a younger me who is safe and loved and happy...","Пути, по которым я больше никогда не смогу пройти, юная я, в безопасности, любимая и счастливая...",translated,82
+vntext.sq#9443,vntext.sq,DEBORA,"No, darling.","Нет, дорогой.",translated,12
+vntext.sq#9444,vntext.sq,DEBORA,"I can't come back to my past, but it's nothing to fear either.","Я не могу вернуться в своё прошлое, но и бояться его тоже нечего.",translated,62
+vntext.sq#9445,vntext.sq,DEBORA,"In fact, good memories are also where I can draw strength.","На самом деле, в хороших воспоминаниях я тоже черпаю силу.",translated,58
+vntext.sq#9447,vntext.sq,DEBORA,"Ah, it has been a while since I experienced this... this [i] exuberance [/i] of emotions.","Ах, давно я не испытывала этой... этой [i] бурности [/i] эмоций.",translated,89
+vntext.sq#9448,vntext.sq,DEBORA,"Truth be told, I thought there was something childish about ${cheerfulness}. It's such an outward emotion, loud and quite selfish.","По правде говоря, я думала, что в ${cheerfulness} есть что-то ребяческое. Такая внешняя эмоция, громкая и довольно эгоистичная.",translated,130
+vntext.sq#9451,vntext.sq,DEBORA,But it's not bad to remember what it feels like... a childlike surrender.,"Но не плохо вспомнить, каково это... детская капитуляция.",translated,73
+vntext.sq#9452,vntext.sq,DEBORA,Though I'm afraid this is missing something else.,"Хотя, боюсь, здесь не хватает кое-чего ещё.",translated,49
+vntext.sq#9453,vntext.sq,DEBORA,...I can see what you mean about {$moods:inspiration}. This donut is giving me quite a rush!,"...Понимаю, что вы имели в виду насчёт {$moods:inspiration}. Этот пончик даёт мне настоящий прилив!",translated,92
+vntext.sq#9454,vntext.sq,DEBORA,"I've been traveling the world in search of [i] nonna's [/i] zeppole, but there are things that I have been deliberately avoiding...","Я путешествую по миру в поисках дзепполе [i] nonna, [/i] но есть вещи, которые я намеренно избегала...",translated,131
+vntext.sq#9455,vntext.sq,DEBORA,"Perhaps it's cowardice, but mostly it's bad habits.","Возможно, это трусость, но по большей части — дурные привычки.",translated,51
+vntext.sq#9457,vntext.sq,DEBORA,"Then perhaps you need a little bit of {$moods:inspiration} yourself, darling.","Тогда, возможно, вам самому не помешает немного {$moods:inspiration}, дорогой.",translated,77
+vntext.sq#9458,vntext.sq,DEBORA,But I'm afraid this is missing something else.,"Но боюсь, здесь не хватает кое-чего ещё.",translated,46
+vntext.sq#9459,vntext.sq,DEBORA,"Did you get confused, darling?","Вы запутались, дорогой?",translated,30
+vntext.sq#9461,vntext.sq,DEBORA,If you please. I would like to experience this duet with you.,Если можно. Хочу пережить этот дуэт вместе с вами.,translated,61
+vntext.sq#9465,vntext.sq,DEBORA,"You value the truth. But there are moments when silence in itself feels like a lie, don't you agree?","Вы цените правду. Но бывают моменты, когда молчание само по себе кажется ложью, вы не согласны?",translated,100
+vntext.sq#9466,vntext.sq,DEBORA,"There's {$moods:passion} there. There may be moments when it feels like it has been dowsed by the harshness of daily life... but it's there, like coals smoldering. Waiting to be fanned into flames again.","Там есть {$moods:passion}. Бывают моменты, когда кажется, что её загасила суровость повседневной жизни... но она там, как тлеющие угли. Ждущие, чтобы их снова раздули в пламя.",translated,203
+vntext.sq#9467,vntext.sq,DEBORA,Longing for the past... or maybe it's longing for a past that never was?,"Тоска по прошлому... или, может, тоска по прошлому, которого никогда не было?",translated,72
+vntext.sq#9468,vntext.sq,DEBORA,...We long for the children we could have been.,"...Мы тоскуем по детям, которыми могли бы стать.",translated,47
+vntext.sq#9469,vntext.sq,DEBORA,There's an unshakeable core inside you... the kind that bends but never breaks.,"В вас есть непоколебимый стержень... из тех, что гнутся, но никогда не ломаются.",translated,79
+vntext.sq#9470,vntext.sq,DEBORA,The childlike wonder and curiosity that keeps you moving forward.,"Детское удивление и любопытство, которые не дают вам остановиться.",translated,65
+vntext.sq#9471,vntext.sq,DEBORA,"Both of us carry the weight of bad habits, it seems like.","Похоже, мы оба несём груз дурных привычек.",translated,57
+vntext.sq#9472,vntext.sq,DEBORA,And yet here we are. Sometimes it's as small as choosing a flavor I don't normally go for.,"И всё же мы здесь. Иногда это так же мелко, как выбор вкуса, к которому обычно не тянешься.",translated,90
+vntext.sq#9473,vntext.sq,DEBORA,"And sometimes, it's facing the problems we've been pretending aren't there.","А иногда это встреча лицом к лицу с проблемами, которые мы притворялись, что не существуют.",translated,75
+vntext.sq#9475,vntext.sq,DEBORA,"Well? Was I too far off, darling?","Ну? Я сильно ошиблась, дорогой?",translated,33
+vntext.sq#9477,vntext.sq,DEBORA,"No trickery here, {$mcName}. I like to think we've gotten to know each other a little bit since I got here.","Никаких фокусов, {$mcName}. Мне нравится думать, что мы с момента моего приезда сюда немного узнали друг друга.",translated,107
+vntext.sq#9479,vntext.sq,DEBORA,Perhaps we have a lot more in common than I first thought.,"Возможно, у нас гораздо больше общего, чем я думала сначала.",translated,58
+vntext.sq#9481,vntext.sq,DEBORA,Oh?,О?,translated,3
+vntext.sq#9483,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9484,vntext.sq,DEBORA,And why didn't you?,И почему же вы не сделали?,translated,19
+vntext.sq#9486,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9491,vntext.sq,DEBORA,"Haha. Oh, darling.","Ха-ха. Ох, дорогой.",translated,18
+vntext.sq#9492,vntext.sq,DEBORA,I don't know what brought you here to San Mazo... and the chance that led you to work for my brother. Perhaps I should thank my lucky stars.,"Не знаю, что привело вас сюда, в Сан-Мазо... и какая случайность привела вас работать на моего брата. Наверное, стоит поблагодарить свою счастливую звезду.",translated,140
+vntext.sq#9496,vntext.sq,DEBORA,Hmph. I'm glad to know Lucky has at least helped you out with some things.,"Хмф. Рада знать, что Лаки хотя бы в чём-то вам помог.",translated,74
+vntext.sq#9498,vntext.sq,DEBORA,I'm glad you're here.,"Я рада, что вы здесь.",translated,21
+vntext.sq#9500,vntext.sq,DEBORA,"Haha, what's with that face? Could it be this is the first time you've been praised like this?","Ха-ха, что это за лицо? Может, вас впервые вот так хвалят?",translated,94
+vntext.sq#9501,vntext.sq,DEBORA,...But I understand. Only [i] nonna [/i] ever cared about the things Lucca and I did.,"...Но я понимаю. Только [i] nonna [/i] когда-либо заботило то, чем занимались мы с Луккой.",translated,85
+vntext.sq#9502,vntext.sq,DEBORA,Now... I want to be the kind of person who can make people feel like [i] nonna [/i] made me feel.,"Теперь... я хочу быть тем человеком, который заставляет других людей чувствовать себя так, как [i] nonna [/i] заставляла чувствовать себя меня.",translated,97
+vntext.sq#9504,vntext.sq,DEBORA,"And thank you, {$mcName}.","И вам спасибо, {$mcName}.",translated,25
+vntext.sq#9506,vntext.sq,DEBORA,"Oh? Is there something I can do for you? Just ask, darling.","О? Могу я что-то для вас сделать? Просто спросите, дорогой.",translated,59
+vntext.sq#9508,vntext.sq,DEBORA,"Ahaha! You wouldn't know from looking at him now, but he was a frail child!","Ахаха! Глядя на него сейчас, не скажешь, но он был хилым ребёнком!",translated,75
+vntext.sq#9509,vntext.sq,DEBORA,"He got bullied quite a bit, unfortunately. And one time, he was pushed too hard... someone insulted me to his face, and he cracked a bottle on that child's head!","Его, к сожалению, довольно сильно задирали. И один раз его довели до предела... кто-то оскорбил меня прямо ему в лицо, и он разбил бутылку об голову этого ребёнка!",translated,161
+vntext.sq#9511,vntext.sq,DEBORA,"Of course. That caused a lot of trouble at school, and poor Lucky would have been beaten up if not for Sandy...","Конечно. Это вызвало много проблем в школе, и бедного Лаки избили бы, если бы не Сэнди...",translated,111
+vntext.sq#9513,vntext.sq,DEBORA,"Indeed. Another one of Lucca's strokes of luck, befriending Sandy as early as he did.",Действительно. Ещё одна удача Лукки — подружиться с Сэнди так рано.,translated,85
+vntext.sq#9514,vntext.sq,DEBORA,"Ah, I have so many stories to tell you, darling. But I have matters to attend to...","Ах, у меня столько историй, чтобы вам рассказать, дорогой. Но у меня есть дела...",translated,83
+vntext.sq#9516,vntext.sq,DEBORA,Haha! Then I'll be seeing you soon.,Ха-ха! Тогда скоро увидимся.,translated,35
+vntext.sq#9517,vntext.sq,DEBORA,"Until then, stay lucky.",А пока — удачи.,translated,23
+vntext.sq#9524,vntext.sq,DEBORA,"[i] Buona sera, [/i] darling.","[i] Buona sera, [/i] дорогой.",translated,29
+vntext.sq#9526,vntext.sq,DEBORA,You look pale. Is something wrong?,Вы бледны. Что-то не так?,translated,34
+vntext.sq#9528,vntext.sq,DEBORA,The Hotbox?,Хотбокс?,translated,11
+vntext.sq#9531,vntext.sq,DEBORA,"...Darling, that is very unfortunate.","...Дорогой, это очень печально.",translated,37
+vntext.sq#9532,vntext.sq,DEBORA,I take it you have run out of funds?,"Полагаю, у вас закончились деньги?",translated,36
+vntext.sq#9534,vntext.sq,DEBORA,...Have you called my brother?,...Вы звонили моему брату?,translated,30
+vntext.sq#9536,vntext.sq,DEBORA,Thinking? Why not just do it?,Думаете? Почему просто не сделать это?,translated,29
+vntext.sq#9537,vntext.sq,DEBORA,"He owns this place, no? He can't just leave you alone here and expect everything to run smoothly.","Ему же принадлежит это место, нет? Он не может просто оставить вас тут одного и ожидать, что всё пойдёт гладко.",translated,97
+vntext.sq#9540,vntext.sq,DEBORA,...Kaori?,...Каори?,translated,9
+vntext.sq#9542,vntext.sq,DEBORA,Very well. Let [i] me [/i] call him.,Хорошо. Тогда позвольте [i] мне [/i] ему позвонить.,translated,36
+vntext.sq#9543,vntext.sq,DEBORA,"This is quite a surprise, darling. You were doing well the last time I was here!","Это довольно неожиданно, дорогой. В прошлый раз, когда я была здесь, у вас всё шло хорошо!",translated,80
+vntext.sq#9545,vntext.sq,DEBORA,And have you told my brother about this?,И вы рассказали об этом моему брату?,translated,40
+vntext.sq#9548,vntext.sq,DEBORA,"But it's his fault for leaving you to run this place on your own, no?","Но это же его вина — оставить вас управлять этим местом в одиночку, нет?",translated,69
+vntext.sq#9551,vntext.sq,DEBORA,"At any rate, I can call him for you. Don't worry.","В любом случае, я могу позвонить ему за вас. Не переживайте.",translated,49
+vntext.sq#9552,vntext.sq,DEBORA,It seems now is the time to call him.,"Похоже, сейчас самое время ему позвонить.",translated,37
+vntext.sq#9554,vntext.sq,DEBORA,My brother.,Моему брату.,translated,11
+vntext.sq#9556,vntext.sq,DEBORA,"...Yes and no. Don't worry your pretty head about this anymore, darling. Let this be his problem.","...И да, и нет. Не забивайте больше этим свою хорошенькую голову, дорогой. Пусть это будет его проблемой.",translated,97
+vntext.sq#9558,vntext.sq,DEBORA,"He own this place, after all.","В конце концов, ему принадлежит это место.",translated,29
+vntext.sq#9562,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9563,vntext.sq,DEBORA,"Haha... I didn't intend to keep it a secret for long. But I wanted to get the feel of this place, a taste of your donuts, before revealing my connection to your boss.","Ха-ха... я не собиралась долго хранить это в тайне. Но хотела почувствовать это место, попробовать ваши пончики, прежде чем раскрыть свою связь с вашим боссом.",translated,166
+vntext.sq#9569,vntext.sq,DEBORA,"Lucca has told me about you, of course. And I've had my people look into you.","Лукка, конечно, рассказывал мне о вас. И мои люди навели о вас справки.",translated,77
+vntext.sq#9573,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9575,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9577,vntext.sq,DEBORA,"Lucca has told me about you, of course. And I've had my people look into you.","Лукка, конечно, рассказывал мне о вас. И мои люди навели о вас справки.",translated,77
+vntext.sq#9580,vntext.sq,DEBORA,"Of course, darling. I didn't tell you everything, but I lied about nothing—","Конечно, дорогой. Я не рассказала вам всего, но не солгала ни в чём—",translated,75
+vntext.sq#9582,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9585,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9588,vntext.sq,DEBORA,Is that what you think?,Вы правда так думаете?,translated,23
+vntext.sq#9589,vntext.sq,DEBORA,"Haha, he was quite popular back in our hometown, you know. Men, women... he had his own share of admirers.","Ха-ха, он был весьма популярен у нас на родине, знаете ли. Мужчины, женщины... у него была своя доля поклонников.",translated,106
+vntext.sq#9593,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9594,vntext.sq,DEBORA,"...Everything I told you was the truth. If nothing else, I want you to know this, darling.","...Всё, что я вам рассказала, было правдой. Если не считать больше ничего, хочу, чтобы вы это знали, дорогой.",translated,90
+vntext.sq#9597,vntext.sq,DEBORA,Thank you.,Спасибо.,translated,10
+vntext.sq#9598,vntext.sq,DEBORA,I shall call him now.,Я позвоню ему прямо сейчас.,translated,21
+vntext.sq#9599,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9600,vntext.sq,DEBORA,"...Don't you 'what now' me, Lucca Santoro!","...Не смей мне говорить 'что теперь', Лукка Санторо!",translated,42
+vntext.sq#9601,vntext.sq,DEBORA,"... [i] Merda, [/i] Lucky! Turn down that horrible music! Are you at a party?","... [i] Merda, [/i] Лаки! Убавь эту ужасную музыку! Ты что, на вечеринке?",translated,77
+vntext.sq#9602,vntext.sq,DEBORA,... And your wound? Don't you need to rest?,... А твоя рана? Разве тебе не нужно отдыхать?,translated,43
+vntext.sq#9603,vntext.sq,DEBORA,...That Sandy... I need to have a word...,...Эта Сэнди... мне нужно с ней поговорить...,translated,41
+vntext.sq#9604,vntext.sq,DEBORA,"...Well, since some [i] coglione [/i] left an employee to fend for themselves, the Hotbox is now in hot water.","...Что ж, раз уж какой-то [i] coglione [/i] бросил сотрудника разбираться самому, Хотбокс теперь в горячей воде.",translated,110
+vntext.sq#9605,vntext.sq,DEBORA,"... There's no more money, Lucky! You're the boss, start acting like one!","...Денег больше нет, Лаки! Ты босс, начни уже вести себя как босс!",translated,73
+vntext.sq#9609,vntext.sq,DEBORA,...Then start using that head of yours.,...Тогда начни уже пользоваться своей головой.,translated,39
+vntext.sq#9610,vntext.sq,DEBORA,"...I don't give a damn! Just do it soon, Lucca Santoro!","...Мне плевать! Просто сделай это скорее, Лукка Санторо!",translated,55
+vntext.sq#9611,vntext.sq,DEBORA,... And tell Sandy I'll call later. [i] Ciao. [/i],"... И передай Сэнди, что я позвоню позже. [i] Ciao. [/i]",translated,50
+vntext.sq#9614,vntext.sq,DEBORA,Of course. My brother and I have put you through a lot of things already. It's the least we could do.,"Конечно. Мы с братом и так заставили вас пройти через многое. Это меньшее, что мы можем сделать.",translated,101
+vntext.sq#9615,vntext.sq,DEBORA,But talking to my brother has left me wanting to relax...,Но разговор с братом оставил меня в желании расслабиться...,translated,57
+vntext.sq#9617,vntext.sq,DEBORA,There's no need. I will simply be taking a long bath with a glass of wine and Sartre to keep me company.,Не нужно. Я просто приму долгую ванну с бокалом вина и компанией Сартра.,translated,104
+vntext.sq#9620,vntext.sq,DEBORA,"I shall see you soon, darling. Remember, you owe me a donut!","Скоро увидимся, дорогой. Помните, вы должны мне пончик!",translated,60
+vntext.sq#9702,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9703,vntext.sq,DEBORA,"Darling, how are you? I was worried.","Дорогой, как вы? Я переживала.",translated,36
+vntext.sq#9714,vntext.sq,DEBORA,Ah! It seems Lucky's finally growing up!,"Ах! Похоже, Лаки наконец-то взрослеет!",translated,40
+vntext.sq#9715,vntext.sq,DEBORA,This place and his marriage... maybe he's really settling down.,"Это место и его брак... может, он и правда остепеняется.",translated,63
+vntext.sq#9721,vntext.sq,DEBORA,"Oh? Lucky did send you the money, no?","О? Лаки же отправил вам деньги, да?",translated,37
+vntext.sq#9724,vntext.sq,DEBORA,Well... he is rather given to dramatics. I've almost forgotten that about Lucky.,Что ж... он и правда склонен к драматизму. Я почти забыла об этом качестве Лаки.,translated,80
+vntext.sq#9725,vntext.sq,DEBORA,"Impulsive and dramatic... In way, I suppose it makes sense that he chose to open up a mood cafe despite having no experience handling a business before.","Импульсивный и драматичный... В каком-то смысле, полагаю, логично, что он решил открыть кафе настроения, не имея никакого опыта ведения бизнеса.",translated,152
+vntext.sq#9728,vntext.sq,DEBORA,I-Is that so?,П-Правда?,translated,13
+vntext.sq#9730,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9732,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9733,vntext.sq,DEBORA,"Haha! You have quite the humor, darling. Lucky is so similar.","Ха-ха! У вас неплохое чувство юмора, дорогой. Лаки такой же.",translated,61
+vntext.sq#9737,vntext.sq,DEBORA,"[i] Buona sera, [/i] darling.","[i] Buona sera, [/i] дорогой.",translated,29
+vntext.sq#9739,vntext.sq,DEBORA,I decided to stay here for a while. At least until the San Mazopalooza.,Я решила задержаться здесь ненадолго. По крайней мере до Сан-Мазопалуцы.,translated,71
+vntext.sq#9741,vntext.sq,DEBORA,"I can't say I really am, but there's something about this city that's calling to me...","Не сказала бы, что я такая, но что-то в этом городе меня манит...",translated,86
+vntext.sq#9742,vntext.sq,DEBORA,"Ah, darling... that last donut you gave me...","Ах, дорогой... тот последний пончик, который вы мне дали...",translated,45
+vntext.sq#9744,vntext.sq,DEBORA,"Well, you know I won't say no to your donut.","Что ж, вы же знаете, я не откажусь от вашего пончика.",translated,44
+vntext.sq#9745,vntext.sq,DEBORA,"And of course, someday I want to try your zeppole as well.","И, конечно, когда-нибудь я хочу попробовать и ваши дзепполе.",translated,58
+vntext.sq#9747,vntext.sq,DEBORA,But for now... I want to say that your donut has taught me something.,"Но пока... хочу сказать, что ваш пончик кое-чему меня научил.",translated,69
+vntext.sq#9749,vntext.sq,DEBORA,I traveled the world in search of something... yearning for my past... reliving those memories with [i] nonna... [/i],Я путешествовала по миру в поисках чего-то... тоскуя по прошлому... заново переживая те воспоминания с [i] nonna... [/i],translated,117
+vntext.sq#9750,vntext.sq,DEBORA,"But you awakened my senses to the present. I am in this city, right here, right now... I am in San Mazo... inside this beating neon heart...","Но вы пробудили мои чувства к настоящему. Я в этом городе, прямо здесь, прямо сейчас... я в Сан-Мазо... внутри этого бьющегося неонового сердца...",translated,140
+vntext.sq#9751,vntext.sq,DEBORA,The donuts you make... the eclectic vibe of this shop...,"Пончики, которые вы делаете... эклектичная атмосфера этого магазина...",translated,56
+vntext.sq#9753,vntext.sq,DEBORA,"Haha! Don't you love this city? Even the dark and ugly alleys... the graffiti-covered walls, the abandoned buildings and broken street lamps...","Ха-ха! Разве вы не любите этот город? Даже тёмные и уродливые переулки... стены, покрытые граффити, заброшенные здания и разбитые уличные фонари...",translated,143
+vntext.sq#9754,vntext.sq,DEBORA,And I could feel it. I understood it from your creations.,И я это почувствовала. Я поняла это через ваши творения.,translated,57
+vntext.sq#9756,vntext.sq,DEBORA,"I mean it as a compliment, darling.","Я и имею в виду это как комплимент, дорогой.",translated,35
+vntext.sq#9757,vntext.sq,DEBORA,This is the city that my brother chose. And the city that you love.,"Это город, который выбрал мой брат. И город, который любите вы.",translated,67
+vntext.sq#9758,vntext.sq,DEBORA,I don't mind staying a bit longer.,Я не против остаться подольше.,translated,34
+vntext.sq#9765,vntext.sq,DEBORA,"Ah, are you finally telling me something about yourself, darling?","Ах, вы наконец рассказываете мне о себе, дорогой?",translated,65
+vntext.sq#9767,vntext.sq,DEBORA,"Haha, it's different when you tell me directly. I know about your family situation, for example. But public records are mere words and legalese.","Ха-ха, это по-другому, когда вы говорите мне это напрямую. Я знаю о вашей семейной ситуации, например. Но публичные записи — это лишь слова и юридический жаргон.",translated,144
+vntext.sq#9768,vntext.sq,DEBORA,How you feel... what you think... I won't know that unless you tell me.,"Что вы чувствуете... о чём думаете... я не узнаю этого, пока вы мне не расскажете.",translated,71
+vntext.sq#9772,vntext.sq,DEBORA,Ah. Now that would make for an exciting novel.,Ах. Из этого вышел бы захватывающий роман.,translated,46
+vntext.sq#9773,vntext.sq,DEBORA,"What you're saying is, a healthy balance is needed, no?","То есть вы хотите сказать, нужен здоровый баланс, да?",translated,55
+vntext.sq#9776,vntext.sq,DEBORA,"Ah, are you finally telling me something about your past, darling?","Ах, вы наконец рассказываете мне о своём прошлом, дорогой?",translated,66
+vntext.sq#9778,vntext.sq,DEBORA,"Haha, it's different when you tell me directly. I know about your family situation, for example. But public records are mere words and legalese.","Ха-ха, это по-другому, когда вы говорите мне это напрямую. Я знаю о вашей семейной ситуации, например. Но публичные записи — это лишь слова и юридический жаргон.",translated,144
+vntext.sq#9779,vntext.sq,DEBORA,How you feel... what you think... I won't know that unless you tell me.,"Что вы чувствуете... о чём думаете... я не узнаю этого, пока вы мне не расскажете.",translated,71
+vntext.sq#9783,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9785,vntext.sq,DEBORA,"It's never good to be too complacent, that's what you're telling me, no?","Никогда не стоит быть слишком самодовольной, вы это хотите сказать, да?",translated,72
+vntext.sq#9787,vntext.sq,DEBORA,And would you remind me if I start going back to my old ways?,"И вы напомните мне, если я начну возвращаться к старым привычкам?",translated,61
+vntext.sq#9789,vntext.sq,DEBORA,Haha! You've got yourself a deal.,Ха-ха! Договорились.,translated,33
+vntext.sq#9791,vntext.sq,DEBORA,I think I'm good for tonight. How about I keep you company for a while?,"Думаю, на сегодня хватит. Как насчёт того, что я просто побуду с вами какое-то время?",translated,71
+vntext.sq#9799,vntext.sq,DEBORA,"[i] Buona sera, [/i] darling.","[i] Buona sera, [/i] дорогой.",translated,29
+vntext.sq#9801,vntext.sq,DEBORA,Is it normal for mood cafes like yours to be open so late?,"Это нормально, что кафе настроения вроде вашего открыты так поздно?",translated,58
+vntext.sq#9804,vntext.sq,DEBORA,Ah. Interesting.,Ах. Интересно.,translated,16
+vntext.sq#9805,vntext.sq,DEBORA,Would you say that's your best-seller? I think I want to try it.,"Сказали бы вы, что это ваш хит продаж? Думаю, хочу его попробовать.",translated,64
+vntext.sq#9812,vntext.sq,DEBORA,There seems to be a celebration of some sort outside.,"Похоже, снаружи какое-то празднество.",translated,53
+vntext.sq#9814,vntext.sq,DEBORA,Hm. They seem to be having a lot of fun.,"Хм. Похоже, они неплохо веселятся.",translated,40
+vntext.sq#9815,vntext.sq,DEBORA,I'm quite tempted to join the festivities.,У меня прямо соблазн присоединиться к торжествам.,translated,42
+vntext.sq#9817,vntext.sq,DEBORA,"Haha, don't look so surprised, darling. I'm not dressing up like an animal, but I could celebrate with a donut.","Ха-ха, не смотрите так удивлённо, дорогой. Я не буду наряжаться животным, но могла бы отпраздновать с пончиком.",translated,111
+vntext.sq#9826,vntext.sq,DEBORA,I've been thinking of some things.,Я тут кое о чём думала.,translated,34
+vntext.sq#9828,vntext.sq,DEBORA,"...And I wondered if perhaps that's where my weaknesses lie. Perhaps instead of thinking, I should just feel.","...И задумалась, может, именно в этом моя слабость. Может, вместо того чтобы думать, мне стоит просто чувствовать.",translated,109
+vntext.sq#9836,vntext.sq,DEBORA,I have to admit I quite enjoyed the donut I had recently.,"Должна признать, мне правда понравился пончик, который я недавно пробовала.",translated,57
+vntext.sq#9838,vntext.sq,DEBORA,{$flavors:methberry} is quite an interesting flavor. I would like a donut that lets it take the spotlight.,"{$flavors:methberry} — довольно интересный вкус. Хочу пончик, где он будет в центре внимания.",translated,106
+vntext.sq#9844,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9846,vntext.sq,DEBORA,"Ah, darling, do you have any siblings?","Ах, дорогой, у вас есть братья или сёстры?",translated,38
+vntext.sq#9848,vntext.sq,DEBORA,I would say it's a good thing.,"Я бы сказала, это хорошо.",translated,30
+vntext.sq#9849,vntext.sq,DEBORA,"At the very least, you don't have Lucca for a brother.","По крайней мере, у вас нет брата вроде Лукки.",translated,54
+vntext.sq#9851,vntext.sq,DEBORA,You would think getting married would mellow him out a bit!,"Можно было бы подумать, что женитьба его немного смягчит!",translated,59
+vntext.sq#9866,vntext.sq,DEBORA,Indeed. I have been to some events... a string of celebrations to get ready for San Mazopalooza...,Действительно. Я была на нескольких мероприятиях... череда торжеств в преддверии Сан-Мазопалуцы...,translated,98
+vntext.sq#9867,vntext.sq,DEBORA,"The concept is very much like an advent calendar of parties, don't you agree?","Концепция очень похожа на адвент-календарь вечеринок, вы не находите?",translated,77
+vntext.sq#9868,vntext.sq,DEBORA,Very interesting. I had a curious croissant earlier.,Очень интересно. Недавно я пробовала любопытный круассан.,translated,52
+vntext.sq#9870,vntext.sq,DEBORA,"At any rate, it all reminded me of the parties at home.","В любом случае, всё это напомнило мне о вечеринках дома.",translated,55
+vntext.sq#9876,vntext.sq,DEBORA,Darling.,Дорогой.,translated,8
+vntext.sq#9877,vntext.sq,DEBORA,...I'm having fun just walking by myself in this city of yours.,...Мне нравится просто гулять одной по этому вашему городу.,translated,63
+vntext.sq#9880,vntext.sq,DEBORA,"Ahaha! I know how to take care of myself, do not worry.","Ахаха! Я умею о себе позаботиться, не переживайте.",translated,55
+vntext.sq#9881,vntext.sq,DEBORA,My only regret is not seeing the stars... but I suppose the neon lights make up for it.,"Единственное, о чём я сожалею — что не вижу звёзд... но, полагаю, неоновые огни это компенсируют.",translated,87
+vntext.sq#9882,vntext.sq,DEBORA,"And of course, I could have a star on a donut.","И, конечно, я могла бы получить звезду на пончике.",translated,46
+vntext.sq#9888,vntext.sq,DEBORA,"[i] Buona sera, [/i] darling.","[i] Buona sera, [/i] дорогой.",translated,29
+vntext.sq#9890,vntext.sq,DEBORA,I took the time today to watch the famous San Mazo sunset.,Сегодня я нашла время посмотреть на знаменитый закат Сан-Мазо.,translated,58
+vntext.sq#9891,vntext.sq,DEBORA,"A shame I never had the time to do this before... the colors, the sounds!","Жаль, что раньше у меня никогда не находилось на это времени... эти краски, эти звуки!",translated,73
+vntext.sq#9892,vntext.sq,DEBORA,I think one of the seagulls was screaming poetry at the tourists... quite lovely.,"По-моему, одна из чаек выкрикивала туристам поэзию... весьма прелестно.",translated,81
+vntext.sq#9903,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#9904,vntext.sq,DEBORA,"I have a special request for tonight, darling.","У меня особая просьба на сегодня, дорогой.",translated,46
+vntext.sq#9906,vntext.sq,DEBORA,What kind of a person do you take me for?,За кого вы меня принимаете?,translated,41
+vntext.sq#9922,vntext.sq,DEBORA,A {$recipe:velvet_devil} for tonight sounds absolutely decadent!,{$recipe:velvet_devil} сегодня вечером звучит совершенно декадентски!,translated,64
+vntext.sq#9932,vntext.sq,DEBORA,"I would like a donut that will get my blood boiling! That is, I would like a {$recipe:royal_blood}, [i] caro. [/i]","Хочу пончик, от которого закипит кровь! То есть хочу {$recipe:royal_blood}, [i] caro. [/i]",translated,114
+vntext.sq#9942,vntext.sq,DEBORA,"This {$recipe:mean_girl}, it sounds rather diminutive, but the flavors are quite bold!","Этот {$recipe:mean_girl}, звучит довольно скромно, но вкусы весьма дерзкие!",translated,86
+vntext.sq#9952,vntext.sq,DEBORA,{$recipe:chocoberry} is one of them... I'll have one for tonight!,{$recipe:chocoberry} — один из них... возьму такой сегодня!,translated,65
+vntext.sq#9956,vntext.sq,DEBORA,Darling!,Дорогой!,translated,8
+vntext.sq#9957,vntext.sq,DEBORA,I had quite an interesting night... San Mazo never fails to surprise me.,У меня был довольно интересный вечер... Сан-Мазо не перестаёт меня удивлять.,translated,72
+vntext.sq#9958,vntext.sq,DEBORA,Every nook and cranny is full of life... full of secrets! I have learned much from the birds themselves...,Каждый закуток полон жизни... полон секретов! Я многому научилась у самих птиц...,translated,106
+vntext.sq#9960,vntext.sq,DEBORA,"Haha! Well, my night won't be complete without one of your donuts. How about a favorite of mine?","Ха-ха! Что ж, мой вечер не будет полным без одного из ваших пончиков. Как насчёт моего любимого?",translated,96
+vntext.sq#9965,vntext.sq,DEBORA,Darling! Is something wrong? My brother said there was some trouble,"Дорогой! Что-то не так? Мой брат сказал, что были какие-то проблемы",translated,67
+vntext.sq#9969,vntext.sq,DEBORA,Just tell me what you need,"Просто скажите, что вам нужно",translated,26
+vntext.sq#21965,vntext.sq,DEBORA,This feeling... like the refreshing taste of wine after a long day!,Это чувство... как освежающий вкус вина после долгого дня!,translated,67
+vntext.sq#21966,vntext.sq,DEBORA,One needs a certain kind of {$moods:patience} to deal with the vagaries of life... Hm.,"Нужен особый вид {$moods:patience}, чтобы справляться с превратностями жизни... Хм.",translated,86
+vntext.sq#21967,vntext.sq,DEBORA,Hah! This mood... Like the bubbling playfulness of youth!,Ха! Это настроение... как бурлящая игривость юности!,translated,57
+vntext.sq#21968,vntext.sq,DEBORA,Ah now! This is what moves the heart and gets the blood pumping!,"Ах, вот оно! Вот что трогает сердце и заставляет кровь бежать быстрее!",translated,64
+vntext.sq#21969,vntext.sq,DEBORA,It's as if I can hear the Muses singing softly...,Будто я слышу тихое пение муз...,translated,49
+vntext.sq#21970,vntext.sq,DEBORA,"The line between declaring war and confessing your love is paper-thin, do you not agree? Both require {$moods:courage}.","Грань между объявлением войны и признанием в любви тонка, как бумага, не находишь? И то, и другое требует {$moods:courage}.",translated,119
+vntext.sq#21971,vntext.sq,DEBORA,"Ah now, this donut would be perfect for a timid heart full of secrets!","Ах, вот этот пончик был бы идеален для робкого сердца, полного секретов!",translated,70
+vntext.sq#21972,vntext.sq,DEBORA,"A mood for when you need to burn the candle at both ends, no?","Настроение для тех моментов, когда нужно жечь свечу с обоих концов, не так ли?",translated,61
+vntext.sq#21973,vntext.sq,DEBORA,This taste... This reminds me of my very first kiss!,Этот вкус... Он напоминает мне о самом первом поцелуе!,translated,52
+vntext.sq#21975,vntext.sq,DEBORA,"Ah, [i] delizioso! [/i] An intriguing combination of flavor and mood enhancers... Well done, darling.","Ах, [i] delizioso! [/i] Занятное сочетание вкуса и усилителей настроения... Молодец, дорогой.",translated,101
+vntext.sq#21976,vntext.sq,DEBORA,"It's quite good, darling. But surely you can do better than this?","Весьма неплохо, дорогой. Но ведь ты можешь и лучше, не так ли?",translated,65
+vntext.sq#21977,vntext.sq,DEBORA,Alas. This isn't what I asked for.,"Увы. Это не то, что я просила.",translated,34
+vntext.sq#21978,vntext.sq,DEBORA,"The night is calling my name and who am I to refuse? But you'll be seeing me again, darling.","Ночь зовёт меня по имени, и кто я такая, чтобы отказать? Но мы ещё увидимся, дорогой.",translated,92
+vntext.sq#21981,vntext.sq,DEBORA,[i] Grazie! [/i],[i] Grazie! [/i],translated,16
+vntext.sq#21982,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#21983,vntext.sq,DEBORA,"[i] Darling, [i] this is a bad donut, plain and simple...","[i] Дорогой, [i] это просто плохой пончик, только и всего...",translated,57
+vntext.sq#21987,vntext.sq,DEBORA,[i] Grazie. [/i],[i] Grazie. [/i],translated,16
+vntext.sq#21988,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#21989,vntext.sq,DEBORA,The urge to go back home to my book and a bottle of wine is rising within me! The epitome of a good night!,Во мне поднимается желание вернуться домой к своей книге и бутылке вина! Воплощение прекрасного вечера!,translated,106
+vntext.sq#21990,vntext.sq,DEBORA,"I feel ${calmer}... This mood is one for reflection, is it not?","Я чувствую себя ${calmer}... Это настроение для размышлений, не так ли?",translated,63
+vntext.sq#21991,vntext.sq,DEBORA,"This quite ${cheered} me up. A mood lifter, indeed!","Это меня изрядно ${cheered}. Настоящий подъём настроения, право слово!",translated,51
+vntext.sq#21992,vntext.sq,DEBORA,This is quite the mood for lovers. And those who find romance even in the mundane things!,"Это настроение прямо для влюблённых. И для тех, кто находит романтику даже в обыденных вещах!",translated,89
+vntext.sq#21993,vntext.sq,DEBORA,"Ideas are rushing into my head, fresh and sparkling like a cold beverage on a summer day!","Идеи хлынули мне в голову, свежие и искрящиеся, как холодный напиток в летний день!",translated,89
+vntext.sq#21994,vntext.sq,DEBORA,"Choosing to do something different... even if it's a new recipe you haven't tried before, is an act of bravery in itself. Don't you agree, darling?","Решиться на что-то иное... даже если это просто новый рецепт, который ты ещё не пробовал, — уже само по себе акт смелости. Не находишь, дорогой?",translated,147
+vntext.sq#21995,vntext.sq,DEBORA,This makes me feel like I should be more forthright when it comes to my emotions.,"Это вызывает у меня чувство, что стоит быть откровеннее в своих эмоциях.",translated,81
+vntext.sq#21996,vntext.sq,DEBORA,I feel like someone had come in and swept the dust and debris of daily living from my mind!,"Такое чувство, будто кто-то пришёл и смёл пыль и мусор повседневности из моего разума!",translated,91
+vntext.sq#21997,vntext.sq,DEBORA,"Oh, to be reminded of the warm and unreachable days of our youth!","Ах, как приятно вспомнить тёплые, недостижимые дни нашей юности!",translated,65
+vntext.sq#21998,vntext.sq,DEBORA,"Darling, this is admittedly a good donut. But it has no mood enhancers...","Дорогой, признаю, это хороший пончик. Но в нём нет усилителей настроения...",translated,73
+vntext.sq#21999,vntext.sq,DEBORA,Excellent! Your creations truly have great potential.,Превосходно! У твоих творений и правда большой потенциал.,translated,53
+vntext.sq#22000,vntext.sq,DEBORA,"It's not perfect, but I suppose this is quite enjoyable.","Не идеально, но, полагаю, весьма приятно.",translated,56
+vntext.sq#22001,vntext.sq,DEBORA,"Unfortunately, it seems you have misunderstood what I wanted.","К сожалению, похоже, ты неверно понял, чего я хотела.",translated,61
+vntext.sq#22002,vntext.sq,DEBORA,"This shop, your donut, and our little exchanges... it's become quite a habit of mine. I'll see you soon.","Эта лавка, твой пончик и наши маленькие беседы... это стало для меня привычкой. До скорой встречи.",translated,104
+vntext.sq#46005,vntext.sq,DEBORA,Darling! I came as soon as I could.,"Дорогой! Я приехала, как только смогла.",translated,35
+vntext.sq#46009,vntext.sq,DEBORA,[i] Buona sera! [/i],[i] Buona sera! [/i],translated,20
+vntext.sq#46013,vntext.sq,DEBORA,"Oh, you're not alone. This is good.","О, ты не одна. Это хорошо.",translated,35
+vntext.sq#46014,vntext.sq,DEBORA,Lucky told me that he'll have some of his friends keep an eye on the store.,"Лаки сказал мне, что попросит кое-кого из своих друзей присматривать за магазином.",translated,75
+vntext.sq#46016,vntext.sq,DEBORA,"Not to worry, darling. They'll be very discreet. We don't want to scare off your customers, do we?","Не переживай, дорогой. Они будут очень незаметны. Мы же не хотим отпугнуть твоих клиентов, да?",translated,98
+vntext.sq#46018,vntext.sq,DEBORA,"Oh, I've looked into this Hugo Stern. A regular [i] stronzo! [/i] I don't want to take any risks.","О, я разузнала про этого Хьюго Стерна. Обычный [i] stronzo! [/i] Не хочу рисковать.",translated,97
+vntext.sq#46019,vntext.sq,DEBORA,"And, well, it's also a matter of pride. We are [i] Santoro, [/i] after all. If we can't even protect our own employees, then what good are we?","И, ну, это ещё и дело чести. Мы же всё-таки [i] Санторо. [/i] Если мы даже собственных сотрудников защитить не можем, то какой от нас тогда толк?",translated,142
+vntext.sq#46022,vntext.sq,DEBORA,"No, no, he's correct, darling.","Нет, нет, он прав, дорогой.",translated,30
+vntext.sq#46023,vntext.sq,DEBORA,All the more reason why we need to step up now!,"Тем больше причин, почему нам нужно действовать сейчас!",translated,47
+vntext.sq#46024,vntext.sq,DEBORA,"In fact, darling, I want you to wear this.","Вообще-то, дорогой, я хочу, чтобы ты это надел.",translated,42
+vntext.sq#46026,vntext.sq,DEBORA,"Well, I don't think this will be necessary. But this is better than crying over spilled milk, isn't it?","Ну, не думаю, что это понадобится. Но лучше перестраховаться, чем потом кусать локти, да?",translated,103
+vntext.sq#46027,vntext.sq,DEBORA,Holes are only good in donuts.,Дырки хороши только в пончиках.,translated,30
+vntext.sq#46032,vntext.sq,DEBORA,"I will need to get a vest for you as well. Since you spend a lot of time with [i] darling [/i] here, it's best to be prepared.","Тебе тоже понадобится жилет. Раз ты проводишь так много времени с [i] дорогим [/i] другом, лучше быть готовым.",translated,126
+vntext.sq#46036,vntext.sq,DEBORA,"The less you two know, the better. Please, shh, don't worry too much.","Чем меньше вы оба знаете, тем лучше. Пожалуйста, тсс, не переживайте так сильно.",translated,69
+vntext.sq#46038,vntext.sq,DEBORA,"Ahaha! Ah, darling, you still have so much to learn.","Ахаха! Ах, дорогой, тебе ещё многому нужно научиться.",translated,52
+vntext.sq#46670,vntext.sq,DEBORA,"Well, would you look at that... the sun has long since set, and night blankets San Mazo city.","Что ж, вы только посмотрите... солнце давно село, и ночь окутывает город Сан-Мазо.",translated,93
+vntext.sq#46671,vntext.sq,DEBORA,"The stars aren't out, but that's okay... if you look close enough, the neon lights of the city glow bright. A night sky to call our own.","Звёзд не видно, но ничего... если приглядеться, неоновые огни города сияют ярко. Ночное небо, которое можно назвать своим.",translated,136
+vntext.sq#46672,vntext.sq,DEBORA,"An artificial sky... heh, fitting for a city of artificial moods.","Искусственное небо... хех, подходит для города искусственных настроений.",translated,65
+vntext.sq#46673,vntext.sq,DEBORA,"Much like the sunsets, most locals don't even notice the beauty. That's the thing about this city... people just want to escape from the past.","Как и закаты, большинство местных даже не замечают эту красоту. Вот в чём дело с этим городом... люди просто хотят сбежать от прошлого.",translated,142
+vntext.sq#46674,vntext.sq,DEBORA,"We swallow up our feelings, hide our scars, and hope that running around in circles is enough to make us forget.","Мы проглатываем свои чувства, прячем шрамы и надеемся, что беготня по кругу поможет нам забыть.",translated,112
+vntext.sq#46675,vntext.sq,DEBORA,But a charming Mood Confectioner once told me...,Но один очаровательный кондитер настроений однажды сказал мне...,translated,48
+vntext.sq#46676,vntext.sq,DEBORA,There's nothing wrong with carrying the past with you'.,"«Нет ничего плохого в том, чтобы носить прошлое с собой».",translated,55
+vntext.sq#46677,vntext.sq,DEBORA,"After all, the past has a habit of catching up, one way or another.","В конце концов, у прошлого есть привычка нагонять тебя тем или иным способом.",translated,67
+vntext.sq#46678,vntext.sq,DEBORA,"But you're happy about that, aren't you?","Но ты этому рад, да?",translated,40
+vntext.sq#46679,vntext.sq,DEBORA,There's no point in dwelling on things we cannot change'.,"«Нет смысла зацикливаться на том, что мы не можем изменить».",translated,57
+vntext.sq#46680,vntext.sq,DEBORA,"But If you keep running, you end up losing sight of your goals... of what makes you happy.","Но если продолжать бежать, в итоге теряешь из виду свои цели... то, что делает тебя счастливым.",translated,90
+vntext.sq#46681,vntext.sq,DEBORA,"However... you're happy right now, aren't you?","И всё же... сейчас ты счастлив, да?",translated,46
+vntext.sq#46682,vntext.sq,DEBORA,"An odd feeling, considering you're surrounded by your exes...","Странное чувство, учитывая, что ты окружён своими бывшими...",translated,61
+vntext.sq#46683,vntext.sq,DEBORA,"Though I suppose... a better way to put it would be, you are surrounded by [i] friends. [/i]","Хотя, наверное... правильнее было бы сказать, что ты окружён [i] друзьями. [/i]",translated,92
+vntext.sq#46684,vntext.sq,DEBORA,And for some of them... well... perhaps they are now something more...,"А для некоторых из них... что ж... может, теперь они нечто большее...",translated,70
+vntext.sq#46685,vntext.sq,DEBORA,"Oh, please... don't deny it. You've been creating moods all this time, so now, I believe you have the right to feel one yourself.","Ой, да ладно... не отрицай. Ты всё это время создавал настроения для других, так что теперь, полагаю, у тебя есть право почувствовать одно самому.",translated,129
+vntext.sq#46686,vntext.sq,DEBORA,"It's a complex flavor... a hint of {$moods:cheer} with a light aftertaste of ${Relaxation}. The journey's over, after all.","Это сложный вкус... намёк на {$moods:cheer} с лёгким послевкусием ${Relaxation}. В конце концов, путешествие завершено.",translated,122
+vntext.sq#46687,vntext.sq,DEBORA,"Ahhhh, and perhaps a bit of {$moods:sincerity} and {$moods:nostalgia}... with an undertone of {$moods:passion}.","Аааа, и, может, немного {$moods:sincerity} и {$moods:nostalgia}... с оттенком {$moods:passion}.",translated,111
+vntext.sq#46688,vntext.sq,DEBORA,A touch of {$moods:patience} and {$moods:focus} for what's yet to come...,"Штрих {$moods:patience} и {$moods:focus} для того, что ещё впереди...",translated,73
+vntext.sq#46689,vntext.sq,DEBORA,And a simmering aftertaste of {$moods:courage} and {$moods:inspiration} to help you take those first few steps moving forward.,"И тлеющее послевкусие {$moods:courage} и {$moods:inspiration}, чтобы помочь тебе сделать первые шаги вперёд.",translated,126
+vntext.sq#46690,vntext.sq,DEBORA,A flavor difficult to put into words... but as we approach the end of this story... I suppose we can settle with the word [i] 'closure'. [/i],"Вкус, который трудно выразить словами... но раз уж мы приближаемся к концу этой истории... полагаю, можно остановиться на слове [i] «завершённость». [/i]",translated,141
+vntext.sq#46691,vntext.sq,DEBORA,"And true... the world might still be going on a downward spiral... but at least, amidst all the chaos, with the help of those we can keep close to us... we still have a choice in how we get to [i] feel. [/i]","И правда... мир всё ещё может катиться под откос... но по крайней мере, среди всего этого хаоса, с помощью тех, кого мы можем удержать рядом с собой... у нас всё ещё есть выбор в том, как нам [i] чувствовать. [/i]",translated,207
+vntext.sq#46692,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#46693,vntext.sq,DEBORA,"Until next time, Mood Confectioner.","До следующего раза, кондитер настроений.",translated,35
+vntext.sq#55760,vntext.sq,DEBORA,...!!,...!!,translated,5
+vntext.sq#55761,vntext.sq,DEBORA,"Another bad one. I expected better from you, [i] caro. [/i]","Ещё один неудачный. Я ждал от тебя большего, [i] caro. [/i]",translated,59
+vntext.sq#55762,vntext.sq,DEBORA,Let's try one more time.,Давай попробуем ещё раз.,translated,24
+vntext.sq#68459,vntext.sq,DEBORA,"No glaze? Hm. Not a good impression, I'm afraid.","Без глазури? Хм. Боюсь, впечатление не очень.",translated,48
+vntext.sq#68461,vntext.sq,DEBORA,Distracted? You seem to have gotten my order wrong. I asked for a different glaze.,"Отвлёкся? Похоже, ты перепутал мой заказ. Я просил другую глазурь.",translated,82
+vntext.sq#68463,vntext.sq,DEBORA,Hmm. That's a little disappointing. What good is a donut without a generous helping of glaze?,Хмм. Немного разочаровывает. Что толку от пончика без щедрой порции глазури?,translated,93
+vntext.sq#68465,vntext.sq,DEBORA,Now where did all the toppings go?,Так куда делись все топпинги?,translated,34
+vntext.sq#68467,vntext.sq,DEBORA,Seems like something's wrong with my order. These are different from the toppings I asked for.,"Похоже, что-то не так с моим заказом. Это не те топпинги, что я просил.",translated,94
+vntext.sq#68469,vntext.sq,DEBORA,"Food may not be all about the decoration, but toppings can still make or break a donut.","Еда, может, и не только про украшение, но топпинги всё же могут сделать или испортить пончик.",translated,87
+vntext.sq#68471,vntext.sq,DEBORA,"Now why would you refrain from adding drizzle on my donut, hmm?","Так почему ты воздержался от добавления потёков на мой пончик, хмм?",translated,63
+vntext.sq#68473,vntext.sq,DEBORA,"You should pay more attention to your work, darling. This isn't the right drizzle at all!","Тебе стоит быть внимательнее к своей работе, дорогой. Это совсем не те потёки!",translated,89
+vntext.sq#68475,vntext.sq,DEBORA,A shame this donut doesn't have a lot of drizzle on it. It could've been perfect...,"Жаль, что на этом пончике маловато потёков. Он мог бы быть идеальным...",translated,83
+vntext.sq#68477,vntext.sq,DEBORA,There's no filling in here! I was so sure I asked for a donut with one.,"Тут нет начинки! Я был так уверен, что просил пончик с ней.",translated,71
+vntext.sq#68479,vntext.sq,DEBORA,What happened to my original order? I asked for a different donut filling.,Что случилось с моим изначальным заказом? Я просил другую начинку для пончика.,translated,74
+vntext.sq#68481,vntext.sq,DEBORA,I thought you'd be better at making your donut presentable...,"Думал, у тебя лучше получается делать пончик презентабельным...",translated,61
+vntext.sq#68483,vntext.sq,DEBORA,"I don't recall asking for any of this on my donut. Too many elements can muddle the experience, don't you agree?","Не припомню, чтобы просил что-то из этого на своём пончике. Слишком много элементов может смазать впечатление, согласен?",translated,112
+vntext.sq#68487,vntext.sq,DEBORA,How could you have forgotten an important part of my order? The glaze would have elevated this donut.,Как ты мог забыть важную часть моего заказа? Глазурь подняла бы этот пончик на новый уровень.,translated,101
+vntext.sq#68489,vntext.sq,DEBORA,"This line of work calls for your apt attention, darling. When a customer asks for glaze, make sure you do it correctly.","Эта работа требует твоего пристального внимания, дорогой. Когда клиент просит глазурь, убедись, что делаешь её правильно.",translated,119
+vntext.sq#68491,vntext.sq,DEBORA,"I wish you put more glaze on this donut, darling...","Хотела бы я, чтобы ты положил больше глазури на этот пончик, дорогой...",translated,51
+vntext.sq#68493,vntext.sq,DEBORA,You can't expect your customers to be happy with this kind of service. Not even a single topping in sight...,"Не жди, что клиенты будут довольны таким сервисом. Ни одного топпинга в поле зрения...",translated,108
+vntext.sq#68495,vntext.sq,DEBORA,"Something is off with the toppings, I'm afraid.","Боюсь, что-то не так с топпингами.",translated,47
+vntext.sq#68497,vntext.sq,DEBORA,Is this really all the toppings you have? This is not a good amount for balance...,"Это правда все топпинги, что у тебя есть? Это не то количество для баланса...",translated,82
+vntext.sq#68499,vntext.sq,DEBORA,Is the drizzle I asked for not available? That's disappointing.,"Потёки, что я просила, недоступны? Разочаровывающе.",translated,63
+vntext.sq#68501,vntext.sq,DEBORA,"Hmm, the balance of this donut is all wrong. This drizzle isn't a good fit.","Хмм, баланс этого пончика совсем не тот. Эти потёки не подходят.",translated,75
+vntext.sq#68503,vntext.sq,DEBORA,"Ah, what happened to the drizzle? There should be more, yes?","Ах, что случилось с потёками? Их должно быть больше, да?",translated,60
+vntext.sq#68505,vntext.sq,DEBORA,Did you forget to put filling in my donut?,Ты забыл положить начинку в мой пончик?,translated,42
+vntext.sq#68507,vntext.sq,DEBORA,"Hm. I'm not sure this filling goes well with the rest of my donut, darling. This isn't the flavor I asked for.","Хм. Не уверена, что эта начинка хорошо сочетается с остальным моим пончиком, дорогой. Это не тот вкус, что я просила.",translated,110
+vntext.sq#68509,vntext.sq,DEBORA,Were you in a hurry? That must be why this donut looks so... unappealing.,"Ты спешил? Должно быть, поэтому этот пончик выглядит так... непривлекательно.",translated,73
+vntext.sq#68511,vntext.sq,DEBORA,Is this really how you make your donuts? Overwhelming fanfare to numb the tastebuds? What a waste.,"Это правда как ты делаешь свои пончики? Ошеломляющая помпезность, притупляющая вкусовые рецепторы? Какая растрата.",translated,98
+vntext.sq#68515,vntext.sq,DEBORA,"Without the glaze, this donut is nothing more than an unfinished work of art.",Без глазури этот пончик — не более чем незавершённое произведение искусства.,translated,77
+vntext.sq#68517,vntext.sq,DEBORA,"Not quite the glaze I asked for, I'm afraid.","Боюсь, не совсем та глазурь, что я просила.",translated,44
+vntext.sq#68519,vntext.sq,DEBORA,"How unfortunate. I was looking forward to that beautiful glaze, but there's hardly any to indulge in.","Как неудачно. Я рассчитывала на эту прекрасную глазурь, но её почти нет, чтобы насладиться.",translated,101
+vntext.sq#68521,vntext.sq,DEBORA,"A donut without toppings? Well, I suppose that also works. But this is not what I asked for.","Пончик без топпингов? Что ж, полагаю, так тоже сойдёт. Но это не то, что я просила.",translated,92
+vntext.sq#68523,vntext.sq,DEBORA,"Oh, hm. Perhaps your mind was wandering while I was giving my order. These are different from the toppings I asked for, darling.","Ох, хм. Быть может, твои мысли витали где-то ещё, пока я делала заказ. Это не те топпинги, что я просила, дорогой.",translated,128
+vntext.sq#68525,vntext.sq,DEBORA,"With such a small amount of toppings, your donut looks rather... naked.",С таким малым количеством топпингов твой пончик выглядит довольно... голым.,translated,71
+vntext.sq#68527,vntext.sq,DEBORA,"Oh, darling... I was looking forward to that drizzle. Where has it gone?","Ох, дорогой... я так рассчитывала на эти потёки. Куда они делись?",translated,72
+vntext.sq#68529,vntext.sq,DEBORA,Why did you choose to change the drizzle? Do you think this works better on my donut?,"Почему ты решил поменять потёки? Думаешь, так лучше подходит моему пончику?",translated,85
+vntext.sq#68531,vntext.sq,DEBORA,Is this really all of the drizzle you have left? How disappointing.,"Это правда все потёки, что у тебя остались? Как разочаровывающе.",translated,67
+vntext.sq#68533,vntext.sq,DEBORA,I wish this had some filling. Try to remember the details next time.,"Хотела бы, чтобы тут была какая-то начинка. Постарайся запомнить детали в следующий раз.",translated,68
+vntext.sq#68535,vntext.sq,DEBORA,"This filling isn't the one I asked for. Alas, I don't think I would enjoy this as much.","Эта начинка не та, что я просила. Увы, не думаю, что она мне так же понравится.",translated,87
+vntext.sq#68537,vntext.sq,DEBORA,"One must put time and effort into making a donut beautiful, you know.","Знаешь ли, нужно вложить время и усилия, чтобы сделать пончик красивым.",translated,69
+vntext.sq#68539,vntext.sq,DEBORA,"Do not try to cover up your mistakes with unnecessary baggage, darling.","Не пытайся прикрыть свои ошибки ненужным балластом, дорогой.",translated,71
+vntext.sq#68541,vntext.sq,DEBORA,Distracted? You seem to have gotten the donut shape wrong.,"Отвлёкся? Похоже, ты перепутал форму пончика.",translated,58
+vntext.sq#68542,vntext.sq,DEBORA,"Worry not. Even with minor mistakes, what matters is how the donut tastes as a whole. Let's see how you fare in that regard, darling...","Не переживай. Даже при мелких ошибках главное — каков пончик на вкус в целом. Посмотрим, как у тебя с этим, дорогой...",translated,135
+vntext.sq#70890,vntext.sq,DEBORA,"There it is, the famous San Mazo sunset.","Вот он, знаменитый закат Сан-Мазо.",translated,40
+vntext.sq#70891,vntext.sq,DEBORA,"Truly a sight to behold, wouldn't you say?","Поистине незабываемое зрелище, не находишь?",translated,42
+vntext.sq#70892,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#70899,vntext.sq,DEBORA,"Heh... to a local who sees it everyday, I suppose the magic has faded.","Хех... наверное, для местного, который видит это каждый день, магия уже поблёкла.",translated,70
+vntext.sq#70900,vntext.sq,DEBORA,I take it you're a half glass empty type of person?,"Так ты из тех, кто видит стакан наполовину пустым?",translated,51
+vntext.sq#70902,vntext.sq,DEBORA,They say people who dislike sunsets carry the biggest regrets.,"Говорят, что те, кому не нравятся закаты, несут в себе самые тяжёлые сожаления.",translated,62
+vntext.sq#70903,vntext.sq,DEBORA,The day ending... a constant reminder of how you can't go back.,"Конец дня... постоянное напоминание о том, что назад пути нет.",translated,63
+vntext.sq#70906,vntext.sq,DEBORA,It takes a special type of optimism to see the spendor in something so ordinary.,"Нужен особый склад оптимизма, чтобы видеть великолепие в чём-то настолько обыденном.",translated,80
+vntext.sq#70907,vntext.sq,DEBORA,I take it you're a half glass full type of person?,"Так ты из тех, кто видит стакан наполовину полным?",translated,50
+vntext.sq#70909,vntext.sq,DEBORA,"They say people who enjoy the sunset are content with their lives — with no regrets, they welcome the end of the day with open arms.","Говорят, что те, кому нравятся закаты, довольны своей жизнью — без сожалений они с распростёртыми объятиями встречают конец дня.",translated,132
+vntext.sq#70910,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#70914,vntext.sq,DEBORA,"Oh my... I must say, I didn't expect an answer like that. If you really mean it, then color me flattered.","Ох... должна сказать, не ожидала такого ответа. Если ты правда так думаешь, то мне льстит.",translated,105
+vntext.sq#70915,vntext.sq,DEBORA,Heh... you seem like a wild one.,"Хех... а ты, похоже, тот ещё дикарь.",translated,32
+vntext.sq#70916,vntext.sq,DEBORA,...,...,translated,3
+vntext.sq#70917,vntext.sq,DEBORA,Heh... but you make a good point. Who cares about the sunset when there are gorgeous people like me around every corner?,"Хех... но ты прав. Кому есть дело до заката, когда на каждом углу такие красотки, как я?",translated,120
+vntext.sq#70918,vntext.sq,DEBORA,"But people can get complicated, no? A whole bundle of emotions and obligations... messy business. In the end, all you're left with are regrets.","Но с людьми всё сложно, не так ли? Клубок эмоций и обязательств... грязное дело. В итоге у тебя остаются только сожаления.",translated,143
+vntext.sq#70921,vntext.sq,DEBORA,Is that what haunts you right now?,"Это то, что тебя сейчас гложет?",translated,34
+vntext.sq#70964,vntext.sq,DEBORA,I see... such a shame. I'm no stranger to those kind of feelings...,Понимаю... как жаль. Мне такие чувства тоже знакомы...,translated,67
+vntext.sq#70965,vntext.sq,DEBORA,But let me ask you this...,Но позволь спросить тебя вот о чём...,translated,26
+vntext.sq#70966,vntext.sq,DEBORA,"For someone who's grown tired of sunsets, do you think there's still some splendor in that old flame?","Для того, кто устал от закатов, — как думаешь, осталось ли ещё величие в том старом огне?",translated,101
+vntext.sq#70967,vntext.sq,DEBORA,"For someone who still finds a spark of joy in the setting sun, do you think there's fire to those old flames?","Для того, кто всё ещё находит искру радости в закате, — как думаешь, теплится ли ещё огонь в тех старых чувствах?",translated,109
+vntext.sq#70968,vntext.sq,DEBORA,"You're forward enough to claim that I'm ""a sight to behold""... but do you still find yourself looking back at the past?","Ты достаточно смел, чтобы заявить, что я «незабываемое зрелище»... но оглядываешься ли ты сам на прошлое?",translated,119
+vntext.sq#70969,vntext.sq,DEBORA,"If you had a second chance, would you do things differently?","Если бы у тебя был второй шанс, ты бы поступил иначе?",translated,60
+vntext.sq#70975,vntext.sq,DEBORA,You've got fire... interesting.,В тебе есть огонь... интересно.,translated,31
+vntext.sq#70977,vntext.sq,DEBORA,A responsible choice. Best distance yourself from the past.,Разумный выбор. Лучше держаться подальше от прошлого.,translated,59
+vntext.sq#70979,vntext.sq,DEBORA,A fair point.,Справедливо.,translated,13
+vntext.sq#70981,vntext.sq,DEBORA,Is this your bus? Best get on then. I'm still waiting for mine.,Это твой автобус? Тогда лучше садись. А я всё ещё жду свой.,translated,63
+vntext.sq#70982,vntext.sq,DEBORA,I'll see you around.,Увидимся.,translated,20
+vntext.sq#70987,vntext.sq,DEBORA,In due time.,В своё время.,translated,12

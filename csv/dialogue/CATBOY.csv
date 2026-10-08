@@ -1,0 +1,322 @@
+id,file,context,source,target,status,max_len
+vntext.sq#2470,vntext.sq,CATBOY,Meow.,Мяу.,translated,5
+vntext.sq#2472,vntext.sq,CATBOY,"This is... a mood cafe serving donyuts, is it nyot?","Это ведь... кафе настроения, где подают понячики, верно?",translated,51
+vntext.sq#2474,vntext.sq,CATBOY,Hm.,Хм.,translated,3
+vntext.sq#2475,vntext.sq,CATBOY,"[i] Wags tail, wags tail. [/i]","[i] Виляет хвостом, виляет хвостом. [/i]",translated,30
+vntext.sq#2477,vntext.sq,CATBOY,[i] Ears perking up attentively. [/i],[i] Уши настороженно навостряются. [/i],translated,37
+vntext.sq#2478,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2480,vntext.sq,CATBOY,Anything the matter?,Что-то не так?,translated,20
+vntext.sq#2482,vntext.sq,CATBOY,Purrhaps I am taking too long with my order?,"Возможно, я слишком долго думаю с заказом?",translated,44
+vntext.sq#2484,vntext.sq,CATBOY,Then I have a question.,Тогда у меня вопрос.,translated,23
+vntext.sq#2486,vntext.sq,CATBOY,"Are you a dog person, or a cat person?",Ты собачник или кошатник?,translated,38
+vntext.sq#2493,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2494,vntext.sq,CATBOY,"With the popularity of... ugh, canines... I did nyot expect that answer.","При всей популярности... фу, собак... я ня ожидал такого ответа.",translated,72
+vntext.sq#2495,vntext.sq,CATBOY,[i] Purrs in satisfaction. [/i],[i] Довольно мурлычет. [/i],translated,31
+vntext.sq#2498,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2499,vntext.sq,CATBOY,[i] Hisses in anger. [/i],[i] Шипит от злости. [/i],translated,25
+vntext.sq#2501,vntext.sq,CATBOY,Hmph. Fine. I'll accept that answer... begrudgingly.,Хмф. Ладно. Приму этот ответ... неохотно.,translated,52
+vntext.sq#2502,vntext.sq,CATBOY,"...Well then, I should order something, nya.","...Что ж, стоит что-то заказать, мяу.",translated,44
+vntext.sq#2512,vntext.sq,CATBOY,I shall nyot eat this. Please give me a refund.,Я ня стану это есть. Верните деньги.,translated,47
+vntext.sq#2517,vntext.sq,CATBOY,Mmm. That hits the spot. [i] Purrs in happiness and satisfaction. [/i],"Ммм. Вот это то, что нужно. [i] Мурлычет от счастья и удовлетворения. [/i]",translated,70
+vntext.sq#2518,vntext.sq,CATBOY,Thank you for the donyut. I shall take my leave nyow!,Спасибо за понячик. А теперь я откланяюсь!,translated,53
+vntext.sq#2520,vntext.sq,CATBOY,Your idea of ${cheering} up... is ${focusing} on something? This is nyot helping.,Твоё представление о ${cheering}... это ${focusing} на чём-то? Это ня помогает.,translated,81
+vntext.sq#2521,vntext.sq,CATBOY,I do nyot think I need all these ideas right now. You do nyot {$moods:cheer} up by muddying the mind.,"Не думаю, что мне сейчас нужны все эти идеи. Взбодриться {$moods:cheer} — это ня значит мутить рассудок.",translated,101
+vntext.sq#2522,vntext.sq,CATBOY,...How can I {$moods:cheer} up if I am now being taunted by all that I yearn for?,"...Как мне взбодриться {$moods:cheer}, если меня теперь дразнят всем, чего я так жажду?",translated,81
+vntext.sq#2523,vntext.sq,CATBOY,Although I like the ${relaxing} effect... this is nyot giving me the ${cheerfulness} that I asked for.,"Хоть мне и нравится эффект ${relaxing}... это ня та ${cheerfulness}, о которой я просил.",translated,102
+vntext.sq#2524,vntext.sq,CATBOY,"Perhaps it is good that you gave me this, because I feel more ${patient} with the mistake you've just made.","Возможно, хорошо, что ты дал мне это, ведь теперь я чувствую больше ${patient} к твоей только что допущенной ошибке.",translated,107
+vntext.sq#2525,vntext.sq,CATBOY,"I wanted to {$moods:cheer} up, nyot think of distant memories.","Я хотел взбодриться {$moods:cheer}, а ня думать о далёких воспоминаниях.",translated,62
+vntext.sq#2526,vntext.sq,CATBOY,"I'm upset you got my order wrong. To be honest, I'm starting to question your credentials.","Меня расстраивает, что ты перепутал заказ. Если честно, начинаю сомневаться в твоей квалификации.",translated,90
+vntext.sq#2527,vntext.sq,CATBOY,... Why this enhancer? I do nyot need an extra burst of {$moods:courage} right nyow.,...Зачем этот усилитель? Мне ня нужен дополнительный всплеск {$moods:courage} прямо сейчас.,translated,84
+vntext.sq#2528,vntext.sq,CATBOY,"... Well, I've got to go. Please give me the correct donyut nyext time.","...Что ж, мне пора. Пожалуйста, в следующий раз дай мне правильный понячик.",translated,71
+vntext.sq#2529,vntext.sq,CATBOY,Good nyight!,Доброй ночи!,translated,12
+vntext.sq#2531,vntext.sq,CATBOY,"Hello, my friend with the excellent taste in furry companyans.","Здравствуй, мой друг с отменным вкусом на пушистых питомцев.",translated,62
+vntext.sq#2533,vntext.sq,CATBOY,"You see, it comfurts me when you appreciate my kind.","Видишь ли, меня утешает, когда ты ценишь мой народ.",translated,52
+vntext.sq#2534,vntext.sq,CATBOY,I have thus decided I shall patronyize your establishment as a regular.,"Поэтому я решил, что буду постоянным клиентом твоего заведения.",translated,71
+vntext.sq#2536,vntext.sq,CATBOY,"Hello, my friend with the... meowdiocre taste in furry companions.","Здравствуй, мой друг с... так себе вкусом на пушистых питомцев.",translated,66
+vntext.sq#2538,vntext.sq,CATBOY,"Hmph. Nyat upset. This is quite common, actually. Tragically, there are far too many people who do nyat appreciate the value of feline friends.","Хмф. Ня расстроен. Это, вообще-то, довольно распространено. Трагически много людей ня ценят достоинства кошачьих друзей.",translated,143
+vntext.sq#2539,vntext.sq,CATBOY,I have thus decided I shall patronyize your establishment as a regular... to help with your enlightnyanment.,"Поэтому я решил, что буду постоянным клиентом твоего заведения... чтобы помочь тебе просветиться.",translated,108
+vntext.sq#2541,vntext.sq,CATBOY,Hmph. Very well. I have another question for you.,"Хмф. Что ж, ладно. У меня есть ещё один вопрос.",translated,49
+vntext.sq#2542,vntext.sq,CATBOY,Would you happen to knyow what cats like to do the most?,"Не подскажешь, что кошки любят больше всего?",translated,56
+vntext.sq#2551,vntext.sq,CATBOY,"Hmph. Correct, I suppose. But this is common knowledge, human.","Хмф. Верно, полагаю. Но это общеизвестный факт, человек.",translated,62
+vntext.sq#2552,vntext.sq,CATBOY,I expected better from you.,Я ожидал от тебя большего.,translated,27
+vntext.sq#2554,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2555,vntext.sq,CATBOY,Perhaps talking to you is a waste of my time.,"Возможно, разговор с тобой — пустая трата времени.",translated,45
+vntext.sq#2556,vntext.sq,CATBOY,"But I shall just live with this wasted time. I have nyine lives, after all!","Но так и быть, переживу эту потерю времени. У меня, в конце концов, девять жизней!",translated,75
+vntext.sq#2558,vntext.sq,CATBOY,Close enyough.,Почти угадал.,translated,14
+vntext.sq#2559,vntext.sq,CATBOY,"In the Circle of Dreamers, cats dream of all the lives they can live.","В Круге Сновидцев кошки видят во сне все жизни, которые могли бы прожить.",translated,69
+vntext.sq#2560,vntext.sq,CATBOY,"While they have always had nyine lives, dreaming helps them attain the power to use up a life... in the event that they nyeed it.","Хоть у них всегда было девять жизней, сновидения помогают им обрести силу израсходовать одну из них... если возникнет нужда.",translated,129
+vntext.sq#2562,vntext.sq,CATBOY,"Very nyeat indeed. And since you look familiar... perhaps [i] you [/i] are the one I dreamed of. Our connection shall allow me to use up one of my nyine lives, should I need it!","Ещё как занятно. И раз уж ты кажешься мне знакомым... возможно, именно [i] тебя [/i] я видел во сне. Наша связь позволит мне израсходовать одну из моих девяти жизней, если понадобится!",translated,177
+vntext.sq#2564,vntext.sq,CATBOY,...!,...!,translated,4
+vntext.sq#2565,vntext.sq,CATBOY,How did you knyow that?,Откуда ты это узнал?,translated,23
+vntext.sq#2567,vntext.sq,CATBOY,The Circle of Dreamers... I had somehow assumed you would nyot knyow about it... but you do!,"Круг Сновидцев... я почему-то был уверен, что ты о нём ня знаешь... а ты знаешь!",translated,92
+vntext.sq#2568,vntext.sq,CATBOY,"Perhaps... [i] you [/i] are the one I dreamed of... which means my connection to you shall allow me to use up one of my nyine lives, should I need it!","Возможно... именно [i] тебя [/i] я видел во сне... а значит, наша связь позволит мне израсходовать одну из моих девяти жизней, если понадобится!",translated,150
+vntext.sq#2570,vntext.sq,CATBOY,Do you nyot see my cat ears?,Разве ты ня видишь мои кошачьи уши?,translated,28
+vntext.sq#2573,vntext.sq,CATBOY,"I should hope so. So you see, it is important for me to reach the perfect state in order to join the Circle of Dreamers tonight.","Надеюсь на это. Видишь ли, мне важно достичь идеального состояния, чтобы сегодня вечером присоединиться к Кругу Сновидцев.",translated,128
+vntext.sq#2592,vntext.sq,CATBOY,"Ahh, this is helping me reach the ideal state! I'm half here in the real world, half experiencing all the other worlds out there...","Аах, это помогает мне достичь идеального состояния! Я наполовину здесь, в реальном мире, наполовину — во всех остальных мирах...",translated,131
+vntext.sq#2593,vntext.sq,CATBOY,"[i] Purrs in satisfaction. [/i] I am feeling quite heavy, but in a good way. Ready for a nyap.",[i] Мурлычет от удовлетворения. [/i] Я чувствую приятную тяжесть. Готов вздремнуть.,translated,94
+vntext.sq#2594,vntext.sq,CATBOY,"To enter the Circle of Dreamers, one must face the mirror... as I am doing now... having this delicious {$flavors:methberry} donyut. And I am very pleased.","Чтобы войти в Круг Сновидцев, нужно взглянуть в зеркало... как я делаю сейчас... уплетая этот восхитительный понячик {$flavors:methberry}. И я весьма доволен.",translated,155
+vntext.sq#2595,vntext.sq,CATBOY,And thank you for nyot forgetting to add my ${sprinkles}.,"И спасибо, что ня забыл добавить мои ${sprinkles}.",translated,57
+vntext.sq#2597,vntext.sq,CATBOY,"Perhaps I can use this mood for hunting... but it is not for Dreaming, human.","Возможно, я смогу использовать это настроение для охоты... но для Сновидений оно не подходит, человек.",translated,77
+vntext.sq#2598,vntext.sq,CATBOY,"An intense feeling of... desire? Human, you want me to be in heat?","Интенсивное чувство... желания? Человек, ты хочешь, чтобы я вошёл в течку?",translated,66
+vntext.sq#2599,vntext.sq,CATBOY,"This comes close, but is not quite what I need, human... this is better for when I'm hungry and waiting for all I yearn for.","Близко, но не совсем то, что мне нужно, человек... это больше подходит, когда я голоден и жду всё, чего так жажду.",translated,124
+vntext.sq#2600,vntext.sq,CATBOY,So much memories coming back... this might distract from Dreaming...,Столько воспоминаний нахлынуло... это может отвлечь от Сновидений...,translated,68
+vntext.sq#2601,vntext.sq,CATBOY,"A good feeling, but perhaps... a little bit distracting. My enyergy level is now too high!","Приятное чувство, но, пожалуй... немного отвлекающее. Мой уровень энергии сейчас слишком высок!",translated,90
+vntext.sq#2602,vntext.sq,CATBOY,{$moods:courage}... but for what? I am already brave enough to face my Dreams!,"{$moods:courage}... но зачем? Я и так достаточно храбр, чтобы встретить свои Сны!",translated,78
+vntext.sq#2603,vntext.sq,CATBOY,"It's not the worst feeling, I suppose. I shall simply have to ride it out.","Не худшее чувство, полагаю. Просто придётся его перетерпеть.",translated,74
+vntext.sq#2604,vntext.sq,CATBOY,"Very well, I am off to Dream. Good nyight, {$mcName}!","Что ж, я отправляюсь Видеть Сны. Доброй ночи, {$mcName}!",translated,53
+vntext.sq#2605,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2611,vntext.sq,CATBOY,"Good evening, my friend from the Circle of Dreamers. [i] Purrs excitedly. [/i]","Добрый вечер, мой друг из Круга Сновидцев. [i] Взволнованно мурлычет. [/i]",translated,78
+vntext.sq#2613,vntext.sq,CATBOY,"I am back to teach you more about the Way of the Feline, and the Circle of Dreamers.","Я вернулся, чтобы рассказать тебе больше о Пути Кошачьих и о Круге Сновидцев.",translated,84
+vntext.sq#2614,vntext.sq,CATBOY,But furst—,Но сперва—,translated,10
+vntext.sq#2617,vntext.sq,CATBOY,...!,...!,translated,4
+vntext.sq#2618,vntext.sq,CATBOY,[i] You! [/i],[i] Ты! [/i],translated,13
+vntext.sq#2620,vntext.sq,CATBOY,"Yes, I am talking to you, Sally Divine, propagator of Canine Puppaganda!","Да, я обращаюсь к тебе, Салли Дивайн, распространительница Пёспаганды!",translated,72
+vntext.sq#2622,vntext.sq,CATBOY,"Oh, it is absolutely [i] nyot [/i] a pleasure.","О, это [i] абсолютно ня [/i] приятно.",translated,46
+vntext.sq#2623,vntext.sq,CATBOY,"You have betrayed me, my [i] 'friend.' [/i]","Ты предала меня, мой [i] «друг». [/i]",translated,43
+vntext.sq#2624,vntext.sq,CATBOY,Nyo wonder you chose puppy dogs! You have been consuming the Puppaganda!,"Неудивительно, что ты выбрала щенков! Ты наглоталась Пёспаганды!",translated,72
+vntext.sq#2626,vntext.sq,CATBOY,"I knyow what you will say. There must be a meowstake. But I know an enyamy of the felines when I see one. And nyow, I see two, it seems!","Я знаю, что ты скажешь. Явно какая-то ошибочка. Но я узнаю врага кошачьих, когда вижу его. А теперь, похоже, вижу сразу двоих!",translated,136
+vntext.sq#2628,vntext.sq,CATBOY,[i] Wags tail angrily. [/i],[i] Гневно виляет хвостом. [/i],translated,27
+vntext.sq#2630,vntext.sq,CATBOY,...Hmph.,...Хмф.,translated,8
+vntext.sq#2651,vntext.sq,CATBOY,Hm. The {$colors:green} of this flavor really adds to the ${relaxing} effect.,Хм. {$colors:green} этого вкуса правда усиливает эффект ${relaxing}.,translated,77
+vntext.sq#2652,vntext.sq,CATBOY,I am nyot as angry anymore... it seems as if the donyut is working.,"Я больше ня злюсь так сильно... похоже, понячик действует.",translated,67
+vntext.sq#2653,vntext.sq,CATBOY,Thank you for choosing the correct mood.,"Спасибо, что выбрал правильное настроение.",translated,40
+vntext.sq#2654,vntext.sq,CATBOY,"Hmph. Because it was good, I shall accept your peace offering.","Хмф. Раз уж это было хорошо, приму твоё мирное подношение.",translated,62
+vntext.sq#2656,vntext.sq,CATBOY,"...Do you want me to {$moods:focus} on my anger even more, human?","...Хочешь, чтобы я {$moods:focus} на своём гневе ещё сильнее, человек?",translated,65
+vntext.sq#2657,vntext.sq,CATBOY,Are you trying to give me ideas on how to make dogs cry?,"Ты пытаешься подсказать мне, как заставить собак плакать?",translated,56
+vntext.sq#2658,vntext.sq,CATBOY,THIS IS ONLY MAKING IT WORSE. WAGS TAIL VERY ANGRILY.,ЭТО ТОЛЬКО ВСЁ УХУДШАЕТ. ЗЛОБНО ВИЛЯЕТ ХВОСТОМ.,translated,53
+vntext.sq#2659,vntext.sq,CATBOY,"Giving me memories of the past to distract from the anger may help... but it is nyot making the anger go away, human.","Воспоминания о прошлом, чтобы отвлечь от гнева, может, и помогают... но гнев от этого ня проходит, человек.",translated,117
+vntext.sq#2660,vntext.sq,CATBOY,"Human, if you want me to be happy, then I shall be happy! And I shall happily attack all the dogs in this rotten world!","Человек, если хочешь, чтобы я был счастлив, я буду счастлив! И с радостью наброшусь на всех собак в этом прогнившем мире!",translated,119
+vntext.sq#2661,vntext.sq,CATBOY,...This is making me wanna talk about things I do NYOT want to talk about.,"...Из-за этого мне хочется поговорить о вещах, о которых я ня хочу говорить.",translated,74
+vntext.sq#2662,vntext.sq,CATBOY,THIS IS ONLY MAKING IT WORSE. WAGS TAIL VERY AGGRESSIVELY.,ЭТО ТОЛЬКО ВСЁ УХУДШАЕТ. АГРЕССИВНО ВИЛЯЕТ ХВОСТОМ.,translated,58
+vntext.sq#2663,vntext.sq,CATBOY,What an awful choice. I shall need a Fixer-upper.,Какой ужасный выбор. Мне нужен Fixer-upper.,translated,49
+vntext.sq#2665,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2666,vntext.sq,CATBOY,Many thanks. Try nyot to do that again.,Премного благодарен. Постарайся больше так ня делать.,translated,39
+vntext.sq#2667,vntext.sq,CATBOY,"Hmph. The donyut wasn't very good, but I shall accept your peace offering.","Хмф. Понячик был так себе, но я приму твоё мирное подношение.",translated,74
+vntext.sq#2669,vntext.sq,CATBOY,"But really, you must fix the lack of feline representation in 'Wolf It Down'. It is preposterous that a feline such as I nyever see cat love anywhere!","Но правда, тебе стоит исправить нехватку кошачьего представительства в 'Wolf It Down'. Это просто возмутительно, что такой кошак, как я, нигде ня вижу любви к котам!",translated,150
+vntext.sq#2670,vntext.sq,CATBOY,[i] Hisses angrily! [/i],[i] Гневно шипит! [/i],translated,24
+vntext.sq#2676,vntext.sq,CATBOY,[i] Hiss. [/i] Pentagram! Do nyot speak to me of such frivolous apps! Pentagram representation does nyot equate to representation in good media!,[i] Шипит. [/i] Pentagram! Ня смей говорить мне об этих легкомысленных приложениях! Представленность на Pentagram ня равна представленности в хорошем медиа!,translated,144
+vntext.sq#2678,vntext.sq,CATBOY,[i] Hiss. [/i] Forlornhub! Do nyot speak to me of such vulgar websites! Forlornhub representation does nyot equate to representation in good media!,[i] Шипит. [/i] Forlornhub! Ня смей говорить мне об этих пошлых сайтах! Представленность на Forlornhub ня равна представленности в хорошем медиа!,translated,147
+vntext.sq#2680,vntext.sq,CATBOY,...! GULP!,...! ГЛОТ!,translated,10
+vntext.sq#2681,vntext.sq,CATBOY,"I am out of here. Thank you for the donyut, {$mcName}.","Мне пора. Спасибо за понячик, {$mcName}.",translated,54
+vntext.sq#2704,vntext.sq,CATBOY,Meow...,Мяу...,translated,7
+vntext.sq#2706,vntext.sq,CATBOY,...!,...!,translated,4
+vntext.sq#2707,vntext.sq,CATBOY,{$mcName}... you speak my language... perhaps you are a friend after all.,"{$mcName}... ты говоришь на моём языке... возможно, ты всё-таки друг.",translated,73
+vntext.sq#2708,vntext.sq,CATBOY,Very well. I shall order something.,"Что ж, ладно. Закажу что-нибудь.",translated,35
+vntext.sq#2714,vntext.sq,CATBOY,Thank you.,Спасибо.,translated,10
+vntext.sq#2716,vntext.sq,CATBOY,...!,...!,translated,4
+vntext.sq#2717,vntext.sq,CATBOY,BLECH. AWFUL!,ФУ. УЖАС!,translated,13
+vntext.sq#2719,vntext.sq,CATBOY,I refuse to eat this. I want a refund.,Я отказываюсь это есть. Хочу возврат денег.,translated,38
+vntext.sq#2721,vntext.sq,CATBOY,...Please do better nyext time.,...В следующий раз постарайся лучше.,translated,31
+vntext.sq#2724,vntext.sq,CATBOY,Hmm... you do nyot just speak my language... you [i] understand [/i] it very well. This is exactly what I needed.,"Хмм... ты не просто говоришь на моём языке... ты [i] понимаешь [/i] его очень хорошо. Это именно то, что мне было нужно.",translated,113
+vntext.sq#2725,vntext.sq,CATBOY,"Since your donyut is helping, I'd like to stay here and just talk.","Раз уж твой понячик помогает, хочу остаться здесь и просто поговорить.",translated,66
+vntext.sq#2727,vntext.sq,CATBOY,Nope. I do nyot wish to get ${focused} right nyow.,Не-а. Я ня хочу ${focused} прямо сейчас.,translated,50
+vntext.sq#2728,vntext.sq,CATBOY,Ideas only serve as needless escapism during times like these.,Идеи в такие моменты — лишь ненужный побег от реальности.,translated,62
+vntext.sq#2729,vntext.sq,CATBOY,"Did you think {$moods:passion} cures sadness? That is nyot how it works, my friend.","Думал, {$moods:passion} лечит грусть? Так это не работает, друг мой.",translated,83
+vntext.sq#2730,vntext.sq,CATBOY,"I am already quite ${relaxed}, my friend... this is nyot what I asked for.","Я уже вполне ${relaxed}, друг мой... это ня то, о чём я просил.",translated,74
+vntext.sq#2731,vntext.sq,CATBOY,"Falling into a rabbit hole of {$moods:nostalgia} when one is sad is a recipe for disaster, my friend.","Провалиться в нору {$moods:nostalgia}, когда грустно, — это рецепт катастрофы, друг мой.",translated,101
+vntext.sq#2732,vntext.sq,CATBOY,"Nyot this one... it dulls emotions, makes them harder to understand.","Ня этот... он притупляет эмоции, делает их труднее для понимания.",translated,68
+vntext.sq#2733,vntext.sq,CATBOY,"I would've appreciated this if it were any other day... but nyot today, when I want to just sit with the sadness.","Я бы оценил это в любой другой день... но ня сегодня, когда я хочу просто побыть с грустью.",translated,113
+vntext.sq#2734,vntext.sq,CATBOY,{$moods:courage} during moments of sadness can lead to bad decisions. I hope you knyow that?,"{$moods:courage} в моменты грусти может привести к плохим решениям. Надеюсь, ты это знаешь?",translated,92
+vntext.sq#2735,vntext.sq,CATBOY,The correct donyut would have helped... but I'd like to stay here and just talk anyway.,Правильный понячик бы помог... но я всё равно хочу остаться здесь и просто поговорить.,translated,87
+vntext.sq#2742,vntext.sq,CATBOY,"Well, it may appear as a simple headband, but it's actually a meownifestation of my inner catboi.","Что ж, это может выглядеть как обычный ободок, но на самом деле это проявление моего внутреннего котобоя.",translated,97
+vntext.sq#2744,vntext.sq,CATBOY,"Must I tell? I prefer to exist in the all so delicate space between human and cat, as a member of the Circle of Dreamers.","Обязательно ли говорить? Я предпочитаю существовать в этом тонком пространстве между человеком и кошкой, как член Круга Сновидцев.",translated,121
+vntext.sq#2746,vntext.sq,CATBOY,"No, I just think they make me look really cool.","Нет, я просто думаю, что с ними выгляжу гораздо круче.",translated,47
+vntext.sq#2749,vntext.sq,CATBOY,"Well, it started out as a mission for me to understand Canine Puppaganda, but as I read more about it...","Что ж, поначалу это было для меня миссией — понять Пёспаганду, но чем больше я об этом читал...",translated,104
+vntext.sq#2750,vntext.sq,CATBOY,"I began to understand canine perspectives, see things differently...","Тем больше я начал понимать точку зрения собак, видеть вещи иначе...",translated,68
+vntext.sq#2751,vntext.sq,CATBOY,"And the webcomic has bunnies too! So, as a representative of felines, I felt incredibly left out.","А в веб-комиксе ещё и кролики есть! Так что, как представитель кошачьих, я почувствовал себя невероятно обделённым.",translated,97
+vntext.sq#2753,vntext.sq,CATBOY,"It wasn't fair to Sally Divine, though.",Хотя по отношению к Салли Дивайн это было несправедливо.,translated,39
+vntext.sq#2754,vntext.sq,CATBOY,"We may be nyonexistent in 'Wolf It Down', and I may only be a very minyor character in this story, but someday, the Circle of Dreamers shall rule the world! HAHAHA!","Пусть нас и нет в 'Wolf It Down', и пусть я лишь второстепенный персонаж этой истории, но однажды Круг Сновидцев будет править миром! ХАХАХА!",translated,164
+vntext.sq#2755,vntext.sq,CATBOY,"Uh, I mean, we'll be present in more stories. [i] Purrs in satisfaction. [/i]","Э, то есть, мы появимся в других историях. [i] Довольно мурлычет. [/i]",translated,77
+vntext.sq#2758,vntext.sq,CATBOY,That it does. I do nyot know what I would do without the Circle of Dreamers.,"Ещё как. Не знаю, что бы я делал без Круга Сновидцев.",translated,76
+vntext.sq#2760,vntext.sq,CATBOY,"Why, nyapping, of course!","Ну как же, дрёмой, конечно!",translated,25
+vntext.sq#2761,vntext.sq,CATBOY,"The Circle of Dreamers prioritizes rest and relaxation — because to be able to do so is important for creativity, and thus, Dreaming!","Круг Сновидцев ставит во главу угла отдых и расслабление — ведь способность к этому важна для творчества, а значит, и для Сновидений!",translated,133
+vntext.sq#2762,vntext.sq,CATBOY,"We cannyot imagine a better world if we are always tired, or stressed out.","Мы не можем представить себе лучший мир, если постоянно устаём или в стрессе.",translated,74
+vntext.sq#2763,vntext.sq,CATBOY,We cats... some of us resent dogs because they are bootlickers! Always working! Too much obedience! Nyever resting!,"Мы, кошки... некоторые из нас недолюбливают собак, потому что они подхалимы! Вечно работают! Слишком послушны! Никогда не отдыхают!",translated,115
+vntext.sq#2766,vntext.sq,CATBOY,...!,...!,translated,4
+vntext.sq#2767,vntext.sq,CATBOY,Perhaps... perhaps you are right. [i] Tucks tail in shame. [/i],"Возможно... возможно, ты прав. [i] Стыдливо поджимает хвост. [/i]",translated,63
+vntext.sq#2768,vntext.sq,CATBOY,"I cannyot just get mad at Sally for nyot writing about cats, or for being a dog-lover in genyeral.","Я не могу просто злиться на Салли за то, что она не пишет про кошек, или за то, что она вообще любит собак.",translated,98
+vntext.sq#2769,vntext.sq,CATBOY,"She, too, is just trying to reach for her Dreams... and probably nyot getting enyough rest in doing so...","Она тоже просто пытается дотянуться до своих Снов... и, наверное, недостаточно отдыхает при этом...",translated,105
+vntext.sq#2770,vntext.sq,CATBOY,"I lashed out and acted out when she was here. Like a cat knyocking things off a counter, I suppose. It was unfair.","Я сорвался и накинулся на неё, когда она была здесь. Как кошка, сбрасывающая вещи со стола, полагаю. Это было несправедливо.",translated,114
+vntext.sq#2772,vntext.sq,CATBOY,...Meow.,...Мяу.,translated,8
+vntext.sq#2775,vntext.sq,CATBOY,It's getting late... I should go nyow. I shall need to think about how to apologize to Sally Divine.,"Становится поздно... мне пора. Нужно подумать, как извиниться перед Салли Дивайн.",translated,100
+vntext.sq#2776,vntext.sq,CATBOY,"Thank you for having me, Friend of the Felines.","Спасибо, что принял меня, Друг Кошачьих.",translated,47
+vntext.sq#2782,vntext.sq,CATBOY,"Of course, my friend!","Конечно, мой друг!",translated,21
+vntext.sq#2783,vntext.sq,CATBOY,"But first, we must nyanderstand your vision of relaxation. What is a relaxing day for you?","Но сперва нам нужно разобраться, что для тебя значит расслабление. Каким для тебя выглядит расслабляющий день?",translated,90
+vntext.sq#2793,vntext.sq,CATBOY,"Then we shall start with that! Nyow we look at your schedule, so that we can see where and how to fit it more into your life!","Тогда с этого и начнём! Теперь посмотрим на твоё расписание, чтобы понять, где и как встроить это в твою жизнь!",translated,125
+vntext.sq#2795,vntext.sq,CATBOY,"That's why it's a problem! Come on, get a nyotebook out. It's time to show you how to make the most out of your One Life!","Вот именно поэтому это и проблема! Давай, доставай блокнот. Пора показать тебе, как выжать максимум из твоей Одной Жизни!",translated,121
+vntext.sq#2798,vntext.sq,CATBOY,Then we shall start with that! Nyow we look at how to incorporate it more into your life! What occult activity did you like in particular?,"Тогда с этого и начнём! Теперь посмотрим, как встроить это в твою жизнь побольше! Какое оккультное занятие тебе особенно нравилось?",translated,138
+vntext.sq#2800,vntext.sq,CATBOY,"Nyo, nyot that! Come on, let's brainstorm. I'm sure there are other Occult Activities that can help you relax.","Не-е, не это! Давай, давай подумаем вместе. Уверен, есть и другие Оккультные Занятия, которые помогут тебе расслабиться.",translated,110
+vntext.sq#2801,vntext.sq,CATBOY,It's time to show you how to make the most out of your One Life!,"Пора показать тебе, как выжать максимум из твоей Одной Жизни!",translated,64
+vntext.sq#2803,vntext.sq,CATBOY,Do nyot tell me... you've been serving matcha donuts all this time without understanding what it stands for?!,"Только не говори мне... ты всё это время подавал пончики с матчей, даже не понимая, что она символизирует?!",translated,109
+vntext.sq#2804,vntext.sq,CATBOY,"My, my, I've got my work cut out for me!","Ох-ох, у меня тут работы непочатый край!",translated,40
+vntext.sq#2805,vntext.sq,CATBOY,All right. Get a nyotebook out. We've got to brainstorm. It's time to show you how to make the most out of your One Life!,"Так. Доставай блокнот. Нам нужно подумать вместе. Пора показать тебе, как выжать максимум из твоей Одной Жизни!",translated,121
+vntext.sq#2806,vntext.sq,CATBOY,It's getting late. Perhaps we should paws here and continue planning and brainstorming some other time!,"Становится поздно. Пожалуй, стоит сделать лапузу и продолжить планирование и мозговой штурм в другой раз!",translated,103
+vntext.sq#2810,vntext.sq,CATBOY,"Good nyight, Sally!","Доброй ночи, Салли!",translated,19
+vntext.sq#2812,vntext.sq,CATBOY,"As long as you're nyot asking me just because you're overworking, my friend!","Только если ты спрашиваешь не потому, что сам перерабатываешь, друг мой!",translated,76
+vntext.sq#2820,vntext.sq,CATBOY,Thank you. [i] Purrs in excitement. [/i],Спасибо. [i] Взволнованно мурлычет. [/i],translated,40
+vntext.sq#2822,vntext.sq,CATBOY,I am afurraid this donut is too bland for me.,"Боюсь, этот пончик для меня слишком пресный.",translated,45
+vntext.sq#2823,vntext.sq,CATBOY,I'm very disappointed. Is this really what reminds you of your Dreams?,"Я сильно разочарован. Это правда то, что напоминает тебе о твоих Снах?",translated,70
+vntext.sq#2824,vntext.sq,CATBOY,I shall nyot eat this. Please give me a refund.,Я ня стану это есть. Верните деньги.,translated,47
+vntext.sq#2826,vntext.sq,CATBOY,Thank you.,Спасибо.,translated,10
+vntext.sq#2827,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2828,vntext.sq,CATBOY,"To Dream, for you, is to have laser-sharp focus... an ambitious person, I see. [i] Purrs in understanding. [/i]","Видеть Сны для тебя — значит обладать острой, как лазер, сосредоточенностью... целеустремлённый человек, я смотрю. [i] Понимающе мурлычет. [/i]",translated,111
+vntext.sq#2829,vntext.sq,CATBOY,"Creativity, {$moods:inspiration}... you and I speak the same language, my friend! Perhaps you will make a good Cat Person yourself!","Творчество, {$moods:inspiration}... мы с тобой говорим на одном языке, друг мой! Возможно, из тебя тоже выйдет неплохой Кошачий Человек!",translated,131
+vntext.sq#2830,vntext.sq,CATBOY,{$moods:passion} and yearnings... it is said that dreams and desires are nyot so different.,"{$moods:passion} и тоска... говорят, что мечты и желания не так уж и отличаются.",translated,91
+vntext.sq#2831,vntext.sq,CATBOY,"Total ${relaxation}... ah, you are learning the Way of the Felines. Very good!","Полное ${relaxation}... ах, ты постигаешь Путь Кошачьих. Очень хорошо!",translated,78
+vntext.sq#2832,vntext.sq,CATBOY,"${Nyostalgia}, sentimental memories... how interesting! You must dream a lot of the past!","${Nyostalgia}, сентиментальные воспоминания... как интересно! Должно быть, ты часто видишь во сне прошлое!",translated,89
+vntext.sq#2833,vntext.sq,CATBOY,"Dreams as {$moods:patience}... is an interesting view of it. Do you perhaps hold in a lot of rage, my friend?","Сны как {$moods:patience}... интересный взгляд на это. Может, ты сдерживаешь в себе много гнева, друг мой?",translated,109
+vntext.sq#2834,vntext.sq,CATBOY,"Happiness and excitement... of course! We all Dream of being happy. I hope you get it, my friend!","Счастье и волнение... ну конечно! Мы все Мечтаем быть счастливыми. Надеюсь, у тебя получится, друг мой!",translated,97
+vntext.sq#2835,vntext.sq,CATBOY,{$moods:sincerity} and truthfulness... I can see why you've become a Mood Confectioner. Perhaps you wish for people to understand their true selves better?,"{$moods:sincerity} и правдивость... теперь понятно, почему ты стал Кондитером настроения. Может, ты хочешь, чтобы люди лучше понимали своё истинное я?",translated,155
+vntext.sq#2836,vntext.sq,CATBOY,"{$moods:courage} and confidence... that's right! We do need those to go after our Dreams, after all!","{$moods:courage} и уверенность... точно! Это ведь нужно, чтобы идти за своими Снами!",translated,100
+vntext.sq#2837,vntext.sq,CATBOY,It is good knyowing more about you... I will cherish this knyowledge.,Приятно узнавать о тебе больше... я буду беречь это знание.,translated,69
+vntext.sq#2838,vntext.sq,CATBOY,"Whatever happens in the future, my friend... I hope you nyever forget today...","Что бы ни случилось в будущем, друг мой... надеюсь, ты никогда не забудешь этот день...",translated,78
+vntext.sq#2839,vntext.sq,CATBOY,That you deserve good sleep and good dreams.,Что ты заслуживаешь хорошего сна и хороших снов.,translated,44
+vntext.sq#2840,vntext.sq,CATBOY,Good nyight.,Доброй ночи.,translated,12
+vntext.sq#2851,vntext.sq,CATBOY,[i] Ears looking a bit melancholic. [/i],[i] Уши выглядят немного печальными. [/i],translated,40
+vntext.sq#2853,vntext.sq,CATBOY,This Hotbox... it does nyot have a scratching post.,В этом Hotbox... нет когтеточки.,translated,51
+vntext.sq#2861,vntext.sq,CATBOY,Purrhaps you should consider purrchasing a maneki neko.,"Возможно, тебе стоит подумать о приобретении манэки-нэко.",translated,55
+vntext.sq#2863,vntext.sq,CATBOY,"For what else? Your business, of course.","А зачем ещё? Для твоего бизнеса, конечно.",translated,40
+vntext.sq#2864,vntext.sq,CATBOY,It will help attract more customers. And maybe even more cats!,"Это поможет привлечь больше клиентов. А может, даже больше кошек!",translated,62
+vntext.sq#2871,vntext.sq,CATBOY,"Tonyight, I must hunt.",Сегодня ночью мне нужно охотиться.,translated,22
+vntext.sq#2872,vntext.sq,CATBOY,"But before I do so, I shall have a donyut. Purrhaps it will help sharpen my senses.","Но прежде я съем понячик. Возможно, это обострит мои чувства.",translated,83
+vntext.sq#2879,vntext.sq,CATBOY,Am I the only cat person who has visited this establishment?,"Я единственный кошатник, который посещает это заведение?",translated,60
+vntext.sq#2881,vntext.sq,CATBOY,What a pity... purrhaps more cats need to be introduced to the Way of the Donyut...,"Как жаль... возможно, стоит познакомить с Путём Понячика побольше кошек...",translated,83
+vntext.sq#2889,vntext.sq,CATBOY,I wish to stare at a wall tonyight.,Сегодня ночью хочу поглазеть на стену.,translated,35
+vntext.sq#2891,vntext.sq,CATBOY,"Yes, I knyow, but it requires [i] {$moods:focus} and alertness. [/i]","Да, я знаю, но это требует [i] {$moods:focus} и бдительности. [/i]",translated,68
+vntext.sq#2892,vntext.sq,CATBOY,To watch a wall is nyo joke.,Смотреть на стену — это ня шутки.,translated,28
+vntext.sq#2899,vntext.sq,CATBOY,"Would you like to take a nyap with me, human?","Хочешь вздремнуть со мной, человек?",translated,45
+vntext.sq#2901,vntext.sq,CATBOY,Why would it be? Nyaps are the best.,А почему бы и нет? Дрёма — это лучшее.,translated,36
+vntext.sq#2902,vntext.sq,CATBOY,"But very well... if you are too busy, then I shall nyap on my own.","Но ладно... если ты слишком занят, тогда я вздремну один.",translated,66
+vntext.sq#2909,vntext.sq,CATBOY,It is strangely relaxing here... a purrfect place for a cat.,Здесь на удивление расслабляюще... идеальное место для кота.,translated,60
+vntext.sq#2910,vntext.sq,CATBOY,"But I cannyot fall asleep here... nyo, I must resist the urge—","Но заснуть здесь я не могу... нет, я должен сопротивляться порыву—",translated,62
+vntext.sq#2911,vntext.sq,CATBOY,For I do nyot knyow if I can trust you yet.,"Ведь я пока ня знаю, могу ли тебе доверять.",translated,43
+vntext.sq#2918,vntext.sq,CATBOY,"I find myself yearning for the company of my siblings... once upon a time, we were just tiny kittens, trying to understand this world...","Мне так не хватает компании моих братьев и сестёр... когда-то мы были просто крошечными котятами, пытающимися понять этот мир...",translated,136
+vntext.sq#2919,vntext.sq,CATBOY,And nyow we are all far apart from each other.,А теперь мы все так далеко друг от друга.,translated,46
+vntext.sq#2920,vntext.sq,CATBOY,But that is how it is with most litters... the runt usually dies... the rest separate.,Но так уж заведено с большинством помётов... самый слабый обычно умирает... остальные расходятся.,translated,86
+vntext.sq#2934,vntext.sq,CATBOY,"There are nyights when dreams only bring memories, and a certain sense of longing...","Бывают ночи, когда сны приносят лишь воспоминания и какую-то особую тоску...",translated,84
+vntext.sq#2935,vntext.sq,CATBOY,"Tonyight is one of those nyights. But it is nyot a bad emotion. In fact, it is always helpful to be able to reflect on the past.","Сегодняшняя ночь — одна из таких. Но это не плохое чувство. На самом деле, всегда полезно уметь оглянуться на прошлое.",translated,128
+vntext.sq#2945,vntext.sq,CATBOY,"Humans often say that cats are mean, especially compared to dogs.","Люди часто говорят, что кошки злые, особенно по сравнению с собаками.",translated,65
+vntext.sq#2946,vntext.sq,CATBOY,But I wonder if it is simply projection. Cats are just being cats — but humans? Humans like to start unnyecessary problems.,"Но мне интересно, не проекция ли это просто. Кошки просто остаются кошками — а вот люди? Люди любят создавать ненужные проблемы.",translated,123
+vntext.sq#2947,vntext.sq,CATBOY,"Back when I was a kitten, humans only saw a cute little thing...","Когда я был котёнком, люди видели во мне лишь милую крошку...",translated,64
+vntext.sq#2948,vntext.sq,CATBOY,"But nyow that I am older, people expect meanness... mischief... hmph.","Но теперь, когда я стал старше, от меня ждут злобы... проказ... хмф.",translated,69
+vntext.sq#2955,vntext.sq,CATBOY,[i] Wags tail angrily. [/i],[i] Гневно виляет хвостом. [/i],translated,27
+vntext.sq#2956,vntext.sq,CATBOY,Cats can get annoyed... but tonyight I am very angry.,Кошки тоже умеют раздражаться... но сегодня ночью я очень зол.,translated,53
+vntext.sq#2958,vntext.sq,CATBOY,"Nyo, but nyow that you've reminded me of that pathetic catless comic, I am even angrier!","Нет, но теперь, когда ты напомнил мне про этот жалкий комикс без кошек, я разозлился ещё больше!",translated,88
+vntext.sq#2964,vntext.sq,CATBOY,...Hmph.,...Хмф.,translated,8
+vntext.sq#2965,vntext.sq,CATBOY,[i] Watches warily. [/i],[i] Настороженно наблюдает. [/i],translated,24
+vntext.sq#2966,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#2968,vntext.sq,CATBOY,"...Fine. I shall order something, then.",...Ладно. Тогда что-нибудь закажу.,translated,39
+vntext.sq#2977,vntext.sq,CATBOY,"Cats are all about creativity. You knyow that, right?","Кошки — сама суть творчества. Ты ведь это знаешь, да?",translated,53
+vntext.sq#2978,vntext.sq,CATBOY,"Unlike... certain other creatures, we experiment — we try different ways of looking at things.","В отличие от... некоторых других созданий, мы экспериментируем — пробуем разные способы смотреть на вещи.",translated,94
+vntext.sq#2986,vntext.sq,CATBOY,Just so-so. Some of my Dreams are bothering me. I cannyot seem to interpret them very well...,Так себе. Меня беспокоят некоторые мои Сны. Никак не могу их толком растолковать...,translated,93
+vntext.sq#2987,vntext.sq,CATBOY,"Purrhaps I am out of ideas. This... particular {$flavors:lemon_acid} recipe donut seems interesting. After all, nyan takes a shower when nyan wants to ruminyate, do they nyot?","Возможно, у меня закончились идеи. Этот... особый рецептурный пончик {$flavors:lemon_acid} кажется интересным. В конце концов, все принимают душ, когда хотят поразмышлять, разве нет?",translated,175
+vntext.sq#2994,vntext.sq,CATBOY,Meow...,Мяу...,translated,7
+vntext.sq#2995,vntext.sq,CATBOY,"I must sit with some... realizations tonyight. Cats can feel sad too, after all.","Сегодня ночью мне нужно посидеть кое с какими... осознаниями. Кошки тоже умеют грустить, в конце концов.",translated,80
+vntext.sq#2997,vntext.sq,CATBOY,Maybe next time. But I'd like to have a donyut at least.,"Может, в другой раз. Но хотя бы понячик хочу.",translated,56
+vntext.sq#3003,vntext.sq,CATBOY,"Well, I have done as I said. I apologized to Sally.","Что ж, я сделал, как обещал. Извинился перед Салли.",translated,51
+vntext.sq#3005,vntext.sq,CATBOY,"I think so, yes... although I must admit, I am nyot very good at reparations... I worry I am just being very awkward.","Думаю, да... хотя должен признать, я не очень хорош в загладывании вины... переживаю, что просто веду себя неловко.",translated,117
+vntext.sq#3016,vntext.sq,CATBOY,Tonyight I undertake a most challenging task — I am diving deep into research about dogs!,Сегодня ночью я берусь за самую сложную задачу — я погружаюсь в исследование собак!,translated,89
+vntext.sq#3017,vntext.sq,CATBOY,It is proving to be more difficult than I expected... so I would like to be more enthusiastic and energized for it!,"Оказывается, это сложнее, чем я думал... так что хочу быть для этого более воодушевлённым и энергичным!",translated,115
+vntext.sq#3032,vntext.sq,CATBOY,"Tonyight I shall have nyap time with a friend. And then afterwards, we shall talk about our dreams together.",Сегодня ночью у меня будет время для дрёмы с другом. А потом мы вместе поговорим о наших снах.,translated,108
+vntext.sq#3046,vntext.sq,CATBOY,"It is so very frightening, to think about a world where Dreams don't exist... where all beings go to sleep and just see... nyothing.","Так страшно даже подумать о мире, где не существует Снов... где все живые существа засыпают и видят только... ничего.",translated,132
+vntext.sq#3047,vntext.sq,CATBOY,"Nyo images, nyo sounds, nyo strange sensations that flirt with lucidity...","Никаких образов, никаких звуков, никаких странных ощущений на грани осознанности...",translated,74
+vntext.sq#3048,vntext.sq,CATBOY,I cannot live in such a world.,Я не смог бы жить в таком мире.,translated,30
+vntext.sq#3049,vntext.sq,CATBOY,"Thus, I must continue to advocate for the Circle of Dreamers, and for humans to try and pay more attention to their dreams... even if they are sometimes scary.",Поэтому я должен и дальше отстаивать Круг Сновидцев и убеждать людей уделять больше внимания своим снам... даже если порой они пугающие.,translated,159
+vntext.sq#3050,vntext.sq,CATBOY,[i] Purrs happily in satisfaction because the human is listening. [/i],"[i] Довольно мурлычет от того, что человек слушает. [/i]",translated,70
+vntext.sq#3057,vntext.sq,CATBOY,I am making good progress with interpreting my Dreams involving memories from the past.,"У меня хорошо продвигается толкование Снов, связанных с воспоминаниями из прошлого.",translated,87
+vntext.sq#3058,vntext.sq,CATBOY,"It can get quite confusing because Dreams tend to mix people and places together — nyan might be back in high school, but they are also in school with co-workers.","Это может сбивать с толку, ведь Сны часто смешивают людей и места вместе — можно оказаться снова в старшей школе, но при этом учиться вместе с коллегами по работе.",translated,162
+vntext.sq#3065,vntext.sq,CATBOY,I hope you are getting to Dream more often. I've been brainstorming with Sally and the future looks very bright for her!,"Надеюсь, тебе тоже удаётся почаще Видеть Сны. Мы с Салли вместе размышляли, и будущее выглядит для неё очень светлым!",translated,120
+vntext.sq#3066,vntext.sq,CATBOY,"And restful too, I hope. You knyow how it is... dogs and their restless enyergy...","И отдохнувшим тоже, надеюсь. Ты же знаешь, как это бывает... собаки и их неугомонная энергия...",translated,82
+vntext.sq#3068,vntext.sq,CATBOY,"Yes, that is true.","Да, это правда.",translated,18
+vntext.sq#3075,vntext.sq,CATBOY,"I have been learning a lot from our friend Sally too. The importance of joy, of enthusiasm.",Я тоже многому научился у нашего друга Салли. Насколько важны радость и энтузиазм.,translated,91
+vntext.sq#3076,vntext.sq,CATBOY,"Tonyight, I temporarily leave the realm of Dreaming to be in the realm of Doing—",Сегодня ночью я временно покидаю царство Сновидений ради царства Действий—,translated,80
+vntext.sq#3077,vntext.sq,CATBOY,I shall be attending a dance party!,Я иду на танцевальную вечеринку!,translated,35
+vntext.sq#3078,vntext.sq,CATBOY,"And I hope to be in the best mood for it, so...","И надеюсь быть для этого в лучшем настроении, так что...",translated,47
+vntext.sq#3088,vntext.sq,CATBOY,{$recipe:zestea} is one of my favorites. Please make it for me.,"{$recipe:zestea} — один из моих любимых. Пожалуйста, сделай его для меня.",translated,63
+vntext.sq#3096,vntext.sq,CATBOY,"I yearn to explore a {$recipe:winter_forest}... but seeing as I cannyot do so in San Mazo, the donyut version shall suffice.","Тоскую по прогулке в {$recipe:winter_forest}... но раз уж в Сан-Мазо этого не сделать, версия в виде пончика тоже сойдёт.",translated,124
+vntext.sq#3104,vntext.sq,CATBOY,"{$recipe:mr_smile} always brings a smile to my face... [i] purrs happily. [/i] I'll have one, please.","{$recipe:mr_smile} всегда вызывает у меня улыбку... [i] довольно мурлычет. [/i] Возьму один, пожалуйста.",translated,101
+vntext.sq#3108,vntext.sq,CATBOY,Meow.,Мяу.,translated,5
+vntext.sq#3109,vntext.sq,CATBOY,The Circle of Dreams requires me to be alert and present tonyight.,"Круг Сновидцев требует, чтобы сегодня ночью я был бдителен и присутствовал.",translated,66
+vntext.sq#3110,vntext.sq,CATBOY,"So I thought, purrhaps I'd get a donyut...","Так что подумал, может, возьму понячик...",translated,42
+vntext.sq#3112,vntext.sq,CATBOY,"For days when I am already ${relaxed} but want a bit of that {$flavors:matchajuana} flavor, I seek {$recipe:matcha-mellow}... so please make me one.","В дни, когда я уже ${relaxed}, но хочу немного того вкуса {$flavors:matchajuana}, я ищу {$recipe:matcha-mellow}... так что сделай мне один, пожалуйста.",translated,148
+vntext.sq#21490,vntext.sq,CATBOY,"This is the natural state of cats... pure ${relaxation}. Though sometimes, it can be difficult, and the {$flavors:matchajuana} donyut becomes a necessity...","Это естественное состояние кошек... чистая ${relaxation}. Хотя порой бывает трудно, и понячик {$flavors:matchajuana} становится необходимостью...",translated,156
+vntext.sq#21491,vntext.sq,CATBOY,Ahh... the state of mind one must be in when dealing with those... canines...,"Аах... вот в каком состоянии духа нужно быть, чтобы иметь дело с этими... псовыми...",translated,77
+vntext.sq#21492,vntext.sq,CATBOY,There is this belief that cats are nyot jolly creatures... but I feel joy very strongly. Don't you see?,"Бытует мнение, что кошки — ня весёлые создания... но я чувствую радость очень сильно. Разве ты ня видишь?",translated,103
+vntext.sq#21493,vntext.sq,CATBOY,Oh nyo — the zoomies are hitting! I am strangely excited about [i] everything! [/i],О ня — накатывают зумис! Я странно взбудоражен насчёт [i] всего! [/i],translated,83
+vntext.sq#21494,vntext.sq,CATBOY,{$moods:inspiration}... the purrfect mood for Dreaming...,{$moods:inspiration}... идеальное настроение для Сновидений...,translated,57
+vntext.sq#21495,vntext.sq,CATBOY,This is just the kind of donyut that helps with taking leaps of faith! I must... resist... leaping onto your counter...,"Это именно тот понячик, что помогает решаться на смелые прыжки! Я должен... сдержаться... не запрыгнуть на твою стойку...",translated,119
+vntext.sq#21496,vntext.sq,CATBOY,This feels soft... and vulnyerable.... and nyow I feel like divulging all my secrets...,Это ощущается мягко... и уязвимо.... а теперь мне хочется раскрыть все свои секреты...,translated,87
+vntext.sq#21497,vntext.sq,CATBOY,"A good hunter knyows when it's time to get focused. But if all else fails, this donyut is a good alternyative.","Хороший охотник знает, когда пора собраться и сфокусироваться. Но если ничего не помогает, этот понячик — хорошая альтернатива.",translated,110
+vntext.sq#21498,vntext.sq,CATBOY,"When I was a young boy... my father... abandoned my mother. So then my mother took good care of me, and nyow... I miss her.","Когда я был маленьким... мой отец... бросил мою мать. Тогда мать хорошо обо мне заботилась, а теперь... я скучаю по ней.",translated,123
+vntext.sq#21500,vntext.sq,CATBOY,"Mmm! This is more than adequate. In fact, you could even say it's [i] purrfect. [/i] Thank you, Mood Confectioner.","Ммм! Это более чем достаточно. По правде говоря, можно даже сказать, что это [i] идеально. [/i] Спасибо, Кондитер настроения.",translated,114
+vntext.sq#21501,vntext.sq,CATBOY,"...Purrhaps next time you will make something better, but for now... this is good.","...Возможно, в следующий раз ты сделаешь что-то получше, но пока... сойдёт и это.",translated,82
+vntext.sq#21502,vntext.sq,CATBOY,Hmmm. This is nyot exactly what I envisioned. But perhaps it has a charm of its own.,"Хмм. Это ня совсем то, что я себе представлял. Но, возможно, в этом есть своё очарование.",translated,84
+vntext.sq#21503,vntext.sq,CATBOY,Now I must return home for a nice little cat nyap.,Теперь мне пора домой на приятный кошачий сон.,translated,50
+vntext.sq#21506,vntext.sq,CATBOY,Thank you.,Спасибо.,translated,10
+vntext.sq#21507,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#21508,vntext.sq,CATBOY,I'm very disappointed. It does nyot taste good.,Я весьма разочарован. Это ня вкусно.,translated,47
+vntext.sq#21512,vntext.sq,CATBOY,Thank you.,Спасибо.,translated,10
+vntext.sq#21513,vntext.sq,CATBOY,...,...,translated,3
+vntext.sq#21514,vntext.sq,CATBOY,[i] Purrs in satisfaction... [/i] I might just... fall asleep... nyaaaawn.,"[i] Довольно мурлычет... [/i] Я, пожалуй... засну... няяяв.",translated,74
+vntext.sq#21515,vntext.sq,CATBOY,"The necessary mood for hunting, alongside focus... one needs {$moods:patience} or else the mouse will get away!","Необходимое настроение для охоты, наряду с сосредоточенностью... нужно {$moods:patience}, иначе мышь сбежит!",translated,111
+vntext.sq#21516,vntext.sq,CATBOY,That popular Cheshire Cat is strange precisely because he smiles... what a silly way to express happiness!,"Тот популярный Чеширский Кот странен именно тем, что улыбается... что за нелепый способ выражать счастье!",translated,106
+vntext.sq#21517,vntext.sq,CATBOY,"Gasp — is there perhaps catnip in this?! I feel like rolling around, hehehe!","Ах — неужели тут кошачья мята?! Хочется кататься по полу, хехехе!",translated,76
+vntext.sq#21518,vntext.sq,CATBOY,"If one pays attention to one's Dreams, this mood will be more easily accessible...","Если уделять внимание своим Снам, это настроение станет доступнее...",translated,82
+vntext.sq#21519,vntext.sq,CATBOY,...Do you think having this donyut would help me get better at swimming?,"...Как думаешь, этот понячик поможет мне лучше плавать?",translated,72
+vntext.sq#21520,vntext.sq,CATBOY,"When us cats ${sincerely} like someone, we blink very slowly... purrhaps someday we will get close enough, and then you will see...","Когда мы, кошки, ${sincerely} к кому-то привязаны, мы очень медленно моргаем... возможно, однажды мы станем достаточно близки, и тогда ты увидишь...",translated,131
+vntext.sq#21521,vntext.sq,CATBOY,Nyo more distractions... I am ${focused} and I see everything clearly.,Больше никаких отвлечений... я ${focused} и вижу всё ясно.,translated,70
+vntext.sq#21522,vntext.sq,CATBOY,"Sometimes I wish I were still a little kitten, without all these stressful adult cat things in my life...","Иногда хочется снова быть маленьким котёнком, без всех этих стрессовых взрослых кошачьих забот...",translated,105
+vntext.sq#21523,vntext.sq,CATBOY,"A donyut without any mood enhancers... I could get this anywhere else, yet somehow I chose you to serve me, human.","Понячик без каких-либо усилителей настроения... Я мог бы получить его где угодно, но почему-то выбрал именно тебя, человек.",translated,114
+vntext.sq#21524,vntext.sq,CATBOY,Ahhh~ Is there anything more beautiful than a donut made with your exact specifications?,"Аах~ Есть ли что-то прекраснее пончика, сделанного точно по моим указаниям?",translated,88
+vntext.sq#21525,vntext.sq,CATBOY,...It's nyot your best. But I am still quite happy with it.,...Это ня лучшая твоя работа. Но я всё равно вполне доволен.,translated,59
+vntext.sq#21526,vntext.sq,CATBOY,"...I do see the attempt, though the end result is quite [i] Meow-diocre. [/i]","...Я вижу, что ты старался, хотя итог довольно [i] мяу-посредственный. [/i]",translated,77
+vntext.sq#21527,vntext.sq,CATBOY,"Excuse me, the nyatural habitat of my home calls me back.","Прошу прощения, естественная среда обитания зовёт меня домой.",translated,57
+vntext.sq#55572,vntext.sq,CATBOY,What is this. Was I nyot clear about what I wanted...?,"Что это. Разве я нэ была ясна насчёт того, что хотела...?",translated,54
+vntext.sq#55573,vntext.sq,CATBOY,"Let's try again, shall we?","Попробуем ещё раз, хорошо?",translated,26
+vntext.sq#55575,vntext.sq,CATBOY,Nyo... a second failure is even more disappointing than just one... I will simply have to come back some other time.,"Нэт... второй провал разочаровывает даже больше, чем один... мне просто придётся зайти в другой раз.",translated,116
+vntext.sq#55578,vntext.sq,CATBOY,"Do nyot worry about it. Good night, human.","Нэ переживай об этом. Спокойной ночи, человек.",translated,42
+vntext.sq#55583,vntext.sq,CATBOY,...Hm. This is still nyot the donyut I wanted.,"...Хм. Это всё ещё нэ тот пончык, что я хотела.",translated,46
+vntext.sq#55585,vntext.sq,CATBOY,Nevermind. A cat knows how to land on their feet despite surprising circumstances.,"Неважно. Кошка знает, как приземлиться на лапы, несмотря на неожиданные обстоятельства.",translated,82
+vntext.sq#55586,vntext.sq,CATBOY,This donyut would suffice.,Этот пончык сойдёт.,translated,26
+vntext.sq#55588,vntext.sq,CATBOY,"My thanks, human.","Моя благодарность, человек.",translated,17
+vntext.sq#68795,vntext.sq,CATBOY,Humans really do have poor memory. Where's the glaze for this donyut?,У людей и правда плохая память. Где глазурь для этого пончынка?,translated,69
+vntext.sq#68797,vntext.sq,CATBOY,Hmph... why is the glaze different?,Хмф... почему глазурь не та?,translated,35
+vntext.sq#68799,vntext.sq,CATBOY,I do not appreciate the [i] meowniscule [/i] amount of glaze on my donyut.,Мне не по нраву [i] мяусенькое [/i] количество глазури на моём пончынке.,translated,74
+vntext.sq#68801,vntext.sq,CATBOY,Why are you serving this when there's obviously a problem? The toppings are missing.,"Почему ты подаёшь это, когда явно проблема? Топпингов не хватает.",translated,84
+vntext.sq#68803,vntext.sq,CATBOY,"Hm, what an embarrassing [i] meowstake. [/i] These toppings are different from what I asked for.","Хм, какая позорная [i] мяустака. [/i] Эти топпинги не те, что я просила.",translated,96
+vntext.sq#68805,vntext.sq,CATBOY,How [i] furrstrating! [/i] Where's the rest of the toppings?,Как [i] мурстительно! [/i] Где остальные топпинги?,translated,60
+vntext.sq#68807,vntext.sq,CATBOY,Hmmm? Look closely— you forgot the drizzle on this donyut!,Хммм? Присмотрись— ты забыл потёки на этом пончынке!,translated,58
+vntext.sq#68809,vntext.sq,CATBOY,This is the wrong drizzle! It's getting on my [i] nyerves. [/i],Это не те потёки! Действует мне на [i] мурвы. [/i],translated,63
+vntext.sq#68811,vntext.sq,CATBOY,The amount of drizzle you've given me is [i] furrstrating! [/i],"Количество потёков, что ты мне дал, [i] мурстительно! [/i]",translated,63
+vntext.sq#68813,vntext.sq,CATBOY,"There is no filling inside this donyut, [i] nya. [/i]","Внутри этого пончынка нет начинки, [i] мя. [/i]",translated,53
+vntext.sq#68815,vntext.sq,CATBOY,"Be more mindful of your service, please! The filling in my donut is all wrong!","Будь внимательнее к своему сервису, пожалуйста! Начинка в моём пончике совсем не та!",translated,78
+vntext.sq#68817,vntext.sq,CATBOY,"This donyut looks like a mishmash of all the wrong things, to be honest.","Этот пончынк выглядит как мешанина из всего неправильного, если честно.",translated,72
+vntext.sq#68819,vntext.sq,CATBOY,"Too many distractions spoil the meal, I'm afraid.","Боюсь, слишком много отвлекающих факторов портят трапезу.",translated,49
+vntext.sq#68823,vntext.sq,CATBOY,I don't [i] nyanderstand. [/i] Was I not clear that I wanted glaze?,"Я не [i] мяпонимаю. [/i] Разве я неясно сказала, что хочу глазурь?",translated,67
+vntext.sq#68825,vntext.sq,CATBOY,[i] Meowst [/i] I remind you to double-check your donyuts? You should've used a different glaze.,[i] Мурждена [/i] ли я напоминать тебе перепроверять пончынки? Тебе стоило использовать другую глазурь.,translated,96
+vntext.sq#68827,vntext.sq,CATBOY,"Aren't you giving me more glaze? This is barely anything, [i] nya. [/i]","Разве ты не дашь мне больше глазури? Тут почти ничего нет, [i] мя. [/i]",translated,71
+vntext.sq#68829,vntext.sq,CATBOY,This donyut doesn't even have toppings! I don't know why you bother.,"У этого пончынка даже нет топпингов! Не знаю, зачем ты вообще стараешься.",translated,68
+vntext.sq#68831,vntext.sq,CATBOY,"These aren't the right toppings, human...","Это не те топпинги, человек...",translated,41
+vntext.sq#68833,vntext.sq,CATBOY,I am beyond insulted that you put very little toppings on my donyut... hmph!,"Я безмерно оскорблена тем, что ты положил так мало топпингов на мой пончынк... хмф!",translated,76
+vntext.sq#68835,vntext.sq,CATBOY,"Human, you didn't put any drizzle on my donyut, even when I went out of my way to order one...","Человек, ты не положил никаких потёков на мой пончынк, хотя я специально их заказывала...",translated,94
+vntext.sq#68837,vntext.sq,CATBOY,Didn't you [i] nyanderstand [/i] my order? This isn't the drizzle I asked for!,"Разве ты не [i] мяпонял [/i] мой заказ? Это не те потёки, что я просила!",translated,78
+vntext.sq#68839,vntext.sq,CATBOY,Was it not possible to give me more drizzle?,Разве нельзя было дать мне больше потёков?,translated,44
+vntext.sq#68841,vntext.sq,CATBOY,Where did the filling go? My donyut looks incompletely without it!,Куда делась начинка? Мой пончынк выглядит незавершённым без неё!,translated,66
+vntext.sq#68843,vntext.sq,CATBOY,How [i] furrstrating! [/i] This isn't the filling I asked for!,"Как [i] мурстительно! [/i] Это не та начинка, что я просила!",translated,62
+vntext.sq#68845,vntext.sq,CATBOY,Is this really a donyut? It looks so [i] disorganyized! [/i],Это правда пончынк? Он выглядит таким [i] дезорганимяованным! [/i],translated,60
+vntext.sq#68847,vntext.sq,CATBOY,What is this? I don't recall asking for a donyut this indulgent!,"Что это? Не припомню, чтобы просила такой излишне богатый пончынк!",translated,64
+vntext.sq#68851,vntext.sq,CATBOY,"Seems like you've completely forgotten about the glaze, [i] nya. [/i]","Похоже, ты совсем забыл про глазурь, [i] мя. [/i]",translated,69
+vntext.sq#68853,vntext.sq,CATBOY,How [i] nyawful! [/i] This glaze is different from what I asked for!,"Как [i] мяужасно! [/i] Эта глазурь не та, что я просила!",translated,68
+vntext.sq#68855,vntext.sq,CATBOY,What happened to the glaze? This isn't enough for my donyut!,Что случилось с глазурью? Этого недостаточно для моего пончынка!,translated,60
+vntext.sq#68857,vntext.sq,CATBOY,Giving me the donyut without any toppings... the [i] nyaudacity! [/i],Даёшь мне пончынк без единого топпинга... какая [i] мянаглость! [/i],translated,69
+vntext.sq#68859,vntext.sq,CATBOY,[i] Purrhaps [/i] I wasn't clear? I asked for different toppings.,"[i] Мурможет, [/i] я неясно выразилась? Я просила другие топпинги.",translated,65
+vntext.sq#68861,vntext.sq,CATBOY,Such a lowly amount of toppings on my donyut! How disgraceful!,Такое ничтожное количество топпингов на моём пончынке! Как позорно!,translated,62
+vntext.sq#68863,vntext.sq,CATBOY,How [i] nyawful! [/i] There's no drizzle at all!,Как [i] мяужасно! [/i] Тут вообще нет потёков!,translated,48
+vntext.sq#68865,vntext.sq,CATBOY,"[i] Meowscuse [/i] me, but why'd you give me the wrong drizzle?","[i] Мявиняюсь, [/i] но почему ты дал мне не те потёки?",translated,63
+vntext.sq#68867,vntext.sq,CATBOY,Why is there so little drizzle on my donyut?,Почему на моём пончынке так мало потёков?,translated,44
+vntext.sq#68869,vntext.sq,CATBOY,"Did this truly slip your mind? Where is my filling, human?","Это правда вылетело у тебя из головы? Где моя начинка, человек?",translated,58
+vntext.sq#68871,vntext.sq,CATBOY,Why did you give me the wrong filling flavor? Was that really [i] nyacessary? [/i],Почему ты дал мне не тот вкус начинки? Это правда было [i] мяобходимо? [/i],translated,82
+vntext.sq#68873,vntext.sq,CATBOY,I am torn between eating that and batting it off the plate because of how it looks... a true [i] dilemmeow. [/i],"Я разрываюсь между тем, чтобы это съесть или смахнуть с тарелки лапкой из-за того, как это выглядит... настоящая [i] дилемяа. [/i]",translated,112
+vntext.sq#68875,vntext.sq,CATBOY,"Oh, it's pretty heavy… isn't that a little too [i] meowch? [/i]","Ох, довольно тяжёлый… не слишком ли [i] мяного? [/i]",translated,63
+vntext.sq#68877,vntext.sq,CATBOY,"Hm, what an embarrassing mistake. You got the donyut shape wrong.","Хм, какая постыдная ошибка. Ты перепутал форму пончынка.",translated,65
+vntext.sq#68878,vntext.sq,CATBOY,"But well, nobody's [i] purrrrfect. [/i] Who am I to turn down a donyut?","Но что ж, никто не [i] мурршенен. [/i] Кто я такая, чтобы отказываться от пончынка?",translated,71

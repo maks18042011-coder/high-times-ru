@@ -1,0 +1,373 @@
+id,file,context,source,target,status,max_len
+vntext.sq#205,vntext.sq,SAMCAMARILLO,You're definitely getting better at singing 'Waltzing Through Unlife'.,Ты определённо стал лучше петь «Waltzing Through Unlife».,translated,70
+vntext.sq#214,vntext.sq,SAMCAMARILLO,"Let's face it, babe — you wanted to do it because it makes you feel sexy.","Признаем честно, детка — ты хотел этим заниматься, потому что от этого чувствуешь себя сексуальным.",translated,73
+vntext.sq#228,vntext.sq,SAMCAMARILLO,"I can see that. Whenever I took photos of you while you were dancing, you'd always be looking down on your feet, or your arms, making sure your lines look good, but...","Я это вижу. Когда я фотографировала тебя во время танца, ты всегда смотрел вниз — на свои ноги или руки, следя, чтобы линии выглядели красиво, но...",translated,167
+vntext.sq#229,vntext.sq,SAMCAMARILLO,"During acting class, you're not fretting over what your body's doing. You're actually in the moment, at one with your character.","На актёрских занятиях ты не переживаешь о том, что делает твоё тело. Ты по-настоящему в моменте, единое целое со своим персонажем.",translated,128
+vntext.sq#230,vntext.sq,SAMCAMARILLO,"You're still flowing, my love. But this time, instead of letting the current take you wherever, you're riding it. You know where to go.","Ты всё ещё плывёшь по течению, любовь моя. Но на этот раз, вместо того чтобы позволять потоку нести тебя куда придётся, ты им управляешь. Ты знаешь, куда плыть.",translated,135
+vntext.sq#264,vntext.sq,SAMCAMARILLO,"It's about time we headed out. See you next time, {$mcName}.","Нам, пожалуй, пора идти. Увидимся в следующий раз, {$mcName}.",translated,60
+vntext.sq#22013,vntext.sq,SAMCAMARILLO,"{$flavors:matchajuana}... a good companion for reading books, or taking walks.",{$flavors:matchajuana}... хороший спутник для чтения книг или прогулок.,translated,78
+vntext.sq#22014,vntext.sq,SAMCAMARILLO,"{$moods:patience} as a photographer is quite tricky, but necessary. This type of {$moods:patience} helps with waiting for the right moment.","{$moods:patience} для фотографа — штука непростая, но необходимая. Такая {$moods:patience} помогает дождаться нужного момента.",translated,139
+vntext.sq#22015,vntext.sq,SAMCAMARILLO,Heh. Sometimes I forget it's important to just have fun.,"Хех. Иногда я забываю, что важно просто получать удовольствие.",translated,56
+vntext.sq#22016,vntext.sq,SAMCAMARILLO,"{$moods:passion}... is really more of Adam's thing. But it's interesting, being able to feel the way he feels most of the time.","{$moods:passion}... это, скорее, по части Адама. Но интересно почувствовать то, что он чувствует большую часть времени.",translated,127
+vntext.sq#22017,vntext.sq,SAMCAMARILLO,Lots of new ideas popping up... maybe I can use some of these...,"В голове всплывает много новых идей... может, какие-то из них пригодятся...",translated,64
+vntext.sq#22018,vntext.sq,SAMCAMARILLO,This one's got me feeling like networking a bit more...,Этот вызывает у меня желание побольше пообщаться с людьми...,translated,55
+vntext.sq#22019,vntext.sq,SAMCAMARILLO,I appreciate that you've got a donut like this. {$moods:sincerity} is important to me.,"Ценю, что у тебя есть такой пончик. {$moods:sincerity} важна для меня.",translated,86
+vntext.sq#22020,vntext.sq,SAMCAMARILLO,Hm. This donut's getting me in the headspace to work.,Хм. Этот пончик настраивает меня на рабочий лад.,translated,53
+vntext.sq#22021,vntext.sq,SAMCAMARILLO,Hm. This one's got me missing people from the past.,Хм. Из-за этого я скучаю по людям из прошлого.,translated,51
+vntext.sq#22023,vntext.sq,SAMCAMARILLO,"Oh, I really like this one! It's got that spark of creativity I was looking for.","Ох, мне реально нравится! В нём есть та искра творчества, которую я искал.",translated,80
+vntext.sq#22024,vntext.sq,SAMCAMARILLO,"...I'm pretty satisfied. You can probably still make this even better, though.","...Я вполне доволен. Хотя, наверное, ты всё же можешь сделать его ещё лучше.",translated,78
+vntext.sq#22025,vntext.sq,SAMCAMARILLO,"...Would've been nice if you got my order right, though.","...Было бы неплохо, если бы ты угадал с заказом, хотя.",translated,56
+vntext.sq#22026,vntext.sq,SAMCAMARILLO,"That's my cue to stop procrastinating, heh. Deadlines wait for no one, remember that, {$mcName}.","Это знак перестать прокрастинировать, хех. Дедлайны никого не ждут, запомни это, {$mcName}.",translated,96
+vntext.sq#22029,vntext.sq,SAMCAMARILLO,"Thanks, {$mcName}!","Спасибо, {$mcName}!",translated,18
+vntext.sq#22037,vntext.sq,SAMCAMARILLO,This donut's got me feeling like just taking it easy.,Этот пончик заставляет меня хотеть просто расслабиться.,translated,53
+vntext.sq#22038,vntext.sq,SAMCAMARILLO,"I'd like to think {$moods:patience} comes naturally to me, but... there are days when this donut goes a long way.","Хотелось бы думать, что {$moods:patience} даётся мне естественно, но... бывают дни, когда этот пончик очень выручает.",translated,113
+vntext.sq#22039,vntext.sq,SAMCAMARILLO,Finding joy in the little things is a skill. This would help boost that.,Находить радость в мелочах — это навык. Это помогло бы его прокачать.,translated,72
+vntext.sq#22040,vntext.sq,SAMCAMARILLO,I feel these intense yearnings and desires deep within me. It's kinda... overwhelming.,Я чувствую глубоко внутри эти сильные порывы и желания. Это как-то... захлёстывает.,translated,86
+vntext.sq#22041,vntext.sq,SAMCAMARILLO,"Thinking outside of the box can be challenging, but donuts like these make it easier.","Мыслить нестандартно бывает трудно, но такие пончики это облегчают.",translated,85
+vntext.sq#22042,vntext.sq,SAMCAMARILLO,"{$moods:courage}... not exactly something I struggle with, but it doesn't come easily to me either.","{$moods:courage}... не то чтобы мне это прямо сложно, но и легко не даётся.",translated,99
+vntext.sq#22043,vntext.sq,SAMCAMARILLO,Sometimes I worry my photography's not very ${sincere}... this could help me get in touch with that a bit more.,"Иногда я переживаю, что мои фотографии недостаточно ${sincere}... это могло бы помочь мне лучше с этим соприкоснуться.",translated,111
+vntext.sq#22044,vntext.sq,SAMCAMARILLO,"Thanks to this donut, all of the distracting thoughts in my head are now gone.",Благодаря этому пончику все отвлекающие мысли в голове исчезли.,translated,78
+vntext.sq#22045,vntext.sq,SAMCAMARILLO,"I don't normally think about my childhood friends... but right now, they're on my mind.",Обычно я не думаю о друзьях детства... но сейчас они у меня в голове.,translated,87
+vntext.sq#22046,vntext.sq,SAMCAMARILLO,"No mood enhancers, no extra emotions. Like a photograph with no filters.","Без усилителей настроения, без лишних эмоций. Как фотография без фильтров.",translated,72
+vntext.sq#22047,vntext.sq,SAMCAMARILLO,...No wonder Stacy and Adam are always here. Your donuts are amazing!,"...Неудивительно, что Стейси и Адам вечно тут пропадают. Твои пончики потрясающие!",translated,69
+vntext.sq#22048,vntext.sq,SAMCAMARILLO,"...Though it's not perfect, it's a wonderful donut!","...Хоть и не идеально, но пончик замечательный!",translated,51
+vntext.sq#22049,vntext.sq,SAMCAMARILLO,"...Shame about the donut, though. I guess there's always next time.","...Жаль насчёт пончика, впрочем. Ну, будет следующий раз.",translated,67
+vntext.sq#22050,vntext.sq,SAMCAMARILLO,"Well, I have to go. Adam and Stacy want me to go to a party with them or something...","Ну, мне пора. Адам со Стейси зовут меня на какую-то вечеринку...",translated,85
+vntext.sq#55732,vntext.sq,SAMCAMARILLO,...Are you sure this is the donut I asked for? Something feels off.,"...Ты уверен, что это тот пончик, что я просил? Что-то не так.",translated,67
+vntext.sq#55733,vntext.sq,SAMCAMARILLO,How about giving it another go?,Как насчёт ещё одной попытки?,translated,31
+vntext.sq#55735,vntext.sq,SAMCAMARILLO,...Still not the donut I ordered. Maybe you need to take a break.,"...Всё ещё не тот пончик, что я заказывал. Может, тебе нужен перерыв.",translated,65
+vntext.sq#55737,vntext.sq,SAMCAMARILLO,I'll hold you to that.,Буду иметь это в виду.,translated,22
+vntext.sq#55738,vntext.sq,SAMCAMARILLO,"Well, I guess it's time to get moving. See you later, {$mcName}.","Ну, думаю, пора двигаться дальше. Увидимся, {$mcName}.",translated,64
+vntext.sq#55743,vntext.sq,SAMCAMARILLO,...Still not the the donut I ordered. But I guess this is fine.,"...Всё ещё не тот пончик, что я заказывал. Но, думаю, сойдёт.",translated,63
+vntext.sq#55745,vntext.sq,SAMCAMARILLO,"Hey, thanks. Just make sure to get my order right next time.","Эй, спасибо. Просто в следующий раз сделай заказ правильно.",translated,60
+vntext.sq#59801,vntext.sq,SAMCAMARILLO,"Doing good, {$mcName}? I stopped by Starducks on my way here, so I thought I'd get you something too.","Как дела, {$mcName}? Я заглянула в Starducks по дороге сюда, так что решила и тебе кое-что взять.",translated,101
+vntext.sq#59819,vntext.sq,SAMCAMARILLO,"This is great, thank you so much! It'll definitely help with photoshoot ideas tonight.","Это здорово, большое спасибо! Точно поможет с идеями для фотосессии сегодня.",translated,86
+vntext.sq#59820,vntext.sq,SAMCAMARILLO,Feels good to know that I won't have to worry about losing {$moods:inspiration} later on.,"Приятно знать, что не придётся переживать о потере {$moods:inspiration} позже.",translated,89
+vntext.sq#59822,vntext.sq,SAMCAMARILLO,I guess being this ${focused} wouldn't be too bad...,"Наверное, быть настолько ${focused} не так уж плохо...",translated,52
+vntext.sq#59823,vntext.sq,SAMCAMARILLO,I guess being this ${passionate} about the shoot wouldn't be too bad...,"Наверное, быть настолько ${passionate} насчёт съёмки не так уж плохо...",translated,71
+vntext.sq#59824,vntext.sq,SAMCAMARILLO,Hmm. Do you think I need to {$moods:relax} a bit more instead?,"Хмм. Думаешь, мне вместо этого нужно немного больше {$moods:relax}?",translated,62
+vntext.sq#59825,vntext.sq,SAMCAMARILLO,"{$moods:patience}, huh? Well, photoshoots do require a certain amount of {$moods:patience}.","{$moods:patience}, значит? Ну, фотосессии и правда требуют определённого {$moods:patience}.",translated,91
+vntext.sq#59826,vntext.sq,SAMCAMARILLO,{$moods:nostalgia}... you think the past can give me some ideas?,"{$moods:nostalgia}... думаешь, прошлое может подкинуть мне идей?",translated,64
+vntext.sq#59827,vntext.sq,SAMCAMARILLO,I get the feeling from this donut that you want me to just enjoy the shoot.,"У меня от этого пончика чувство, что ты хочешь, чтобы я просто наслаждалась съёмкой.",translated,75
+vntext.sq#59828,vntext.sq,SAMCAMARILLO,"Well, I do think that the best art comes from the heart...","Ну, я и правда думаю, что лучшее искусство идёт от сердца...",translated,58
+vntext.sq#59829,vntext.sq,SAMCAMARILLO,A burst of {$moods:courage}... maybe to try new things? New concepts?,"Прилив {$moods:courage}... может, чтобы попробовать что-то новое? Новые концепции?",translated,69
+vntext.sq#59830,vntext.sq,SAMCAMARILLO,"I get the thought behind it, but it's not what I asked for.","Понимаю замысел, но это не то, что я просила.",translated,59
+vntext.sq#59831,vntext.sq,SAMCAMARILLO,"Well, I should be able to work with this mood, so it's all good.","Ну, с этим настроением я смогу работать, так что всё в порядке.",translated,64
+vntext.sq#59833,vntext.sq,SAMCAMARILLO,"It depends on the season, really. Right now, with lots of events coming up, I've been working at night more often.","Вообще, зависит от сезона. Сейчас, с кучей предстоящих мероприятий, я чаще работаю по ночам.",translated,114
+vntext.sq#59834,vntext.sq,SAMCAMARILLO,"It's quite nice, actually. Night photography can be a bit of a challenge, but it's also when people are more like themselves.","На самом деле, довольно приятно. Ночная фотография может быть непростой задачей, но именно тогда люди больше похожи на самих себя.",translated,125
+vntext.sq#59835,vntext.sq,SAMCAMARILLO,"Hey, come to think of it, have you ever had anyone take photos of you here?","Эй, если подумать, тебя тут кто-нибудь когда-нибудь фотографировал?",translated,75
+vntext.sq#59840,vntext.sq,SAMCAMARILLO,"I see. That makes two of us, then.",Понятно. Тогда нас таких двое.,translated,34
+vntext.sq#59842,vntext.sq,SAMCAMARILLO,"Hahaha! Of course, I should have realized that!","Хахаха! Конечно, стоило догадаться!",translated,47
+vntext.sq#59844,vntext.sq,SAMCAMARILLO,"Thought I'd offer, in case you were interested. There's a lot of potential here, and it's fun to watch you get so engrossed in making donuts.","Подумала, предложу, вдруг тебе интересно. Здесь много потенциала, и забавно наблюдать, как ты так увлечённо делаешь пончики.",translated,141
+vntext.sq#59845,vntext.sq,SAMCAMARILLO,"And I wouldn't make you pose or anything like that. In fact, it would be even better if we can take candid photos.","И я не заставила бы тебя позировать или типа того. На самом деле, было бы даже лучше сделать непостановочные фото.",translated,114
+vntext.sq#59846,vntext.sq,SAMCAMARILLO,Think you're up for it?,"Думаешь, готов на это?",translated,23
+vntext.sq#59854,vntext.sq,SAMCAMARILLO,"I get it. No pressure at all, {$mcName}.","Понимаю. Никакого давления, {$mcName}.",translated,40
+vntext.sq#59855,vntext.sq,SAMCAMARILLO,"When you're so used to being the person who watches everyone, it feels weird having the spotlight on you, huh?","Когда ты так привык быть тем, кто наблюдает за всеми, странно, когда внимание обращено на тебя, да?",translated,110
+vntext.sq#59860,vntext.sq,SAMCAMARILLO,"Anyway, I should get going. Thanks for the donut, {$mcName}!","В общем, мне пора. Спасибо за пончик, {$mcName}!",translated,60
+vntext.sq#59863,vntext.sq,SAMCAMARILLO,"So. Ready to have those photos taken, {$mcName}?","Так. Готов к тем фотографиям, {$mcName}?",translated,48
+vntext.sq#59866,vntext.sq,SAMCAMARILLO,"Haha, my bad. I didn't mean to scare you like that. Don't worry, I'm putting the camera away.","Хаха, моя вина. Не хотела так тебя напугать. Не переживай, убираю камеру.",translated,93
+vntext.sq#59867,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#59868,vntext.sq,SAMCAMARILLO,I'm... not used to this.,Я... не привык к этому.,translated,24
+vntext.sq#59870,vntext.sq,SAMCAMARILLO,"When it's just the two of us, I don't know what to say. I'm usually surrounded by those 'larger than life' types — no offense meant, by the way, you are very cool in your own stoic way — and that makes it easier to sit back and be quiet.","Когда мы вдвоём, я не знаю, что сказать. Обычно я окружена такими 'больше-чем-жизнь' типами — без обид, кстати, ты по-своему очень крут в своей невозмутимости — и это упрощает задачу просто сидеть молча.",translated,237
+vntext.sq#59871,vntext.sq,SAMCAMARILLO,Guess you can say I'm just feeling a bit restless.,"Наверное, можно сказать, я просто немного беспокоюсь.",translated,50
+vntext.sq#59877,vntext.sq,SAMCAMARILLO,...?,...?,translated,4
+vntext.sq#59878,vntext.sq,SAMCAMARILLO,I'm not sure I understand what you mean...,"Не уверен, что понимаю, о чём ты...",translated,42
+vntext.sq#59880,vntext.sq,SAMCAMARILLO,...!,...!,translated,4
+vntext.sq#59881,vntext.sq,SAMCAMARILLO,"Ohhh! Ahaha, that's very charming, {$mcName}, but I'm taken.","Оооо! Ахаха, это очень мило, {$mcName}, но я занята.",translated,60
+vntext.sq#59883,vntext.sq,SAMCAMARILLO,I-I see...,П-понятно...,translated,10
+vntext.sq#59885,vntext.sq,SAMCAMARILLO,...How does that work?,...И как это работает?,translated,22
+vntext.sq#59887,vntext.sq,SAMCAMARILLO,I-I...,Я-я...,translated,6
+vntext.sq#59888,vntext.sq,SAMCAMARILLO,Am I allowed to take photos of you?,Мне можно тебя фотографировать?,translated,35
+vntext.sq#59890,vntext.sq,SAMCAMARILLO,"Yes, yes! It'll be very... [i] sexy. [/i]","Да, да! Это будет очень... [i] сексуально. [/i]",translated,41
+vntext.sq#59892,vntext.sq,SAMCAMARILLO,"Oh, did I? Sorry about that!","О, правда? Извини за это!",translated,28
+vntext.sq#59897,vntext.sq,SAMCAMARILLO,"We're like those two people who are in the same friend group, but have never been alone together.","Мы как те двое из одной компании друзей, что никогда не оставались наедине.",translated,97
+vntext.sq#59899,vntext.sq,SAMCAMARILLO,"Heh. Does this mean you also gravitate towards the loud, chaotic types?","Хех. Значит, тебя тоже тянет к шумным, хаотичным типам?",translated,71
+vntext.sq#59902,vntext.sq,SAMCAMARILLO,I guess I can relate with that. I have some friends I take photo walks with. It's usually a more subdued type of gathering.,"Наверное, мне это близко. У меня есть друзья, с которыми я хожу на фотопрогулки. Обычно это более спокойный формат общения.",translated,123
+vntext.sq#59904,vntext.sq,SAMCAMARILLO,"It [i] is [/i] fun! Though lately, I haven't really seen any of them because of my schedule... Adam volunteers to join my solo photo walks every now and then, but whenever he's around, I always end up taking photos of him instead, hehe...","Это [i] правда [/i] весело! Хотя в последнее время я почти никого из них не вижу из-за своего графика... Adam время от времени вызывается присоединиться к моим одиночным прогулкам, но стоит ему появиться, я в итоге всегда фотографирую его вместо всего остального, хехе...",translated,238
+vntext.sq#59906,vntext.sq,SAMCAMARILLO,"No, it's not like that. It's more like, we could be walking down a street, and when he can't help but pause and talk to a bird... I just have to capture the look of fondness on his face.","Нет, не так. Скорее, мы идём по улице, и когда он не может удержаться и останавливается поболтать с птицей... мне просто нужно поймать это выражение нежности на его лице.",translated,186
+vntext.sq#59908,vntext.sq,SAMCAMARILLO,"Hehe, yeah, it is!","Хехе, да, это так!",translated,18
+vntext.sq#59909,vntext.sq,SAMCAMARILLO,Anyway... I have another shoot later tonight. I'm working with someone who's a bit demanding... think you can make a donut to help me deal with them?,"В общем... сегодня вечером у меня ещё одна съёмка. Работаю с человеком, который довольно требователен... сможешь сделать пончик, что поможет мне с ним справиться?",translated,149
+vntext.sq#59926,vntext.sq,SAMCAMARILLO,"This is just what I needed. Sometimes shoots can get a bit tricky, and I'm anticipating the one tonight will be. So this will definitely help a lot.","Это именно то, что мне было нужно. Иногда съёмки бывают непростыми, и я предчувствую, что сегодняшняя будет такой. Так что это точно очень поможет.",translated,148
+vntext.sq#59927,vntext.sq,SAMCAMARILLO,"I feel a lot more ${calm} now, more ready to deal with the challenges I'm anticipating later tonight. Thanks for the donut.","Теперь я чувствую себя намного более ${calm}, более готовой справиться с трудностями, что предвижу сегодня вечером. Спасибо за пончик.",translated,123
+vntext.sq#59929,vntext.sq,SAMCAMARILLO,"Being ${focused} would definitely help me avoid certain problems, but...","Быть ${focused} точно помогло бы избежать некоторых проблем, но...",translated,72
+vntext.sq#59930,vntext.sq,SAMCAMARILLO,"Having new ideas would definitely help me tonight, but...","Новые идеи точно помогли бы мне сегодня, но...",translated,57
+vntext.sq#59931,vntext.sq,SAMCAMARILLO,"Probably a good thing to be hyped for work, but...","Наверное, неплохо взбодриться перед работой, но...",translated,50
+vntext.sq#59932,vntext.sq,SAMCAMARILLO,"Tonight's shoot is a bit tricky, so ${relaxing} wouldn't cut it...","Сегодняшняя съёмка непростая, так что ${relaxing} тут не подойдёт...",translated,66
+vntext.sq#59933,vntext.sq,SAMCAMARILLO,"Tonight's shoot is a bit tricky, so being too distracted by {$moods:nostalgia} won't help at all...","Сегодняшняя съёмка непростая, так что слишком отвлекаться на {$moods:nostalgia} совсем не поможет...",translated,99
+vntext.sq#59934,vntext.sq,SAMCAMARILLO,"I'm afraid this {$moods:cheer} enhancer would just distract me tonight, {$mcName}.","Боюсь, этот усилитель {$moods:cheer} сегодня меня просто отвлечёт, {$mcName}.",translated,82
+vntext.sq#59935,vntext.sq,SAMCAMARILLO,"{$moods:sincerity}'s not a bad enhancer for tonight, but... I really would've liked to have that steadying feeling of {$moods:patience}.","{$moods:sincerity} — неплохой усилитель на сегодня, но... мне правда хотелось бы того устойчивого чувства {$moods:patience}.",translated,136
+vntext.sq#59936,vntext.sq,SAMCAMARILLO,I don't think tonight's shoot is about taking risks...,"Не думаю, что сегодняшняя съёмка про то, чтобы рисковать...",translated,54
+vntext.sq#59937,vntext.sq,SAMCAMARILLO,"This isn't what I asked for, {$mcName}.","Это не то, что я просила, {$mcName}.",translated,39
+vntext.sq#59938,vntext.sq,SAMCAMARILLO,"Well, I'll just do my best to work with this mood. Thanks for the donut.","Ну, постараюсь как-то справиться с этим настроением. Спасибо за пончик.",translated,72
+vntext.sq#59939,vntext.sq,SAMCAMARILLO,"I should go get ready for that shoot. Good evening, {$mcName}.","Мне пора готовиться к съёмке. Доброго вечера, {$mcName}.",translated,62
+vntext.sq#59942,vntext.sq,SAMCAMARILLO,"Good evening, {$mcName}.","Добрый вечер, {$mcName}.",translated,24
+vntext.sq#59944,vntext.sq,SAMCAMARILLO,Not tonight. Just thought I'd drop by here to hang out.,"Не сегодня. Просто решила заглянуть, потусоваться.",translated,55
+vntext.sq#59945,vntext.sq,SAMCAMARILLO,"I'm still interested in taking photos of you — but no pressure, of course.","Мне всё ещё интересно тебя сфотографировать — но никакого давления, конечно.",translated,74
+vntext.sq#59947,vntext.sq,SAMCAMARILLO,"My two best friends were able to figure things out because of you, even if you have this... aloof vibe to you.","Мои две лучшие подруги смогли во всём разобраться благодаря тебе, хоть в тебе и есть эта... отстранённая аура.",translated,110
+vntext.sq#59948,vntext.sq,SAMCAMARILLO,"So of course, that's got me curious about how you were able to get through to them. I thought I'd be able to see it in your photos. Maybe it's an intensity thing — or maybe it's the way you handle kitchenware, who knows?","Так что, конечно, мне стало любопытно, как тебе удалось до них достучаться. Думала, смогу увидеть это на фото. Может, дело в интенсивности — или в том, как ты обращаешься с кухонной утварью, кто знает?",translated,220
+vntext.sq#59951,vntext.sq,SAMCAMARILLO,"Haha, that's true!","Хаха, это правда!",translated,18
+vntext.sq#59952,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#59953,vntext.sq,SAMCAMARILLO,"Maybe I'm just a little envious of you, I suppose.","Наверное, я просто немного тебе завидую.",translated,50
+vntext.sq#59955,vntext.sq,SAMCAMARILLO,"I couldn't have done what you did. I'm on the outside, always looking in.","Я бы не смогла сделать то, что сделал ты. Я всегда снаружи, смотрю внутрь.",translated,73
+vntext.sq#59956,vntext.sq,SAMCAMARILLO,"I thought that you and me... we'd have more in common, being kind of like the bystanders to the 'larger than life' types.","Я думала, у нас с тобой... будет больше общего, ведь мы оба как бы наблюдатели рядом с 'больше-чем-жизнь' типами.",translated,121
+vntext.sq#59957,vntext.sq,SAMCAMARILLO,"But... you're different, actually. You serve donuts that help people process their feelings, or at least have better moods to deal with life situations.","Но... ты, на самом деле, другой. Ты подаёшь пончики, что помогают людям разобраться в чувствах, или хотя бы улучшить настроение для решения жизненных ситуаций.",translated,152
+vntext.sq#59958,vntext.sq,SAMCAMARILLO,What does someone like me — someone who's behind the scenes all the time do?,"А что делает кто-то вроде меня — тот, кто всегда за кадром?",translated,76
+vntext.sq#59970,vntext.sq,SAMCAMARILLO,...!,...!,translated,4
+vntext.sq#59971,vntext.sq,SAMCAMARILLO,"Heh... so [i] this [/i] is why, then.",Хех... так вот [i] в чём [/i] дело.,translated,37
+vntext.sq#59973,vntext.sq,SAMCAMARILLO,It doesn't just take baking skills to be a good Mood Confectioner — it takes someone with perception as sharp as yours.,"Чтобы быть хорошим кондитером настроения, недостаточно уметь печь — нужна такая же острая проницательность, как у тебя.",translated,119
+vntext.sq#59974,vntext.sq,SAMCAMARILLO,"Very well. I'll reflect on this tonight, as I look through my photos...","Что ж. Обдумаю это сегодня вечером, просматривая свои фотографии...",translated,71
+vntext.sq#59975,vntext.sq,SAMCAMARILLO,"But before I go, I'd like to order something.","Но прежде чем уйти, хочу кое-что заказать.",translated,45
+vntext.sq#59988,vntext.sq,SAMCAMARILLO,"...Yeah, this takes me back to what got me into photography when I was younger.","...Да, это возвращает меня к тому, что привело меня в фотографию, когда я была моложе.",translated,79
+vntext.sq#59989,vntext.sq,SAMCAMARILLO,"For us creatives, it's important to have moments like this... when we look back on why we started, so that we can keep going.","Для нас, творческих людей, важны такие моменты... когда мы оглядываемся назад, вспоминая, почему начали, чтобы иметь силы продолжать.",translated,125
+vntext.sq#59990,vntext.sq,SAMCAMARILLO,I think this donut will help me a lot tonight.,"Думаю, этот пончик очень поможет мне сегодня.",translated,46
+vntext.sq#59992,vntext.sq,SAMCAMARILLO,"This got me feeling like studying photography techniques tonight, but I'd rather just think about what photography means to me...","Из-за этого мне захотелось сегодня изучать техники фотографии, но я лучше просто подумаю о том, что фотография значит для меня...",translated,129
+vntext.sq#59993,vntext.sq,SAMCAMARILLO,"This got me feeling like looking at {$moods:inspiration} boards, but I'd really rather just think about what photography means to me...","Из-за этого мне захотелось посмотреть доски {$moods:inspiration}, но я правда лучше просто подумаю о том, что фотография значит для меня...",translated,135
+vntext.sq#59994,vntext.sq,SAMCAMARILLO,"I feel extra ${passionate} about photography, but I don't think this answers some of the questions I have...","Я чувствую особую ${passionate} к фотографии, но не думаю, что это отвечает на некоторые мои вопросы...",translated,108
+vntext.sq#59995,vntext.sq,SAMCAMARILLO,"This got me feeling like ${relaxing}, so it's kinda close, but it's not what I asked for.","Из-за этого я чувствую ${relaxing}, так что близко, но не то, что я просила.",translated,89
+vntext.sq#59996,vntext.sq,SAMCAMARILLO,"I think I get why you chose the {$moods:patience} mood enhancer, but... it's not what I asked for.","Кажется, понимаю, почему ты выбрал усилитель {$moods:patience}, но... это не то, что я просила.",translated,98
+vntext.sq#59997,vntext.sq,SAMCAMARILLO,"This burst of ${cheerfulness} seems counterintuitive when it comes to ruminating, don't you think?","Этот прилив ${cheerfulness} кажется нелогичным, когда речь о размышлениях, не находишь?",translated,98
+vntext.sq#59998,vntext.sq,SAMCAMARILLO,"{$moods:sincerity} comes close, but... I'd like to sit with my memories, specifically.","{$moods:sincerity} — это близко, но... я хочу побыть именно со своими воспоминаниями.",translated,86
+vntext.sq#59999,vntext.sq,SAMCAMARILLO,"{$moods:courage}... would be great for moments that require risk-taking, but not tonight.","{$moods:courage}... было бы отлично для моментов, что требуют риска, но не сегодня.",translated,89
+vntext.sq#60000,vntext.sq,SAMCAMARILLO,It's a shame about the donut. It would've helped.,Жаль насчёт пончика. Это бы помогло.,translated,49
+vntext.sq#60001,vntext.sq,SAMCAMARILLO,"I'll be going now, but I really appreciate the conversation. Thanks again, {$mcName}!","Пойду я, но очень ценю этот разговор. Ещё раз спасибо, {$mcName}!",translated,85
+vntext.sq#60004,vntext.sq,SAMCAMARILLO,I got Starducks for you again.,Я снова взяла тебе Starducks.,translated,30
+vntext.sq#60006,vntext.sq,SAMCAMARILLO,Don't mention it. I just wanted to thank you for what you said to me about photography.,"Не за что. Просто хотела поблагодарить тебя за то, что ты сказал мне про фотографию.",translated,87
+vntext.sq#60008,vntext.sq,SAMCAMARILLO,You said photographers capture memories.,"Ты сказал, фотографы запечатлевают воспоминания.",translated,40
+vntext.sq#60009,vntext.sq,SAMCAMARILLO,You said photographers find moments of beauty.,"Ты сказал, фотографы находят моменты красоты.",translated,46
+vntext.sq#60011,vntext.sq,SAMCAMARILLO,"I've been thinking a lot about that, actually.","Вообще-то, я много об этом думала.",translated,46
+vntext.sq#60012,vntext.sq,SAMCAMARILLO,I've gotten so used to Adam and Stacy taking charge of the situation. I never really thought I contributed anything meaningful.,"Я так привыкла, что Adam и Stacy берут ситуацию в свои руки. Никогда особо не думала, что вношу что-то значимое.",translated,127
+vntext.sq#60013,vntext.sq,SAMCAMARILLO,"So all I did was make sure I never got either of them in trouble. Adam and I got pretty reckless, though, and considering how [i] I [/i] do photography, I should've realized the dangers of living in a terminally online and uploaded world...","Так что всё, что я делала, — следила, чтобы у них двоих не было неприятностей. Хотя мы с Adam были довольно безрассудны, и учитывая, как [i] я [/i] занимаюсь фотографией, стоило понимать опасности жизни в постоянно онлайновом и загруженном мире...",translated,240
+vntext.sq#60014,vntext.sq,SAMCAMARILLO,"But I guess... I never thought about it that way, because for me, photography isn't for starting scandals or ruining people's lives...","Но, наверное... я никогда так об этом не думала, потому что для меня фотография — не про то, чтобы устраивать скандалы или разрушать чужие жизни...",translated,134
+vntext.sq#60015,vntext.sq,SAMCAMARILLO,"It trains me to see the world with more appreciation, to make the most out of the limited time we all have here.","Она учит меня смотреть на мир с большей признательностью, извлекать максимум из ограниченного времени, что у нас у всех есть здесь.",translated,112
+vntext.sq#60018,vntext.sq,SAMCAMARILLO,"Luckily for me, it didn't, but it did force me to try and look at things from a different [i] perspective... [/i] pun intended.","К счастью для меня, не разрушили, но заставили попробовать взглянуть на вещи с другого [i] ракурса... [/i] каламбур намеренный.",translated,127
+vntext.sq#60020,vntext.sq,SAMCAMARILLO,Hahaha! Sorry about that. I'll try not to lose the [i] focus [/i] of the conversation.,Хахаха! Извини за это. Постараюсь не терять [i] фокус [/i] разговора.,translated,86
+vntext.sq#60022,vntext.sq,SAMCAMARILLO,"Fine, fine. I'll stop.","Ладно, ладно. Остановлюсь.",translated,22
+vntext.sq#60023,vntext.sq,SAMCAMARILLO,"Seriously, though, thank you for helping us out.","Но серьёзно, спасибо, что помог нам.",translated,48
+vntext.sq#60024,vntext.sq,SAMCAMARILLO,"I thought I was okay with all the pretense, but that's the thing about being a photographer... you choose what you see through the lens, and what you don't.","Думала, я в порядке со всем этим притворством, но вот в чём фишка быть фотографом... ты выбираешь, что видишь через объектив, а что нет.",translated,156
+vntext.sq#60032,vntext.sq,SAMCAMARILLO,...!,...!,translated,4
+vntext.sq#60034,vntext.sq,SAMCAMARILLO,"Yeah... yeah, you're right.","Да... да, ты прав.",translated,27
+vntext.sq#60035,vntext.sq,SAMCAMARILLO,"Hey, {$mcName}, I think I should order something now. I have much to think about again.","Эй, {$mcName}, думаю, мне пора что-нибудь заказать. Мне снова есть о чём подумать.",translated,87
+vntext.sq#60036,vntext.sq,SAMCAMARILLO,"Can I please have a {$whole} donut with {$decor:glaze} that'll help me talk to Adam and Stacy about this? {$glaze:multiglaze}, please — one {$decor:glaze} to boost my confidence, and another {$decor:glaze} to help me speak from the heart.","Можно мне {$whole} пончик с {$decor:glaze}, что поможет мне поговорить об этом с Adam и Stacy? {$glaze:multiglaze}, пожалуйста — одна {$decor:glaze} для уверенности, а другая {$decor:glaze}, чтобы говорить от сердца.",translated,238
+vntext.sq#60053,vntext.sq,SAMCAMARILLO,That hits the spot. I think this will help me talk to Adam and Stacy.,"Вот это то, что надо. Думаю, это поможет мне поговорить с Adam и Stacy.",translated,69
+vntext.sq#60054,vntext.sq,SAMCAMARILLO,Okay. I got this. It'll be okay.,Ладно. Я справлюсь. Всё будет хорошо.,translated,32
+vntext.sq#60056,vntext.sq,SAMCAMARILLO,"I feel a bit more aware of my feelings, but... I could've used the {$moods:courage} from {$flavors:roid_velvet}.","Я стала немного лучше осознавать свои чувства, но... мне бы не помешал {$moods:courage} от {$flavors:roid_velvet}.",translated,112
+vntext.sq#60057,vntext.sq,SAMCAMARILLO,"I feel a bit braver, but... the {$flavors:methberry} could've helped me understand my feelings better.","Я стала немного смелее, но... {$flavors:methberry} мог бы помочь мне лучше понять свои чувства.",translated,102
+vntext.sq#60058,vntext.sq,SAMCAMARILLO,...Don't you think {$moods:focus} could lead to obsessiveness during the conversation?,"...Не думаешь, что {$moods:focus} может привести к одержимости во время разговора?",translated,86
+vntext.sq#60059,vntext.sq,SAMCAMARILLO,I don't really think the creative ideas I'm getting from {$flavors:lemon_acid} are appropriate for this conversation.,"Не думаю, что творческие идеи, что дарит мне {$flavors:lemon_acid}, уместны для этого разговора.",translated,117
+vntext.sq#60060,vntext.sq,SAMCAMARILLO,"{$moods:passion}'s not quite right for the conversation I want to have. Sorry, {$mcName}.","{$moods:passion} не совсем подходит для разговора, что я хочу провести. Извини, {$mcName}.",translated,89
+vntext.sq#60061,vntext.sq,SAMCAMARILLO,"I get that you want me to {$moods:relax} to make the conversation with them flow easier, but... this risks making me feel too ${relaxed}.","Понимаю, ты хочешь, чтобы я {$moods:relax}, чтобы разговор с ними шёл легче, но... это рискует сделать меня слишком ${relaxed}.",translated,137
+vntext.sq#60062,vntext.sq,SAMCAMARILLO,{$moods:nostalgia} for this conversation...? I think this'll get in the way...,"{$moods:nostalgia} для этого разговора...? Думаю, это будет только мешать...",translated,78
+vntext.sq#60063,vntext.sq,SAMCAMARILLO,I get why you thought {$moods:patience} would work better but... I don't really need this right now.,"Понимаю, почему ты подумал, что {$moods:patience} сработает лучше, но... сейчас мне это не особо нужно.",translated,100
+vntext.sq#60064,vntext.sq,SAMCAMARILLO,"Being too ${cheerful} would be inappropriate for this conversation, don't you think?","Быть слишком ${cheerful} было бы неуместно для этого разговора, не находишь?",translated,84
+vntext.sq#60065,vntext.sq,SAMCAMARILLO,"Shame about the donut, but... I think I got this. It'll be okay. Maybe.","Жаль насчёт пончика, но... думаю, справлюсь. Всё будет хорошо. Наверное.",translated,71
+vntext.sq#60066,vntext.sq,SAMCAMARILLO,"Thanks again, {$mcName}. Have a good evening.","Ещё раз спасибо, {$mcName}. Хорошего вечера.",translated,45
+vntext.sq#60069,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#60070,vntext.sq,SAMCAMARILLO,"Good news, {$mcName}. I was able to talk to Adam and Stacy about my regrets and wishes for our friendship!","Хорошие новости, {$mcName}. Мне удалось поговорить с Adam и Stacy о своих сожалениях и пожеланиях насчёт нашей дружбы!",translated,106
+vntext.sq#60073,vntext.sq,SAMCAMARILLO,"It's all thanks to you. So, here...","Это всё благодаря тебе. Так что, вот...",translated,35
+vntext.sq#60074,vntext.sq,SAMCAMARILLO,"I may not have the ability to keep food under my clothes like Adam, but I got you coffee from Starducks, and an avocado sandwich!","Может, я не умею прятать еду под одеждой, как Adam, но принесла тебе кофе из Starducks и сэндвич с авокадо!",translated,129
+vntext.sq#60076,vntext.sq,SAMCAMARILLO,"Uh, by the way, regarding taking photos of you—","Э, кстати, насчёт того, чтобы тебя фотографировать—",translated,47
+vntext.sq#60078,vntext.sq,SAMCAMARILLO,...!,...!,translated,4
+vntext.sq#60079,vntext.sq,SAMCAMARILLO,"Are you sure, {$mcName}?","Ты уверен, {$mcName}?",translated,24
+vntext.sq#60087,vntext.sq,SAMCAMARILLO,...!,...!,translated,4
+vntext.sq#60088,vntext.sq,SAMCAMARILLO,"Yes... yes, that's very true.","Да... да, это очень верно.",translated,29
+vntext.sq#60089,vntext.sq,SAMCAMARILLO,"Well, if it's really okay...","Ну, если это правда нормально...",translated,28
+vntext.sq#60091,vntext.sq,SAMCAMARILLO,"Of course. I always make sure I get my subject's consent to take photos, and to publish.","Конечно. Я всегда получаю согласие объекта съёмки и на фото, и на публикацию.",translated,88
+vntext.sq#60097,vntext.sq,SAMCAMARILLO,Thank you!,Спасибо!,translated,10
+vntext.sq#60098,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#60099,vntext.sq,SAMCAMARILLO,Hmm. No.,Хмм. Нет.,translated,8
+vntext.sq#60100,vntext.sq,SAMCAMARILLO,"Sorry, but I can't eat this.","Извини, но я не могу это есть.",translated,28
+vntext.sq#60102,vntext.sq,SAMCAMARILLO,Thanks.,Спасибо.,translated,7
+vntext.sq#60103,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#60104,vntext.sq,SAMCAMARILLO,Well done. This donut's got the right amount of {$moods:focus} and {$moods:inspiration} for me!,"Отлично. В этом пончике как раз столько {$moods:focus} и {$moods:inspiration}, сколько мне нужно!",translated,95
+vntext.sq#60105,vntext.sq,SAMCAMARILLO,"Excellent donut, thanks for that!","Отличный пончик, спасибо за него!",translated,33
+vntext.sq#60106,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#60107,vntext.sq,SAMCAMARILLO,"So I'm feeling pretty ${inspired}, but I would've liked the {$flavors:chococaine} to help with {$moods:focus}...","Так, я чувствую себя довольно ${inspired}, но мне бы хотелось {$flavors:chococaine}, чтобы помочь с {$moods:focus}...",translated,112
+vntext.sq#60108,vntext.sq,SAMCAMARILLO,"So I'm feeling ${focused}, but I would've liked the {$flavors:lemon_acid} to help with {$moods:inspiration}...","Так, я чувствую себя ${focused}, но мне бы хотелось {$flavors:lemon_acid}, чтобы помочь с {$moods:inspiration}...",translated,110
+vntext.sq#60109,vntext.sq,SAMCAMARILLO,"{$flavors:ubecstacy}, huh. I'm guessing you want me to feel hyped up for the shoot?","{$flavors:ubecstacy}, значит. Полагаю, хочешь, чтобы я взбодрилась перед съёмкой?",translated,83
+vntext.sq#60110,vntext.sq,SAMCAMARILLO,"Trying to get me ${relaxed} so you can get out of the shoot? Kidding, kidding.","Пытаешься сделать меня ${relaxed}, чтобы отвертеться от съёмки? Шучу, шучу.",translated,78
+vntext.sq#60111,vntext.sq,SAMCAMARILLO,I wonder why you chose {$flavors:strawpium} instead... do you want me to do a ${nostalgic} angle for the shoot?,"Интересно, почему ты выбрал {$flavors:strawpium} вместо этого... хочешь, чтобы я сделала ${nostalgic} ракурс для съёмки?",translated,111
+vntext.sq#60112,vntext.sq,SAMCAMARILLO,"{$flavors:pumpketamine}, huh. Think I'll need this much {$moods:patience} in order to take photos of you?","{$flavors:pumpketamine}, значит. Думаешь, мне понадобится столько {$moods:patience}, чтобы тебя фотографировать?",translated,105
+vntext.sq#60113,vntext.sq,SAMCAMARILLO,I don't think you needed to give me {$flavors:vanilla_sky}. I'd enjoy the shoot anyway. But I appreciate the thought.,"Не думаю, что нужно было давать мне {$flavors:vanilla_sky}. Мне бы и так понравилась съёмка. Но ценю сам жест.",translated,117
+vntext.sq#60114,vntext.sq,SAMCAMARILLO,"{$moods:sincerity}, huh... I guess you want me to take a photo of you that's more raw and personal?","{$moods:sincerity}, значит... наверное, хочешь, чтобы я сделала фото более неприкрытое и личное?",translated,99
+vntext.sq#60115,vntext.sq,SAMCAMARILLO,Why {$flavors:roid_velvet}? I don't think {$moods:courage} is necessary for this...,"Почему {$flavors:roid_velvet}? Не думаю, что для этого нужен {$moods:courage}...",translated,83
+vntext.sq#60116,vntext.sq,SAMCAMARILLO,"Shame about the donut, but thanks anyway!","Жаль насчёт пончика, но всё равно спасибо!",translated,41
+vntext.sq#60117,vntext.sq,SAMCAMARILLO,"All right. You ready for me to take photos, {$mcName}?","Ладно. Готов, что я тебя сфотографирую, {$mcName}?",translated,54
+vntext.sq#60119,vntext.sq,SAMCAMARILLO,"Haha, don't worry, just be yourself.","Хаха, не переживай, просто будь собой.",translated,36
+vntext.sq#60120,vntext.sq,SAMCAMARILLO,One... two... three!,Раз... два... три!,translated,20
+vntext.sq#60122,vntext.sq,SAMCAMARILLO,"Well, if you'll allow [i] her [/i] to take a look, I'm sure there's someone who'd love copies of these...","Ну, если ты позволишь [i] ей [/i] взглянуть, уверена, найдётся кто-то, кому очень захочется копии этих фото...",translated,105
+vntext.sq#60124,vntext.sq,SAMCAMARILLO,"Well, if you'll allow our friends to take a look, I'm sure they'd want to keep copies. You're the one who saved our little friend group, after all.","Ну, если ты позволишь нашим друзьям взглянуть, уверена, они захотят оставить себе копии. В конце концов, именно ты спас нашу маленькую компанию друзей.",translated,147
+vntext.sq#60130,vntext.sq,SAMCAMARILLO,Fantastic! I'll make sure to post-process these photos really well.,Отлично! Я обязательно как следует обработаю эти фото.,translated,67
+vntext.sq#60132,vntext.sq,SAMCAMARILLO,"If you're sure, then I respect your decision.","Если ты уверен, тогда уважаю твоё решение.",translated,45
+vntext.sq#60133,vntext.sq,SAMCAMARILLO,"Anyway, thank you for giving me this opportunity, {$mcName}.","В любом случае, спасибо, что дал мне эту возможность, {$mcName}.",translated,60
+vntext.sq#60136,vntext.sq,SAMCAMARILLO,"Heh, we'll both get better at it as we work on that visibility muscle.","Хех, мы оба станем лучше в этом, тренируя эту мышцу заметности.",translated,70
+vntext.sq#60137,vntext.sq,SAMCAMARILLO,"All right, I'll be going now. You take care of yourself, {$mcName}.","Ладно, я пойду. Береги себя, {$mcName}.",translated,67
+vntext.sq#60142,vntext.sq,SAMCAMARILLO,"No, not tonight. I'll be checking out a gallery nearby, just looking for {$moods:inspiration}.","Нет, не сегодня. Загляну в галерею неподалёку, просто ищу {$moods:inspiration}.",translated,94
+vntext.sq#60149,vntext.sq,SAMCAMARILLO,Sorry I couldn't bring you a cup of coffee tonight.,"Извини, что не смогла принести тебе кофе сегодня.",translated,51
+vntext.sq#60151,vntext.sq,SAMCAMARILLO,"Well, two can't hurt if ever, right?","Ну, два лишними не будут, правда?",translated,36
+vntext.sq#60153,vntext.sq,SAMCAMARILLO,"Haha, that's true. but you can always save one for later.","Хаха, это правда. но один всегда можно оставить на потом.",translated,57
+vntext.sq#60160,vntext.sq,SAMCAMARILLO,Regarding what we talked about... I wonder how it would be like to have Adam and Stacy's 'high energy' even just for a bit.,"Насчёт того, о чём мы говорили... интересно, каково это — иметь ту же 'высокую энергию', что у Adam и Stacy, хотя бы ненадолго.",translated,123
+vntext.sq#60162,vntext.sq,SAMCAMARILLO,"I don't know. I'm going on a photo walk in a bit with a couple of friends, so maybe some excitement would be funny.","Не знаю. Скоро иду на фотопрогулку с парой друзей, так что немного возбуждения было бы забавно.",translated,115
+vntext.sq#60169,vntext.sq,SAMCAMARILLO,"I wonder if you as a Mood Confectioner associate flavors with people. Lately, I feel like I've been associating {$flavors:ubecstacy} with both Stacy and Adam.","Интересно, ассоциируешь ли ты как кондитер настроения вкусы с людьми. В последнее время у меня чувство, что я ассоциирую {$flavors:ubecstacy} и со Stacy, и с Adam.",translated,158
+vntext.sq#60170,vntext.sq,SAMCAMARILLO,"But they express being '{$flavors:ubecstacy}' in very different ways. They're both loud, sure, but when Stacy's ${passionate} about something, she has a quiet but steady intensity... whereas Adam is more explosive, like it comes in bursts.","Но они выражают '{$flavors:ubecstacy}' очень по-разному. Оба они громкие, конечно, но когда Stacy чем-то ${passionate}, у неё тихая, но устойчивая интенсивность... тогда как Adam более взрывной, будто это приходит вспышками.",translated,239
+vntext.sq#60171,vntext.sq,SAMCAMARILLO,It's interesting. I don't think I'm an '{$flavors:ubecstacy} person' myself....,"Интересно. Не думаю, что сама я '{$flavors:ubecstacy} человек'....",translated,79
+vntext.sq#60178,vntext.sq,SAMCAMARILLO,I'm still thinking about what we talked about... regarding what people behind the scenes do.,"Я всё ещё думаю о том, что мы обсуждали... насчёт того, чем занимаются люди за кадром.",translated,92
+vntext.sq#60179,vntext.sq,SAMCAMARILLO,I've never really felt as if I were the 'main character' of my own life.,Никогда особо не чувствовал себя 'главным героем' собственной жизни.,translated,72
+vntext.sq#60182,vntext.sq,SAMCAMARILLO,"But that 'main character' energy... we talk about it as if it's a bad thing, but when people embrace it to do good, they can be inspirational figures.","Но эта энергия 'главного героя'... мы говорим о ней так, будто это что-то плохое, но когда люди принимают её ради добра, они могут стать вдохновляющими фигурами.",translated,150
+vntext.sq#60183,vntext.sq,SAMCAMARILLO,"Tell me, {$mcName}, is there a mood you associate with 'main character' energy?","Скажи, {$mcName}, есть настроение, которое ты ассоциируешь с энергией 'главного героя'?",translated,79
+vntext.sq#60189,vntext.sq,SAMCAMARILLO,Interesting.,Интересно.,translated,12
+vntext.sq#60196,vntext.sq,SAMCAMARILLO,"I can't stay for too long, but I thought I'd stop by. Here's a cup of coffee, on me.","Не могу задерживаться надолго, но решила заглянуть. Вот кофе, за мой счёт.",translated,84
+vntext.sq#60198,vntext.sq,SAMCAMARILLO,"No problem. Least I can do, really.","Не за что. Правда, это меньшее, что я могу сделать.",translated,35
+vntext.sq#60199,vntext.sq,SAMCAMARILLO,I think I like myself a lot better thanks to you. You're really good at having that effect on people.,"Думаю, благодаря тебе я гораздо больше себе нравлюсь. У тебя правда хорошо получается так влиять на людей.",translated,101
+vntext.sq#60207,vntext.sq,SAMCAMARILLO,Been thinking about the 'main character' flavor you chose... so I'd like to try having it tonight with my own choice of 'main character' flavors and ${toppings}.,"Всё думаю о вкусе 'главного героя', что ты выбрал... так что хочу сегодня попробовать со своим собственным выбором вкусов 'главного героя' и ${toppings}.",translated,161
+vntext.sq#60219,vntext.sq,SAMCAMARILLO,"No, not yet. We've all been quite busy, so I haven't had the opportunity to catch them for a heart-to-heart.","Нет, ещё нет. Мы все были довольно заняты, так что не было возможности застать их для откровенного разговора.",translated,108
+vntext.sq#60221,vntext.sq,SAMCAMARILLO,Of course. But I don't wanna force it if the timing's not right.,"Конечно. Но не хочу форсировать, если время неподходящее.",translated,64
+vntext.sq#60229,vntext.sq,SAMCAMARILLO,"All good. It's been a busy time — got more clients who want that San Mazo nightlife vibe, so I haven't had day shoots in a while.","Всё хорошо. Времена были загруженные — появилось больше клиентов, желающих ту атмосферу ночной жизни San Mazo, так что дневных съёмок у меня давно не было.",translated,129
+vntext.sq#60230,vntext.sq,SAMCAMARILLO,"Tonight's a chill night for me, though, so I'm gonna take advantage of that by staying in and working on some personal projects.","Хотя сегодня у меня спокойный вечер, так что воспользуюсь этим — останусь дома и поработаю над личными проектами.",translated,128
+vntext.sq#60238,vntext.sq,SAMCAMARILLO,"I'm done with the post-processing of your photos, and they turned out great!","Я закончила обработку твоих фото, и они получились отлично!",translated,76
+vntext.sq#60239,vntext.sq,SAMCAMARILLO,"You'd make a great model, you know.","Знаешь, из тебя вышла бы отличная модель.",translated,35
+vntext.sq#60240,vntext.sq,SAMCAMARILLO,Adam and Stacy saw the photos and said you'd make a great model.,"Adam и Stacy увидели фото и сказали, что из тебя вышла бы отличная модель.",translated,64
+vntext.sq#60242,vntext.sq,SAMCAMARILLO,And I'm sure they're not.,"А я уверена, что нет.",translated,25
+vntext.sq#60244,vntext.sq,SAMCAMARILLO,I can see that.,Это заметно.,translated,15
+vntext.sq#60245,vntext.sq,SAMCAMARILLO,The best photos were the ones where we had you do something with the kitchenware — you look completely in your element in those.,"Лучшие фото получились там, где ты что-то делал с кухонной утварью — там ты выглядишь абсолютно в своей стихии.",translated,128
+vntext.sq#60246,vntext.sq,SAMCAMARILLO,"Anyway, I've got more stuff to work on, so I'll be heading home right after this.","В общем, у меня ещё есть над чем поработать, так что после этого сразу пойду домой.",translated,81
+vntext.sq#60253,vntext.sq,SAMCAMARILLO,"I have an idea. One of these days, we can take photos of your donuts together. Just for fun, not for social media or anything like that.","У меня идея. Как-нибудь мы можем вместе пофотографировать твои пончики. Просто для удовольствия, не для соцсетей или типа того.",translated,136
+vntext.sq#60254,vntext.sq,SAMCAMARILLO,"Sometimes it's nice to just take photos without the goal of showing them off. They can just be for yourself, as a way of remembering the good stuff.","Иногда приятно просто фотографировать без цели кому-то показать. Они могут быть просто для себя, как способ запомнить хорошее.",translated,148
+vntext.sq#60255,vntext.sq,SAMCAMARILLO,How's that sound?,Как тебе такое?,translated,17
+vntext.sq#60257,vntext.sq,SAMCAMARILLO,"Awesome! For now, though, I can't stay for too long.",Здорово! Хотя сейчас я не могу надолго задерживаться.,translated,52
+vntext.sq#60268,vntext.sq,SAMCAMARILLO,"{$recipe:violet_belle}... the combination of these flavors reminds me of me and Adam. I'll have one, please.","{$recipe:violet_belle}... сочетание этих вкусов напоминает мне о нас с Adam. Возьму один, пожалуйста.",translated,108
+vntext.sq#60277,vntext.sq,SAMCAMARILLO,"I'll have one {$recipe:san_mazo_sunset}. Looking at it, I really feel as if I'm at the beach, watching the sky turn orange...","Возьму один {$recipe:san_mazo_sunset}. Глядя на него, я правда чувствую, будто на пляже, наблюдаю, как небо становится оранжевым...",translated,125
+vntext.sq#60286,vntext.sq,SAMCAMARILLO,"How about a {$recipe:strawberry_cream}? I'll have one, please.","Как насчёт {$recipe:strawberry_cream}? Возьму один, пожалуйста.",translated,62
+vntext.sq#60290,vntext.sq,SAMCAMARILLO,"Good evening, {$mcName}.","Добрый вечер, {$mcName}.",translated,24
+vntext.sq#60292,vntext.sq,SAMCAMARILLO,"Busy night. Gotta make the most out of the San Mazo bright lights, as always.","Занятой вечер. Нужно выжать максимум из ярких огней San Mazo, как всегда.",translated,77
+vntext.sq#60293,vntext.sq,SAMCAMARILLO,"I thought I'd stop by tonight for one of my favorite donuts, though.",Но решила заглянуть сегодня за одним из своих любимых пончиков.,translated,68
+vntext.sq#60295,vntext.sq,SAMCAMARILLO,Please make me a {$recipe:choco_lemon}. I love both those flavors.,"Сделай мне, пожалуйста, {$recipe:choco_lemon}. Обожаю оба этих вкуса.",translated,66
+vntext.sq#63731,vntext.sq,SAMCAMARILLO,Hello.,Привет.,translated,6
+vntext.sq#63740,vntext.sq,SAMCAMARILLO,Nice to finally meet you. I'm Sam.,Приятно наконец познакомиться. Я Sam.,translated,34
+vntext.sq#63741,vntext.sq,SAMCAMARILLO,"Sorry if this is quite sudden. Adam had a spur-of-the-moment idea to bring me over, so...","Извини, если это довольно неожиданно. У Adam возникла спонтанная идея привести меня, так что...",translated,89
+vntext.sq#63748,vntext.sq,SAMCAMARILLO,"Hmm... there's a lot to choose from, isn't there?","Хмм... тут есть из чего выбрать, да?",translated,49
+vntext.sq#63749,vntext.sq,SAMCAMARILLO,... Got a recommendation for a first timer?,...Есть рекомендация для новичка?,translated,43
+vntext.sq#63751,vntext.sq,SAMCAMARILLO,"Hmmm, I know we've just met, but I heard mood confectioners are quite sharp when it comes to gauging one's emotional needs.","Хмм, знаю, мы только познакомились, но слышала, кондитеры настроения весьма проницательны, когда дело касается оценки чужих эмоциональных потребностей.",translated,123
+vntext.sq#63752,vntext.sq,SAMCAMARILLO,You can imagine how it's been for us lately...,"Можешь представить, каково нам было в последнее время...",translated,46
+vntext.sq#63753,vntext.sq,SAMCAMARILLO,Avoiding the paparazzi has been quite a challenge. It's all about lying low and waiting...,"Избегать папарацци было той ещё задачей. Всё дело в том, чтобы затаиться и ждать...",translated,90
+vntext.sq#63754,vntext.sq,SAMCAMARILLO,"If we're not doing that, then we're also coming up with plans on how to move forward.","А если не этим, то мы ещё придумываем планы, как двигаться дальше.",translated,85
+vntext.sq#63756,vntext.sq,SAMCAMARILLO,I hope all that information helps when choosing a flavor that might be satisfactory.,"Надеюсь, вся эта информация поможет при выборе подходящего вкуса.",translated,84
+vntext.sq#63758,vntext.sq,SAMCAMARILLO,"In any case, since we'll both be sharing the donut, how about a mood that will help us through these troubled times. {$decor:filling} might also be good for us.","В любом случае, раз уж мы будем делить пончик на двоих, как насчёт настроения, что поможет нам пережить эти трудные времена. {$decor:filling} тоже может нам подойти.",translated,160
+vntext.sq#63768,vntext.sq,SAMCAMARILLO,Interesting.,Интересно.,translated,12
+vntext.sq#63771,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#63775,vntext.sq,SAMCAMARILLO,"To be blunt, it tastes... awful....","Если прямо, на вкус это... ужасно....",translated,35
+vntext.sq#63776,vntext.sq,SAMCAMARILLO,"To be blunt, it tastes... boring....","Если прямо, на вкус это... скучно....",translated,36
+vntext.sq#63782,vntext.sq,SAMCAMARILLO,"Perhaps it's for the best that I refrain from eating the rest of it, if that's okay with you.","Возможно, будет лучше, если я воздержусь от того, чтобы доедать остальное, если ты не против.",translated,93
+vntext.sq#63783,vntext.sq,SAMCAMARILLO,"One bite was enough of an experience, I think.","Думаю, одного укуса было достаточно впечатлений.",translated,46
+vntext.sq#63785,vntext.sq,SAMCAMARILLO,That would be unnecessary. But I thank you for the offer.,В этом не будет необходимости. Но благодарю за предложение.,translated,57
+vntext.sq#63788,vntext.sq,SAMCAMARILLO,"Mood-laced perfection... and just the right amount of filling, too. It has truly been awhile since I've experienced something like this...","Совершенство, пронизанное настроением... и как раз нужное количество начинки. Прошло действительно много времени с тех пор, как я испытывала нечто подобное...",translated,138
+vntext.sq#63789,vntext.sq,SAMCAMARILLO,"Well, you weren't lying Adam. This Mood Confectioner has quite the talent.","Ну, ты не врал, Adam. У этого кондитера настроения и правда есть талант.",translated,74
+vntext.sq#63796,vntext.sq,SAMCAMARILLO,"And it's not just the taste... as of late, I've been feeling like all eyes are on us... and while that does urge us to be careful...","И дело не только во вкусе... в последнее время у меня чувство, будто все взгляды прикованы к нам... и хоть это и заставляет нас быть осторожнее...",translated,132
+vntext.sq#63797,vntext.sq,SAMCAMARILLO,I'm afraid it has also allowed fear to cloud my judgement.,"Боюсь, это ещё позволило страху затуманить мой рассудок.",translated,58
+vntext.sq#63798,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#63799,vntext.sq,SAMCAMARILLO,We need to be direct with Stacy. She is our dear friend and we must tell her our thoughts...,"Нам нужно быть прямыми со Stacy. Она наш дорогой друг, и мы должны рассказать ей наши мысли...",translated,92
+vntext.sq#63800,vntext.sq,SAMCAMARILLO,"We must be honest with Stacy. Just because we have lied to the others, does not mean we need to lie to our closest friend.","Мы должны быть честны со Stacy. То, что мы врали остальным, не значит, что нужно врать нашему ближайшему другу.",translated,122
+vntext.sq#63802,vntext.sq,SAMCAMARILLO,But this mood... it's telling me it's best to take things one at a time.,"Но это настроение... оно подсказывает мне, что лучше всего разбираться со всем по очереди.",translated,72
+vntext.sq#63803,vntext.sq,SAMCAMARILLO,I have to admit... it's been affecting my mood quite a bit.,Должна признать... это довольно сильно влияет на моё настроение.,translated,59
+vntext.sq#63804,vntext.sq,SAMCAMARILLO,"Even for Stacy and Adam who are used to public attention, I don't think it's healthy for them to be under such close scrutiny all the time...","Даже для Stacy и Adam, привыкших к общественному вниманию, не думаю, что здорово находиться под таким пристальным наблюдением всё время...",translated,141
+vntext.sq#63805,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#63806,vntext.sq,SAMCAMARILLO,"But this mood has lifted my spirits. Things might be bad now, but at least we still have each other.","Но это настроение подняло мне настроение. Сейчас может быть плохо, но по крайней мере у нас всё ещё есть друг друга.",translated,100
+vntext.sq#63807,vntext.sq,SAMCAMARILLO,Like a shaken soda bottle... I feel like the pressure will end up driving me to do something rash...,"Как встряхнутая бутылка газировки... у меня чувство, что давление в итоге заставит меня сделать что-то опрометчивое...",translated,100
+vntext.sq#63808,vntext.sq,SAMCAMARILLO,This mood... it's giving me a chance to take a deep breath and calm my nerves... moments like these are important...,Это настроение... оно даёт мне шанс сделать глубокий вдох и успокоить нервы... такие моменты важны...,translated,116
+vntext.sq#63811,vntext.sq,SAMCAMARILLO,Alright enough with the horses already. There are things that need to be done!,"Ладно, хватит уже про лошадей. Есть дела, что нужно сделать!",translated,78
+vntext.sq#63813,vntext.sq,SAMCAMARILLO,"This donut's getting my mind racing with all sorts of thoughts — replaying scenarios, exhausting possibilities...","Этот пончик заставляет мой разум нестись вскачь со всякими мыслями — прокручивая сценарии, перебирая все возможности...",translated,113
+vntext.sq#63814,vntext.sq,SAMCAMARILLO,"Ahhh, a couple of ideas are coming to mind... most of them have something to do with photography... but seeing as how this all started with a rogue photograph of Adam and I...","Аах, на ум приходит пара идей... большинство из них как-то связаны с фотографией... но учитывая, что всё это началось с шального фото нас с Adam...",translated,175
+vntext.sq#63816,vntext.sq,SAMCAMARILLO,"Heh, I know this feeling well... I felt it that night when I asked Adam out to dinner... and look where that got us.","Хех, я хорошо знаю это чувство... я почувствовала его той ночью, когда пригласила Adam на ужин... и посмотри, куда это нас привело.",translated,116
+vntext.sq#63818,vntext.sq,SAMCAMARILLO,"Let's not play the blame game, the problem still stands.","Давайте не будем играть в обвинения, проблема всё ещё стоит.",translated,56
+vntext.sq#63819,vntext.sq,SAMCAMARILLO,This mood brings me back to that day we had on the beach with Stacy. Given everything that's happened...,"Это настроение возвращает меня к тому дню на пляже со Stacy. Учитывая всё, что произошло...",translated,104
+vntext.sq#63820,vntext.sq,SAMCAMARILLO,I'm not sure if that's what I'd like to linger on right now...,"Не уверена, что мне хочется задерживаться на этом прямо сейчас...",translated,62
+vntext.sq#63849,vntext.sq,SAMCAMARILLO,Stacy... I'm really sorry. I should have known better.,Stacy... мне правда жаль. Стоило быть умнее.,translated,54
+vntext.sq#63858,vntext.sq,SAMCAMARILLO,"Oh, I don't think ideas are the problem, love. It's your planning and execution that... leave things to be desired.","Ох, не думаю, что идеи — это проблема, любовь моя. Это твоё планирование и исполнение... оставляют желать лучшего.",translated,115
+vntext.sq#63860,vntext.sq,SAMCAMARILLO,Haha.,Хаха.,translated,5
+vntext.sq#63873,vntext.sq,SAMCAMARILLO,I know it might be a little sudden—,"Знаю, это может быть немного неожиданно—",translated,35
+vntext.sq#63875,vntext.sq,SAMCAMARILLO,But if I may... I think it's better to take control of the situation now. It will be a bigger problem if fans find out about it later.,"Но если позволите... думаю, лучше взять ситуацию под контроль сейчас. Будет большей проблемой, если фанаты узнают об этом позже.",translated,134
+vntext.sq#63885,vntext.sq,SAMCAMARILLO,"... It's getting late, Adam. I have an early meeting tomorrow.","...Уже поздно, Adam. У меня завтра ранняя встреча.",translated,62
+vntext.sq#63886,vntext.sq,SAMCAMARILLO,"If you'll excuse us, Stacy. {$mcName}.","Если позволите, Stacy. {$mcName}.",translated,38
+vntext.sq#63888,vntext.sq,SAMCAMARILLO,"Call me if you need anything, okay?","Звони, если что-то понадобится, ладно?",translated,35
+vntext.sq#64292,vntext.sq,SAMCAMARILLO,"Hello again. We got you both Starducks drinks, if that's all right.","Снова здравствуйте. Мы принесли вам обоим напитки из Стардакс, если не против.",translated,67
+vntext.sq#64337,vntext.sq,SAMCAMARILLO,It's what drew the fans to ADSTACY in the first place... I suppose your soulmate doesn't have to be a romantic partner.,"Именно это изначально привлекло фанатов к ADSTACY... Наверное, родственная душа не обязана быть романтическим партнёром.",translated,119
+vntext.sq#64345,vntext.sq,SAMCAMARILLO,Looks like you two have come to an agreement.,"Похоже, вы двое пришли к согласию.",translated,45
+vntext.sq#64346,vntext.sq,SAMCAMARILLO,... I suppose the first thing we have to figure out is what happens after you [i] do [/i] split up.,"... Полагаю, первым делом нужно понять, что будет после того, как вы [i] на самом деле [/i] расстанетесь.",translated,99
+vntext.sq#64370,vntext.sq,SAMCAMARILLO,"Haha... Well, I'm sure some people will figure it out.","Хаха... Ну, уверен, кое-кто разгадает.",translated,54
+vntext.sq#64371,vntext.sq,SAMCAMARILLO,But why not play along... especially since they're going to such lengths to put up an interesting show?,Но почему бы не подыграть... тем более раз они так стараются устроить интересное представление?,translated,103
+vntext.sq#64373,vntext.sq,SAMCAMARILLO,But isn't that what you love about her?,Но разве не за это ты её любишь?,translated,39
+vntext.sq#64401,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#64403,vntext.sq,SAMCAMARILLO,"... Of course. I told them I would support them, no matter what.","... Конечно. Я сказал им, что буду поддерживать их, что бы ни случилось.",translated,64
+vntext.sq#64875,vntext.sq,SAMCAMARILLO,I see I made it just in time.,"Вижу, я успел как раз вовремя.",translated,29
+vntext.sq#64876,vntext.sq,SAMCAMARILLO,How long have they been at it?,Как долго они этим занимаются?,translated,30
+vntext.sq#64878,vntext.sq,SAMCAMARILLO,They should be wrapping up soon enough.,Они должны скоро закругляться.,translated,39
+vntext.sq#64879,vntext.sq,SAMCAMARILLO,"While we're waiting though, there's something I wanted to talk to you about.","Пока мы ждём, я хотел кое о чём с тобой поговорить.",translated,76
+vntext.sq#64881,vntext.sq,SAMCAMARILLO,"Don't worry, it's nothing bad.","Не волнуйся, ничего плохого.",translated,30
+vntext.sq#64882,vntext.sq,SAMCAMARILLO,"I know it's been a real mess, but I still wanted to thank you again for everything you've done for us.","Знаю, тут была настоящая неразбериха, но всё же хотел ещё раз поблагодарить тебя за всё, что ты для нас сделал.",translated,102
+vntext.sq#64883,vntext.sq,SAMCAMARILLO,"You didn't have to, but you did anyway.","Ты не обязан был, но всё равно сделал.",translated,39
+vntext.sq#64886,vntext.sq,SAMCAMARILLO,It's nothing new. We've got Darla helping out with the marketing and things are slowly returning to normal...,"Ничего нового. Дарла помогает с маркетингом, и всё постепенно возвращается в норму...",translated,109
+vntext.sq#64887,vntext.sq,SAMCAMARILLO,"...They look like they're having fun, but I think the two of them are really feeling the pressure.","...Похоже, им весело, но, думаю, они оба правда чувствуют давление.",translated,98
+vntext.sq#64890,vntext.sq,SAMCAMARILLO,Me?,Я?,translated,3
+vntext.sq#64891,vntext.sq,SAMCAMARILLO,Haha... I'm just some guy who takes pictures and writes the occasional article for fashion magazines.,"Хаха... я просто парень, который делает фотографии и иногда пишет статьи для модных журналов.",translated,101
+vntext.sq#64892,vntext.sq,SAMCAMARILLO,...,...,translated,3
+vntext.sq#64893,vntext.sq,SAMCAMARILLO,"And I'm here to support ADSTACY, of course.","И я здесь, чтобы поддержать ADSTACY, конечно.",translated,43
+vntext.sq#64896,vntext.sq,SAMCAMARILLO,"It's nothing compared to what Adam and Stacy have to go through... After all, I'm mostly a private citizen...","Это ничто по сравнению с тем, через что приходится проходить Адаму и Стейси... В конце концов, я по большей части обычный гражданин...",translated,109
+vntext.sq#64897,vntext.sq,SAMCAMARILLO,"Anyway, the crowd's almost gone. I'm sure they're ready to take a break.","В любом случае, толпа почти разошлась. Уверен, они готовы сделать перерыв.",translated,72
+vntext.sq#64912,vntext.sq,SAMCAMARILLO,I suppose I should.,"Наверное, стоит.",translated,19
+vntext.sq#64913,vntext.sq,SAMCAMARILLO,"Hey there, you two.",Привет вам обоим.,translated,19
+vntext.sq#64916,vntext.sq,SAMCAMARILLO,"Come on, Stacy. I promise not to do anything scandalous.","Да ладно, Стейси. Обещаю не устраивать никаких скандалов.",translated,56
+vntext.sq#64923,vntext.sq,SAMCAMARILLO,I think that means we're done for the day. How about some food? I brought sushi—,"Думаю, это значит, на сегодня всё. Как насчёт поесть? Я принёс суши—",translated,80
+vntext.sq#64938,vntext.sq,SAMCAMARILLO,Anyone wants something from Starducks? I'm thinking of getting a cold brew.,Кто-нибудь хочет что-то из Стардакс? Я думаю взять колд брю.,translated,75
+vntext.sq#64952,vntext.sq,SAMCAMARILLO,"Well, I'll leave you two to it.","Что ж, оставлю вас двоих наедине с этим.",translated,31
+vntext.sq#65005,vntext.sq,SAMCAMARILLO,Uh... is this a bad time?,Эм... сейчас неподходящее время?,translated,25
+vntext.sq#65009,vntext.sq,SAMCAMARILLO,I should probably leave...,"Наверное, мне лучше уйти...",translated,26
+vntext.sq#65029,vntext.sq,SAMCAMARILLO,"Absolutely. In fact, I was wondering if maybe you should consider taking up acting.","Абсолютно. Вообще, я подумал, может, тебе стоит заняться актёрством.",translated,83
+vntext.sq#65035,vntext.sq,SAMCAMARILLO,"Calm down, everyone. Look, there's no one here but us. The shop has been closed for a while now.","Успокойтесь все. Смотрите, здесь никого нет, кроме нас. Магазин уже давно закрыт.",translated,96
+vntext.sq#65039,vntext.sq,SAMCAMARILLO,"I’ll go with you, babe.","Я пойду с тобой, детка.",translated,23
+vntext.sq#65230,vntext.sq,SAMCAMARILLO,How about a picture? I have my camera right here.,Как насчёт фотографии? У меня как раз с собой камера.,translated,49
+vntext.sq#65233,vntext.sq,SAMCAMARILLO,"What are you talking about? You're going to be in the photo too, {$mcName}.","О чём ты говоришь? Ты тоже будешь на фото, {$mcName}.",translated,75
+vntext.sq#65247,vntext.sq,SAMCAMARILLO,"It's fine, you get used to it.","Всё нормально, привыкаешь со временем.",translated,30
+vntext.sq#65248,vntext.sq,SAMCAMARILLO,"... And this is a pretty cute photo, if I do say so myself.","... И это довольно милое фото, смею сказать.",translated,59
+vntext.sq#65265,vntext.sq,SAMCAMARILLO,"Okay, this time I'm going to take everyone's pictures... I won't take no for an answer!","Ладно, в этот раз я сфотографирую всех... не приму отказа!",translated,87
+vntext.sq#65267,vntext.sq,SAMCAMARILLO,... I'm not sure I'm up for running...,"... Не уверена, что готова к забегу...",translated,38
+vntext.sq#65273,vntext.sq,SAMCAMARILLO,"Three, two, one!","Три, два, один!",translated,16
+vntext.sq#69221,vntext.sq,SAMCAMARILLO,I'm pretty sure this donut's supposed to have glaze...,"Довольно уверен, что на этом пончике должна быть глазурь...",translated,54
+vntext.sq#69223,vntext.sq,SAMCAMARILLO,I don’t recall asking for this glaze.,"Не припомню, чтобы просил эту глазурь.",translated,37
+vntext.sq#69225,vntext.sq,SAMCAMARILLO,"You might have tried adding a bit more glaze, {$mcName}.","Мог бы попробовать добавить чуть больше глазури, {$mcName}.",translated,56
+vntext.sq#69227,vntext.sq,SAMCAMARILLO,...What happened to the toppings?,...Что случилось с топпингами?,translated,33
+vntext.sq#69229,vntext.sq,SAMCAMARILLO,Uh... I think you made a mistake with my toppings.,"Эм... кажется, ты ошибся с моими топпингами.",translated,50
+vntext.sq#69231,vntext.sq,SAMCAMARILLO,This donut looks a bit sad... are you running low on toppings?,Этот пончик выглядит немного грустно... у тебя заканчиваются топпинги?,translated,62
+vntext.sq#69233,vntext.sq,SAMCAMARILLO,...Wasn't this supposed to have drizzle?,...Разве тут не должно быть потёков?,translated,40
+vntext.sq#69235,vntext.sq,SAMCAMARILLO,"This is not the drizzle I wanted, {$mcName}.","Это не те потёки, что я хотел, {$mcName}.",translated,44
+vntext.sq#69237,vntext.sq,SAMCAMARILLO,"Hey, uh... don't you think you could've added a bit more drizzle?","Эй, эм... не думаешь, что мог бы добавить чуть больше потёков?",translated,65
+vntext.sq#69239,vntext.sq,SAMCAMARILLO,Huh. There's nothing inside. How odd.,Хм. Внутри ничего нет. Как странно.,translated,37
+vntext.sq#69241,vntext.sq,SAMCAMARILLO,That was not the filling flavor I was expecting at all.,"Это совсем не тот вкус начинки, что я ожидал.",translated,55
+vntext.sq#69243,vntext.sq,SAMCAMARILLO,So is this donut's concept... Dadaist?,Так концепция этого пончика... дадаизм?,translated,38
+vntext.sq#69245,vntext.sq,SAMCAMARILLO,"Hm. As much as I appreciate the thought, I didn't want this much on my donut.","Хм. Как бы я ни ценил задумку, я не хотел столько на своём пончике.",translated,77
+vntext.sq#69249,vntext.sq,SAMCAMARILLO,"So, uh, what happened to the glaze?","Так, эм, что случилось с глазурью?",translated,35
+vntext.sq#69251,vntext.sq,SAMCAMARILLO,Did you want me to try this glaze? Cos I'm sure I didn't ask for [i] this [/i] donut...,"Хотел, чтобы я попробовал эту глазурь? Потому что уверен, я не просил [i] такой [/i] пончик...",translated,87
+vntext.sq#69253,vntext.sq,SAMCAMARILLO,"Not running low on glaze, are you?",У тебя же не заканчивается глазурь?,translated,34
+vntext.sq#69255,vntext.sq,SAMCAMARILLO,I'm very sure I wanted toppings on my donut.,"Очень уверен, что хотел топпинги на своём пончике.",translated,44
+vntext.sq#69257,vntext.sq,SAMCAMARILLO,"...Those toppings don't look right to me, {$mcName}.","...Эти топпинги мне кажутся неправильными, {$mcName}.",translated,52
+vntext.sq#69259,vntext.sq,SAMCAMARILLO,Really wish you added a bit more toppings...,"Правда жаль, что ты не добавил чуть больше топпингов...",translated,44
+vntext.sq#69261,vntext.sq,SAMCAMARILLO,"Wait a minute, where's the drizzle?","Погоди-ка, где потёки?",translated,35
+vntext.sq#69263,vntext.sq,SAMCAMARILLO,"You got the drizzle wrong, {$mcName}.","Ты перепутал потёки, {$mcName}.",translated,37
+vntext.sq#69265,vntext.sq,SAMCAMARILLO,This drizzle's kinda sad. Can you add a bit more next time?,Эти потёки какие-то грустные. Можешь добавить чуть больше в следующий раз?,translated,59
+vntext.sq#69267,vntext.sq,SAMCAMARILLO,...Pretty sure I asked for filling.,"...Довольно уверен, что просил начинку.",translated,35
+vntext.sq#69269,vntext.sq,SAMCAMARILLO,"Nope, this is absolutely not the right filling.","Не-а, это совершенно не та начинка.",translated,47
+vntext.sq#69271,vntext.sq,SAMCAMARILLO,"Hey, this isn't some sort of prank, is it? This donut looks... awful.","Эй, это же не какой-то розыгрыш? Этот пончик выглядит... ужасно.",translated,69
+vntext.sq#69273,vntext.sq,SAMCAMARILLO,"I'm not sure why you added all this, {$mcName}... somehow feels like I owe you one now, and I didn't even ask for it...","Не уверен, зачем ты добавил всё это, {$mcName}... почему-то чувствую себя должным теперь, а я даже не просил этого...",translated,119
+vntext.sq#69277,vntext.sq,SAMCAMARILLO,"Looks like you forgot to add the glaze, {$mcName}.","Похоже, ты забыл добавить глазурь, {$mcName}.",translated,50
+vntext.sq#69279,vntext.sq,SAMCAMARILLO,...Why did you change the glaze I asked for?,"...Почему ты поменял глазурь, что я просил?",translated,44
+vntext.sq#69281,vntext.sq,SAMCAMARILLO,Would've appreciated something with more glaze...,Был бы признателен за что-то с бо́льшим количеством глазури...,translated,49
+vntext.sq#69283,vntext.sq,SAMCAMARILLO,My order had toppings...,В моём заказе были топпинги...,translated,24
+vntext.sq#69285,vntext.sq,SAMCAMARILLO,I recall asking for different toppings.,"Помню, просил другие топпинги.",translated,39
+vntext.sq#69287,vntext.sq,SAMCAMARILLO,"Try adding a bit more toppings next time, {$mcName}.","Попробуй добавить чуть больше топпингов в следующий раз, {$mcName}.",translated,52
+vntext.sq#69289,vntext.sq,SAMCAMARILLO,"Please check my order. I asked for drizzle, didn't I?","Пожалуйста, проверь мой заказ. Я же просил потёки, разве нет?",translated,53
+vntext.sq#69291,vntext.sq,SAMCAMARILLO,...Why did you use this drizzle instead? Something wrong with the one I wanted?,"...Почему ты использовал эти потёки вместо тех? Что-то не так с теми, что я хотел?",translated,79
+vntext.sq#69293,vntext.sq,SAMCAMARILLO,"Not a good look to skimp out on drizzle, {$mcName}.","Не очень хорошо скупиться на потёки, {$mcName}.",translated,51
+vntext.sq#69295,vntext.sq,SAMCAMARILLO,...Didn't I order something with filling?,...Разве я не заказывал что-то с начинкой?,translated,41
+vntext.sq#69297,vntext.sq,SAMCAMARILLO,Now I'm pretty sure this is not the filling I wanted.,"Теперь я довольно уверен, что это не та начинка, что я хотел.",translated,53
+vntext.sq#69299,vntext.sq,SAMCAMARILLO,"Uh... I'm not one to impose my aesthetic preferences onto other people, but I gotta be blunt — this donut's [i] really [/i] ugly.","Эм... я не из тех, кто навязывает другим свои эстетические предпочтения, но скажу прямо — этот пончик [i] правда [/i] уродлив.",translated,129
+vntext.sq#69301,vntext.sq,SAMCAMARILLO,Hm. Aren't you gonna lose money by adding things I didn't ask for?,"Хм. Разве ты не потеряешь деньги, добавляя то, чего я не просил?",translated,66
+vntext.sq#69303,vntext.sq,SAMCAMARILLO,"Not the donut shape I asked for, {$mcName}.","Не та форма пончика, что я просил, {$mcName}.",translated,43
+vntext.sq#69304,vntext.sq,SAMCAMARILLO,But that's all right. What matters is the bigger... [i] picture. [/i],Но это ничего. Главное — общая... [i] картина. [/i],translated,69

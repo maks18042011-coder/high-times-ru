@@ -1,0 +1,464 @@
+id,file,context,source,target,status,max_len
+vntext.sq#14248,vntext.sq,DOUCHEBAG,"Hey there, girlies! Couldn't help but notice the cheerleading uniform.","Привет, девчонки! Не мог не заметить форму чирлидерш.",translated,70
+vntext.sq#14249,vntext.sq,DOUCHEBAG,"Gotta say, big fan! Games just wouldn't be the same without the eye-candy you bring!","Должен сказать, большой поклонник! Матчи были бы не те без такой красоты для глаз!",translated,84
+vntext.sq#14250,vntext.sq,DOUCHEBAG,Nothing like a bunch of hotties to hype the crowd up for the real stars. You guys're doing god's sweet work.,"Ничто так не разогревает толпу перед настоящими звёздами, как кучка красоток. Вы делаете богоугодное дело.",translated,108
+vntext.sq#14258,vntext.sq,DOUCHEBAG,"Ummm, errrr...","Эм-м, э-э...",translated,14
+vntext.sq#14262,vntext.sq,DOUCHEBAG,"Well, I — errr.","Ну, я — э-э.",translated,15
+vntext.sq#14271,vntext.sq,DOUCHEBAG,"Whoa, whoa, okay then, I'll... I'll just take a seat over there for now.","Так, так, ладно, я... я, пожалуй, пока присяду вон там.",translated,72
+vntext.sq#21632,vntext.sq,DOUCHEBAG,I feel pretty good! Like I'm in the middle of my late-night jogging sessions... my brain runs on auto and it's a {$moodset:chill} time!,"Чувствую себя отлично! Прямо как в разгаре моих ночных пробежек... мозг работает на автомате, и это {$moodset:chill} времечко!",translated,135
+vntext.sq#21633,vntext.sq,DOUCHEBAG,Hm. Not a bad donut for hEctic mEEtings.,Хм. Неплохой пончик для суЕтливых встрЕч.,translated,40
+vntext.sq#21634,vntext.sq,DOUCHEBAG,Hehehe! I feel like I just signed on a hella deal!!,"Хехехе! Такое чувство, будто я только что заключил охренительную сделку!!",translated,51
+vntext.sq#21635,vntext.sq,DOUCHEBAG,"If you're not doing ten different things at once, then what are you even doing?!","Если ты не делаешь десять дел одновременно, то что ты вообще делаешь?!",translated,80
+vntext.sq#21636,vntext.sq,DOUCHEBAG,How do I get bigger than Mr. Animal? I think this donut has helped me figure it out!,"Как мне стать больше, чем мистер Энимал? Кажется, этот пончик помог мне это понять!",translated,84
+vntext.sq#21637,vntext.sq,DOUCHEBAG,I feel like I can do anything! Maybe I'll even schedule that pedicure appointment!,"Чувствую, что мне по силам всё! Может, даже запишусь на тот педикюр!",translated,82
+vntext.sq#21638,vntext.sq,DOUCHEBAG,"Oh, I'm feeling these emotions! I have thoughts I wanna share!","Ох, я чувствую эти эмоции! У меня есть мысли, которыми хочу поделиться!",translated,62
+vntext.sq#21639,vntext.sq,DOUCHEBAG,"I can do five different things at once on this donut! And lemme tell you, I was never that good at multi-tasking!","На этом пончике я могу делать пять дел одновременно! А поверь, многозадачность никогда не была моей сильной стороной!",translated,113
+vntext.sq#21640,vntext.sq,DOUCHEBAG,Aw... I'm feeling this sOftness inside me... A certain lOnging...,Ах... Я чувствую внутри такую мягкОсть... Какую-то тОску...,translated,65
+vntext.sq#21642,vntext.sq,DOUCHEBAG,"Hahaha! That's right, one alpha donut for an alpha man!",Хахаха! Именно! Один альфа-пончик для альфа-самца!,translated,55
+vntext.sq#21643,vntext.sq,DOUCHEBAG,"...Not bad. But I don't think you have reached your full potential here, Mood Boss.","...Неплохо. Но не думаю, что ты раскрыл весь потенциал, Босс настроения.",translated,83
+vntext.sq#21644,vntext.sq,DOUCHEBAG,"...Hey, Mood Boss. This can't be my order.","...Эй, Босс настроения. Это не может быть мой заказ.",translated,42
+vntext.sq#21645,vntext.sq,DOUCHEBAG,"Later, don't be a hater.","Покеда, не будь занудой.",translated,24
+vntext.sq#21648,vntext.sq,DOUCHEBAG,"Aw, thanks!","О, спасибо!",translated,11
+vntext.sq#21656,vntext.sq,DOUCHEBAG,"Heh, honestly I don't remember the last time I took a break!","Хех, если честно, не помню, когда последний раз отдыхал!",translated,60
+vntext.sq#21657,vntext.sq,DOUCHEBAG,"I'm feeling hellA ${cAlm}, Mood Boss. Is this what people talk about when they talk about zen?","Я чувствую себя охрененно ${cAlm}, Босс настроения. Это то, о чём говорят, когда говорят про дзен?",translated,94
+vntext.sq#21658,vntext.sq,DOUCHEBAG,This is exactly how I felt back when I broke ten views on my stream!,"Именно так я себя чувствовал, когда набрал десять просмотров на стриме!",translated,68
+vntext.sq#21659,vntext.sq,DOUCHEBAG,I feel like I can work 50-hour days! I'll just pull the hours from somewhere!,"Чувствую, что могу работать по 50 часов в сутки! Просто найду часы откуда-нибудь!",translated,77
+vntext.sq#21660,vntext.sq,DOUCHEBAG,"Oh I'm getting this Urge to do something... make use of these Genius Ideas in my head, you get me?","Ох, меня прям тянет что-то сделать... воплотить эти Гениальные Идеи в голове, понимаешь?",translated,98
+vntext.sq#21661,vntext.sq,DOUCHEBAG,"Uh-oh, this is making me feel like buying some stOcks! Hehehee...","Ой-ой, меня прямо тянет накупить каких-нибудь акцИй! Хехехее...",translated,65
+vntext.sq#21662,vntext.sq,DOUCHEBAG,This donut broke into my house and told me I need to be true to myself!,"Этот пончик вломился ко мне домой и сказал, что нужно быть честным с собой!",translated,71
+vntext.sq#21663,vntext.sq,DOUCHEBAG,Yooo! I feel like my KPI just rose by 100%!,"Йоуу! Такое чувство, будто мой KPI взлетел на 100%!",translated,43
+vntext.sq#21664,vntext.sq,DOUCHEBAG,This donut made me remember my Ma... A great woman! Built a crochet empire and retired to a beach town with a girl just slightly older than me!,Этот пончик напомнил мне о маме... Великая женщина! Построила вязальную империю и уехала на пенсию в приморский городок с девушкой чуть постарше меня!,translated,143
+vntext.sq#21665,vntext.sq,DOUCHEBAG,"A donut with no moOd enhancers, huh? Reminds me of my very intense but short-lived obsession with boiled chicken. Ah, those were the days!","Пончик без усилителей настрОения, значит? Напоминает о моей очень бурной, но короткой одержимости варёной курицей. Эх, были времена!",translated,138
+vntext.sq#21666,vntext.sq,DOUCHEBAG,"...You're doing me a real solid — serving me the real deals, 100 percent! Gimme a high five, little buddy!","...Ты реально меня выручаешь — подаёшь всё по-настоящему, на все сто! Дай пять, дружище!",translated,106
+vntext.sq#21667,vntext.sq,DOUCHEBAG,...Pretty good! But I know you can do better!,"...Довольно неплохо! Но я знаю, ты можешь лучше!",translated,45
+vntext.sq#21668,vntext.sq,DOUCHEBAG,"...Mood Boss, this mix-up... this little mistake is gonna affect my prOductivity for tonight, for sure!","...Босс настроения, эта путаница... эта мелкая ошибка точно скажется на моей продуктИвности сегодня вечером!",translated,103
+vntext.sq#21669,vntext.sq,DOUCHEBAG,"Gonna go end this night by doing some last minute workouts, gotta maintain my rock-hard abs!","Закончу вечер парой тренировок в последний момент, надо поддерживать железный пресс!",translated,92
+vntext.sq#54607,vntext.sq,DOUCHEBAG,"Hold on to your pAnts! There's an AlphA in the house! That's three capital As, baby!","Держите штАны! В доме АльфА! Это три большие А, детка!",translated,84
+vntext.sq#54609,vntext.sq,DOUCHEBAG,"Hehe, I've got my wAys, baby.","Хехе, у меня свои спОсобы, детка.",translated,29
+vntext.sq#54610,vntext.sq,DOUCHEBAG,I might even share if you ask nicely~,"Может даже поделюсь, если попросишь вежливо~",translated,37
+vntext.sq#54613,vntext.sq,DOUCHEBAG,"Well! I can think of a few things, if you catch my drift!","Ну! Могу придумать пару вариантов, если понимаешь, о чём я!",translated,57
+vntext.sq#54615,vntext.sq,DOUCHEBAG,AND! I'm... I'm totally here because [i] my [/i] girlfriend wanted some donuts.,И! Я... Я вообще-то тут потому что [i] моя [/i] девушка захотела пончиков.,translated,79
+vntext.sq#54617,vntext.sq,DOUCHEBAG,They're not for me! I'm a steak man through and through!,Они не для меня! Я стейк-мужик до мозга костей!,translated,56
+vntext.sq#54618,vntext.sq,DOUCHEBAG,Just beef and salt for your mAn! But my girl... she's got a bit of sweet tooth.,Только говядина и соль для настоящего мужикА! А вот у моей девушки... слабость к сладкому.,translated,79
+vntext.sq#54627,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54628,vntext.sq,DOUCHEBAG,"I just wanted to make things cleAr, you know?","Просто хотел прояснИть ситуацию, понимаешь?",translated,45
+vntext.sq#54630,vntext.sq,DOUCHEBAG,"Uh, lemme think...","Э, дай подумать...",translated,18
+vntext.sq#54632,vntext.sq,DOUCHEBAG,N-No way.,Н-ни за что.,translated,9
+vntext.sq#54634,vntext.sq,DOUCHEBAG,"I-I mean! Uh, yeah, she does. Loves swEets.","Т-то есть! Э, ну да, любит. Обожает сладЕнькое.",translated,43
+vntext.sq#54635,vntext.sq,DOUCHEBAG,With a capital E baby!,"С большой Е, детка!",translated,22
+vntext.sq#54638,vntext.sq,DOUCHEBAG,I-It's for my girlfriend. I just told you... You need to pay attention to your customers.,Э-это для моей девушки. Я же сказал... Тебе нужно внимательнее слушать клиентов.,translated,89
+vntext.sq#54639,vntext.sq,DOUCHEBAG,"You ever see huntErs enjoying swEEts? No way, JosE!","Ты видел, чтобы охотнИки ели слАдЕнькое? Ну уж нЕт!",translated,51
+vntext.sq#54640,vntext.sq,DOUCHEBAG,It's all about the juicy mEat!,Всё дело в сочном мЯсе!,translated,30
+vntext.sq#54642,vntext.sq,DOUCHEBAG,Th-That's different from donuts!,"Э-это совсем другое, не то что пончики!",translated,32
+vntext.sq#54644,vntext.sq,DOUCHEBAG,Y-Yes. My girlfriend. Not me.,Д-да. Моя девушка. Не я.,translated,29
+vntext.sq#54658,vntext.sq,DOUCHEBAG,"Cool... Uh. Mind if I try it out here? Have a little bite just to make sure, you know?","Круто... Э. Не против, если я тут попробую? Откушу разок, чтоб убедиться, ну ты понимаешь?",translated,86
+vntext.sq#54660,vntext.sq,DOUCHEBAG,"Ahem. It's my girlfriend's. But I gotta make sure it tastes good, you know?","Кхм. Это пончик моей девушки. Но мне нужно убедиться, что он вкусный, понимаешь?",translated,75
+vntext.sq#54662,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54664,vntext.sq,DOUCHEBAG,"...Not gonnA lie, I'm not sure that's edible.","...Не буду врАть, не уверен, что это вообще съедобно.",translated,45
+vntext.sq#54666,vntext.sq,DOUCHEBAG,You trying to tell me something?,Пытаешься мне что-то сказать?,translated,32
+vntext.sq#54668,vntext.sq,DOUCHEBAG,Nice!,Класс!,translated,5
+vntext.sq#54670,vntext.sq,DOUCHEBAG,"Okay, yeah, that hits the spot! That {$flavors:vanilla_sky} is nice and light!","Так, да, вот это то что надо! Этот {$flavors:vanilla_sky} лёгкий и приятный!",translated,78
+vntext.sq#54671,vntext.sq,DOUCHEBAG,...Totally manly. Uh.,...Совсем по-мужски. Э.,translated,21
+vntext.sq#54672,vntext.sq,DOUCHEBAG,Ahem...,Кхм...,translated,7
+vntext.sq#54673,vntext.sq,DOUCHEBAG,"Oh, this donut! And this level of ${sweetness}! You really know your stuff!","О, этот пончик! И этот уровень ${sweetness}! Ты реально шаришь!",translated,75
+vntext.sq#54674,vntext.sq,DOUCHEBAG,I should drop by more often!,Надо заходить почаще!,translated,28
+vntext.sq#54675,vntext.sq,DOUCHEBAG,...Ahem. For my girlfriend. Of course.,...Кхм. Для моей девушки. Конечно.,translated,38
+vntext.sq#54676,vntext.sq,DOUCHEBAG,Not bad! Not bad at all!,Неплохо! Совсем неплохо!,translated,24
+vntext.sq#54677,vntext.sq,DOUCHEBAG,This kind of flavor can get so tart if people don't know what they're doing. But this has an amazing balance!,"Такой вкус легко испортить кислинкой, если не знать меры. Но тут баланс что надо!",translated,109
+vntext.sq#54678,vntext.sq,DOUCHEBAG,...Ahem. Not that I know much.,...Кхм. Не то чтобы я много знаю об этом.,translated,30
+vntext.sq#54679,vntext.sq,DOUCHEBAG,I just... learned a lot from my girlfriend.,Просто... многому научился у своей девушки.,translated,43
+vntext.sq#54680,vntext.sq,DOUCHEBAG,{$flavors:pumpketamine} is so underrated! But that ${sweetness} is just right for me. Not too overpowering.,"{$flavors:pumpketamine} незаслуженно недооценён! А эта ${sweetness} прямо в точку. В меру, не перебор.",translated,107
+vntext.sq#54681,vntext.sq,DOUCHEBAG,...Which is exactly what my girlfriend wants.,"...Как раз то, что нужно моей девушке.",translated,45
+vntext.sq#54683,vntext.sq,DOUCHEBAG,"Yooo! ${ChocolAte} isn't bad, but you guys have the {$tastes:bitter} stuff.","Йоу! ${ChocolAte} неплох, но у вас тут ещё есть что-то {$tastes:bitter}.",translated,75
+vntext.sq#54684,vntext.sq,DOUCHEBAG,"I like— I mean, my girlfriend likes her {$flavors:chococaine} to be ${sweeter}.","Мне нра— то есть, моя девушка любит, чтобы её {$flavors:chococaine} был ${sweeter}.",translated,79
+vntext.sq#54685,vntext.sq,DOUCHEBAG,What part of {$flavors:lemon_acid} is {$tastes:sweet}? Blegh!,Что в {$flavors:lemon_acid} вообще {$tastes:sweet}? Бее!,translated,61
+vntext.sq#54686,vntext.sq,DOUCHEBAG,This is too {$tastes:bitter} for me! Blegh!,Это слишком {$tastes:bitter} для меня! Бее!,translated,43
+vntext.sq#54687,vntext.sq,DOUCHEBAG,Ahem. I'm sure my girlfriend wouldn't like it.,"Кхм. Уверен, моей девушке бы не понравилось.",translated,46
+vntext.sq#54688,vntext.sq,DOUCHEBAG,This isn't bad... but I wanted more ${sweetness} and less tart.,Не то чтобы плохо... но я хотел больше ${sweetness} и меньше кислинки.,translated,63
+vntext.sq#54689,vntext.sq,DOUCHEBAG,I just wanted something {$tastes:sweet} tonight...,Просто хотел чего-то {$tastes:sweet} сегодня...,translated,50
+vntext.sq#54690,vntext.sq,DOUCHEBAG,"I mean, for my girlfriend. And this really isn't {$tastes:sweet} enough.","То есть, для моей девушки. И это правда недостаточно {$tastes:sweet}.",translated,72
+vntext.sq#54691,vntext.sq,DOUCHEBAG,I knew this was the place to be! I — ahem — me and my girlfriend will keep coming back!,"Я знал, что это то самое место! Мы — кхм — я и моя девушка будем сюда возвращаться!",translated,87
+vntext.sq#54692,vntext.sq,DOUCHEBAG,"Thanks, Mood Boss!","Спасибо, Босс настроения!",translated,18
+vntext.sq#54693,vntext.sq,DOUCHEBAG,Hm... I think that donut has potential. I guess it won't hurt to come again and try other things...,"Хм... По-моему, у этого пончика есть потенциал. Пожалуй, не помешает зайти ещё раз и попробовать что-то ещё...",translated,99
+vntext.sq#54694,vntext.sq,DOUCHEBAG,I'm definitely gonna come back next time. Hopefully I can try a good donut by then!,"Я точно вернусь в следующий раз. Надеюсь, тогда попробую хороший пончик!",translated,83
+vntext.sq#54695,vntext.sq,DOUCHEBAG,"My girlfriend's gonna go hungry, Mood Boss!","Моя девушка останется голодной, Босс настроения!",translated,43
+vntext.sq#54696,vntext.sq,DOUCHEBAG,"Gotta go, but don't miss me too much okay?","Мне пора, но не скучай слишком сильно, ладно?",translated,42
+vntext.sq#54703,vntext.sq,DOUCHEBAG,"Hey there, Mood Boss.","Привет, Босс настроения.",translated,21
+vntext.sq#54707,vntext.sq,DOUCHEBAG,...Good with a capital E!,...Всё хорошЕнько! С большой Е!,translated,25
+vntext.sq#54708,vntext.sq,DOUCHEBAG,I've just been... busy at work.,Просто был... занят на работе.,translated,31
+vntext.sq#54710,vntext.sq,DOUCHEBAG,"Heh, I know what you're thinking.","Хех, я знаю, о чём ты думаешь.",translated,33
+vntext.sq#54711,vntext.sq,DOUCHEBAG,A guy like me... I should be out there... hunting my own food... proving the majesty of my brawn!,Такой парень как я... должен быть где-то там... охотиться на свою еду... доказывать величие своей мощи!,translated,97
+vntext.sq#54713,vntext.sq,DOUCHEBAG,But the world of business is honestly just as dangerous!,"Но мир бизнеса, если честно, не менее опасен!",translated,56
+vntext.sq#54715,vntext.sq,DOUCHEBAG,"A guy's gotta prove himself, you know? I need to show the people in my office who's the real top of the pAck. With a capital P!","Нужно показать людям в офисе, кто тут настоящий вожAк. С большой П!",translated,127
+vntext.sq#54717,vntext.sq,DOUCHEBAG,I bend for no one!!!,Я не гнусь ни перед кем!!!,translated,20
+vntext.sq#54719,vntext.sq,DOUCHEBAG,"You're acting like you're not part of it all, Mood Boss.","Ты ведёшь себя так, будто ты сам не часть всего этого, Босс настроения.",translated,56
+vntext.sq#54721,vntext.sq,DOUCHEBAG,You can't just sit here and let everyone leave you behind.,Нельзя просто сидеть тут и позволять всем себя обгонять.,translated,58
+vntext.sq#54722,vntext.sq,DOUCHEBAG,"This is a dog-eat-dog world. With that kind of attitude, you'll never get anywhere.","Это мир, где выживает сильнейший. С таким отношением ты никуда не пробьёшься.",translated,83
+vntext.sq#54724,vntext.sq,DOUCHEBAG,Me? I wake up at four in the morning just so I can do my workout before my one-hour jog.,"Я? Я встаю в четыре утра, чтобы успеть потренироваться перед часовой пробежкой.",translated,88
+vntext.sq#54726,vntext.sq,DOUCHEBAG,A healthy body and a healthy mind is key to optimizing your work!,Здоровое тело и здоровый разум — ключ к оптимизации работы!,translated,65
+vntext.sq#54727,vntext.sq,DOUCHEBAG,And I'm pretty sure I'm gonna get that Promotion soon. Heh!,"И я почти уверен, что скоро получу это Повышение. Хех!",translated,59
+vntext.sq#54735,vntext.sq,DOUCHEBAG,Hell yeah! Exactly why I came here!,Ещё бы! Именно за этим я и пришёл!,translated,35
+vntext.sq#54736,vntext.sq,DOUCHEBAG,"Uh, my girlfriend is waiting!","Э, меня девушка ждёт!",translated,29
+vntext.sq#54739,vntext.sq,DOUCHEBAG,"You talk like you got a choice, Mood Boss.","Ты говоришь так, будто у тебя есть выбор, Босс настроения.",translated,42
+vntext.sq#54740,vntext.sq,DOUCHEBAG,This is the [i] real [/i] world and we all gotta play by the rulEs.,"Это [i] реальный [/i] мир, и всем нам приходится играть по правилам.",translated,67
+vntext.sq#54741,vntext.sq,DOUCHEBAG,And there's no single you in rules.,"И заметь, в 'правилах' нет места одиночке.",translated,35
+vntext.sq#54743,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54744,vntext.sq,DOUCHEBAG,You know what I mean.,"Ты понял, о чём я.",translated,21
+vntext.sq#54747,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54748,vntext.sq,DOUCHEBAG,We all got our jobs... huh...,У всех нас свои задачи... хех...,translated,29
+vntext.sq#54750,vntext.sq,DOUCHEBAG,Yeah! I'm here for that sweet mood-enhanced Boost!,Ага! Я пришёл за тем сладким Бустом настроения!,translated,50
+vntext.sq#54751,vntext.sq,DOUCHEBAG,"This time, I'm not messing around with any of those cutesy sweet stuff! I'm here for businEss!",На этот раз никаких там миленьких сладостей! Я пришёл по дЕлу!,translated,94
+vntext.sq#54758,vntext.sq,DOUCHEBAG,NicE!,КрутЕ!,translated,5
+vntext.sq#54760,vntext.sq,DOUCHEBAG,"Huh. Uh... I don't know what to say about this, Mood Boss.","Хм. Э... Не знаю, что сказать на это, Босс настроения.",translated,58
+vntext.sq#54761,vntext.sq,DOUCHEBAG,Looks like some kinda failed experiment. I'm not gonna invest in that.,Похоже на какой-то неудавшийся эксперимент. Я в это вкладываться не буду.,translated,70
+vntext.sq#54764,vntext.sq,DOUCHEBAG,Heey! Okay.,Эй! Ладно.,translated,11
+vntext.sq#54766,vntext.sq,DOUCHEBAG,Now thAt's whAt I'm tAlking About!,ВОт Это я понимАю!,translated,34
+vntext.sq#54767,vntext.sq,DOUCHEBAG,"You brought your A game tonight, Mood Boss!","Ты сегодня в ударе, Босс настроения!",translated,43
+vntext.sq#54768,vntext.sq,DOUCHEBAG,I feel like I'm ready to work 72 hours tonight.,"Такое чувство, что готов пахать 72 часа без остановки.",translated,47
+vntext.sq#54770,vntext.sq,DOUCHEBAG,I'll make it possible!,Я сделаю это возможным!,translated,22
+vntext.sq#54773,vntext.sq,DOUCHEBAG,Oh! I'm feeling the rush! I feel the need to prove myself! Woohooo!!,"О! Чувствую прилив! Чувствую, что должен себя доказать! Вухуу!!",translated,68
+vntext.sq#54774,vntext.sq,DOUCHEBAG,Hey hey! I'm getting some value-adding optimization ideas! This stuff is future proof or I'll eat my fanny pack!,"Эй-эй! У меня появляются идеи по оптимизации с добавленной ценностью! Это всё рассчитано на будущее, а если нет — съем свою поясную сумку!",translated,112
+vntext.sq#54775,vntext.sq,DOUCHEBAG,Huh... Now I'm feeling sleepy... that can't be right.,Хм... А теперь меня клонит в сон... это неправильно.,translated,53
+vntext.sq#54776,vntext.sq,DOUCHEBAG,"...Hm, if I wait and let the market do it's thing... that will really show that long-term investments have better payoff.","...Хм, если подождать и дать рынку сделать своё дело... это докажет, что долгосрочные вложения окупаются лучше.",translated,121
+vntext.sq#54777,vntext.sq,DOUCHEBAG,"Hm... I... I miss the days when I could stay up for a whole week. PowErEd by EnErgy drinks, baby!!","Хм... Я... скучаю по временам, когда мог не спать неделю. На энЕргЕтиках, детка!!",translated,98
+vntext.sq#54778,vntext.sq,DOUCHEBAG,Actually... I'm not sure if I'm the type that does well in the rat race —,"Вообще-то... не уверен, что я из тех, кто хорош в этой крысиной гонке —",translated,73
+vntext.sq#54779,vntext.sq,DOUCHEBAG,Whoa whoa! What am I saying?? Scratch that!,"Так, так! Что я вообще несу?? Забудь, что сказал!",translated,43
+vntext.sq#54780,vntext.sq,DOUCHEBAG,Whoa... I'm feeling happy! Hehehe... Money does make me excited.,Ого... мне так хорошо! Хехехе... Деньги правда меня заводят.,translated,64
+vntext.sq#54781,vntext.sq,DOUCHEBAG,"Ho booooy! I'm here and ready to fight for that promotion! And if they say 'no', I'm gonna show them—","Ооо, дааа! Я готов бороться за это повышение! И если скажут 'нет', я им покажу—",translated,101
+vntext.sq#54782,vntext.sq,DOUCHEBAG,"Anyway, that was a high value donut. Keep it up.","В общем, это был пончик высокой ценности. Так держать.",translated,48
+vntext.sq#54783,vntext.sq,DOUCHEBAG,"And now it's High Time™ I left. Still gotta work, you know? Later!","А теперь самое Время™ мне идти. Работа не ждёт, сам понимаешь? Пока!",translated,66
+vntext.sq#54784,vntext.sq,DOUCHEBAG,...Wait... something's wrong. I don't think that's the {$recipe:chocolate_factory} I asked for.,"...Погоди... что-то не так. По-моему, это не тот {$recipe:chocolate_factory}, что я просил.",translated,95
+vntext.sq#54785,vntext.sq,DOUCHEBAG,"I can't say that was a good performance, Mood Boss. But whatever, I'll make do.","Не скажу, что это было выступление на отлично, Босс настроения. Но ладно, обойдусь.",translated,79
+vntext.sq#54786,vntext.sq,DOUCHEBAG,"Anyway, it's time I left this joint. Work's not gonna do itself! Later!","В общем, мне пора отсюда. Работа сама себя не сделает! Пока!",translated,71
+vntext.sq#54787,vntext.sq,DOUCHEBAG,"Anyway, you could've put in a [i] lot [/i] more effort...","В общем, мог бы постараться [i] гораздо [/i] больше...",translated,57
+vntext.sq#54788,vntext.sq,DOUCHEBAG,"But, whatever. It's time I left this joint. Later!","Но ладно, забей. Мне пора отсюда. Пока!",translated,50
+vntext.sq#54792,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54794,vntext.sq,DOUCHEBAG,...Hey. I'm not feeling my best here. This body is not optimized...,...Эй. Не очень я тут в форме. Тело не оптимизировано...,translated,67
+vntext.sq#54795,vntext.sq,DOUCHEBAG,You got something that could help with that?,"Есть что-нибудь, что могло бы помочь?",translated,44
+vntext.sq#54798,vntext.sq,DOUCHEBAG,Uhhh... what do you mean?,Эээ... то есть?,translated,25
+vntext.sq#54801,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54802,vntext.sq,DOUCHEBAG,Hmm... I don't know...,Хм... не знаю...,translated,22
+vntext.sq#54803,vntext.sq,DOUCHEBAG,I mean... I'm not even sure what I need.,"То есть... я даже не уверен, что мне нужно.",translated,40
+vntext.sq#54805,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54806,vntext.sq,DOUCHEBAG,"...You know, last time... you said we all have our own jobs to do? Like how it's your job to make donuts and all that?","...Слушай, в прошлый раз... ты сказал, что у всех нас свои задачи? Типа, твоя работа — делать пончики и всё такое?",translated,118
+vntext.sq#54808,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54818,vntext.sq,DOUCHEBAG,Thanks...,Спасибо...,translated,9
+vntext.sq#54820,vntext.sq,DOUCHEBAG,Yo! What's with this low value donut?,Йоу! Что это за пончик низкой ценности?,translated,37
+vntext.sq#54821,vntext.sq,DOUCHEBAG,"I'm not taking another bite of this, Mood Boss. It's just that bad!","Больше ни куска, Босс настроения. Он просто ужасен!",translated,67
+vntext.sq#54824,vntext.sq,DOUCHEBAG,Uh-huh...,Ага...,translated,9
+vntext.sq#54826,vntext.sq,DOUCHEBAG,...Whoa. Okay. I'm feeling a little tingly here... Not sure I like that.,"...Ого. Так. Что-то у меня тут покалывает... Не уверен, что мне это нравится.",translated,72
+vntext.sq#54828,vntext.sq,DOUCHEBAG,You sure? 'Cause I'm feeling something in my stomach...,Уверен? Потому что у меня что-то в животе творится...,translated,55
+vntext.sq#54829,vntext.sq,DOUCHEBAG,I guess... I feel anxious. Huh.,Кажется... я тревожусь. Хм.,translated,31
+vntext.sq#54830,vntext.sq,DOUCHEBAG,These mood enhancers really work!,Эти усилители настроения реально работают!,translated,33
+vntext.sq#54832,vntext.sq,DOUCHEBAG,Oh! Now I feel like there's a fire in my stomach... a not so welcome one...,"О! Теперь такое чувство, будто в животе пожар... не самый желанный...",translated,75
+vntext.sq#54833,vntext.sq,DOUCHEBAG,Why am I getting ideas? Should I be doing that? I'm not sure I like this...,"Почему у меня появляются идеи? Мне вообще стоит? Не уверен, что мне это нравится...",translated,75
+vntext.sq#54834,vntext.sq,DOUCHEBAG,Uh... my brain... it's Super ${Focused} and I don't think this is what I need right now...,"Э... мой мозг... он супер ${Focused}, и не думаю, что это мне сейчас нужно...",translated,90
+vntext.sq#54835,vntext.sq,DOUCHEBAG,Heeey... I'm feeling... sleepy... not good...,Эээй... меня клонит... в сон... нехорошо...,translated,45
+vntext.sq#54836,vntext.sq,DOUCHEBAG,...Maybe things are gonna be fine. Maybe I'm overthinking.,"...Может, всё будет нормально. Может, я просто накручиваю себя.",translated,58
+vntext.sq#54837,vntext.sq,DOUCHEBAG,"Just gotta stay calm and... wait, I thought I was supposed to open up?","Просто нужно сохранять спокойствие и... погоди, разве я не должен был раскрыться?",translated,70
+vntext.sq#54838,vntext.sq,DOUCHEBAG,"Heh... I wish we could turn back time, you know? But then, I'd still have to live this day all over again...","Хех... хотел бы я повернуть время вспять, знаешь? Но тогда пришлось бы заново прожить этот день...",translated,108
+vntext.sq#54839,vntext.sq,DOUCHEBAG,Heh. I feel better. I feel good!,Хех. Мне уже лучше. Мне хорошо!,translated,32
+vntext.sq#54840,vntext.sq,DOUCHEBAG,...Wait. Is this what I should do? Numb my feelings with {$moods:cheer}?,...Погоди. Так и надо было? Заглушить чувства {$moods:cheer}?,translated,72
+vntext.sq#54841,vntext.sq,DOUCHEBAG,All right! I'm ready for the emotions! Hit me up!!,Отлично! Я готов к эмоциям! Давай!!,translated,50
+vntext.sq#54842,vntext.sq,DOUCHEBAG,"Wait... Uh. I'm feeling fired up, but I wanted something mellow, mOOd bOss! Something more in tune with my inner turmoil!","Погоди... Э. Меня прёт энергией, а я хотел чего-то мягкого, бОсс настрОения! Что-то созвучное моей внутренней буре!",translated,121
+vntext.sq#54844,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54845,vntext.sq,DOUCHEBAG,Well... my girlfriend called me earlier.,Ну... моя девушка мне звонила недавно.,translated,40
+vntext.sq#54846,vntext.sq,DOUCHEBAG,Said she got offered a new job. Chief marketing officer. Got a bunch of teams under her.,"Сказала, ей предложили новую должность. Директор по маркетингу. Куча команд у неё в подчинении.",translated,88
+vntext.sq#54848,vntext.sq,DOUCHEBAG,"Huh? Of course she's real, Mood Boss.","А? Конечно реальная, Босс настроения.",translated,37
+vntext.sq#54849,vntext.sq,DOUCHEBAG,"If she wasn't, I don't know what I'd do!","Если бы нет, не знаю, что бы я делал!",translated,40
+vntext.sq#54851,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54852,vntext.sq,DOUCHEBAG,"...Well, I mean, a guy's allowed to get around!","...Ну, то есть, парню можно погулять!",translated,47
+vntext.sq#54854,vntext.sq,DOUCHEBAG,"Besides, Zoey's raking in the cash! And I know a business OppOrtunity when I see it!","К тому же, Zoey гребёт бабки лопатой! А я узнаю бизнес-вОзмОжность с первого взгляда!",translated,84
+vntext.sq#54856,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54857,vntext.sq,DOUCHEBAG,"That wasn't cOOl, huh?","Это было не крутО, да?",translated,22
+vntext.sq#54859,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54860,vntext.sq,DOUCHEBAG,"This is a lot to digest, Mood Boss.","Это многовато, чтобы переварить, Босс настроения.",translated,35
+vntext.sq#54861,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54864,vntext.sq,DOUCHEBAG,"Yeah. I mean, I know it means a lot to her, but...","Ага. То есть, я знаю, это много для неё значит, но...",translated,50
+vntext.sq#54866,vntext.sq,DOUCHEBAG,I did!,Видела!,translated,6
+vntext.sq#54867,vntext.sq,DOUCHEBAG,...Well... I tried to sound like I mean it.,"...Ну... я постарался, чтобы прозвучало искренне.",translated,43
+vntext.sq#54869,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54870,vntext.sq,DOUCHEBAG,Well... I mean.... now that she's been promoted... she earns more than I do.,Ну... то есть... раз её повысили... она теперь зарабатывает больше меня.,translated,76
+vntext.sq#54876,vntext.sq,DOUCHEBAG,Of course not! That's not it!,Конечно нет! Дело не в этом!,translated,29
+vntext.sq#54877,vntext.sq,DOUCHEBAG,"Well... I mean, what other women earn... that's none of my business, you know?","Ну... то есть, сколько зарабатывают другие женщины — не моё дело, понимаешь?",translated,78
+vntext.sq#54878,vntext.sq,DOUCHEBAG,But I just... I don't know. I feel like I've been left behind.,"Но я просто... не знаю. Такое чувство, будто меня оставили позади.",translated,62
+vntext.sq#54882,vntext.sq,DOUCHEBAG,"Yeah, that's it!","Да, вот именно!",translated,16
+vntext.sq#54883,vntext.sq,DOUCHEBAG,I feel like I've been left behind.,"Такое чувство, что меня оставили позади.",translated,34
+vntext.sq#54884,vntext.sq,DOUCHEBAG,"And man, it feels bAd. With a capital A!","И блин, это ощущается пАршиво. С большой А!",translated,40
+vntext.sq#54885,vntext.sq,DOUCHEBAG,"I mean, I should be earning more! I should be providing for her, you get me?","То есть, это я должен зарабатывать больше! Я должен её обеспечивать, понимаешь?",translated,76
+vntext.sq#54887,vntext.sq,DOUCHEBAG,No way.,Ни за что.,translated,7
+vntext.sq#54888,vntext.sq,DOUCHEBAG,If she figures out she doesn't need me anymore... she's gonna leave!,"Если она поймёт, что я ей больше не нужен... она уйдёт!",translated,68
+vntext.sq#54890,vntext.sq,DOUCHEBAG,"That's just how life works, Mood Boss.","Так уж устроена жизнь, Босс настроения.",translated,38
+vntext.sq#54891,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54892,vntext.sq,DOUCHEBAG,"Thanks for the talk, anyway.","Спасибо за разговор, в любом случае.",translated,28
+vntext.sq#54893,vntext.sq,DOUCHEBAG,I'll see you later...,Увидимся...,translated,21
+vntext.sq#54895,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54896,vntext.sq,DOUCHEBAG,"...Gotta say, I'm disappointed. Don't think this donut is what I needed tonight.","...Скажу честно, разочарован. Не думаю, что этот пончик был тем, что нужно сегодня.",translated,80
+vntext.sq#54898,vntext.sq,DOUCHEBAG,Well... I guess it could be worse. Just gonna go home and sleep this off.,Ну... могло быть хуже. Просто пойду домой и посплю.,translated,73
+vntext.sq#54899,vntext.sq,DOUCHEBAG,"See you later, Mood Boss!","Увидимся, Босс настроения!",translated,25
+vntext.sq#54901,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54902,vntext.sq,DOUCHEBAG,"Hey there, Mood Boss.","Привет, Босс настроения.",translated,21
+vntext.sq#54905,vntext.sq,DOUCHEBAG,"Heh. Gotta say, I've definitely been better. Make that a small 'e' this time.","Хех. Скажу честно, бывало и лучше. На этот раз с маленькой 'е'.",translated,77
+vntext.sq#54909,vntext.sq,DOUCHEBAG,Well... I had a talk with my girlfriend about the whole promotion thing...,Ну... я поговорил с девушкой про всю эту историю с повышением...,translated,74
+vntext.sq#54910,vntext.sq,DOUCHEBAG,And she totally got mad at me!,И она реально разозлилась на меня!,translated,30
+vntext.sq#54912,vntext.sq,DOUCHEBAG,...Yeah. Okay. I deserve that.,...Да. Ладно. Я это заслужил.,translated,30
+vntext.sq#54913,vntext.sq,DOUCHEBAG,"But now my relationship is in shAmbles, with a capital A, Mood Boss! I can't have that.","Но теперь мои отношения в рАзвале, с большой А, Босс настроения! Так нельзя!",translated,87
+vntext.sq#54914,vntext.sq,DOUCHEBAG,She's the only person who could keep up with me. A Troo Trooper!,"Она единственная, кто может угнаться за мной. Настоящий Боец!",translated,64
+vntext.sq#54922,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54923,vntext.sq,DOUCHEBAG,I know.,Я знаю.,translated,7
+vntext.sq#54924,vntext.sq,DOUCHEBAG,"I mean, if it's just me, I don't really care, you know?","То есть, если бы дело было только во мне, мне было бы всё равно, понимаешь?",translated,55
+vntext.sq#54925,vntext.sq,DOUCHEBAG,...She's a real generous gal. Doesn't care if we go by halves when we're on dates.,"...Она реально щедрая девчонка. Ей всё равно, если мы делим счёт пополам на свиданиях.",translated,82
+vntext.sq#54926,vntext.sq,DOUCHEBAG,"Last time she got a raise, we even went on a little trip...","В прошлый раз, когда ей повысили зарплату, мы даже съездили в небольшую поездку...",translated,59
+vntext.sq#54927,vntext.sq,DOUCHEBAG,"But it still feels bAd with a capital A, Mood Boss. I wanna pay for her stuff too. Return the favors, you know?","Но всё равно ощущается пАршиво, с большой А, Босс настроения. Хочу тоже платить за неё. Отплатить добром, понимаешь?",translated,111
+vntext.sq#54929,vntext.sq,DOUCHEBAG,...Oh yeah? I guess you got a point...,"...Да ну? Пожалуй, в этом есть смысл...",translated,38
+vntext.sq#54932,vntext.sq,DOUCHEBAG,...!,...!,translated,4
+vntext.sq#54933,vntext.sq,DOUCHEBAG,"You're a gEnius with a capital E, Mood Boss!","Ты гЕний, с большой Е, Босс настроения!",translated,44
+vntext.sq#54934,vntext.sq,DOUCHEBAG,"I'm gonna show them my A game, that's what!","Я покажу им свою лучшую игру, вот что!",translated,43
+vntext.sq#54935,vntext.sq,DOUCHEBAG,Thanks for the capital A Advice!,"Спасибо за совет — с большой А, между прочим!",translated,32
+vntext.sq#54936,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54937,vntext.sq,DOUCHEBAG,"But, uh, actually... I do need to talk to my girlfriend later. You know, apologize and all that.","Но, э, вообще-то... мне нужно будет поговорить с девушкой попозже. Ну там, извиниться и всё такое.",translated,96
+vntext.sq#54943,vntext.sq,DOUCHEBAG,Sure. Cool...,Конечно. Круто...,translated,13
+vntext.sq#54945,vntext.sq,DOUCHEBAG,"Whoa, whoa whoa... I'm the type of guy who needs an A Quality donut.","Так, так, так... я из тех парней, которым нужен пончик Класса А.",translated,68
+vntext.sq#54946,vntext.sq,DOUCHEBAG,"And let me be honest, this is [i] not [/i] A Quality at all. Not sure if it's even an F...","И если честно, это [i] совсем не [/i] Класс А. Не уверен, тянет ли вообще на Ф...",translated,90
+vntext.sq#54950,vntext.sq,DOUCHEBAG,Oh yeaaaaaah! That's what I need!,"О дааааа! Вот это то, что нужно!",translated,33
+vntext.sq#54951,vntext.sq,DOUCHEBAG,"Heh, finding words, talking about my feelings... I'm just no good with it.","Хех, подбирать слова, говорить о чувствах... я в этом просто не силён.",translated,74
+vntext.sq#54952,vntext.sq,DOUCHEBAG,"But this donut really helps out. Thanks, Mood Boss!","Но этот пончик реально помогает. Спасибо, Босс настроения!",translated,51
+vntext.sq#54953,vntext.sq,DOUCHEBAG,I O U!,Я твой должник!,translated,6
+vntext.sq#54956,vntext.sq,DOUCHEBAG,Uh... my chest is burning up. Should it do that?,Э... у меня грудь горит. Так и должно быть?,translated,48
+vntext.sq#54957,vntext.sq,DOUCHEBAG,Well... I'm getting ideas. That's new...,Ну... у меня появляются идеи. Это что-то новое...,translated,40
+vntext.sq#54958,vntext.sq,DOUCHEBAG,This {$moods:focus} donut... maybe this is more for when I'm at work...,"Этот пончик {$moods:focus}... наверное, он больше для работы...",translated,71
+vntext.sq#54959,vntext.sq,DOUCHEBAG,Heh... I might be too ${relaxed} for a serious talk with my girl...,"Хех... кажется, я слишком ${relaxed} для серьёзного разговора с девушкой...",translated,67
+vntext.sq#54960,vntext.sq,DOUCHEBAG,Hmm... maybe {$moods:patience} works...,"Хм... может, {$moods:patience} подойдёт...",translated,39
+vntext.sq#54961,vntext.sq,DOUCHEBAG,"But it doesn't really solve the problem of [i] what [/i] to say when I'm actually speaking with my girl, you know?","Но это не решает проблему того, [i] что [/i] сказать, когда я реально буду говорить с девушкой, понимаешь?",translated,114
+vntext.sq#54962,vntext.sq,DOUCHEBAG,Huh... I'm feeling kinda sad. Remembering our vacations together... times were simpler back when she hasn't gotten a promotion yet...,"Хм... что-то мне взгрустнулось. Вспоминаю наши совместные отпуска... всё было проще, пока её не повысили...",translated,133
+vntext.sq#54963,vntext.sq,DOUCHEBAG,Hehehe... What was I so worried about? It's just my girlfriend!,Хехехе... о чём я вообще так переживал? Это же просто моя девушка!,translated,63
+vntext.sq#54964,vntext.sq,DOUCHEBAG,...Uhhh... maybe I'm too happy for a serious talk...,"...Эээ... может, я слишком счастлив для серьёзного разговора...",translated,52
+vntext.sq#54965,vntext.sq,DOUCHEBAG,"Okay, I'm ready for that talk! I'm gonna tell her exactly how I feel!","Ладно, я готов к этому разговору! Скажу ей всё как есть!",translated,69
+vntext.sq#54966,vntext.sq,DOUCHEBAG,"Except... I'm not sure what to say at all! I feel like I'm gonna make a fool of myself, Mood Boss...","Вот только... я вообще не знаю, что сказать! Такое чувство, что выставлю себя дураком, Босс настроения...",translated,100
+vntext.sq#54967,vntext.sq,DOUCHEBAG,"Well, I'm off! Wish me luck!","Ну всё, я пошёл! Пожелай удачи!",translated,28
+vntext.sq#54968,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#54969,vntext.sq,DOUCHEBAG,"This isn't the mood I wanted, Mood Boss.","Это не то настроение, что я хотел, Босс настроения.",translated,40
+vntext.sq#54973,vntext.sq,DOUCHEBAG,That was super disappointing...,Это было очень разочаровывающе...,translated,31
+vntext.sq#54975,vntext.sq,DOUCHEBAG,Well... I guess I'll make it work somehow...,Ну... как-нибудь справлюсь...,translated,44
+vntext.sq#54976,vntext.sq,DOUCHEBAG,Wish me luck!,Пожелай мне удачи!,translated,13
+vntext.sq#54979,vntext.sq,DOUCHEBAG,Hey with a Capital AY!,"Эй, с большой Э!",translated,22
+vntext.sq#54980,vntext.sq,DOUCHEBAG,PAris in the house!,Пэрис в доме!,translated,19
+vntext.sq#54982,vntext.sq,DOUCHEBAG,"Oh, yeah. I guess I never told you my nAme.","Ах да. Кажется, я и не назвал тебе своё имЯ.",translated,43
+vntext.sq#54983,vntext.sq,DOUCHEBAG,"But it's PAris, you get me? PAris.","Но зовут меня Пэрис, понимаешь? Пэрис.",translated,34
+vntext.sq#54988,vntext.sq,DOUCHEBAG,"I'm feeling hella good, Mood Boss!","Чувствую себя охрененно хорошо, Босс настроения!",translated,34
+vntext.sq#54989,vntext.sq,DOUCHEBAG,Communication is indeed the key!,"Общение — вот в чём ключ, точно!",translated,32
+vntext.sq#54991,vntext.sq,DOUCHEBAG,You bet!,Ещё бы!,translated,8
+vntext.sq#54992,vntext.sq,DOUCHEBAG,Actually... it was all thanks to your donut. Those mood enhancers were something else.,Вообще-то... всё благодаря твоему пончику. Эти усилители настроения — нечто.,translated,86
+vntext.sq#54993,vntext.sq,DOUCHEBAG,Got me sorting my emotions out like nObOdy's business!,Помогли разобраться в чувствах как никтО другОй!,translated,54
+vntext.sq#54995,vntext.sq,DOUCHEBAG,"...So, how about a donut to celebrate my little win?","...Так что, как насчёт пончика, чтобы отпраздновать маленькую победу?",translated,52
+vntext.sq#55002,vntext.sq,DOUCHEBAG,"Hehe, don't mind if I do!","Хехе, не откажусь!",translated,25
+vntext.sq#55003,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#55004,vntext.sq,DOUCHEBAG,"Yo! What's with this SaD donut, Mood Boss?","Йоу! Что это за грУстный пончик, Босс настроения?",translated,42
+vntext.sq#55005,vntext.sq,DOUCHEBAG,"This donut really needs some tastemaxxing, Mood Boss.","Этому пончику реально не хватает вкусомаксинга, Босс настроения.",translated,53
+vntext.sq#55006,vntext.sq,DOUCHEBAG,I'm not taking another bite of this... it makes my A feel small.,Больше ни кусочка... от этого моё эго сдувается.,translated,64
+vntext.sq#55008,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#55009,vntext.sq,DOUCHEBAG,Oh! Now that's what I call an A plus plus donut.,"О! Вот это я понимаю, пончик на пять с плюсом.",translated,48
+vntext.sq#55010,vntext.sq,DOUCHEBAG,You got the balance perfectamentO!,Ты поймал баланс идеальнО!,translated,34
+vntext.sq#55012,vntext.sq,DOUCHEBAG,"Huh... Pretty sure I asked for some {$moods:cheer} as well, Mood Boss.","Хм... Вроде я ещё просил немного {$moods:cheer}, Босс настроения.",translated,70
+vntext.sq#55013,vntext.sq,DOUCHEBAG,What happened to my usual {$moods:sincerity}? Did you forget?,А что случилось с моим обычным {$moods:sincerity}? Забыл?,translated,61
+vntext.sq#55014,vntext.sq,DOUCHEBAG,"Huh... There's my usual {$flavors:methberry}. But this other mood isn't the {$moods:cheer} I asked for, Mood Boss.","Хм... Вот мой обычный {$flavors:methberry}. Но это другое настроение — не тот {$moods:cheer}, что я просил, Босс настроения.",translated,114
+vntext.sq#55015,vntext.sq,DOUCHEBAG,Nice! {$flavors:vanilla_sky}'s not too bad sometimes... But wait... where did my usual {$flavors:methberry} go? This other flavor isn't it.,Неплохо! {$flavors:vanilla_sky} иногда тоже ничего... Но погоди... а куда делся мой обычный {$flavors:methberry}? Это ведь не он.,translated,139
+vntext.sq#55017,vntext.sq,DOUCHEBAG,"Hey, no worries. One out of two isn't too bad.","Эй, не переживай. Один из двух — не так уж плохо.",translated,46
+vntext.sq#55018,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#55019,vntext.sq,DOUCHEBAG,I'm feeling pretty fired up! Even my — ahem! — down there! Getting capital~,Меня прямо разжигает! Даже там внизу — кхм! — всё поднимается~,translated,75
+vntext.sq#55021,vntext.sq,DOUCHEBAG,"Hey, nice! I'm getting ideas on what to give my girlfriend on her birthday!","О, неплохо! У меня появляются идеи, что подарить девушке на день рождения!",translated,75
+vntext.sq#55022,vntext.sq,DOUCHEBAG,"Not bad, although I don't know what this has to do with my {$glaze:multiglaze}...","Неплохо, хотя не понимаю, при чём тут мой {$glaze:multiglaze}...",translated,81
+vntext.sq#55023,vntext.sq,DOUCHEBAG,"Heh, you want me to get back to work or something?","Хех, хочешь, чтоб я вернулся к работе или типа того?",translated,50
+vntext.sq#55024,vntext.sq,DOUCHEBAG,Hm... come to think of it... I do need to sleep sometimes. Heeey... wait a minute...,Хм... если подумать... мне и правда иногда нужно спать. Эээй... погоди-ка...,translated,84
+vntext.sq#55025,vntext.sq,DOUCHEBAG,"Well, thanks to the mood enhancers, I can't get too angry about this donut. But...","Ну, благодаря усилителям настроения, я не могу сильно злиться на этот пончик. Но...",translated,82
+vntext.sq#55026,vntext.sq,DOUCHEBAG,Hehehe... Getting all sappy about my girlfriend all of a sudden... but wait a minute!,Хехехе... вдруг так расчувствовался из-за девушки... но погоди-ка!,translated,85
+vntext.sq#55027,vntext.sq,DOUCHEBAG,Ooooh boy! This is getting my blood pumping! I fear nothing! I now have the {$moods:courage} to tell you...,"Оооо, чувак! Кровь так и бурлит! Я ничего не боюсь! Теперь у меня есть {$moods:courage}, чтобы сказать тебе...",translated,107
+vntext.sq#55028,vntext.sq,DOUCHEBAG,"This isn't the donut I asked for, Mood Boss.","Это не тот пончик, что я просил, Босс настроения.",translated,44
+vntext.sq#55030,vntext.sq,DOUCHEBAG,"But I'm in a gOOd mOOd tOOnight, so I'll forgive you~","Но у меня сегОдня хОрОшее настрОение, так что прощаю~",translated,53
+vntext.sq#55033,vntext.sq,DOUCHEBAG,"That's not like you at all, Mood Boss.","Это совсем на тебя не похоже, Босс настроения.",translated,38
+vntext.sq#55034,vntext.sq,DOUCHEBAG,"But I'm in a gOOd mOOd tOOnight, so I'll forgive you~","Но у меня сегОдня хОрОшее настрОение, так что прощаю~",translated,53
+vntext.sq#55037,vntext.sq,DOUCHEBAG,"In fact, your donut just made my night EvEn bEttEr!",На самом деле твой пончик сделал мой вечер ещё лУчшЕ!,translated,51
+vntext.sq#55040,vntext.sq,DOUCHEBAG,"Hehe, well... because I was powered by your {$moods:sincerity} dOnut last time, I kinda figured my feelings out while in the middle of it. Nice, huh?","Хехе, ну... благодаря твоему пОнчику {$moods:sincerity} в прошлый раз я как-то разобрался в своих чувствах прямо посреди всего этого. Неплохо, да?",translated,149
+vntext.sq#55041,vntext.sq,DOUCHEBAG,What you said really got me thinking. Relationships aren't about doing each other favors.,"То, что ты сказал, реально заставило меня задуматься. Отношения — это не про одолжения друг другу.",translated,89
+vntext.sq#55042,vntext.sq,DOUCHEBAG,It's about being there for each other! You know... complementing each other. With an E!,"Это про то, чтобы быть рядом друг для друга! Ну знаешь... быть дополнЕнием друг для друга. С большой Е!",translated,87
+vntext.sq#55045,vntext.sq,DOUCHEBAG,And my girl... she likes taking care of me. And you know what? I'm a MAn with a capital A!,"А моя девушка... ей нравится заботиться обо мне. И знаешь что? Я мужчинА, с большой А!",translated,90
+vntext.sq#55046,vntext.sq,DOUCHEBAG,And I can say proudly that I like being treated like a BaBY GIRL with a small 'a' sometimes.,"И могу с гордостью сказать, что иногда люблю, когда со мной обращаются как с малышкой, с маленькой 'а' в этот раз.",translated,92
+vntext.sq#55056,vntext.sq,DOUCHEBAG,"Exactly! You get me, Mood Boss!","Именно! Ты меня понимаешь, Босс настроения!",translated,31
+vntext.sq#55058,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#55059,vntext.sq,DOUCHEBAG,"Ugh, you're pretty shArp, Mood Boss!","Ух, ты неплохо прошАрен, Босс настроения!",translated,36
+vntext.sq#55060,vntext.sq,DOUCHEBAG,It's true. I like sweet things.,Это правда. Мне нравится сладкое.,translated,31
+vntext.sq#55061,vntext.sq,DOUCHEBAG,"In fact, my girlfriend is more of a savory gal. She likes her hot stuff, if you know what I mean~","На самом деле, моя девушка больше по солёному. Любит остренькое, если понимаешь о чём я~",translated,97
+vntext.sq#55065,vntext.sq,DOUCHEBAG,"Hmm, I see it...","Хм, вижу-вижу...",translated,16
+vntext.sq#55066,vntext.sq,DOUCHEBAG,"You're the type who likes to be in control, aren't you, Mood Boss? But even types like that still want to be pampered...","Ты из тех, кто любит держать всё под контролем, да, Босс настроения? Но даже таким иногда хочется, чтобы о них позаботились...",translated,120
+vntext.sq#55067,vntext.sq,DOUCHEBAG,I feel like we're really understanding each other here.,"Такое чувство, что мы тут реально понимаем друг друга.",translated,55
+vntext.sq#55070,vntext.sq,DOUCHEBAG,"Well, anyway!! I promised my girl I'll be making dinner tonight. We decided it's fine to take turns!","Ну ладно!! Я обещал девушке приготовить ужин сегодня. Решили, что можно готовить по очереди!",translated,100
+vntext.sq#55071,vntext.sq,DOUCHEBAG,"I was getting kinda tired of all the spicy food, not gonna lie.","Если честно, я уже подустал от острой еды.",translated,63
+vntext.sq#55072,vntext.sq,DOUCHEBAG,"Hehe! I'll be seeing you, Mood Boss!","Хехе! Увидимся, Босс настроения!",translated,36
+vntext.sq#55077,vntext.sq,DOUCHEBAG,YooO!,ЙоуО!,translated,5
+vntext.sq#55078,vntext.sq,DOUCHEBAG,"I have to say, my girlfriend lOved your donut, so you're officially in my goOd boOks.","Должен сказать, моей девушке пОнравился твой пончик, так что теперь ты официально у меня на хОрОшем счетУ.",translated,85
+vntext.sq#55081,vntext.sq,DOUCHEBAG,"You know what, I think I'm gonna make this one of my usual haunts. How 'bout that?","Знаешь что, кажется, это место станет одним из моих постоянных. Как тебе такое?",translated,82
+vntext.sq#55082,vntext.sq,DOUCHEBAG,"Even if I'm not a huge fan of sweets... At the end of the day, the Mood Boss's skills are just tOp tier.","Даже если я не большой фанат сладкого... в конце концов, мастерство Босса настроения — это просто топ-уровень.",translated,104
+vntext.sq#55084,vntext.sq,DOUCHEBAG,"Who else, duh?","А кто ещё, очевидно же?",translated,14
+vntext.sq#55094,vntext.sq,DOUCHEBAG,WheeEw!,ФьюЮ!,translated,7
+vntext.sq#55096,vntext.sq,DOUCHEBAG,"Strangest thing happened on my way here, Mood Boss.","По пути сюда случилось кое-что странное, Босс настроения.",translated,51
+vntext.sq#55097,vntext.sq,DOUCHEBAG,A bird told me my outfit looks bad. Totally ruined my mood.,"Птица сказала мне, что мой прикид выглядит плохо. Совсем испортила мне настроение.",translated,59
+vntext.sq#55098,vntext.sq,DOUCHEBAG,So uh. I dropped by because I need that {$flavors:chococaine} {$moods:focus}... Gotta finish my rEport for tomorrow.,"В общем, я зашёл, потому что мне нужен тот {$flavors:chococaine} {$moods:focus}... Нужно дописать отчёт к завтрашнему дню.",translated,116
+vntext.sq#55099,vntext.sq,DOUCHEBAG,But now I just don't feEl like it anymore.,Но теперь мне уже совсем не хочется.,translated,42
+vntext.sq#55100,vntext.sq,DOUCHEBAG,...How about a {$flavors:vanilla_sky} donut?,...Как насчёт пончика {$flavors:vanilla_sky}?,translated,44
+vntext.sq#55107,vntext.sq,DOUCHEBAG,"YO, MoOd BOss!","ЙОУ, БОсс настрОения!",translated,14
+vntext.sq#55108,vntext.sq,DOUCHEBAG,Just need a quick fix to get me through tonight.,"Просто нужна быстрая подзарядка, чтобы продержаться сегодня.",translated,48
+vntext.sq#55109,vntext.sq,DOUCHEBAG,"Honestly, my mind's all over the place.","Если честно, мысли у меня сейчас в разброде.",translated,39
+vntext.sq#55110,vntext.sq,DOUCHEBAG,"I haven't been to the gym in ages and my muscles are Crying, I tell you.","Я целую вечность не был в зале, и мышцы просто Рыдают, говорю тебе.",translated,72
+vntext.sq#55111,vntext.sq,DOUCHEBAG,This kinda life is making us all weak!,Такая жизнь делает нас всех слабее!,translated,38
+vntext.sq#55119,vntext.sq,DOUCHEBAG,MOOd BOss... You ever feel like just lying down and not doing your job?,"БОсс настрОения... у тебя бывает чувство, что хочется просто лечь и не делать свою работу?",translated,71
+vntext.sq#55121,vntext.sq,DOUCHEBAG,I need a dOnut to cOmbat this...,"Мне нужен пОнчик, чтобы с этим бОроться...",translated,32
+vntext.sq#55122,vntext.sq,DOUCHEBAG,I can't let them win!,Не могу дать им победить!,translated,21
+vntext.sq#55124,vntext.sq,DOUCHEBAG,The people in my mind who want me to fail.,"Голоса в моей голове, которые хотят, чтобы я провалился.",translated,42
+vntext.sq#55135,vntext.sq,DOUCHEBAG,I'm thinking of getting something exciting!,Хочу чего-нибудь захватывающего!,translated,43
+vntext.sq#55137,vntext.sq,DOUCHEBAG,What're you talking about? This {$recipe:boston_cream} sounds like it's gonna be Out of this wOrld.,Ты о чём? Этот {$recipe:boston_cream} звучит просто НевероятнО.,translated,99
+vntext.sq#55145,vntext.sq,DOUCHEBAG,"yo, mood boss.","йоу, босс настроения.",translated,14
+vntext.sq#55147,vntext.sq,DOUCHEBAG,...you're right. but i think a donut will help me get back on track.,"...ты прав. но думаю, пончик поможет мне снова встать на путь истинный.",translated,68
+vntext.sq#55155,vntext.sq,DOUCHEBAG,"Uh... But I really like {$flavors:chococaine}, you know. It's just the right amount of sweetness for me...","Э... но мне правда нравится {$flavors:chococaine}, знаешь. Как раз в меру сладкий для меня...",translated,106
+vntext.sq#55158,vntext.sq,DOUCHEBAG,Uh. Well. okay.,Э. Ну ладно.,translated,15
+vntext.sq#55165,vntext.sq,DOUCHEBAG,"You're right, Mood Boss. But I guess that's why you're the Mood Boss, eh?","ты прав, босс настроения. но, наверное, поэтому ты и босс настроения, да?",translated,73
+vntext.sq#55167,vntext.sq,DOUCHEBAG,"{$flavors:vanilla_sky} does help. I mean, {$flavors:chococaine} is still life, but a bit of {$flavors:vanilla_sky} can't hurt.","{$flavors:vanilla_sky} и правда помогает. То есть, {$flavors:chococaine} — это по-прежнему моё всё, но немного {$flavors:vanilla_sky} не помешает.",translated,126
+vntext.sq#55169,vntext.sq,DOUCHEBAG,"But I need that sweet sweet {$moods:focus}, you know?","Но мне нужен тот самый сладкий {$moods:focus}, понимаешь?",translated,53
+vntext.sq#55170,vntext.sq,DOUCHEBAG,I can't write reports on... on {$flavors:lemon_acid}!,Не могу писать отчёты на... на {$flavors:lemon_acid}!,translated,53
+vntext.sq#55172,vntext.sq,DOUCHEBAG,...It... It just doesn't Feel right!,...Это... это просто не то ощущение!,translated,36
+vntext.sq#55179,vntext.sq,DOUCHEBAG,ahem.,кхм.,translated,5
+vntext.sq#55181,vntext.sq,DOUCHEBAG,whoa you can tell? you really are the mood boss.,"ого, ты заметил? ты и правда босс настроения.",translated,48
+vntext.sq#55182,vntext.sq,DOUCHEBAG,...so maybe i'm a bit tired. donut good...,"...так что, может, я немного устал. пончик хорошо...",translated,42
+vntext.sq#55184,vntext.sq,DOUCHEBAG,...can we forget about this later?,...можем потом об этом забыть?,translated,34
+vntext.sq#55192,vntext.sq,DOUCHEBAG,Deadlines are over and done with and I finished everything on Time~,"Все дедлайны позади, я всё успел ко Времени~",translated,67
+vntext.sq#55194,vntext.sq,DOUCHEBAG,That's why I'm here. Nothing says celebration better than a donut!,"Вот почему я здесь. Ничто так не говорит о празднике, как пончик!",translated,66
+vntext.sq#55195,vntext.sq,DOUCHEBAG,Ahem. Well. A cold one with the boys also works. But mood-enhanced donuts just hit different.,Кхм. Ну. Холодное пивко с пацанами тоже неплохо работает. Но пончики с усилителем настроения — это другое.,translated,93
+vntext.sq#55206,vntext.sq,DOUCHEBAG,Oh. Yeah. Of course.,О. Да. Конечно.,translated,20
+vntext.sq#55207,vntext.sq,DOUCHEBAG,Just a bit distracted. You know how it gets sometimes.,"Просто немного отвлёкся. Знаешь, как бывает.",translated,54
+vntext.sq#55208,vntext.sq,DOUCHEBAG,I've been Super Busy. Everyone wants a Piece of PAris!,Был Супер Занят. Все хотят кусочек Пэриса!,translated,54
+vntext.sq#55210,vntext.sq,DOUCHEBAG,Oh yeah?,Да ну?,translated,8
+vntext.sq#55218,vntext.sq,DOUCHEBAG,Mood Boss... have you ever thought maybe you're running out of fuel?,"Босс настроения... тебе не приходило в голову, что у тебя, может, топливо кончается?",translated,68
+vntext.sq#55220,vntext.sq,DOUCHEBAG,You know like. If you're a car and you need to geT somewhere but you're running out of gas.,"Ну типа. Как будто ты машина, тебе нужно куда-то доехАть, а бензин заканчивается.",translated,91
+vntext.sq#55223,vntext.sq,DOUCHEBAG,...That so?,...Да ну?,translated,11
+vntext.sq#55224,vntext.sq,DOUCHEBAG,I was wondering if you can gIve me a donut for that.,"Вот и думаю, не дашь ли ты мне пончик от этого.",translated,52
+vntext.sq#55231,vntext.sq,DOUCHEBAG,Yo!,Йо!,translated,3
+vntext.sq#55232,vntext.sq,DOUCHEBAG,Those people who talk up {$flavors:ubecstacy} know what's up!,"Те, кто нахваливает {$flavors:ubecstacy}, знают толк!",translated,61
+vntext.sq#55234,vntext.sq,DOUCHEBAG,Oh that's right. Huh. Didn't even notice.,О точно. Хм. Даже не заметил.,translated,41
+vntext.sq#55235,vntext.sq,DOUCHEBAG,A Real MAn knows how to take risks! Try new flavors!,НастоящИй МужчинА умеет рисковать! Пробуй новые вкусы!,translated,52
+vntext.sq#55242,vntext.sq,DOUCHEBAG,Mood Boss... I flew too close to the Sun.,Босс настроения... я подлетел слишком близко к Солнцу.,translated,41
+vntext.sq#55244,vntext.sq,DOUCHEBAG,No kidding! I forgOt... no. I didn't forget. I just... kinda didn't finish my report on time.,Не то слово! Я забЫл... нет. Не забыл. Просто... как бы не успел закончить отчёт вовремя.,translated,93
+vntext.sq#55251,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#55252,vntext.sq,DOUCHEBAG,Hey. I know I've been kind of putting it off...,"Слушай. Знаю, я это откладывал...",translated,47
+vntext.sq#55253,vntext.sq,DOUCHEBAG,But I guess I need to talk to my girlfriend. I mean...,"Но, наверное, мне нужно поговорить с девушкой. То есть...",translated,54
+vntext.sq#55254,vntext.sq,DOUCHEBAG,Remember what you recommended last time?,"Помнишь, что ты советовал в прошлый раз?",translated,40
+vntext.sq#55261,vntext.sq,DOUCHEBAG,"...Mood Boss, I need the {$moods:courage}.","...Босс настроения, мне нужен {$moods:courage}.",translated,42
+vntext.sq#55263,vntext.sq,DOUCHEBAG,Well. My girlfriend hasn't talked to me for [i] days! [/i],Ну. Моя девушка не разговаривает со мной уже [i] дни! [/i],translated,58
+vntext.sq#55264,vntext.sq,DOUCHEBAG,And you know what? I wanna say good night. I need a donut.,И знаешь что? Хочу пожелать спокойной ночи. Мне нужен пончик.,translated,58
+vntext.sq#55266,vntext.sq,DOUCHEBAG,"You don't know my girlfriend, Mood Boss. She could get prEtty intEnse~","Ты не знаешь мою девушку, Босс настроения. Она умеет быть довольно интЕнсивной~",translated,70
+vntext.sq#55273,vntext.sq,DOUCHEBAG,YO!,ЙОУ!,translated,3
+vntext.sq#55275,vntext.sq,DOUCHEBAG,Not very well! But she looked at me this morning.,Не очень хорошо! Но она посмотрела на меня утром.,translated,49
+vntext.sq#55276,vntext.sq,DOUCHEBAG,I'd call that SuccesS!,Я бы назвал это УспЕхоМ!,translated,22
+vntext.sq#55278,vntext.sq,DOUCHEBAG,"Anyway. I think I wanna stay within that {$moods:passion} and {$moods:courage} wavelength, you get me?","В общем. Думаю, хочу остаться в той волне {$moods:passion} и {$moods:courage}, понимаешь?",translated,102
+vntext.sq#55284,vntext.sq,DOUCHEBAG,"Yo, Mood Boss!","Йоу, Босс настроения!",translated,14
+vntext.sq#55285,vntext.sq,DOUCHEBAG,I'm up for something a bit more simple tonight.,Сегодня хочу чего-то попроще.,translated,47
+vntext.sq#55286,vntext.sq,DOUCHEBAG,"Gotta get back to the basics, you know?","Нужно вернуться к основам, понимаешь?",translated,39
+vntext.sq#55293,vntext.sq,DOUCHEBAG,"Hey, Mood Boss! I've got a question for you.","Эй, Босс настроения! У меня к тебе вопрос.",translated,44
+vntext.sq#55295,vntext.sq,DOUCHEBAG,Do you mind if I play around with yOur dOnuts?,"Не против, если я пОиграюсь с твОими пОнчиками?",translated,46
+vntext.sq#55302,vntext.sq,DOUCHEBAG,"Hey, Mood Boss.","Эй, Босс настроения.",translated,15
+vntext.sq#55303,vntext.sq,DOUCHEBAG,I wanna do that thing again.,Хочу снова это провернуть.,translated,28
+vntext.sq#55304,vntext.sq,DOUCHEBAG,You know? Playing around with your Donuts.,Ну знаешь? Поиграться с твоими Пончиками.,translated,42
+vntext.sq#55306,vntext.sq,DOUCHEBAG,...? But can I?,...? Но можно?,translated,15
+vntext.sq#55308,vntext.sq,DOUCHEBAG,I think... Well. My girlfriend finally agreed to talk to me for real. So.,Кажется... Ну. Моя девушка наконец согласилась поговорить по-настоящему. Так что.,translated,73
+vntext.sq#55320,vntext.sq,DOUCHEBAG,"What about One of my favOrites... A {$recipe:cinnamon_roll}, you know!","А как насчёт Одного из моих любимых... {$recipe:cinnamon_roll}, вот!",translated,70
+vntext.sq#55328,vntext.sq,DOUCHEBAG,But I dropped by to get a donut... Preparation is also important! Need to get my body primed and ready!,Но я зашёл за пончиком... Подготовка тоже важна! Нужно привести тело в боевую готовность!,translated,103
+vntext.sq#55330,vntext.sq,DOUCHEBAG,"What about a {$recipe:sunflower}, Mood Boss? Gotta say, that'd really help with the prOductivity!","Как насчёт {$recipe:sunflower}, Босс настроения? Скажу так, это реально помогло бы с прОдуктивностью!",translated,97
+vntext.sq#55340,vntext.sq,DOUCHEBAG,"Can I have an {$recipe:ube_dream} tonight, Mood Boss? Let's get some {$moods:passion} in here!","Можно мне {$recipe:ube_dream} сегодня, Босс настроения? Давай добавим {$moods:passion}!",translated,94
+vntext.sq#55344,vntext.sq,DOUCHEBAG,"YO, MOOd BOss!","ЙОУ, БОсс настрОения!",translated,14
+vntext.sq#55345,vntext.sq,DOUCHEBAG,I can't stay long... I need to make dinner for my girlfriend...,Не могу задерживаться... нужно готовить ужин для девушки...,translated,63
+vntext.sq#55346,vntext.sq,DOUCHEBAG,There's nothing quite as fulfulling as the act of tOssing salad...,"Нет ничего более наполняющего, чем процесс заправки салата...",translated,66
+vntext.sq#55348,vntext.sq,DOUCHEBAG,But I dropped by to get one of my favorite donuts... Preparation is also important! Need to get my body primed and ready!,Но я зашёл за одним из любимых пончиков... Подготовка тоже важна! Нужно привести тело в боевую готовность!,translated,121
+vntext.sq#55350,vntext.sq,DOUCHEBAG,I'll have a {$recipe:white_velvet}. Rich and classic... just like my taste in women!,Возьму {$recipe:white_velvet}. Насыщенный и классический... прямо как мой вкус в женщинах!,translated,84
+vntext.sq#55604,vntext.sq,DOUCHEBAG,... mOOd bOss... You think maybe you can make me that donut again?,"...бОсс настрОения... думаешь, сможешь сделать мне тот пончик ещё раз?",translated,66
+vntext.sq#55606,vntext.sq,DOUCHEBAG,You're the cApitAl A best!,"Ты лучший, с большой Б!",translated,26
+vntext.sq#55607,vntext.sq,DOUCHEBAG,... Well. That didn't work out either. You reached your KPI limits already?,...Ну. Это тоже не сработало. У тебя уже лимит KPI исчерпан?,translated,75
+vntext.sq#55609,vntext.sq,DOUCHEBAG,Guess I just gotta try next time.,"Видимо, придётся попробовать в следующий раз.",translated,33
+vntext.sq#55611,vntext.sq,DOUCHEBAG,... Thanks anyway. I guess.,...Всё равно спасибо. Наверное.,translated,27
+vntext.sq#55617,vntext.sq,DOUCHEBAG,"...sTill noT whaT i wanTed, mood boss.","...всё ещё не То, чего я хоТела, босс настроения.",translated,38
+vntext.sq#55619,vntext.sq,DOUCHEBAG,"Because this donuT is not iT with a capital T, of course!","Потому что этот пончик — не То с большой Т, конечно же!",translated,57
+vntext.sq#55621,vntext.sq,DOUCHEBAG,Niiice. Now you're talking!,Класс. Вот это разговор!,translated,27
+vntext.sq#69137,vntext.sq,DOUCHEBAG,"Hold on, Mood Boss — this donut here has no glAze!","Погоди, Босс Настроения — у этого пончика нет глАзури!",translated,50
+vntext.sq#69139,vntext.sq,DOUCHEBAG,"WhOa, whOa! This is the wrOng dOnut, and that's four capital O's! Didn't I ask for a different glaze?","ОгО, огО! Это не тОт пОнчик, и это четыре заглавные буквы О! Разве я не просил другую глазурь?",translated,101
+vntext.sq#69141,vntext.sq,DOUCHEBAG,"No offense, Mood Boss, but that donut's looking pretty beta with barely enough glaze!","Без обид, Босс Настроения, но этот пончик выглядит какой-то бета-версией с едва достаточной глазурью!",translated,85
+vntext.sq#69143,vntext.sq,DOUCHEBAG,"Where'd the toppings go, Mood Boss? This donut's empty!","Куда делись топпинги, Босс Настроения? Этот пончик пустой!",translated,55
+vntext.sq#69145,vntext.sq,DOUCHEBAG,"Something's off with the toppings, Mood Boss.","Что-то не так с топпингами, Босс Настроения.",translated,45
+vntext.sq#69147,vntext.sq,DOUCHEBAG,"Is this all of the toppings you got, Mood Boss? That's kinda embarrassing!","Это все топпинги, что у тебя есть, Босс Настроения? Как-то неловко!",translated,74
+vntext.sq#69149,vntext.sq,DOUCHEBAG,"Hold up, where'd the drizzle go? Did you run out or something?","Погоди, куда делись потёки? У тебя закончились или что?",translated,62
+vntext.sq#69151,vntext.sq,DOUCHEBAG,"Did you give me a different donut? I didn't ask for this drizzle, Mood Boss!","Ты дал мне другой пончик? Я не просил такие потёки, Босс Настроения!",translated,76
+vntext.sq#69153,vntext.sq,DOUCHEBAG,"Hey, this doesn't look right... where's the rest of the drizzle, Mood Boss?","Эй, это выглядит неправильно... где остальные потёки, Босс Настроения?",translated,75
+vntext.sq#69155,vntext.sq,DOUCHEBAG,"WOah, wOah, wOah — three capital O's! Where's the filling?","ОгО, огО, огО — три заглавные буквы О! Где начинка?",translated,58
+vntext.sq#69157,vntext.sq,DOUCHEBAG,"You got the filling wrong, Mood Boss.","Ты перепутал начинку, Босс Настроения.",translated,37
+vntext.sq#69159,vntext.sq,DOUCHEBAG,"This donut looks messier than the current state of the stock market, Mood Boss...","Этот пончик выглядит более неряшливо, чем текущее состояние фондового рынка, Босс Настроения...",translated,81
+vntext.sq#69161,vntext.sq,DOUCHEBAG,"Whoa, whoa, whoa! There's too many things on this donut. It's making my brain ache.","Ого, ого, ого! На этом пончике слишком много всего. У меня аж мозг разболелся.",translated,83
+vntext.sq#69165,vntext.sq,DOUCHEBAG,"You can't just hand me a donut without any glaze, Mood Boss.","Нельзя просто вручить мне пончик без глазури, Босс Настроения.",translated,60
+vntext.sq#69167,vntext.sq,DOUCHEBAG,You're really pulling my leg here... how am I supposed to go looksmaxxing if my donut's glaze is different?,"Ты правда меня разыгрываешь... как мне прокачивать внешность, если глазурь на пончике не та?",translated,107
+vntext.sq#69169,vntext.sq,DOUCHEBAG,"You think I'm gonna be sAtisfied with such a sAd poof of glAze, Mood Boss?","Думаешь, я буду доволЕн такой жАлкой каплей глАзури, Босс Настроения?",translated,74
+vntext.sq#69171,vntext.sq,DOUCHEBAG,"You gotta have toppings if you're looksmaxxing your donuts, Mood Boss.","Топпинги обязательны, если хочешь прокачать внешность своих пончиков, Босс Настроения.",translated,70
+vntext.sq#69173,vntext.sq,DOUCHEBAG,hOld up. These tOppings are Off.,пОгОди. Эти тОппинги не те.,translated,32
+vntext.sq#69175,vntext.sq,DOUCHEBAG,"You're gonna need more toppings if you want to impress someone like me, Mood Boss!","Тебе понадобится больше топпингов, если хочешь впечатлить кого-то вроде меня, Босс Настроения!",translated,82
+vntext.sq#69177,vntext.sq,DOUCHEBAG,"Hey, why don't I have any drizzle? Shouldn't you be tastemaxxing your donuts?!","Эй, почему у меня нет потёков? Разве тебе не следует прокачивать вкус своих пончиков?!",translated,78
+vntext.sq#69179,vntext.sq,DOUCHEBAG,"you really expect me to make do with this drizzle, mood boss? it's the wrong one...","ты правда думаешь, что я обойдусь этими потёками, босс настроения? они не те...",translated,83
+vntext.sq#69181,vntext.sq,DOUCHEBAG,You call this a drizzle? I'll show you what a REAL DRIZZLE looks like — with all CAPS!,"Это ты называешь потёками? Я тебе покажу, как выглядят НАСТОЯЩИЕ ПОТЁКИ — заглавными буквами!",translated,86
+vntext.sq#69183,vntext.sq,DOUCHEBAG,"This can't be your best donut, Mood Boss. The filling's not even here!","Это же не может быть твой лучший пончик, Босс Настроения. Начинки тут даже нет!",translated,70
+vntext.sq#69185,vntext.sq,DOUCHEBAG,"Hey, what gives? I asked for a different filling, didn't I?","Эй, в чём дело? Я же просил другую начинку, разве нет?",translated,59
+vntext.sq#69187,vntext.sq,DOUCHEBAG,"This dOnut... I'm nOt sure what to say, mOOd bOss. ShOuld it really lOOk like that?","Этот пОнчик... не знаю, чтО и сказать, бОсс настрОения. Разве он дОлжен так выглядеть?",translated,83
+vntext.sq#69189,vntext.sq,DOUCHEBAG,"With all this extra stuff, this donut's overcompensating for something. Ermm... not that I would know anything about overcompensating...",Со всем этим лишним этот пончик что-то явно компенсирует. Эмм... не то чтобы я разбирался в гиперкомпенсации...,translated,136
+vntext.sq#69193,vntext.sq,DOUCHEBAG,Mood Boss... is this donut even gonna work without any glaze?,Босс Настроения... этот пончик вообще сработает без глазури?,translated,61
+vntext.sq#69195,vntext.sq,DOUCHEBAG,"What's with the glaze? This is different from what I asked for. Are you trying to ruin my groove, Mood Boss?","Что с глазурью? Это не то, что я просил. Пытаешься испортить мне настрой, Босс Настроения?",translated,108
+vntext.sq#69197,vntext.sq,DOUCHEBAG,"You can do better than this, Mood Boss... Did the glaze get hit by shrinflation?","Ты можешь лучше, Босс Настроения... Глазурь попала под шринкфляцию?",translated,80
+vntext.sq#69199,vntext.sq,DOUCHEBAG,"Can't believe you're handing over a donut with no toppings to someone like me! Have you no shame, Mood Boss?","Не могу поверить, ты вручаешь пончик без топпингов кому-то вроде меня! У тебя совсем нет стыда, Босс Настроения?",translated,108
+vntext.sq#69201,vntext.sq,DOUCHEBAG,"How am I supposed to eat a donut when the toppings are different from what I asked for? You're really messing with my image here, Mood Boss!","Как мне есть пончик, если топпинги не те, что я просил? Ты правда портишь мой имидж, Босс Настроения!",translated,140
+vntext.sq#69203,vntext.sq,DOUCHEBAG,"Nah, I need way more toppings than that!","Не, мне нужно намного больше топпингов, чем это!",translated,40
+vntext.sq#69205,vntext.sq,DOUCHEBAG,"Hey, my donut really needs that drizzle, Mood Boss.","Эй, моему пончику правда нужны эти потёки, Босс Настроения.",translated,51
+vntext.sq#69207,vntext.sq,DOUCHEBAG,What the...? I didn't ask for this kind of drizzle. What up with that?,Что за...? Я не просил такие потёки. Что с этим не так?,translated,70
+vntext.sq#69209,vntext.sq,DOUCHEBAG,"You can't just half-ass the drizzle, Mood Boss! Go big or go HOME!","Нельзя делать потёки спустя рукава, Босс Настроения! Или по-крупному, или НИКАК!",translated,66
+vntext.sq#69211,vntext.sq,DOUCHEBAG,yO. this dOnut has nO filling. hOw sad...,йО. в этОм пОнчике нет начинки. как груустнО...,translated,41
+vntext.sq#69213,vntext.sq,DOUCHEBAG,"Why'd you give me a donut with the wrong filling, huh? Not cool.","Почему ты дал мне пончик не с той начинкой, а? Не круто.",translated,64
+vntext.sq#69215,vntext.sq,DOUCHEBAG,Are you trying to pull a prank on me? That donut's a real mess!,Пытаешься меня разыграть? Этот пончик настоящий бардак!,translated,63
+vntext.sq#69217,vntext.sq,DOUCHEBAG,"You're one of those maximalists, huh? Unfortunately, that's not my thing at all. Have you ever seen me wear pants? Exactly!","Ты один из тех максималистов, да? К сожалению, это совсем не моё. Ты хоть раз видел меня в штанах? Вот именно!",translated,123
+vntext.sq#69219,vntext.sq,DOUCHEBAG,"Not the right donut shape, Mood Boss.","Не та форма пончика, Босс Настроения.",translated,37
+vntext.sq#69220,vntext.sq,DOUCHEBAG,...But it's fine. I'm not the type of guy who bAcks down. Bring it on!,"...Но ладно. Я не из тех парней, кто отступАет. Давай!",translated,70
+vntext.sq#74509,vntext.sq,DOUCHEBAG,"Well, look over here!","Так-так, а ну гляньте сюда!",translated,21
+vntext.sq#74511,vntext.sq,DOUCHEBAG,"WhOa. With a capital ""O"". Is that THE Zoey Bee?","ВОу. С большой буквы «О». Это ЧТО, та самая Zoey Bee?",translated,47
+vntext.sq#74513,vntext.sq,DOUCHEBAG,Aren't you that really famous streamer? You're even cuter up close!,Ты ведь та самая знаменитая стримерша? А вживую ты ещё симпатичнее!,translated,67
+vntext.sq#74519,vntext.sq,DOUCHEBAG,"Gotta say, that is so cool! So I was thinking, maybe we can engage in a little bit of friendly co-op one of these days?","Должен сказать, это так круто! Вот я и подумал, может, как-нибудь замутим дружеский кооп?",translated,119
+vntext.sq#74520,vntext.sq,DOUCHEBAG,"If you want, we can even grind for Master-tier together. Trust me, I'm way better then those randos you queue up with!","Если хочешь, можем вместе гриндить до мастер-тира. Поверь, я реально лучше тех рандомов, с которыми тебе выпадает играть!",translated,118
+vntext.sq#74527,vntext.sq,DOUCHEBAG,"Step aside, you betas, can't you see we were having a conversation here?","А ну отойдите, бетаки, не видите, что у нас тут разговор?",translated,72
+vntext.sq#74538,vntext.sq,DOUCHEBAG,"What's up, Mood Confectioner? You suddenly a bouncer now?","Ты чего, Кондитер настроения? Вдруг стал вышибалой?",translated,57
+vntext.sq#74540,vntext.sq,DOUCHEBAG,"Man, thought Zoey was different. Turns out she's just another stuck up celebrity.","Блин, думал, Зоуи не такая. А оказалось, она просто ещё одна зазнавшаяся звезда.",translated,81
+vntext.sq#74549,vntext.sq,DOUCHEBAG,Sweet!,Класс!,translated,6
+vntext.sq#74551,vntext.sq,DOUCHEBAG,"Aww sweet, I am so down for a selfie with you!","Ооо класс, я жутко хочу селфи с тобой!",translated,46
+vntext.sq#75546,vntext.sq,DOUCHEBAG,WhOa! WhOa! WhOa! With three capital 'O's'!,ВОу! ВОу! ВОу! С тремя большими буквами «О»!,translated,43
+vntext.sq#75548,vntext.sq,DOUCHEBAG,"Hello there world, hello there ladies!","Привет, мир, привет, дамы!",translated,38
+vntext.sq#75549,vntext.sq,DOUCHEBAG,Have my ears and shaded eyes deceived me?,Неужели мои уши и затемнённые очки меня подвели?,translated,41
+vntext.sq#75550,vntext.sq,DOUCHEBAG,Are you guys talking about forming a streaming group!,"Вы там что, обсуждаете создание стримерской группы!",translated,53
+vntext.sq#75553,vntext.sq,DOUCHEBAG,"Oh wow, mood confectioner! How did you know? That's my handle!","Ого, кондитер настроения! Как ты узнал? Это же мой ник!",translated,62
+vntext.sq#75554,vntext.sq,DOUCHEBAG,I see my reputation preceeds me.,"Вижу, моя репутация меня опережает.",translated,32
+vntext.sq#75555,vntext.sq,DOUCHEBAG,Douchebag_96_supreme! And don't you forget it!,Douchebag_96_supreme! И не забывайте это!,translated,46
+vntext.sq#75557,vntext.sq,DOUCHEBAG,"Why of course! Ever since I was a small, but still well-endowed boy. People would call me douchebag all the time.","Ну конечно! Ещё с тех пор, как я был маленьким, но уже отлично одарённым мальчиком. Люди всё время звали меня douchebag.",translated,113
+vntext.sq#75558,vntext.sq,DOUCHEBAG,"But I took every single one of those insults, and forged it into an armor that I now wear proudly!","Но я взял все до единого эти оскорбления и выковал из них броню, которую теперь ношу с гордостью!",translated,98
+vntext.sq#75559,vntext.sq,DOUCHEBAG,"Ever since then I have become the mask, transformed like an incredibly manly butterfly from my testosterone-fueled cocoon!","С тех пор я стал этой маской, преобразившись, словно невероятно мужественная бабочка из своего тестостеронового кокона!",translated,122
+vntext.sq#75561,vntext.sq,DOUCHEBAG,So now that you all know my rags to riches storyline... I humbly accept!,"Так что теперь, когда вы все знаете мою историю из грязи в князи... я смиренно соглашаюсь!",translated,72
+vntext.sq#75564,vntext.sq,DOUCHEBAG,I may be a busy man. But I am [i] Game [/i] — with a capital 'G' — to join you in your pretty faced streamer house.,"Может, я и занятой человек. Но я [i] Готов [/i] — с большой буквы «Г» — присоединиться к вашему смазливому стримерскому дому.",translated,115
+vntext.sq#75565,vntext.sq,DOUCHEBAG,"Also if we're talking about names, I'm feeling partial to 'The Skedouches'.","И кстати, если уж речь о названиях, мне лично нравится вариант 'The Skedouches'.",translated,75
+vntext.sq#75567,vntext.sq,DOUCHEBAG,"I wasn't invited, I was caLLed. With two capital 'L's'. And I'm the type of man to always answer the call!","Меня не приглашали, меня приЗВАЛи. С двумя большими буквами «З». А я из тех парней, что всегда отвечают на зов!",translated,106
+vntext.sq#75568,vntext.sq,DOUCHEBAG,So where's the place?,Так где это место?,translated,21
+vntext.sq#75578,vntext.sq,DOUCHEBAG,"Embarrass myself? Oh damn, I wouldn't want to do that.","Опозорюсь? Ох чёрт, вот уж чего бы мне не хотелось.",translated,54
+vntext.sq#75579,vntext.sq,DOUCHEBAG,"Hmmm, wait — I know this feeling... self-reflection?","Хмм, погоди — знаю это чувство... самокопание?",translated,52
+vntext.sq#75580,vntext.sq,DOUCHEBAG,N-No! I hate it! Q-Quit with your mind games!,Н-нет! Ненавижу это! Х-хватит своих ментальных игр!,translated,45
+vntext.sq#75586,vntext.sq,DOUCHEBAG,Ha! Of course she is! My super hot girlfriend is cool with all my decisions.,Ха! Конечно да! Моя супергорячая девушка одобряет все мои решения.,translated,76
+vntext.sq#75587,vntext.sq,DOUCHEBAG,"W-We're like... a cool swinger couple, you hear?","М-мы вроде как... крутая свингер-парочка, усёк?",translated,48
+vntext.sq#75589,vntext.sq,DOUCHEBAG,Y-YeaH! With a capital 'H'! Trust me.,Д-даА! С большой буквы «А»! Поверь мне.,translated,37
+vntext.sq#75591,vntext.sq,DOUCHEBAG,"Awww c'mon, I can prove myself!","Да ладно вам, я могу себя проявить!",translated,31
+vntext.sq#75592,vntext.sq,DOUCHEBAG,"Z-Zoey Bee! C'mon, you know me! We had that nice chat the other day! Check out my channel! We can even play a ranked game together!","З-Zoey Bee! Да ладно, ты меня знаешь! У нас же был тот приятный разговор на днях! Загляни на мой канал! Мы даже можем сыграть рейтинговую игру вместе!",translated,131
+vntext.sq#75597,vntext.sq,DOUCHEBAG,...,...,translated,3
+vntext.sq#75598,vntext.sq,DOUCHEBAG,"Urghh... fine then. Your loss, not mine. Douchebag_96_supreme out!","Уфф... ну ладно тогда. Ваша потеря, не моя. Douchebag_96_supreme отключается!",translated,66
+vntext.sq#75599,vntext.sq,DOUCHEBAG,...,...,translated,3

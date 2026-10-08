@@ -1,0 +1,470 @@
+id,file,context,source,target,status,max_len,len_delta
+localized.sq#117,localized.sq,extras,Achievements,Достижения,translated,12,-16.7
+localized.sq#132,localized.sq,achievement,Achievement Unlocked!,Достижение получено!,translated,21,-4.8
+localized.sq#139,localized.sq,achievement,Locked,Заблокировано,translated,6,116.7
+localized.sq#157,localized.sq,gamemenu,Achievements,Достижения,translated,12,-16.7
+localized.sq#427,localized.sq,achievements,Total Achievements Unlocked: ,Всего получено достижений: ,translated,29,-6.9
+localized.sq#908,localized.sq,achievement,The First Donut!,Первый пончик!,translated,16,-12.5
+localized.sq#909,localized.sq,achievement,Serve your first donut,Подайте свой первый пончик,translated,22,18.2
+localized.sq#910,localized.sq,achievement,Meet the Best Friend,Познакомьтесь с лучшим другом,translated,20,45.0
+localized.sq#911,localized.sq,achievement,Meet Connor,Познакомьтесь с Connor,translated,11,100.0
+localized.sq#912,localized.sq,achievement,Meet the Arsonist Ex,Познакомьтесь с бывшим-поджигателем,translated,20,75.0
+localized.sq#913,localized.sq,achievement,Meet MJ,Познакомьтесь с MJ,translated,7,157.1
+localized.sq#914,localized.sq,achievement,Meet the Influencer Ex,Познакомьтесь с бывшей-инфлюенсером,translated,22,59.1
+localized.sq#915,localized.sq,achievement,Meet Stacy,Познакомьтесь с Stacy,translated,10,110.0
+localized.sq#916,localized.sq,achievement,Meet the Childhood Ex,Познакомьтесь с бывшей детства,translated,21,42.9
+localized.sq#917,localized.sq,achievement,Meet Lucy,Познакомьтесь с Lucy,translated,9,122.2
+localized.sq#918,localized.sq,achievement,Meet the High School Ex,Познакомьтесь со школьным бывшим,translated,23,39.1
+localized.sq#919,localized.sq,achievement,Meet Emmette,Познакомьтесь с Emmette,translated,12,91.7
+localized.sq#920,localized.sq,achievement,Meet the College Ex,Познакомьтесь с бывшим из колледжа,translated,19,78.9
+localized.sq#921,localized.sq,achievement,Meet Harry,Познакомьтесь с Harry,translated,10,110.0
+localized.sq#922,localized.sq,achievement,Meet the Graffiti Artist,Познакомьтесь с граффити-художником,translated,24,45.8
+localized.sq#923,localized.sq,achievement,Meet Nova,Познакомьтесь с Nova,translated,9,122.2
+localized.sq#924,localized.sq,achievement,Meet the Hardboiled Detective,Познакомьтесь с крутым детективом,translated,29,13.8
+localized.sq#925,localized.sq,achievement,Meet Detective Fox,Познакомьтесь с детективом Fox,translated,18,66.7
+localized.sq#926,localized.sq,achievement,Accessory to a Crime,Соучастник(ца) преступления,translated,20,35.0
+localized.sq#927,localized.sq,achievement,Get the bankrupt ending,Получите концовку с банкротством,translated,23,39.1
+localized.sq#928,localized.sq,achievement,Experienced Confectioner,Опытный кондитер,translated,24,-33.3
+localized.sq#929,localized.sq,achievement,Serve 100 donuts,Подайте 100 пончиков,translated,16,25.0
+localized.sq#930,localized.sq,achievement,Donut Master,Мастер пончиков,translated,12,25.0
+localized.sq#931,localized.sq,achievement,Unlock all achievements,Откройте все достижения,translated,23,0.0
+localized.sq#932,localized.sq,achievement,The Sound of Red Flags Flapping,Звук хлопающих красных флагов,translated,31,-6.5
+localized.sq#933,localized.sq,achievement,Unlock main 6 bad endings,Откройте все 6 плохих концовок основных персонажей,translated,25,100.0
+localized.sq#934,localized.sq,achievement,Maybe It Will Work This Time,"Может, в этот раз получится",translated,28,-3.6
+localized.sq#935,localized.sq,achievement,Unlock main 6 romance endings,Откройте все 6 романтических концовок основных персонажей,translated,29,96.6
+localized.sq#936,localized.sq,achievement,Dancing with the Queen,Танцы с королевой,translated,22,-22.7
+localized.sq#937,localized.sq,achievement,Unlock Stacy romance ending,Откройте романтическую концовку Stacy,translated,27,37.0
+localized.sq#938,localized.sq,achievement,Chasing the Stormchaser,Погоня за охотником на штормы,translated,23,26.1
+localized.sq#939,localized.sq,achievement,Unlock Connor romance ending,Откройте романтическую концовку Connor,translated,28,35.7
+localized.sq#940,localized.sq,achievement,Who Says You're Not Versatile? ,"Кто сказал, что ты не разносторонний(яя)? ",translated,31,35.5
+localized.sq#941,localized.sq,achievement,Unlock Harry romance ending,Откройте романтическую концовку Harry,translated,27,37.0
+localized.sq#942,localized.sq,achievement,Night at the Mink Lashings,Ночь с накладными ресницами,review,26,3.8
+localized.sq#943,localized.sq,achievement,Unlock Lucy romance ending,Откройте романтическую концовку Lucy,translated,26,38.5
+localized.sq#944,localized.sq,achievement,Webfix and Chill,Вебфликс и чилл,translated,16,-6.2
+localized.sq#945,localized.sq,achievement,Unlock MJ romance ending,Откройте романтическую концовку MJ,translated,24,41.7
+localized.sq#946,localized.sq,achievement,Keeping Fit with Emmette,Держим форму с Emmette,translated,24,-8.3
+localized.sq#947,localized.sq,achievement,Unlock Emmette romance ending,Откройте романтическую концовку Emmette,translated,29,34.5
+localized.sq#948,localized.sq,achievement,Time to Face the Past,Время взглянуть в лицо прошлому,translated,21,47.6
+localized.sq#949,localized.sq,achievement,Unlock true ending,Откройте истинную концовку,translated,18,44.4
+localized.sq#950,localized.sq,achievement,A Slave to Capitalism,Раб(а) капитализма,translated,21,-14.3
+localized.sq#951,localized.sq,achievement,Accumulate 999 gold,Накопите 999 золота,translated,19,0.0
+localized.sq#952,localized.sq,achievement,And Now For Something Different,А теперь нечто совершенно другое,translated,31,3.2
+localized.sq#953,localized.sq,achievement,Choose Whale Theme for MJ's performance,Выберите тему про китов для выступления MJ,translated,39,7.7
+localized.sq#954,localized.sq,achievement,Her Chicken Highness,Её Куриное Высочество,translated,20,5.0
+localized.sq#955,localized.sq,achievement,Discover Riri's true identity,Узнайте истинную личность Riri,translated,29,3.4
+localized.sq#956,localized.sq,achievement,An Education on Pillow Talk,Урок нежностей в постели,translated,27,-11.1
+localized.sq#957,localized.sq,achievement,Meet Jojo's fiancee,Познакомьтесь с невестой Jojo,translated,19,52.6
+localized.sq#958,localized.sq,achievement,Speaking with the Velvet Devil ,Разговор с Velvet Devil ,translated,31,-22.6
+localized.sq#959,localized.sq,achievement,Finish Zone story,Завершите историю Zone,translated,17,29.4
+localized.sq#960,localized.sq,achievement,YKINMK... Or Is It...?,YKINMK... Or Is It...?,review,22,0.0
+localized.sq#961,localized.sq,achievement,Finish Tiffany story,Завершите историю Tiffany,translated,20,25.0
+localized.sq#962,localized.sq,achievement,You and Me Against the World,Ты и я против всего мира,translated,28,-14.3
+localized.sq#963,localized.sq,achievement,Unlock Connor vs the Exes scene,Откройте сцену Connor против бывших,translated,31,12.9
+localized.sq#964,localized.sq,achievement,But Those Were Your Kaori Funds,Но это же были твои деньги на Kaori,translated,31,12.9
+localized.sq#965,localized.sq,achievement,Buy out Hamazon,Скупите весь Hamazon,translated,15,33.3
+localized.sq#966,localized.sq,achievement,Cursed Donuts,Проклятые пончики,translated,13,30.8
+localized.sq#967,localized.sq,achievement,Serve 100 bad donuts,Подайте 100 плохих пончиков,translated,20,35.0
+localized.sq#968,localized.sq,achievement,Mood Confectioner of the Year,Кондитер настроения года,translated,29,-17.2
+localized.sq#969,localized.sq,achievement,Serve 100 perfect donuts,Подайте 100 идеальных пончиков,translated,24,25.0
+localized.sq#970,localized.sq,achievement,United by Clean Day,Объединены Днём чистоты,translated,19,21.1
+localized.sq#971,localized.sq,achievement,Unlock MJ friendship ending,Откройте дружескую концовку MJ,translated,27,11.1
+localized.sq#972,localized.sq,achievement,I Know Someone Popular,Я знаю кое-кого популярного(ую),translated,22,40.9
+localized.sq#973,localized.sq,achievement,Unlock Stacy friendship ending,Откройте дружескую концовку Stacy,translated,30,10.0
+localized.sq#974,localized.sq,achievement,Friendly Rivalry,Дружеское соперничество,translated,16,43.8
+localized.sq#975,localized.sq,achievement,Unlock Harry friendship ending,Откройте дружескую концовку Harry,translated,30,10.0
+localized.sq#976,localized.sq,achievement,Letting Go of Ghosts,Отпуская призраков,translated,20,-10.0
+localized.sq#977,localized.sq,achievement,Unlock Emmette friendship ending,Откройте дружескую концовку Emmette,translated,32,9.4
+localized.sq#978,localized.sq,achievement,Grudge No More,Больше никакой обиды,translated,14,42.9
+localized.sq#979,localized.sq,achievement,Unlock Lucy friendship ending,Откройте дружескую концовку Lucy,translated,29,10.3
+localized.sq#980,localized.sq,achievement,Leaving the Nest,Покидая гнездо,translated,16,-12.5
+localized.sq#981,localized.sq,achievement,Unlock Connor friendship ending,Откройте дружескую концовку Connor,translated,31,9.7
+localized.sq#982,localized.sq,achievement,It Was Just a Dream,Это был всего лишь сон,translated,19,15.8
+localized.sq#983,localized.sq,achievement,Unlock MJ bad ending,Откройте плохую концовку MJ,translated,20,35.0
+localized.sq#984,localized.sq,achievement,ADSTACY Forever,ADSTACY навсегда,translated,15,6.7
+localized.sq#985,localized.sq,achievement,Unlock Stacy bad ending,Откройте плохую концовку Stacy,translated,23,30.4
+localized.sq#986,localized.sq,achievement,Forgiveness is For The Weak,Прощение — для слабых,translated,27,-22.2
+localized.sq#987,localized.sq,achievement,Unlock Harry bad ending,Откройте плохую концовку Harry,translated,23,30.4
+localized.sq#988,localized.sq,achievement,Ms. Over-Achiever,Мисс Отличница,translated,17,-17.6
+localized.sq#989,localized.sq,achievement,Unlock Emmette bad ending,Откройте плохую концовку Emmette,translated,25,28.0
+localized.sq#990,localized.sq,achievement,Resubscribing to Trust Issues,Повторная подписка на проблемы с доверием,translated,29,41.4
+localized.sq#991,localized.sq,achievement,Unlock Lucy bad ending,Откройте плохую концовку Lucy,translated,22,31.8
+localized.sq#992,localized.sq,achievement,From Bad to Worse,Из плохого в ещё худшее,translated,17,35.3
+localized.sq#993,localized.sq,achievement,Unlock Connor bad ending,Откройте плохую концовку Connor,translated,24,29.2
+localized.sq#994,localized.sq,achievement,All I got is this chick,"Всё, что у меня есть — эта цыпочка",translated,23,47.8
+localized.sq#995,localized.sq,achievement,Unlock Riri bad ending,Откройте плохую концовку Riri,translated,22,31.8
+localized.sq#996,localized.sq,achievement,Rich People Problems,Проблемы богатых,translated,20,-20.0
+localized.sq#997,localized.sq,achievement,Unlock Kyle bad ending,Откройте плохую концовку Kyle,translated,22,31.8
+localized.sq#998,localized.sq,achievement,The Friends We Could Have Been,"Друзья, которыми мы могли бы стать",translated,30,13.3
+localized.sq#999,localized.sq,achievement,Unlock Jojo bad ending,Откройте плохую концовку Jojo,translated,22,31.8
+localized.sq#1000,localized.sq,achievement,Nothing Wrong with R&R,Ничего плохого в отдыхе,translated,22,4.5
+localized.sq#1001,localized.sq,achievement,Unlock Zoey bad ending,Откройте плохую концовку Zoey,translated,22,31.8
+localized.sq#1002,localized.sq,achievement,Answering the Chicken Call,Ответ на куриный зов,translated,26,-23.1
+localized.sq#1003,localized.sq,achievement,Unlock Riri good ending,Откройте хорошую концовку Riri,translated,23,30.4
+localized.sq#1004,localized.sq,achievement,Not Too Bad After All,"Не так уж и плохо, в итоге",translated,21,23.8
+localized.sq#1005,localized.sq,achievement,Unlock Kyle good ending,Откройте хорошую концовку Kyle,translated,23,30.4
+localized.sq#1006,localized.sq,achievement,Congratulations!,Поздравляем!,translated,16,-25.0
+localized.sq#1007,localized.sq,achievement,Unlock Jojo good ending,Откройте хорошую концовку Jojo,translated,23,30.4
+localized.sq#1008,localized.sq,achievement,Passion Shared Is Passion Doubled,Разделённая страсть — удвоенная страсть,translated,33,18.2
+localized.sq#1009,localized.sq,achievement,Unlock Zoey good ending,Откройте хорошую концовку Zoey,translated,23,30.4
+localized.sq#1010,localized.sq,achievement,Arguing is My Love Language,Споры — мой язык любви,translated,27,-18.5
+localized.sq#1011,localized.sq,achievement,Finish Breadditor story,Завершите историю Breadditor,translated,23,21.7
+localized.sq#1012,localized.sq,achievement,Rekindling Old Passions,Возрождая старую страсть,translated,23,4.3
+localized.sq#1013,localized.sq,achievement,Finish Hipster story,Завершите историю хипстера,translated,20,30.0
+localized.sq#1014,localized.sq,achievement,He's a What?!,Он кто?!,translated,13,-38.5
+localized.sq#1015,localized.sq,achievement,Finish Kolt story,Завершите историю Kolt,translated,17,29.4
+localized.sq#1016,localized.sq,achievement,"Everything Back, Even You","Всё вернулось, даже ты",translated,25,-12.0
+localized.sq#1017,localized.sq,achievement,Finish Ainsley story,Завершите историю Ainsley,translated,20,25.0
+localized.sq#1018,localized.sq,achievement,A Purrfect Encounter,Мурр-расная встреча,translated,20,-5.0
+localized.sq#1019,localized.sq,achievement,Finish Catboi story,Завершите историю Catboi,translated,19,26.3
+localized.sq#1020,localized.sq,achievement,Enemies to Friends,От врагов к друзьям,translated,18,5.6
+localized.sq#1021,localized.sq,achievement,Finish Thumblrina story,Завершите историю Thumblrina,translated,23,21.7
+localized.sq#1022,localized.sq,achievement,Making Friends 101,Дружба для начинающих,translated,18,16.7
+localized.sq#1023,localized.sq,achievement,Finish Billie story,Завершите историю Billie,translated,19,26.3
+localized.sq#1024,localized.sq,achievement,Anger Management,Управление гневом,translated,16,6.2
+localized.sq#1025,localized.sq,achievement,Finish Cody story,Завершите историю Cody,translated,17,29.4
+localized.sq#1026,localized.sq,achievement,"Say Cheese, MC!","Скажи «сыр», MC!",translated,15,6.7
+localized.sq#1027,localized.sq,achievement,Finish Sam story,Завершите историю Sam,translated,16,31.2
+localized.sq#1028,localized.sq,achievement,A Duet with Adam,Дуэт с Adam,translated,16,-31.2
+localized.sq#1029,localized.sq,achievement,Finish Adam story,Завершите историю Adam,translated,17,29.4
+localized.sq#1030,localized.sq,achievement,Soul Searching,Поиски себя,translated,14,-21.4
+localized.sq#1031,localized.sq,achievement,Finish Sally story,Завершите историю Sally,translated,18,27.8
+localized.sq#1032,localized.sq,achievement,Sometimes Distance is the Key,Иногда дистанция — это ключ,translated,29,-6.9
+localized.sq#1033,localized.sq,achievement,Finish Dexie story,Завершите историю Dexie,translated,18,27.8
+localized.sq#1034,localized.sq,achievement,I wAnnA be bAby,I wAnnA be bAby,review,15,0.0
+localized.sq#1035,localized.sq,achievement,Finish Douchebag story,Завершите историю козла,translated,22,4.5
+localized.sq#1036,localized.sq,achievement,Danger and Love are the Same,Опасность и любовь — одно и то же,translated,28,17.9
+localized.sq#1037,localized.sq,achievement,Finish Debora story,Завершите историю Debora,translated,19,26.3
+localized.sq#1038,localized.sq,achievement,The True Meaning of Hardboiled,Истинный смысл слова «крутой»,translated,30,-3.3
+localized.sq#1039,localized.sq,achievement,Finish Detective Fox story,Завершите историю детектива Fox,translated,26,19.2
+localized.sq#1040,localized.sq,achievement,NOVA WAS HERE,NOVA ЗДЕСЬ БЫЛА,translated,13,15.4
+localized.sq#1041,localized.sq,achievement,Finish Nova story,Завершите историю Nova,translated,17,29.4
+localized.sq#1042,localized.sq,achievement,You're the Master of Closure!,Ты мастер(ица) закрытия гештальтов!,translated,29,20.7
+localized.sq#1043,localized.sq,achievement,Unlock main 6 good endings,Откройте все 6 хороших концовок основных персонажей,translated,26,96.2
+localized.sq#1044,localized.sq,achievement,Donut Grimoire 100%,Гримуар пончиков на 100%,translated,19,26.3
+localized.sq#1045,localized.sq,achievement,Discover all recipes,Откройте все рецепты,translated,20,0.0
+localized.sq#1046,localized.sq,achievement,1SA Newbie,Новичок в 1SA,translated,10,30.0
+localized.sq#1047,localized.sq,achievement,Play 1SA for the first time,Сыграйте в 1SA впервые,translated,27,-18.5
+localized.sq#1048,localized.sq,achievement,1SA Prodigy... or so Cody says,Вундеркинд 1SA... по словам Cody,translated,30,6.7
+localized.sq#1049,localized.sq,achievement,Prove your 1SA chops,Докажите свои навыки в 1SA,translated,20,30.0
+localized.sq#1050,localized.sq,achievement,No Take-Backs,Обратно не заберёшь,translated,13,46.2
+localized.sq#1051,localized.sq,achievement,Ignore the customer's change of heart,"Проигнорируйте, что клиент передумал",translated,37,-2.7
+localized.sq#1052,localized.sq,achievement,You Read Someone's Diary,Ты прочитал(а) чей-то дневник,translated,24,20.8
+localized.sq#1053,localized.sq,achievement,Did you wish you didn't?,Пожалел(а) об этом?,translated,24,-20.8
+localized.sq#1054,localized.sq,achievement,Cheering On the Cheerleader!,Болеем за черлидершу!,translated,28,-25.0
+localized.sq#1055,localized.sq,achievement,Get Dexie fired up,Заведите Dexie,translated,18,-22.2
+localized.sq#1056,localized.sq,achievement,Enjoy the Guilt-Ramen,Насладитесь виноватым раменом,translated,21,38.1
+localized.sq#1057,localized.sq,achievement,Keep the secret from Adam,Скройте секрет от Adam,translated,25,-12.0
+localized.sq#1058,localized.sq,achievement,"Welcome Home, Cheater","С возвращением, изменщик(ца)",translated,21,33.3
+localized.sq#1059,localized.sq,achievement,Tell Adam the truth,Расскажите Adam правду,translated,19,15.8
+localized.sq#1060,localized.sq,achievement,Are Those Bodyguards...?,"Это что, телохранители...?",translated,24,8.3
+localized.sq#1061,localized.sq,achievement,Ask Debora for help,Попросите помощи у Debora,translated,19,31.6
+localized.sq#1062,localized.sq,achievement,Telenovela Addict,Зависимость от теленовелл,translated,17,47.1
+localized.sq#1063,localized.sq,achievement,Watch all episodes of Ghosts Fighting Over Fighting Damsels,"Посмотрите все серии «Призраки, дерущиеся за дерущихся дам»",translated,59,0.0
+localized.sq#1064,localized.sq,achievement,Occult Club Reunion,Воссоединение оккультного клуба,translated,19,63.2
+localized.sq#1065,localized.sq,achievement,Party with old friends,Потусуйтесь со старыми друзьями,translated,22,40.9
+localized.sq#1066,localized.sq,achievement,Opening Pandora's Box,Открывая ящик Пандоры,translated,21,0.0
+localized.sq#1067,localized.sq,achievement,Flirt with your best friend,Флиртуйте с лучшим другом,translated,27,-7.4
+localized.sq#1068,localized.sq,achievement,But I MUST Rizz,Но я ДОЛЖЕН(НА) рызить,review,15,46.7
+localized.sq#1069,localized.sq,achievement,Flirt with Stacy in front of Adam,Флиртуйте со Stacy на глазах у Adam,translated,33,6.1
+localized.sq#1070,localized.sq,achievement,Give Me Your Worst ,Дай мне самое худшее ,translated,19,10.5
+localized.sq#1071,localized.sq,achievement,Give Elias what he asks for,"Дайте Elias то, что он просит",translated,27,7.4
+localized.sq#1072,localized.sq,achievement,Completing the Meine Quest,Завершая квест Meine,translated,26,-23.1
+localized.sq#1073,localized.sq,achievement,Unlock all of Emmette and Emma's scenes,Откройте все сцены Emmette и Emma,translated,39,-15.4
+localized.sq#1074,localized.sq,achievement,Ménage à Trois (Platonic),Menage à trois (платонический),translated,25,20.0
+localized.sq#1075,localized.sq,achievement,"Unlock all of Stacy, Adam, and Sam's scenes","Откройте все сцены Stacy, Adam и Sam",translated,43,-16.3
+localized.sq#1076,localized.sq,achievement,Don't Tell Connor About This,Не говорите об этом Connor,translated,28,-7.1
+localized.sq#1077,localized.sq,achievement,Give Elisa a Post-Nut Clarity,Подарите Elisa пончик «ясность после»,review,29,27.6
+localized.sq#1078,localized.sq,achievement,A Literal Sugar Parent,Буквально сладкий спонсор,translated,22,13.6
+localized.sq#1079,localized.sq,achievement,Use all your funds to make one donut,Потратьте все деньги на один пончик,translated,36,-2.8
+localized.sq#1080,localized.sq,achievement,We Survived!,Мы выжили!,translated,12,-16.7
+localized.sq#1081,localized.sq,achievement,Reach 100 days without going bankrupt,Продержитесь 100 дней без банкротства,translated,37,0.0
+localized.sq#1082,localized.sq,achievement,Participation Trophy,Приз за участие,translated,20,-25.0
+localized.sq#1083,localized.sq,achievement,Trigger the bankrupt scene within 100 days,Вызовите сцену банкротства в первые 100 дней,translated,42,4.8
+localized.sq#1084,localized.sq,achievement,Basic Bitch,Обычная пустышка,translated,11,45.5
+localized.sq#1085,localized.sq,achievement,Choose Macchiato,Выберите макиато,translated,16,0.0
+localized.sq#1086,localized.sq,achievement,Edgelord,Мрачный позёр,translated,8,62.5
+localized.sq#1087,localized.sq,achievement,Choose 'Brew as Dark as My Empty Heart' ,"Выберите «Кофе тёмный, как моё пустое сердце»",translated,40,12.5
+localized.sq#1088,localized.sq,achievement,A Person of Fine Taste,Человек с тонким вкусом,translated,22,4.5
+localized.sq#1089,localized.sq,achievement,Choose Exotic Coffee,Выберите экзотический кофе,translated,20,30.0
+localized.sq#1090,localized.sq,achievement,Vanilla Forever,Ваниль навсегда,translated,15,0.0
+localized.sq#1091,localized.sq,achievement,Serve Connor a vanilla donut even if it's not what he asks for,"Подайте Connor ванильный пончик, даже если он просил другое",translated,62,-4.8
+localized.sq#1092,localized.sq,achievement,Master Haggler,Мастер торга,translated,14,-14.3
+localized.sq#1093,localized.sq,achievement,Haggle with Stacy,Поторгуйтесь со Stacy,translated,17,23.5
+localized.sq#1094,localized.sq,achievement,Someone's Being Proactive!,Кто-то тут проявляет инициативу!,translated,26,23.1
+localized.sq#1095,localized.sq,achievement,Confess to Stacy first,Признайтесь Stacy первым(ой),translated,22,27.3
+localized.sq#1096,localized.sq,achievement,Write Someone Else's Fate,Напишите чужую судьбу,translated,25,-16.0
+localized.sq#1097,localized.sq,achievement,Decide on POM POM POUNDER's backstory,Придумайте предысторию POM POM POUNDER,translated,37,2.7
+localized.sq#1098,localized.sq,achievement,Date Someone You Can Debate,"Встречайтесь с тем, с кем можно спорить",translated,27,44.4
+localized.sq#1099,localized.sq,achievement,Play matchmaker to two debaters,Сосватайте двух спорщиков,translated,31,-19.4
+localized.sq#1100,localized.sq,achievement,#1 Fan,Фанат №1,translated,6,33.3
+localized.sq#1101,localized.sq,achievement,Listen to all of MJ's songs,Прослушайте все песни MJ,translated,27,-11.1
+localized.sq#1102,localized.sq,achievement,Quack!,Кря!,translated,6,-33.3
+localized.sq#1103,localized.sq,achievement,Meet the best boy ,Познакомьтесь с лучшим мальчиком ,translated,18,83.3
+localized.sq#1104,localized.sq,achievement,I Just Wanted To Check In...,"Я просто хотел(а) узнать, как дела...",translated,28,32.1
+localized.sq#1105,localized.sq,achievement,Add all of your exes on Facenook,Добавьте всех бывших в Facenook,translated,32,-3.1
+localized.sq#1106,localized.sq,achievement,You're Always on Your Phone,Ты вечно в телефоне,translated,27,-29.6
+localized.sq#1107,localized.sq,achievement,Add everyone on Facenook,Добавьте всех в друзья в Facenook,translated,24,37.5
+localized.sq#1108,localized.sq,achievement,Terminally Online,Овнлайнен(а) до предела,translated,17,35.3
+localized.sq#1109,localized.sq,achievement,Unlock all social media posts,Откройте все посты в соцсетях,translated,29,0.0
+localized.sq#1110,localized.sq,achievement,Defying Brevity,Вопреки краткости,translated,15,13.3
+localized.sq#1111,localized.sq,achievement,Inspire Emmette ,Вдохновите Emmette ,translated,16,18.8
+localized.sq#1112,localized.sq,achievement,No One Mourns The Wretched,Никто не скорбит по «Wretched»,translated,26,15.4
+localized.sq#1113,localized.sq,achievement,Convince Emmette to stay focused on her goal,Убедите Emmette не отступать от цели,translated,44,-18.2
+localized.sq#1114,localized.sq,achievement,Opening Up,Открываясь,translated,10,0.0
+localized.sq#1115,localized.sq,achievement,Have a heart to heart with MJ,Поговорите с MJ по душам,translated,29,-17.2
+localized.sq#1116,localized.sq,achievement,Let's Not Talk About It,Давай не будем об этом,translated,23,-4.3
+localized.sq#1117,localized.sq,achievement,Bottle it all up. Sharing is for losers.,Держите всё в себе. Делиться — удел неудачников.,translated,40,20.0
+localized.sq#1118,localized.sq,achievement,I Told You So!,А я говорил(а)!,translated,14,7.1
+localized.sq#1119,localized.sq,achievement,It's a great song!,Это отличная песня!,translated,18,5.6
+localized.sq#1120,localized.sq,achievement,That's My Childhood!,Это же моё детство!,translated,20,-5.0
+localized.sq#1121,localized.sq,achievement,"It's a great song, okay?","Это отличная песня, ясно?",translated,24,4.2
+localized.sq#1122,localized.sq,achievement,A Cold Silence,Холодное молчание,translated,14,21.4
+localized.sq#1123,localized.sq,achievement,Give MJ nothing,Не дайте MJ ничего,translated,15,20.0
+localized.sq#1124,localized.sq,achievement,A Warm Embrace,Тёплые объятия,translated,14,0.0
+localized.sq#1125,localized.sq,achievement,Reassure MJ,Успокойте MJ,translated,11,9.1
+localized.sq#1126,localized.sq,achievement,Right In Front of My Donut?,Прямо перед моим пончиком?,translated,27,-3.7
+localized.sq#1127,localized.sq,achievement,Pretend to be LonelyFans Royalty,Притворитесь королевской особой LonelyFans,translated,32,31.2
+localized.sq#1128,localized.sq,achievement,Sending the Boys Over,Высылаю ребят,translated,21,-38.1
+localized.sq#1129,localized.sq,achievement,Show off what you learned from Lucky,"Покажите, чему научились у Lucky",translated,36,-11.1
+localized.sq#1130,localized.sq,achievement,Matchmaker ,Сваха/сват ,translated,11,0.0
+localized.sq#1131,localized.sq,achievement,Promise to introduce Kyle to someone,Пообещайте познакомить Kyle с кем-то,translated,36,0.0
+localized.sq#1132,localized.sq,achievement,Chicken Expert,Эксперт по курам,translated,14,14.3
+localized.sq#1133,localized.sq,achievement,"Teach me everything, Riri-sensei","Научи меня всему, Riri-сэнсэй",translated,32,-9.4
+localized.sq#1134,localized.sq,achievement,The True Heroism of Chickens,Истинный героизм кур,translated,28,-28.6
+localized.sq#1135,localized.sq,achievement,Find out about Riri's past,Узнайте о прошлом Riri,translated,26,-15.4
+localized.sq#1136,localized.sq,achievement,"Really, Buddy? ","Серьёзно, дружище? ",translated,15,26.7
+localized.sq#1137,localized.sq,achievement,"You should know this, buddy.","Ты должен это знать, дружище.",translated,28,3.6
+localized.sq#1138,localized.sq,achievement,Master of Avoidance,Мастер избегания,translated,19,-15.8
+localized.sq#1139,localized.sq,achievement,Tell Connor nothing,Не говорите Connor ничего,translated,19,31.6
+localized.sq#1140,localized.sq,achievement,Darned if you do...,"И так плохо, и так плохо...",translated,19,42.1
+localized.sq#1141,localized.sq,achievement,Hit on Connor when he's down,"Подкатите к Connor, когда он расклеился",translated,28,39.3
+localized.sq#1142,localized.sq,achievement,Say My Name,Назови моё имя,translated,11,27.3
+localized.sq#1143,localized.sq,achievement,Ask Connor to say your name,Попросите Connor назвать ваше имя,translated,27,22.2
+localized.sq#1144,localized.sq,achievement,A Zoey By Any Other Name,Zoey под любым другим именем,translated,24,16.7
+localized.sq#1145,localized.sq,achievement,Learn Zoey's government name,Узнайте настоящее имя Zoey,translated,28,-7.1
+localized.sq#1146,localized.sq,achievement,Terminally Touching Grass,Патологически трогает траву,translated,25,8.0
+localized.sq#1147,localized.sq,achievement,Prove your Boomer status,Докажите свой статус бумера,translated,24,12.5
+localized.sq#1148,localized.sq,achievement,Beneath the (Wrestling) Mask,Под (рестлинг-)маской,translated,28,-25.0
+localized.sq#1149,localized.sq,achievement,Good thing you didn't make a mistake,"Хорошо, что вы не ошиблись",translated,36,-27.8
+localized.sq#1150,localized.sq,achievement,"Do as I Say, Not as I Do","Делай, как я говорю, а не как я делаю",translated,24,54.2
+localized.sq#1151,localized.sq,achievement,Tell Emma to be honest,Попросите Emma быть честной,translated,22,22.7
+localized.sq#1152,localized.sq,achievement,Keeper of Secrets,Хранитель(ница) секретов,translated,17,41.2
+localized.sq#1153,localized.sq,achievement,Let Emma keep her secrets,Позвольте Emma сохранить свои секреты,translated,25,48.0
+localized.sq#1154,localized.sq,achievement,Memories of the Past,Воспоминания о прошлом,translated,20,10.0
+localized.sq#1155,localized.sq,achievement,Listen to Emma reminisce ,Послушайте воспоминания Emma ,translated,25,16.0
+localized.sq#1156,localized.sq,achievement,A Second Shot,Второй шанс,translated,13,-15.4
+localized.sq#1157,localized.sq,achievement,Listen to Emma's advice,Прислушайтесь к совету Emma,translated,23,17.4
+localized.sq#1158,localized.sq,achievement,Even After All This Time...,Даже спустя столько времени...,translated,27,11.1
+localized.sq#1159,localized.sq,achievement,Find out about Emmette's feelings,Узнайте о чувствах Emmette,translated,33,-21.2
+localized.sq#1160,localized.sq,achievement,What Could've Been,Что могло бы быть,translated,18,-5.6
+localized.sq#1161,localized.sq,achievement,Tell Emmette about what could have been ,"Расскажите Emmette о том, что могло бы быть ",translated,40,10.0
+localized.sq#1162,localized.sq,achievement,A Tune I Couldn't Forget,"Мелодия, которую не забыть",translated,24,8.3
+localized.sq#1163,localized.sq,achievement,Give Emmette a passion donut,Подарите Emmette пончик со страстью,translated,28,25.0
+localized.sq#1164,localized.sq,achievement,A Musical's Note,Нота мюзикла,translated,16,-25.0
+localized.sq#1165,localized.sq,achievement,Get Emmette fired up before the musical,Зарядите Emmette перед мюзиклом,translated,39,-20.5
+localized.sq#1166,localized.sq,achievement,How Did I Miss That One?,Как я это пропустил(а)?,translated,24,-4.2
+localized.sq#1167,localized.sq,achievement,Find a poster for a past concert,Найдите постер прошлого концерта,translated,32,0.0
+localized.sq#1168,localized.sq,achievement,It's Complicated,Всё сложно,translated,16,-37.5
+localized.sq#1169,localized.sq,achievement,Be honest about your past relationship with MJ,Будьте честны насчёт прошлых отношений с MJ,translated,46,-6.5
+localized.sq#1170,localized.sq,achievement,This is my Rocker Girlfriend,Это моя девушка-рокерша,translated,28,-17.9
+localized.sq#1171,localized.sq,achievement,Date MJ before her collaboration with Emmette,Встречайтесь с MJ до её коллаборации с Emmette,translated,45,2.2
+localized.sq#1172,localized.sq,achievement,How about a Jelly Donut?,Как насчёт пончика с желе?,translated,24,8.3
+localized.sq#1173,localized.sq,achievement,Listen to MJ's plans to flirt with Emmette,Послушайте план MJ пофлиртовать с Emmette,translated,42,-2.4
+localized.sq#1174,localized.sq,achievement,Your Boyfriend's Here!,Твой парень здесь!,translated,22,-18.2
+localized.sq#1175,localized.sq,achievement,Date Connor before the Occult Club Reunion,Встречайтесь с Connor до воссоединения оккультного клуба,translated,42,33.3
+localized.sq#1176,localized.sq,achievement,Everyone Does Win,Тут все выигрывают,translated,17,5.9
+localized.sq#1177,localized.sq,achievement,Be in a dating triangle with Emmette and MJ,Окажитесь в любовном треугольнике с Emmette и MJ,translated,43,11.6
+localized.sq#1178,localized.sq,achievement,Romancing the Occult,Роман с оккультизмом,translated,20,0.0
+localized.sq#1179,localized.sq,achievement,Date both Emmette and Connor,"Встречайтесь и с Emmette, и с Connor",translated,28,28.6
+localized.sq#1180,localized.sq,achievement,"Nice to See You Again, Honest!","Рад(а) видеть тебя снова, честно!",translated,30,10.0
+localized.sq#1181,localized.sq,achievement,Serve Lucy the correct donut ,Подайте Lucy правильный пончик ,translated,29,6.9
+localized.sq#1182,localized.sq,achievement,She Had a Goth Phase?,У неё была готическая фаза?,translated,21,28.6
+localized.sq#1183,localized.sq,achievement,Unlock a memory Lucy wishes to forget,"Откройте воспоминание, которое Lucy хочет забыть",translated,37,29.7
+localized.sq#1184,localized.sq,achievement,She Must Not Know!,Она не должна узнать!,translated,18,16.7
+localized.sq#1185,localized.sq,achievement,Hide your romantic shenanigans from Lucy,Скройте свои романтические похождения от Lucy,translated,40,12.5
+localized.sq#1186,localized.sq,achievement,Get My Mind Outta the Gutter!,Выброси это из головы!,translated,29,-24.1
+localized.sq#1187,localized.sq,achievement,Serve Lucy a distracting donut,Подайте Lucy отвлекающий пончик,translated,30,3.3
+localized.sq#1188,localized.sq,achievement,He'll Always Be My Player 2,Он навсегда останется моим Игроком 2,translated,27,33.3
+localized.sq#1189,localized.sq,achievement,Give a nostalgia donut to Zoey,Подарите Zoey пончик с ностальгией,translated,30,13.3
+localized.sq#1190,localized.sq,achievement,There! I Finally Said It!,Вот! Я наконец сказал(а) это!,translated,25,16.0
+localized.sq#1191,localized.sq,achievement,Tell Lucy the Reason behind your donut names,"Расскажите Lucy, почему вы так называете пончики",translated,44,9.1
+localized.sq#1192,localized.sq,achievement,My Purr-ecious,Моя мурр-лесть,review,14,0.0
+localized.sq#1193,localized.sq,achievement,Ask Lucy for a Fursuit,Попросите у Lucy фурсьют,translated,22,9.1
+localized.sq#1194,localized.sq,achievement,Closure Needs Hard Work,Закрытие гештальта требует труда,translated,23,39.1
+localized.sq#1195,localized.sq,achievement,Tell Lucy about how you got closure,"Расскажите Lucy, как вы обрели покой",translated,35,2.9
+localized.sq#1196,localized.sq,achievement,You'd Get Along With Emma,Вы бы поладили с Emma,translated,25,-16.0
+localized.sq#1197,localized.sq,achievement,Tell Lucy she'd get along with Emma,"Скажите Lucy, что она поладила бы с Emma",translated,35,14.3
+localized.sq#1198,localized.sq,achievement,Time to Face These Feelings,Пора взглянуть в лицо этим чувствам,translated,27,29.6
+localized.sq#1199,localized.sq,achievement,Tell Sally you still have feelings for Lucy,"Признайтесь Sally, что всё ещё влюблены в Lucy",translated,43,7.0
+localized.sq#1200,localized.sq,achievement,Are You Even Surprised?,Ты вообще удивлён(а)?,translated,23,-8.7
+localized.sq#1201,localized.sq,achievement,Find out about Lucy's kinks,Узнайте о фетишах Lucy,translated,27,-18.5
+localized.sq#1202,localized.sq,achievement,Making Things Right...,Исправляя ошибки...,translated,22,-13.6
+localized.sq#1203,localized.sq,achievement,Tell Lucy that you want to atone,"Скажите Lucy, что хотите искупить вину",translated,32,18.8
+localized.sq#1204,localized.sq,achievement,Donuts are Donuts,Пончики есть пончики,translated,17,17.6
+localized.sq#1205,localized.sq,achievement,Your signature recipe does not matter,Ваш фирменный рецепт не имеет значения,translated,37,2.7
+localized.sq#1206,localized.sq,achievement,Let's Volt In!,"Вольтрон, вперёд!",review,14,21.4
+localized.sq#1207,localized.sq,achievement,Listen to Stacy talk about her childhood ,Послушайте рассказ Stacy о детстве ,translated,41,-14.6
+localized.sq#1208,localized.sq,achievement,Best Boyfriend Ever!,Лучший парень на свете!,translated,20,15.0
+localized.sq#1209,localized.sq,achievement,Get Connor to hype you up,Заставьте Connor вас похвалить,translated,25,20.0
+localized.sq#1210,localized.sq,achievement,"Listening to Chismis, Ha?","Слушаем сплетни, да?",translated,25,-20.0
+localized.sq#1211,localized.sq,achievement,Eavesdrop on Adam's phone call,Подслушайте телефонный звонок Adam,translated,30,13.3
+localized.sq#1212,localized.sq,achievement,I am a Person of Honor.,Я человек чести.,translated,23,-30.4
+localized.sq#1213,localized.sq,achievement,Choose to not eavesdrop,Решите не подслушивать,translated,23,-4.3
+localized.sq#1214,localized.sq,achievement,I Need to Know...,Мне нужно знать...,translated,17,5.9
+localized.sq#1215,localized.sq,achievement,Confront Stacy about the past,Поговорите со Stacy начистоту о прошлом,translated,29,34.5
+localized.sq#1216,localized.sq,achievement,IS THAT A JOVAN REFERENCE?,ЭТО ОТСЫЛКА НА JOVAN?,translated,26,-19.2
+localized.sq#1217,localized.sq,achievement,Say your name is actually Jovan Brostar,"Скажите, что на самом деле вас зовут Jovan Brostar",translated,39,28.2
+localized.sq#1218,localized.sq,achievement,SHE REMEMBERED!,ОНА ЗАПОМНИЛА!,translated,15,-6.7
+localized.sq#1219,localized.sq,achievement,Have Stacy call you Jovan,Пусть Stacy назовёт вас Jovan,translated,25,16.0
+localized.sq#1220,localized.sq,achievement,ANOTHER JOVAN REFERENCE?,ЕЩЁ ОДНА ОТСЫЛКА НА JOVAN?,translated,24,8.3
+localized.sq#1221,localized.sq,achievement,Have Stacy call you Jovan... again!,Пусть Stacy снова назовёт вас Jovan...!,translated,35,11.4
+localized.sq#1222,localized.sq,achievement,I KNEW IT!,Я ТАК И ЗНАЛ(А)!,translated,10,60.0
+localized.sq#1223,localized.sq,achievement,Ask Adam about his special ability,Спросите Adam о его особой способности,translated,34,11.8
+localized.sq#1224,localized.sq,achievement,"Yeah, No...","Да, нет...",translated,11,-9.1
+localized.sq#1225,localized.sq,achievement,Set boundaries with Stacy,Установите границы со Stacy,translated,25,8.0
+localized.sq#1226,localized.sq,achievement,A Glass for the Soul,Стакан для души,translated,20,-25.0
+localized.sq#1227,localized.sq,achievement,Ask Stacy about the past,Спросите Stacy о прошлом,translated,24,0.0
+localized.sq#1228,localized.sq,achievement,Can You Be Plainer?,"Может, попроще?",translated,19,-21.1
+localized.sq#1229,localized.sq,achievement,Fail to give Zoey a plain donut ,Не сумейте дать Zoey простой пончик ,translated,32,12.5
+localized.sq#1230,localized.sq,achievement,Might As Well ,Была не была ,translated,14,-7.1
+localized.sq#1231,localized.sq,achievement,Ask Zoey for a threeway,Попросите Zoey о тройничке,translated,23,13.0
+localized.sq#1232,localized.sq,achievement,And That's How It Started!,Вот так всё и началось!,translated,26,-11.5
+localized.sq#1233,localized.sq,achievement,Discover a bit of Billie's past ,Узнайте немного о прошлом Billie ,translated,32,3.1
+localized.sq#1234,localized.sq,achievement,I Play It for the Plot,Я играю ради сюжета,translated,22,-13.6
+localized.sq#1235,localized.sq,achievement,Listen to Billie's confession,Выслушайте признание Billie,translated,29,-6.9
+localized.sq#1236,localized.sq,achievement,"Rats, I Won!","Чёрт, я выиграл(а)!",translated,12,58.3
+localized.sq#1237,localized.sq,achievement,Win Billie's guessing game ,Выиграйте в игру-угадайку Billie ,translated,27,22.2
+localized.sq#1238,localized.sq,achievement,An Inspiring Speech,Вдохновляющая речь,translated,19,-5.3
+localized.sq#1239,localized.sq,achievement,Give an inspiring speech about DOLALFS,Произнесите вдохновляющую речь про DOLALFS,translated,38,10.5
+localized.sq#1240,localized.sq,achievement,How Dare.,Как ты смеешь.,translated,9,55.6
+localized.sq#1241,localized.sq,achievement,Call DOLALFS mid,Назовите DOLALFS «мидом»,translated,16,50.0
+localized.sq#1242,localized.sq,achievement,Save Points. Safe Places.,Точки сохранения. Безопасные места.,translated,25,40.0
+localized.sq#1243,localized.sq,achievement,Get Zoey to talk about save points,Разговорите Zoey о точках сохранения,translated,34,5.9
+localized.sq#1244,localized.sq,achievement,Just Clear Your History After,Просто зачистите историю браузера потом,translated,29,34.5
+localized.sq#1245,localized.sq,achievement,Learn about strange internet fetishes,Узнайте о странных интернет-фетишах,translated,37,-5.4
+localized.sq#1246,localized.sq,achievement,She's Got a Discerning Taste.,У неё изысканный вкус.,translated,29,-24.1
+localized.sq#1247,localized.sq,achievement,Get Zoey to talk about Mood Enhancers ,Разговорите Zoey об усилителях настроения ,translated,38,10.5
+localized.sq#1248,localized.sq,achievement,LOCK IN. LET'S GO.,СОБЕРИСЬ. ПОЕХАЛИ.,translated,18,0.0
+localized.sq#1249,localized.sq,achievement,Talk about Harry's beautiful eyes,Поговорите о красивых глазах Harry,translated,33,3.0
+localized.sq#1250,localized.sq,achievement,Blueberry Worked Wonders,Черника сотворила чудо,translated,24,-8.3
+localized.sq#1251,localized.sq,achievement,Get Harry to open up a bit ,Заставьте Harry немного раскрыться ,translated,27,29.6
+localized.sq#1252,localized.sq,achievement,Mr. Perfect is Kinda Weird,Мистер Идеал немного странноват,translated,26,19.2
+localized.sq#1253,localized.sq,achievement,Get Harry to talk about the Teeth Man ,Разговорите Harry о Зубном человеке ,translated,38,-5.3
+localized.sq#1254,localized.sq,achievement,The Past Comes Back to Bite,"Прошлое возвращается, чтобы укусить",translated,27,29.6
+localized.sq#1255,localized.sq,achievement,Empathize with Harry,Посочувствуйте Harry,translated,20,0.0
+localized.sq#1256,localized.sq,achievement,Of Course You'd Pick That ;),"Конечно, ты бы это выбрал(а) ;)",translated,28,10.7
+localized.sq#1257,localized.sq,achievement,Tell Harry about the horny cake ,Расскажите Harry про пошлый торт ,translated,32,3.1
+localized.sq#1258,localized.sq,achievement,He Just Really Likes Hamsters,Он просто очень любит хомяков,translated,29,0.0
+localized.sq#1259,localized.sq,achievement,Find out about Harry's hamster fascination,Узнайте об увлечении Harry хомяками,translated,42,-16.7
+localized.sq#1260,localized.sq,achievement,He Sees Dead People?,Он видит мёртвых?,translated,20,-15.0
+localized.sq#1261,localized.sq,achievement,Get Harry to talk about seeing ghosts,"Разговорите Harry о том, что он видит призраков",translated,37,27.0
+localized.sq#1262,localized.sq,achievement,It's Kinda Hard to Let It Go,Не так-то просто отпустить,translated,28,-7.1
+localized.sq#1263,localized.sq,achievement,The relationship is simple but also clean,"Отношения простые, но чистые",translated,41,-31.7
+localized.sq#1264,localized.sq,achievement,You Said the Thing!,Ты это сказал(а)!,translated,19,-10.5
+localized.sq#1265,localized.sq,achievement,"Her relationship is indeed, complicated",Её отношения и правда сложные,translated,39,-25.6
+localized.sq#1266,localized.sq,achievement,Mama's Girl,Мамина дочка,translated,11,9.1
+localized.sq#1267,localized.sq,achievement,Get Ainsley to talk about about her mom ,Разговорите Ainsley о её маме ,translated,40,-25.0
+localized.sq#1268,localized.sq,achievement,He Really Was a Skater Boy,Он и правда был Skater Boy,translated,26,0.0
+localized.sq#1269,localized.sq,achievement,Get Ainsley to talk about Kolt,Разговорите Ainsley о Kolt,translated,30,-13.3
+localized.sq#1270,localized.sq,achievement,And That's Why I Love You,Вот за что я тебя люблю,translated,25,-8.0
+localized.sq#1271,localized.sq,achievement,Get Ainsley and Kolt back together,Сведите Ainsley и Kolt обратно,translated,34,-11.8
+localized.sq#1272,localized.sq,achievement,The Besties We Used to Be,"Лучшие подруги, какими мы были",translated,25,20.0
+localized.sq#1273,localized.sq,achievement,Get Ainsley and Kolt's friendship ending,Откройте дружескую концовку Ainsley и Kolt,translated,40,5.0
+localized.sq#1274,localized.sq,achievement,I Know the Wright Guy ,Я знаю нужного парня ,review,22,-4.5
+localized.sq#1275,localized.sq,achievement,Tell Cody that you need to call your lawyer,"Скажите Cody, что вам нужно позвонить адвокату",translated,43,7.0
+localized.sq#1276,localized.sq,achievement,There's Still Something There,Что-то всё ещё есть,translated,29,-34.5
+localized.sq#1277,localized.sq,achievement,Admit that you still like Harry,"Признайтесь, что всё ещё нравится Harry",translated,31,25.8
+localized.sq#1278,localized.sq,achievement,It's About Time I Say It...,Пора уже это сказать...,translated,27,-14.8
+localized.sq#1279,localized.sq,achievement,Apologize to Harry,Извинитесь перед Harry,translated,18,22.2
+localized.sq#1280,localized.sq,achievement,Stoic Silence,Стоическое молчание,translated,13,46.2
+localized.sq#1281,localized.sq,achievement,Give Harry the silent treatment,Устройте Harry бойкот,translated,31,-32.3
+localized.sq#1282,localized.sq,achievement,Did I Make a Mistake?,Я совершил(а) ошибку?,translated,21,0.0
+localized.sq#1283,localized.sq,achievement,Get the Cheerleader to flirt back ,Заставьте черлидершу флиртовать в ответ ,translated,34,17.6
+localized.sq#1284,localized.sq,achievement,This is a Safe Space,Это безопасное пространство,translated,20,35.0
+localized.sq#1285,localized.sq,achievement,Get Cheerleader to open up about her kinks,Разговорите черлидершу о её фетишах,translated,42,-16.7
+localized.sq#1286,localized.sq,achievement,The Monster We Created,"Монстр, которого мы создали",translated,22,22.7
+localized.sq#1287,localized.sq,achievement,Hear about murderer roleplay,Узнайте про ролплей маньяка,translated,28,-3.6
+localized.sq#1288,localized.sq,achievement,A New Fanfic Writer is Born,Родился новый автор фанфиков,translated,27,3.7
+localized.sq#1289,localized.sq,achievement,Get the Cheerleader into fanfiction,Приобщите черлидершу к фанфикам,translated,35,-11.4
+localized.sq#1290,localized.sq,achievement,At Least She's Having Fun?,Хотя бы ей весело?,translated,26,-30.8
+localized.sq#1291,localized.sq,achievement,Get the Cheerleader to embrace her kinks,Помогите черлидерше принять свои фетиши,translated,40,-2.5
+localized.sq#1292,localized.sq,achievement,Zoey Defender,Защитник(ца) Zoey,translated,13,30.8
+localized.sq#1293,localized.sq,achievement,Listen to Breadditor defending Zoey,"Послушайте, как Breadditor защищает Zoey",translated,35,14.3
+localized.sq#1294,localized.sq,achievement,A Robot T-Rex?,Робот-тираннозавр?,translated,14,28.6
+localized.sq#1295,localized.sq,achievement,Get Kolt to invent a robot T-Rex,Заставьте Kolt изобрести робота-тираннозавра,translated,32,37.5
+localized.sq#1296,localized.sq,achievement,It Was Always Chicken,Это всегда была курица,translated,21,4.8
+localized.sq#1297,localized.sq,achievement,Convince Emma to embrace the chicken story,Убедите Emma принять куриную историю,translated,42,-14.3
+localized.sq#1298,localized.sq,achievement,Born to Play a Brostar,Рождён(а) играть Brostar,translated,22,9.1
+localized.sq#1299,localized.sq,achievement,Get Emma into JST,Приобщите Emma к JST,translated,17,17.6
+localized.sq#1300,localized.sq,achievement,"Secret Assassin, Chapter 1","Тайный убийца, глава 1",translated,26,-15.4
+localized.sq#1301,localized.sq,achievement,Talk about Zone's secret job,Поговорите о тайной работе Zone,translated,28,10.7
+localized.sq#1302,localized.sq,achievement,Dying on that Hill,Стоять на своём до конца,translated,18,33.3
+localized.sq#1303,localized.sq,achievement,Serve Kyle a bad donut,Подайте Kyle плохой пончик,translated,22,18.2
+localized.sq#1304,localized.sq,achievement,Walkout Expert,Эксперт по уходам,translated,14,21.4
+localized.sq#1305,localized.sq,achievement,Have a customer walk out of the Hotbox,Пусть клиент уйдёт из Hotbox,translated,38,-26.3
+localized.sq#1306,localized.sq,achievement,Keep the Fire Burning,Поддерживайте огонь,translated,21,-9.5
+localized.sq#1307,localized.sq,achievement,Serve MJ a burned donut,Подайте MJ подгоревший пончик,translated,23,26.1
+localized.sq#1308,localized.sq,achievement,Velvet Devil's Ire,Гнев Velvet Devil,translated,18,-5.6
+localized.sq#1309,localized.sq,achievement,Serve Zone fresh strawberries,Подайте Zone свежую клубнику,translated,29,-3.4
+localized.sq#1310,localized.sq,achievement,Trolling the Troll,Троллим тролля,translated,18,-22.2
+localized.sq#1311,localized.sq,achievement,Serve Breadditor rainbow sprinkles,Подайте Breadditor радужную посыпку,translated,34,2.9
+localized.sq#1312,localized.sq,achievement,The Glaze Is Too Expensive,Глазурь слишком дорогая,translated,26,-11.5
+localized.sq#1313,localized.sq,achievement,Serve 10 plain donuts,Подайте 10 простых пончиков,translated,21,28.6
+localized.sq#1314,localized.sq,achievement,Donut Vibe Check ,Проверка вайба пончика ,translated,17,35.3
+localized.sq#1315,localized.sq,achievement,Unlock the Neutral Ending,Откройте нейтральную концовку,translated,25,16.0
+localized.sq#1316,localized.sq,achievement,"Step on Me, Mommy","Наступи на меня, мамочка",translated,17,41.2
+localized.sq#1317,localized.sq,achievement,Serve Debora 5 bad donuts,Подайте Debora 5 плохих пончиков,translated,25,28.0
+localized.sq#1318,localized.sq,achievement,Make Me One With Everything,Сделай меня единым со всем,translated,27,-3.7
+localized.sq#1319,localized.sq,achievement,Serve a donut with all the ingredients,Подайте пончик со всеми ингредиентами,translated,38,-2.6
+localized.sq#1320,localized.sq,achievement,POM POM POUNDER fan,Фанат(ка) POM POM POUNDER,translated,19,31.6
+localized.sq#1321,localized.sq,achievement,Finish Emma story,Завершите историю Emma,translated,17,29.4
+localized.sq#1322,localized.sq,achievement,Progress is Progress,Прогресс есть прогресс,translated,20,10.0
+localized.sq#1323,localized.sq,achievement,Finish Elisa story,Завершите историю Elisa,translated,18,27.8
+localized.sq#1324,localized.sq,achievement,The Chicken has Landed!,Курица приземлилась!,translated,23,-13.0
+localized.sq#1325,localized.sq,achievement,Meet Riri,Познакомьтесь с Riri,translated,9,122.2
+localized.sq#1326,localized.sq,achievement,"He Gets Better, We Promise","Дальше он станет лучше, обещаем",translated,26,19.2
+localized.sq#1327,localized.sq,achievement,Meet Kyle,Познакомьтесь с Kyle,translated,9,122.2
+localized.sq#1328,localized.sq,achievement,We Can't Stop Looking at Him,Мы не можем перестать на него смотреть,translated,28,35.7
+localized.sq#1329,localized.sq,achievement,Meet Jojo,Познакомьтесь с Jojo,translated,9,122.2
+localized.sq#1330,localized.sq,achievement,Gamer Girl Spotted!,Замечена геймерша!,translated,19,-5.3
+localized.sq#1331,localized.sq,achievement,Meet Zoey,Познакомьтесь с Zoey,translated,9,122.2
+localized.sq#1332,localized.sq,achievement,Mysterious Lady Likes Donuts,Загадочной леди нравятся пончики,translated,28,14.3
+localized.sq#1333,localized.sq,achievement,Meet Debora,Познакомьтесь с Debora,translated,11,100.0
+localized.sq#1334,localized.sq,achievement,Meet the Other Meine,Познакомьтесь с другим(ой) Meine,translated,20,60.0
+localized.sq#1335,localized.sq,achievement,Meet Emma,Познакомьтесь с Emma,translated,9,122.2
+localized.sq#1336,localized.sq,achievement,Meet the Furry Artist,Познакомьтесь с furry-художником(цей),translated,21,76.2
+localized.sq#1337,localized.sq,achievement,Meet Sally,Познакомьтесь с Sally,translated,10,110.0
+localized.sq#1338,localized.sq,achievement,Meet the Secret Weeb,Познакомьтесь с тайным(ой) виибом,translated,20,65.0
+localized.sq#1339,localized.sq,achievement,Meet Dexie,Познакомьтесь с Dexie,translated,10,110.0
+localized.sq#1340,localized.sq,achievement,"Man, It's Really Him","Блин, это реально он",translated,20,0.0
+localized.sq#1341,localized.sq,achievement,Meet Cody,Познакомьтесь с Cody,translated,9,122.2
+localized.sq#1342,localized.sq,achievement,Meet the Boyfriend (?!),Познакомьтесь с парнем (?!),translated,23,17.4
+localized.sq#1343,localized.sq,achievement,Meet Adam,Познакомьтесь с Adam,translated,9,122.2
+localized.sq#1344,localized.sq,achievement,Meet the Velvet Devil,Познакомьтесь с Velvet Devil,translated,21,33.3
+localized.sq#1345,localized.sq,achievement,Meet Zone,Познакомьтесь с Zone,translated,9,122.2
+localized.sq#1346,localized.sq,achievement,Meet Another Cute Streamer,Познакомьтесь с ещё одним(ой) милым(ой) стримером(шей),translated,26,107.7
+localized.sq#1347,localized.sq,achievement,Meet Billie,Познакомьтесь с Billie,translated,11,100.0
+localized.sq#1348,localized.sq,achievement,Meet Elisa Again,Познакомьтесь с Elisa снова,translated,16,68.8
+localized.sq#1349,localized.sq,achievement,Meet Elisa,Познакомьтесь с Elisa,translated,10,110.0
+localized.sq#1350,localized.sq,achievement,So This is Sam!,Так вот какой Sam!,translated,15,20.0
+localized.sq#1351,localized.sq,achievement,Meet Sam,Познакомьтесь с Sam,translated,8,137.5
+localized.sq#1352,localized.sq,achievement,Meet the Fujoshi,Познакомьтесь с фудзёси,translated,16,43.8
+localized.sq#1353,localized.sq,achievement,Meet Thumblrina,Познакомьтесь с Thumblrina,translated,15,73.3
+localized.sq#1354,localized.sq,achievement,Meet the Stoner,Познакомьтесь со стоунером,translated,15,73.3
+localized.sq#1355,localized.sq,achievement,Meet Kolt,Познакомьтесь с Kolt,translated,9,122.2
+localized.sq#1356,localized.sq,achievement,She Sounds Familiar...,Голос знакомый...,translated,22,-22.7
+localized.sq#1357,localized.sq,achievement,Meet Ainsley,Познакомьтесь с Ainsley,translated,12,91.7
+localized.sq#1358,localized.sq,achievement,Meet the Sus Cheerleader,Познакомьтесь с подозрительной черлидершей,translated,24,75.0
+localized.sq#1359,localized.sq,achievement,Meet Cheerleader,Познакомьтесь с черлидершей,translated,16,68.8
+localized.sq#1360,localized.sq,achievement,Meet the Breadditor,Познакомьтесь с Breadditor,translated,19,36.8
+localized.sq#1361,localized.sq,achievement,Meet Breadditor,Познакомьтесь с Breadditor,translated,15,73.3
+localized.sq#1362,localized.sq,achievement,A Future Bestselling Author,Будущий автор бестселлеров,translated,27,-3.7
+localized.sq#1363,localized.sq,achievement,Meet Elias,Познакомьтесь с Elias,translated,10,110.0
+localized.sq#1364,localized.sq,achievement,Nyice to Meet You,Мряятно познакомиться,review,17,23.5
+localized.sq#1365,localized.sq,achievement,Meet Catboi,Познакомьтесь с Catboi,translated,11,100.0
+localized.sq#1366,localized.sq,achievement,Did You Forget Your Pants?,Ты забыл(а) штаны?,translated,26,-30.8
+localized.sq#1367,localized.sq,achievement,Meet Douchebag,Познакомьтесь с козлом,translated,14,57.1
+localized.sq#1368,localized.sq,achievement,We're In This Together,Мы в этом вместе,translated,22,-27.3
+localized.sq#1369,localized.sq,achievement,Sympathize with Elisa,Посочувствуйте Elisa,translated,21,-4.8
+localized.sq#1370,localized.sq,achievement,You Call That An Apology?,И это ты называешь извинением?,translated,25,20.0
+localized.sq#1371,localized.sq,achievement,Get angry at Elisa,Разозлитесь на Elisa,translated,18,16.7

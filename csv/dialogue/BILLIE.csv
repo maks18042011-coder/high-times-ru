@@ -1,0 +1,581 @@
+id,file,context,source,target,status,max_len
+vntext.sq#1196,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#1197,vntext.sq,BILLIE,Uh... hi there!,Э-э... привет!,translated,15
+vntext.sq#1199,vntext.sq,BILLIE,"Oh, uhm... yes, please. I've seen people talking about it online so I kinda wanted to try it out. From what I've read, this place is becoming quite popular!","Ох, эм... да, пожалуйста. Я видела, как люди обсуждают это онлайн, и решила попробовать. Судя по тому, что я читала, это место становится довольно популярным!",translated,156
+vntext.sq#1200,vntext.sq,BILLIE,I'm also... uh... new to this. So do you have any tips on how I should go about this?,"Я тоже... эм... тут впервые. У тебя есть советы, как мне быть?",translated,85
+vntext.sq#1204,vntext.sq,BILLIE,Hmmm...,Хм...,translated,7
+vntext.sq#1205,vntext.sq,BILLIE,"So recently, I've been feeling like I'm both [i] too [/i] connected and not connected with anything at all.","В общем, в последнее время я чувствую себя [i] слишком [/i] на связи и в то же время совсем не на связи ни с чем.",translated,107
+vntext.sq#1206,vntext.sq,BILLIE,"I spend most of my time online and see hundreds of posts and photos and memes, and I feel like we're talking to an abyss and not really listening to what other people are saying. And just this morning, I called my mom 'chat'...","Я провожу большую часть времени онлайн, вижу сотни постов, фото и мемов, и такое чувство, будто мы говорим в бездну, а не слушаем по-настоящему друг друга. А сегодня утром я вообще назвала маму «чат»...",translated,227
+vntext.sq#1207,vntext.sq,BILLIE,Loneliness is really starting to get to me...,Одиночество и правда начинает меня доставать...,translated,45
+vntext.sq#1209,vntext.sq,BILLIE,"I said something weird again. Aha.... forget I said that, okay? Let's start over!","Я опять сказала что-то странное. Ха... забудь, что я сказала, ладно? Давай начнём сначала!",translated,81
+vntext.sq#1218,vntext.sq,BILLIE,I... I see...,Я... понятно...,translated,13
+vntext.sq#1219,vntext.sq,BILLIE,So is there like... a mood enhancer that'll help with loneliness?,Так есть какой-нибудь... усилитель настроения от одиночества?,translated,65
+vntext.sq#1224,vntext.sq,BILLIE,"Huh, I see... in that case...","Хм, понятно... в таком случае...",translated,29
+vntext.sq#1225,vntext.sq,BILLIE,You know where you end up thinking of like the hundreds of ways something could go wrong? I get nervous and sometimes end up second-guessing every little thing I do...,"Знаешь, когда начинаешь думать о сотне способов, как всё может пойти не так? Я нервничаю и иногда начинаю сомневаться в каждой мелочи, что делаю...",translated,167
+vntext.sq#1226,vntext.sq,BILLIE,Do you have a mood that can help with that kind of doubt?,"У тебя есть настроение, которое поможет с такими сомнениями?",translated,57
+vntext.sq#1235,vntext.sq,BILLIE,Hmm… maybe something to help me feel braver? Or something that could give me some clarity so I don't have to second-guess myself all the time. I think any of those might help.,"Хм... может, что-то, что придаст мне смелости? Или что-то, что даст ясности, чтобы я не сомневалась в себе постоянно. Думаю, любое из этого поможет.",translated,175
+vntext.sq#1236,vntext.sq,BILLIE,"Don't forget my {$tastes:sour} ${toppings}, like those {$toppings:fresh_strawpium}.","Не забудь мои {$tastes:sour} ${toppings}, вроде тех {$toppings:fresh_strawpium}.",translated,83
+vntext.sq#1242,vntext.sq,BILLIE,"Oh... uhm... I'm sorry, but I don't think this donut is... very good. Did you get something wrong?","Ох... эм... извини, но, кажется, этот пончик не очень... удался. Ты что-то напутал?",translated,98
+vntext.sq#1246,vntext.sq,BILLIE,"Oh, are you sure? Because if it's too much trouble—","Ой, ты уверен? Потому что если это слишком хлопотно—",translated,51
+vntext.sq#1249,vntext.sq,BILLIE,Oh... it's like suddenly all my fears are melting away and I'm not as scared to make mistakes...,"Ох... как будто все мои страхи вдруг тают, и я уже не так боюсь ошибиться...",translated,96
+vntext.sq#1250,vntext.sq,BILLIE,"Huh... you know what? My mind feels like... really clear, you know? I feel like I can {$moods:focus} on the things that really matter — blocking out all my worries.","Хм... знаешь что? У меня в голове будто бы... совсем прояснилось. Чувствую, что могу {$moods:focus} на том, что действительно важно — отсекая все переживания.",translated,164
+vntext.sq#1251,vntext.sq,BILLIE,"Hey, this is a really nice flavor. It's funny, I feel like I can really open up now. I suppose that's the first step, right?","Эй, это правда приятный вкус. Забавно, но чувствую, что теперь могу по-настоящему раскрыться. Наверное, это первый шаг, да?",translated,124
+vntext.sq#1254,vntext.sq,BILLIE,"I see... so this is how Mood Enhancers work... so I guess... this here's the first step, huh?","Понятно... вот как работают усилители настроения... наверное... вот он, первый шаг, да?",translated,93
+vntext.sq#1255,vntext.sq,BILLIE,"Huh... might not have been the best donut, but thanks for trying.","Хм... может, это был не лучший пончик, но спасибо за попытку.",translated,65
+vntext.sq#1256,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#1257,vntext.sq,BILLIE,"Heh, it's funny... talking about loneliness. It's not like I don't talk to people.","Хех, забавно... говорить об одиночестве. Не то чтобы я не общаюсь с людьми.",translated,82
+vntext.sq#1258,vntext.sq,BILLIE,"In fact, I stream for a living, so putting myself out there is kind of my thing.","На самом деле я зарабатываю на жизнь стримами, так что показывать себя миру — это вроде как моя фишка.",translated,80
+vntext.sq#1259,vntext.sq,BILLIE,"Thinking about it, I guess if I'm feeling this way, it probably means I need to try making more friends outside of work.","Если подумать, наверное, раз я так себя чувствую, значит мне нужно попробовать завести больше друзей вне работы.",translated,120
+vntext.sq#1260,vntext.sq,BILLIE,But... where do I start?,Но... с чего начать?,translated,24
+vntext.sq#1267,vntext.sq,BILLIE,"R-Really? Heh, all right then!","П-правда? Хех, ну ладно тогда!",translated,30
+vntext.sq#1269,vntext.sq,BILLIE,You're right! I guess it's all about just working up the courage to approach someone new.,"Ты прав! Наверное, всё дело в том, чтобы набраться смелости подойти к кому-то новому.",translated,89
+vntext.sq#1271,vntext.sq,BILLIE,"Hmmm, that's a good point. I'll try brainstorming on ways I can make that happen.","Хм, дельная мысль. Попробую придумать, как это устроить.",translated,81
+vntext.sq#1272,vntext.sq,BILLIE,"Oh, where are my manners! I'm Billie, by the way!","Ох, а где мои манеры! Кстати, я Билли!",translated,49
+vntext.sq#1274,vntext.sq,BILLIE,Thanks for the donut... and the advice! I'll see you around!,Спасибо за пончик... и за совет! Увидимся!,translated,60
+vntext.sq#1276,vntext.sq,BILLIE,"Hello there, MC!","Привет, MC!",translated,16
+vntext.sq#1278,vntext.sq,BILLIE,"Yup, short for Mood Confectioner! Or main character if you're feeling self-important.","Ага, сокращённо от «Кондитер настроения»! Или «главный герой», если тебе хочется звучать важно.",translated,85
+vntext.sq#1280,vntext.sq,BILLIE,"Suit yourself, hehe~","Как хочешь, хехе~",translated,20
+vntext.sq#1282,vntext.sq,BILLIE,"Heh, well, I've been thinking about what you said last time.","Хех, ну, я тут думала о том, что ты сказал в прошлый раз.",translated,60
+vntext.sq#1283,vntext.sq,BILLIE,"About you being my friend... Once someone's stopped being a stranger, it gets a lot easier to talk to people, you know?","Про то, что ты будешь моим другом... Когда кто-то перестаёт быть незнакомцем, становится намного проще разговаривать с людьми, понимаешь?",translated,119
+vntext.sq#1284,vntext.sq,BILLIE,I've resolved to start talking to more people in real life!,Я решила начать больше общаться с людьми в реальной жизни!,translated,59
+vntext.sq#1285,vntext.sq,BILLIE,I'm planning to start a community! Now the hard part is looking for people who've got the same interests.,Планирую создать сообщество! Теперь сложная часть — найти людей с такими же интересами.,translated,105
+vntext.sq#1286,vntext.sq,BILLIE,I like playing video games so I suppose... I just gotta find the right people.,"Мне нравится играть в видеоигры, так что, наверное... мне просто нужно найти нужных людей.",translated,78
+vntext.sq#1287,vntext.sq,BILLIE,"Moving to San Mazo, I left a lot of my old circles behind. I initially started playing games online so I could have a space to hang out with people.","Переехав в Сан-Мазо, я оставила позади многие свои старые компании. Я начала играть в игры онлайн, чтобы иметь место, где можно тусоваться с людьми.",translated,148
+vntext.sq#1288,vntext.sq,BILLIE,"And then... well, I got more popular, and now I stream regularly.","А потом... ну, я стала популярнее, и теперь стримлю регулярно.",translated,65
+vntext.sq#1289,vntext.sq,BILLIE,"Been learning a lot from it — how to cultivate a community, set boundaries, y'know that sort of thing.","Многому научилась благодаря этому — как выстраивать сообщество, устанавливать границы, ну, всё такое.",translated,102
+vntext.sq#1290,vntext.sq,BILLIE,"And so while that's great and all, I think it's time to get back to expanding my horizons.","И хотя это всё здорово, думаю, пора снова расширять горизонты.",translated,90
+vntext.sq#1291,vntext.sq,BILLIE,So I guess now's a good time to start re-building my IRL friend groups!,"Так что, думаю, сейчас самое время снова строить круг друзей в реальной жизни!",translated,71
+vntext.sq#1292,vntext.sq,BILLIE,"On that note — oh, oh! Do you have a mood that can help me be more forward when it comes to interacting with people in person?","Кстати — ох, ох! У тебя есть настроение, которое поможет мне быть смелее в общении с людьми вживую?",translated,126
+vntext.sq#1293,vntext.sq,BILLIE,"I'm not picky! Whether it's something that'll help calm down my nerves, or encourage me to really put myself out there, I'm game for anything!","Я не привередливая! Что-то, что успокоит нервы, или что-то, что подтолкнёт меня по-настоящему проявить себя — я готова на всё!",translated,142
+vntext.sq#1311,vntext.sq,BILLIE,"Heh... You know, I'm a lot more outgoing online. But that's because it's easier to bear rejection when you can't see the other person.","Хех... знаешь, онлайн я намного общительнее. Но это потому, что легче пережить отказ, когда не видишь человека.",translated,134
+vntext.sq#1312,vntext.sq,BILLIE,"...But I don't think it's a good idea to [i] assume [/i] I'd get rejected from the start, right?","...Но, наверное, не стоит [i] заранее считать [/i], что меня отвергнут, да?",translated,96
+vntext.sq#1313,vntext.sq,BILLIE,Oh that's more like it!,"О, вот это уже другое дело!",translated,23
+vntext.sq#1314,vntext.sq,BILLIE,It's never easy just... starting a conversation with a stranger. But this donut is really getting me fired up!,Никогда не просто вот так... начать разговор с незнакомцем. Но этот пончик реально меня заряжает!,translated,110
+vntext.sq#1315,vntext.sq,BILLIE,Whew! I can do this!,Уф! Я справлюсь!,translated,20
+vntext.sq#1316,vntext.sq,BILLIE,"In fact, I feel like I can talk to a ton of people right now... you know, like a speed dating event, except for making friends?","На самом деле, чувствую, что могу сейчас поговорить с кучей народа... знаешь, как скоростные свидания, только для заведения друзей?",translated,127
+vntext.sq#1317,vntext.sq,BILLIE,"Oh, this is interesting!","Ох, это интересно!",translated,24
+vntext.sq#1318,vntext.sq,BILLIE,I suppose one needs to be calm and ${patient} when meeting new people... Right. I can do this!,"Наверное, нужно быть спокойной и ${patient}, знакомясь с новыми людьми... Точно. Я справлюсь!",translated,94
+vntext.sq#1319,vntext.sq,BILLIE,"A {$flavors:matchajuana} donut, huh?","Пончик со вкусом {$flavors:matchajuana}, значит?",translated,36
+vntext.sq#1320,vntext.sq,BILLIE,I do feel less anxious! This is exactly what I needed.,"И правда чувствую себя менее тревожно! Это именно то, что мне было нужно.",translated,54
+vntext.sq#1327,vntext.sq,BILLIE,Ha! Thanks! Now I'm really pumped to put my plans into action!,Ха! Спасибо! Теперь я реально готова воплотить свои планы в жизнь!,translated,62
+vntext.sq#1328,vntext.sq,BILLIE,I'll see you around!,Увидимся!,translated,20
+vntext.sq#1331,vntext.sq,BILLIE,MC! Hiya!,MC! Привет!,translated,9
+vntext.sq#1332,vntext.sq,BILLIE,Check it out! I made a new friend!,Гляди! Я завела новую подругу!,translated,34
+vntext.sq#1334,vntext.sq,BILLIE,"That may be true, but our shared love for Jovan's Shocking Travels has turbo-boosted our relationship!","Может, и так, но наша общая любовь к «Шокирующим приключениям Джована» турбо-ускорила наши отношения!",translated,102
+vntext.sq#1338,vntext.sq,BILLIE,"Anyway, I was just trying to get my new friend here into the DOLALFS fandom!","В общем, я как раз пыталась затащить свою новую подругу в фандом DOLALFS!",translated,76
+vntext.sq#1339,vntext.sq,BILLIE,"And yeah, I know the game can be super sweaty as hell, but the characters are all so hot!","И да, я знаю, игра может быть жутко задротской, но персонажи все такие горячие!",translated,89
+vntext.sq#1341,vntext.sq,BILLIE,"Yeah! And you don't even need to play the game if you don't want — they're giving each character their own anime, so just watch those and you're fine!","Ага! И тебе даже не обязательно играть в саму игру — у каждого персонажа теперь своё аниме, так что можно просто смотреть их, и всё в порядке!",translated,150
+vntext.sq#1342,vntext.sq,BILLIE,(Though I swear I'll show you the ropes if you ever do wanna play).,"(Хотя, клянусь, я всё покажу, если ты вдруг захочешь поиграть).",translated,67
+vntext.sq#1344,vntext.sq,BILLIE,In celebration — oh! Let's split a donut!,В честь этого — ой! Давай разделим пончик!,translated,41
+vntext.sq#1345,vntext.sq,BILLIE,"What mood would be best for people who are getting into a fandom, hmmm... I guess you're the expert in this, MC.","Какое настроение лучше всего подойдёт тем, кто только вливается в фандом, хм... наверное, ты в этом эксперт, MC.",translated,112
+vntext.sq#1360,vntext.sq,BILLIE,"Oh, {$mcName}... dare I say that donut was not it?","Ох, {$mcName}... осмелюсь сказать, это не то?",translated,50
+vntext.sq#1364,vntext.sq,BILLIE,"Hey, no worries! But thank you. I expect an amazing donut next time though, hehe!","Эй, никаких проблем! Но спасибо. Правда, в следующий раз жду потрясающий пончик, хехе!",translated,81
+vntext.sq#1368,vntext.sq,BILLIE,Oh yeah... that's what I'm talking about! I feel like I drank four cups of coffee but without the jitters. Heh! I can start filling you in on the deep lore of the game!,"Ох да... вот об этом я и говорю! Чувствую, будто выпила четыре чашки кофе, но без нервной дрожи. Хех! Могу начать рассказывать тебе глубокий лор игры!",translated,168
+vntext.sq#1369,vntext.sq,BILLIE,"Oh that's the creative juices flowing! The fan art, the fan fiction, the video essays! DOLALFS offers all of these in heaps! [i] Heaps! [/i]","Ох, вот он, творческий поток! Фан-арт, фанфики, видео-эссе! DOLALFS предлагает всё это в изобилии! [i] В изобилии! [/i]",translated,140
+vntext.sq#1370,vntext.sq,BILLIE,"Hehehe, of course, sweet and simple! Fandoms should make you happy! So as long as you ingest everything from the sidelines and never play the game, it should all be fun!","Хехехе, конечно, просто и мило! Фандомы должны приносить радость! Так что пока ты потребляешь всё со стороны и никогда не играешь в саму игру, всё будет весело!",translated,169
+vntext.sq#1371,vntext.sq,BILLIE,"Ahhh, yes! The {$moods:passion}! We're already indulging in a fictional universe, why not just put our heart and soul into it!","Ааах, да! {$moods:passion}! Мы и так уже погружены в вымышленную вселенную, так почему бы не вложить в неё душу и сердце!",translated,126
+vntext.sq#1375,vntext.sq,BILLIE,"Hmm... I guess {$moods:patience} isn't too bad. I kinda thought I could use a push, but I guess this also works...","Хм... наверное, {$moods:patience} не так уж плохо. Я думала, мне нужен толчок, но и это тоже подходит...",translated,114
+vntext.sq#1376,vntext.sq,BILLIE,"Huh... this isn't really the mood I'd associate with DOLALFS since it's a high-pressure, high-intensity game. But I guess it's fine?","Хм... это не совсем то настроение, которое я бы связала с DOLALFS — игра-то напряжённая, высокоинтенсивная. Но, наверное, тоже неплохо?",translated,132
+vntext.sq#1377,vntext.sq,BILLIE,"Honestly... as much as I love DOLALFS, I gotta say, just never ever play the game! It will make you smash your keyboard!","Если честно... как бы я ни любила DOLALFS, скажу прямо: никогда, вообще никогда не играй в саму игру! Она заставит тебя разбить клавиатуру!",translated,120
+vntext.sq#1378,vntext.sq,BILLIE,"...Huh, am I being too honest?","...Хм, я, кажется, слишком честна?",translated,30
+vntext.sq#1379,vntext.sq,BILLIE,"Ahhh, I remember the first time I logged in to DOLALFS... it was... a horrible experience! I had no idea what I was doing and my teammates kept calling me an E-girl!","Аах, помню, как первый раз зашла в DOLALFS... это был... ужасный опыт! Я понятия не имела, что делаю, а тиммейты постоянно называли меня и-девочкой!",translated,165
+vntext.sq#1380,vntext.sq,BILLIE,"Ha! All right, this mood fills me up with {$moods:courage}... which seems more like a mood I'd need to play the game, not talk about it.","Ха! Ладно, это настроение наполняет меня {$moods:courage}... что больше похоже на настроение для самой игры, а не для разговоров о ней.",translated,136
+vntext.sq#1382,vntext.sq,BILLIE,"Anyway, we're off to discuss our common interests!","В общем, мы пошли обсуждать наши общие интересы!",translated,50
+vntext.sq#1383,vntext.sq,BILLIE,"See ya, {$mcName}!","Увидимся, {$mcName}!",translated,18
+vntext.sq#1387,vntext.sq,BILLIE,"Hiya, MC!","Привет, MC!",translated,9
+vntext.sq#1390,vntext.sq,BILLIE,"Life's been... eventful. New place, new streamer group... I'm surprised it's all happening.","Жизнь была... насыщенной. Новое место, новая стримерская группа... сама удивляюсь, что всё это происходит.",translated,91
+vntext.sq#1391,vntext.sq,BILLIE,"On that note: it was a tough battle. Lives were lost, last minute super powers were unlocked, but we managed to finally catch the last of those pesky rats!","Кстати: это была тяжёлая битва. Были потери, в последний момент открылись суперспособности, но мы наконец-то изловили последних из этих надоедливых крыс!",translated,155
+vntext.sq#1392,vntext.sq,BILLIE,Our new place is now rodent free! Heck yeah!,Наше новое жильё теперь свободно от грызунов! Вот это да!,translated,44
+vntext.sq#1393,vntext.sq,BILLIE,"A moment of silence for Zoey — she gave her life dealing the final blow to the Skevin Rat-Rot, the great Rat King.","Минута молчания в честь Зоуи — она отдала жизнь, нанеся последний удар Скевину Крысогнилу, великому Крысиному Королю.",translated,114
+vntext.sq#1397,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#1398,vntext.sq,BILLIE,She got better.,Она поправилась.,translated,15
+vntext.sq#1400,vntext.sq,BILLIE,"We were all screaming, Zoey. But the point is, we won in the end.","Мы все визжали, Зоуи. Но суть в том, что в итоге мы победили.",translated,65
+vntext.sq#1403,vntext.sq,BILLIE,You read my mind!,Ты читаешь мои мысли!,translated,17
+vntext.sq#1404,vntext.sq,BILLIE,"Oh and on top of that, look who's back for a visit!","Ах да, и вдобавок — смотри, кто вернулся в гости!",translated,51
+vntext.sq#1409,vntext.sq,BILLIE,"With Zoey back, I think this calls for a donut!","Раз уж Зоуи вернулась, думаю, это повод для пончика!",translated,47
+vntext.sq#1412,vntext.sq,BILLIE,"And for the second flavor, make it something that matches my class! I'm playing a stealthy sniper, so it's all about lurking in the shadows, waiting ${patiently} for the right time to strike!","А для второго вкуса сделай что-то, что подходит под мой класс! Я играю скрытным снайпером, так что всё дело в том, чтобы прятаться в тени и ${patiently} ждать нужного момента для удара!",translated,191
+vntext.sq#1423,vntext.sq,BILLIE,Thanks!,Спасибо!,translated,7
+vntext.sq#1426,vntext.sq,BILLIE,Oh man. This donut could be better.,"Ох, блин. Этот пончик мог бы быть и получше.",translated,35
+vntext.sq#1428,vntext.sq,BILLIE,There's really no way this could be made any worse.,Хуже это уже сделать было бы просто невозможно.,translated,51
+vntext.sq#1430,vntext.sq,BILLIE,"Hehe, just make sure the next one is good okay?","Хехе, просто убедись, что следующий будет хорош, ладно?",translated,47
+vntext.sq#1435,vntext.sq,BILLIE,"Ahhh, and this other mood you've put... this is nice and mellow. While Zoey's got them distracted, I'll wait for the right moment and... bam! Shoot them with my plus two eldritch sniper rifle!","Аах, а вот это, другое настроение... приятное и мягкое. Пока Зоуи их отвлекает, я подожду нужного момента и... бам! Подстрелю их из своей потусторонней снайперки +2!",translated,192
+vntext.sq#1436,vntext.sq,BILLIE,And the criss cross pattern! Perfect! Striped like a firefight!,"И узор в клетку! Идеально! Полосатый, как перестрелка!",translated,63
+vntext.sq#1439,vntext.sq,BILLIE,"Ahh, the feeling of ${patiently} waiting for just the right moment. This is definitely my class. But for Zoey...","Аах, это чувство ${patiently} ожидания нужного момента. Это точно мой класс. А вот у Зоуи...",translated,112
+vntext.sq#1443,vntext.sq,BILLIE,"Sadly, this doesn't hit the mark for me.","К сожалению, для меня это мимо.",translated,40
+vntext.sq#1444,vntext.sq,BILLIE,The other mood you put doesn't really fit my playstyle.,Второе настроение не очень подходит под мой стиль игры.,translated,55
+vntext.sq#1445,vntext.sq,BILLIE,"Hmm, there's a difference between ${patiently} waiting and ${relaxing}... this one is more on the latter.","Хм, есть разница между ${patiently} ожиданием и ${relaxing}... это скорее второе.",translated,105
+vntext.sq#1447,vntext.sq,BILLIE,"Hey, are you okay? Like I don't think this is the flavor I need tonight, but it [i] is [/i] making me feel like I should tell you that I think you need to take break.","Эй, ты в порядке? В смысле, не думаю, что это тот вкус, который мне нужен сегодня, но он [i] правда [/i] заставляет меня почувствовать, что стоит сказать тебе: тебе нужен перерыв.",translated,166
+vntext.sq#1448,vntext.sq,BILLIE,"You ever miss going to college? Like at least in college, we knew we're gonna graduate at some point, right? But I don't want to graduate from life yet...","Тебе никогда не хочется обратно в колледж? Ну хотя бы там мы знали, что рано или поздно выпустимся, да? А вот из жизни выпускаться мне пока не хочется...",translated,154
+vntext.sq#1449,vntext.sq,BILLIE,"While we could all use some focus when we play games, this doesn't really match the classes we're playing.","Хотя нам всем не помешал бы фокус во время игры, это не очень подходит под наши классы.",translated,106
+vntext.sq#1451,vntext.sq,BILLIE,"Heh, though we are having fun with the game, this doesn't really match the classes we're playing.","Хех, хоть нам и весело играть, это не очень подходит под наши классы.",translated,97
+vntext.sq#1453,vntext.sq,BILLIE,"Hehe, {$moods:passion} isn't bad... but it's a teeny tiny bit off target, {$mcName}.","Хехе, {$moods:passion} — это неплохо... но самую капельку мимо цели, {$mcName}.",translated,84
+vntext.sq#1455,vntext.sq,BILLIE,Though this does ${inspire} me to come up with cool team attacks... it's not the mood we wanted.,"Хотя это и ${inspire} меня придумывать крутые командные атаки... это не то настроение, которое мы хотели.",translated,96
+vntext.sq#1457,vntext.sq,BILLIE,"Right, now that I've got some of my energy back... time to get some gaming done!","Так, теперь, когда я немного восстановила силы... пора наконец поиграть!",translated,80
+vntext.sq#1459,vntext.sq,BILLIE,"Yeah, I'll manage! It's not the right donut, but as long as I'm awake, I can game!","Ага, справлюсь! Пончик не тот, но пока я не сплю — могу играть!",translated,82
+vntext.sq#1461,vntext.sq,BILLIE,"See you later, {$mcName}!","Увидимся, {$mcName}!",translated,25
+vntext.sq#1463,vntext.sq,BILLIE,MC! Hiya! Guess who's back? It's me! Billie!,"MC! Привет! Угадай, кто вернулся? Это я! Билли!",translated,44
+vntext.sq#1465,vntext.sq,BILLIE,Heh... the streamer group is going along really well! Our combined online presence is really helping us get our name out there!,Хех... у стримерской группы всё идёт отлично! Наше совместное присутствие онлайн реально помогает нам заявить о себе!,translated,127
+vntext.sq#1466,vntext.sq,BILLIE,And Zoey is breaking records! I'm so proud of her!,А Зоуи бьёт рекорды! Я так ею горжусь!,translated,50
+vntext.sq#1467,vntext.sq,BILLIE,Heh... it's funny. I remember when I first walked in here...,"Хех... забавно. Помню, как впервые сюда зашла...",translated,60
+vntext.sq#1479,vntext.sq,BILLIE,"Looking great, thanks!","Выглядит отлично, спасибо!",translated,22
+vntext.sq#1481,vntext.sq,BILLIE,Hmmm.... how to say this...,Хмм... как бы это сказать...,translated,27
+vntext.sq#1482,vntext.sq,BILLIE,"I think it's okay to take breaks, you know?","Думаю, иногда можно и передохнуть, знаешь?",translated,43
+vntext.sq#1484,vntext.sq,BILLIE,This donut's got absolutely no flavor...,У этого пончика вообще нет вкуса...,translated,40
+vntext.sq#1487,vntext.sq,BILLIE,Thank you.,Спасибо.,translated,10
+vntext.sq#1489,vntext.sq,BILLIE,"Ahhhh, this is just what I needed... good old {$moods:nostalgia}.","Аах, вот это как раз то, что мне было нужно... старая добрая {$moods:nostalgia}.",translated,65
+vntext.sq#1500,vntext.sq,BILLIE,"It's... it's funny. Sometimes I wake up, and I feel like I have to pinch myself to check if I'm dreaming.","Это... это забавно. Иногда я просыпаюсь, и мне кажется, что нужно себя ущипнуть, проверить, не сон ли это.",translated,105
+vntext.sq#1501,vntext.sq,BILLIE,I can't believe how far I've come.,"Не могу поверить, как далеко я зашла.",translated,34
+vntext.sq#1502,vntext.sq,BILLIE,"And honestly, it all started with you. Remember when I first walked through those doors? I was still so awkward back then...","И если честно, всё началось с тебя. Помнишь, как я впервые вошла в эти двери? Тогда я была такой неловкой...",translated,124
+vntext.sq#1503,vntext.sq,BILLIE,But you told me that I could just talk... that this was a space for me to share how I was feeling...,"Но ты сказал мне, что я могу просто говорить... что это место, где я могу делиться тем, что чувствую...",translated,100
+vntext.sq#1504,vntext.sq,BILLIE,"And when I shared what I was feeling... you opened up too. Talked about how you've been burning bridges your whole life, and how connecting with people can really be tough sometimes.","И когда я поделилась тем, что чувствую... ты тоже раскрылся. Рассказал, как всю жизнь сжигал мосты, и как порой действительно тяжело сближаться с людьми.",translated,182
+vntext.sq#1505,vntext.sq,BILLIE,And then afterwards... when I was feeling unsure...,А потом... когда я не была уверена...,translated,51
+vntext.sq#1506,vntext.sq,BILLIE,You offered to be my friend. That was the first step.,Ты предложил стать моим другом. Это был первый шаг.,translated,53
+vntext.sq#1507,vntext.sq,BILLIE,And here I am now... surrounded by all sorts of friends.,И вот я теперь здесь... окружённая самыми разными друзьями.,translated,56
+vntext.sq#1508,vntext.sq,BILLIE,You told me that I could try making friends right here at the Hotbox. That was the first step.,"Ты сказал, что я могу попробовать завести друзей прямо здесь, в Hotbox. Это был первый шаг.",translated,94
+vntext.sq#1509,vntext.sq,BILLIE,"And look where I am now, made friends with all sorts of different types!","И смотри, где я теперь — подружилась с самыми разными людьми!",translated,72
+vntext.sq#1510,vntext.sq,BILLIE,You said that I should try and find ways to form a community. That was the first step.,"Ты сказал, что мне стоит попробовать найти способ создать сообщество. Это был первый шаг.",translated,86
+vntext.sq#1511,vntext.sq,BILLIE,"And then I went and did it, I've got the streamer group assembled and it's been a blast.","И я взяла и сделала это, собрала стримерскую группу, и это было потрясающе.",translated,88
+vntext.sq#1512,vntext.sq,BILLIE,I don't think I would've been able to pull if off if it weren't for your help.,"Не думаю, что справилась бы без твоей помощи.",translated,78
+vntext.sq#1514,vntext.sq,BILLIE,Heh... that's another thing.,Хех... вот ещё что.,translated,28
+vntext.sq#1515,vntext.sq,BILLIE,"I remember asking about a donut that could help cure loneliness. And you know what? You were right, there's no flavor that can do something like that.","Помню, спрашивала про пончик, который мог бы вылечить одиночество. И знаешь что? Ты был прав, нет такого вкуса, который бы на это годился.",translated,150
+vntext.sq#1516,vntext.sq,BILLIE,"But I realized that it wasn't in a mood at all... wise words, reassuring advice, good company...","Но я поняла, что дело вообще не в настроении... мудрые слова, ободряющий совет, хорошая компания...",translated,96
+vntext.sq#1517,vntext.sq,BILLIE,"You're not just a good Mood Confectioner... you're a good friend, you hear?","Ты не просто хороший Кондитер настроения... ты хороший друг, слышишь?",translated,75
+vntext.sq#1519,vntext.sq,BILLIE,"Heh, I'll see you around.","Хех, увидимся.",translated,25
+vntext.sq#1520,vntext.sq,BILLIE,"It's okay, mistakes happen! Maybe we can talk about things some other time.","Всё нормально, ошибки случаются! Может, поговорим об этом в другой раз.",translated,75
+vntext.sq#1521,vntext.sq,BILLIE,"See you later, {$mcName}!","Увидимся, {$mcName}!",translated,25
+vntext.sq#1525,vntext.sq,BILLIE,"Do I? Heh... I just really had a nice conversation with, um, a stranger online?","Правда? Хех... у меня был правда приятный разговор с, эм, незнакомцем онлайн?",translated,79
+vntext.sq#1526,vntext.sq,BILLIE,"So I thought I'd come here to help me ride that high, hehe...","Вот и решила зайти сюда, чтобы продлить это ощущение, хехе...",translated,61
+vntext.sq#1534,vntext.sq,BILLIE,"It's weird... I'm not really big on snacking, but I've been craving your donuts recently...","Странно... я вообще не любитель перекусов, но в последнее время меня так и тянет на твои пончики...",translated,91
+vntext.sq#1535,vntext.sq,BILLIE,"I've been trying to ignore the temptation, but it only got worse — and now I can't think about anything else!","Пыталась игнорировать искушение, но стало только хуже — и теперь я вообще ни о чём другом думать не могу!",translated,109
+vntext.sq#1537,vntext.sq,BILLIE,"Yeah, you're right...","Да, ты прав...",translated,21
+vntext.sq#1544,vntext.sq,BILLIE,I wanna try something different tonight... I tend to hold back some thoughts and opinions when I stream.,Сегодня хочу попробовать что-то другое... во время стримов я часто придерживаю некоторые мысли и мнения.,translated,104
+vntext.sq#1545,vntext.sq,BILLIE,But I... wanna be more candid with what I think about the games I stream.,"Но я... хочу быть откровеннее насчёт того, что думаю об играх, которые стримлю.",translated,73
+vntext.sq#1552,vntext.sq,BILLIE,"Tonight's a chill night. I was thinking, maybe a donut could help keep the good vibes up. What do you think?","Сегодня спокойный вечер. Подумала, может, пончик поможет сохранить хороший настрой. Как думаешь?",translated,108
+vntext.sq#1554,vntext.sq,BILLIE,"Hahaha, that's too real!","Хахаха, это прям слишком правда!",translated,24
+vntext.sq#1561,vntext.sq,BILLIE,I need to be totally ${focused} tonight. Absolutely no distractions allowed.,Сегодня мне нужно быть полностью ${focused}. Никаких отвлечений.,translated,76
+vntext.sq#1568,vntext.sq,BILLIE,"I never thought I'd feel this way after moving here, but there's something about this city that feels so... old school.","Никогда не думала, что буду себя так чувствовать после переезда сюда, но в этом городе есть что-то такое... старомодное.",translated,119
+vntext.sq#1570,vntext.sq,BILLIE,"Well, the vibe of this place, for one... then there's the arcades, the amusement parks, the random mob dances from that... cult? Dance group? Not really sure what they are...","Ну, взять хотя бы атмосферу этого места... потом эти игровые залы, парки развлечений, случайные массовые танцы от той... секты? Танцевальной группы? Даже не знаю толком, кто они...",translated,174
+vntext.sq#1571,vntext.sq,BILLIE,It all just reminds me of those times we read about in history books. Before people fought on Breaddit instead of having bar fights...,"Всё это напоминает мне те времена, о которых мы читали в учебниках истории. До того, как люди начали ругаться на Breaddit вместо драк в баре...",translated,134
+vntext.sq#1572,vntext.sq,BILLIE,"Before people got misinformation from Facenook instead of, I don't know, tabloids?","До того, как люди стали получать дезинформацию из Facenook вместо, не знаю, жёлтой прессы?",translated,82
+vntext.sq#1573,vntext.sq,BILLIE,Really gets you ${nostalgic}...,Реально накатывает ${nostalgic}...,translated,31
+vntext.sq#1582,vntext.sq,BILLIE,Nope. I'll leave it at that.,Не-а. На этом и остановлюсь.,translated,28
+vntext.sq#1588,vntext.sq,BILLIE,"Is loneliness an epidemic... or has it always been like that with humans, constantly yearning for connection in a cold hard world?","Одиночество — это эпидемия... или так было с людьми всегда, вечная тяга к связи в холодном жестоком мире?",translated,130
+vntext.sq#1589,vntext.sq,BILLIE,"Well, hello to you too, [i] amico. [/i]","Ну, и тебе привет, [i] amico. [/i]",translated,39
+vntext.sq#1590,vntext.sq,BILLIE,"Heh, don't mind me. I was just reading this article on the bus, and it kinda posed that question. I've been thinking about it while on my way here, but I haven't really figured out the answer.","Хех, не обращай внимания. Просто читала статью в автобусе, и там как раз поднимался этот вопрос. Думала об этом всю дорогу сюда, но так и не поняла ответа.",translated,192
+vntext.sq#1592,vntext.sq,BILLIE,"Haha, so funny! You're gonna get them to send me links for mental health hotlines and all that.","Хаха, очень смешно! Они тогда закидают меня ссылками на горячие линии психологической помощи и всё такое.",translated,95
+vntext.sq#1593,vntext.sq,BILLIE,"I'm really just curious, that's all.","Мне правда просто любопытно, вот и всё.",translated,36
+vntext.sq#1600,vntext.sq,BILLIE,"You know, it's interesting... the more I try to meet people here in San Mazo, the more I realize there's a lot of us who didn't grow up here...","Знаешь, интересно... чем больше я пытаюсь знакомиться с людьми здесь, в Сан-Мазо, тем больше понимаю, что многие из нас выросли не здесь...",translated,143
+vntext.sq#1603,vntext.sq,BILLIE,That why you moved too?,Поэтому ты тоже переехал?,translated,23
+vntext.sq#1610,vntext.sq,BILLIE,"Hey, MC... about last time... I'm really sorry I tried to pry.","Привет, MC... насчёт прошлого раза... прости, что я лезла не в своё дело.",translated,62
+vntext.sq#1613,vntext.sq,BILLIE,"N-No, don't be!","Н-нет, не извиняйся!",translated,15
+vntext.sq#1614,vntext.sq,BILLIE,"I must've caught you off guard... that's me, though, heh... It's either I hold in my thoughts, or I don't realize how forward and blunt I'm being.","Наверное, застала тебя врасплох... но это в моём духе, хех... то я держу мысли при себе, то не замечаю, насколько прямолинейной и резкой становлюсь.",translated,146
+vntext.sq#1615,vntext.sq,BILLIE,But... there has to be a middle ground... and I'm still trying to work on that.,Но... должна же быть золотая середина... я всё ещё над этим работаю.,translated,79
+vntext.sq#1617,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#1625,vntext.sq,BILLIE,Huh? Why would I get into fanwars? Where is this coming from?,А? С чего бы мне влезать в фанатские войны? Откуда это вообще?,translated,61
+vntext.sq#1628,vntext.sq,BILLIE,"Oh, is it cos you watched that VirtualGal JST Ship Tier List video?","Ох, это из-за того видео VirtualGal с тир-листом пейрингов JST?",translated,67
+vntext.sq#1630,vntext.sq,BILLIE,"Well, you got nothing to worry about that, hehe! I'm very chill about shipping.","Ну, насчёт этого можешь не переживать, хехе! Я очень спокойно отношусь к пейрингам.",translated,79
+vntext.sq#1637,vntext.sq,BILLIE,"I'm gonna be streaming a dating sim tonight, and it's gonna be [i] spicy! [/i]","Сегодня буду стримить дейтинг-сим, и это будет [i] жарко! [/i]",translated,78
+vntext.sq#1638,vntext.sq,BILLIE,"Well, as spicy as streaming can be, especially when even kissing scenes are now being regulated...","Ну, насколько «жарко» вообще может быть на стриме, особенно теперь, когда даже сцены поцелуев регулируют...",translated,98
+vntext.sq#1645,vntext.sq,BILLIE,Whew. I'm feeling way too restless right now!,Уф. Сейчас я чувствую себя слишком беспокойно!,translated,45
+vntext.sq#1647,vntext.sq,BILLIE,"I signed up for this board game event, and now I feel all sorts of nervous about it! But I'm also really excited!!","Я записалась на это мероприятие с настольными играми, и теперь жутко нервничаю! Но ещё и правда взволнована!!",translated,114
+vntext.sq#1648,vntext.sq,BILLIE,"I don't know anyone in the event, so it could all go wrong and I'll be making a fool out of myself... but hey, maybe it won't, and that means I'll make some new friends!","Я никого не знаю на этом мероприятии, так что всё может пойти не так, и я выставлю себя дурочкой... но эй, может, и не пойдёт, и тогда я заведу новых друзей!",translated,169
+vntext.sq#1649,vntext.sq,BILLIE,How do people not overthink these things??,Как люди вообще не переживают из-за таких вещей??,translated,42
+vntext.sq#1651,vntext.sq,BILLIE,"Yeah... you're right. I'm, uh... I'm being a bit hard on myself...","Да... ты прав. Я, эм... немного строга к себе...",translated,66
+vntext.sq#1657,vntext.sq,BILLIE,"Hey, MC, guess what. The board game event was really fun!","Эй, MC, представляешь. Мероприятие с настолками было реально весёлым!",translated,57
+vntext.sq#1658,vntext.sq,BILLIE,"I even got pulled into a very competitive 1SA game. Not my thing. I was worried for my life for a second, but then it turned out I was up against a [i] polycule! [/i] An 1SA team polycule!","Меня даже затянуло в очень соревновательную партию 1SA. Не совсем моё. На секунду я испугалась за свою жизнь, но потом оказалось, что я играю против [i] полиамории! [/i] Целой командной полиамории 1SA!",translated,188
+vntext.sq#1659,vntext.sq,BILLIE,Apparently they're going for the Nationals... must be a rivalry kink or something...,"Судя по всему, они готовятся к национальному чемпионату... наверное, у них какой-то фетиш на соперничество...",translated,84
+vntext.sq#1662,vntext.sq,BILLIE,"Who knows? Hehehe! I did exchange numbers with some of them, though!",Кто знает? Хехехе! Но номерами с некоторыми из них я всё же обменялась!,translated,68
+vntext.sq#1663,vntext.sq,BILLIE,It's really nice to see how people build communities here in San Mazo... I want that for myself too.,"Правда приятно видеть, как люди тут, в Сан-Мазо, строят сообщества... я тоже этого хочу для себя.",translated,100
+vntext.sq#1670,vntext.sq,BILLIE,"I'm curious... did you ever start a club, or anything like that?",Мне любопытно... ты когда-нибудь создавал клуб или что-то в этом роде?,translated,64
+vntext.sq#1675,vntext.sq,BILLIE,Whoa. Sounds fun! Kinda wish we had one in my high school too...,"Ого. Звучит весело! Хотелось бы, чтобы такой был и в моей школе...",translated,64
+vntext.sq#1677,vntext.sq,BILLIE,Huh. So you've always been very serious about being a Mood Confectioner...,Хм. Так ты всегда серьёзно относился к профессии Кондитера настроения...,translated,74
+vntext.sq#1678,vntext.sq,BILLIE,I guess if I wanna start a community... it has to be something fun... but also something I'm serious about.,"Наверное, если я хочу создать сообщество... оно должно быть чем-то весёлым... но и чем-то, к чему я отношусь серьёзно.",translated,107
+vntext.sq#1679,vntext.sq,BILLIE,I need to be in touch with my desires... 'desire' is believed to have come from 'de sidere' which means 'from the stars...',"Мне нужно быть на связи со своими желаниями... считается, что слово «desire» произошло от «de sidere», что значит «от звёзд»...",translated,123
+vntext.sq#1686,vntext.sq,BILLIE,Living in a streamer house is exactly how I thought it would be — a constant outpouring of chaos and fun!,"Жизнь в стримерском доме — именно такая, какой я её представляла: постоянный поток хаоса и веселья!",translated,105
+vntext.sq#1687,vntext.sq,BILLIE,"Well, okay, I think we're all in a 'honeymoon phase' so no one's gotten into a fight yet... but it's really nice, not living alone anymore.","Ну ладно, думаю, у нас у всех сейчас «медовый месяц», так что никто ещё не поругался... но правда приятно больше не жить одной.",translated,139
+vntext.sq#1688,vntext.sq,BILLIE,"As someone who's single, and not really looking for a partner... this is just the company I need.","Как человеку, который свободен и не особо ищет партнёра... мне как раз нужна такая компания.",translated,97
+vntext.sq#1700,vntext.sq,BILLIE,"Absolutely! We're going on a quick trip to Attleset, so we're all getting ready for that!","Однозначно! Мы едем в короткую поездку в Аттлсет, так что все готовимся к этому!",translated,89
+vntext.sq#1702,vntext.sq,BILLIE,Huh? Haven't you heard? There's a big indie game convention happening there!,А? Разве ты не слышал? Там проходит большая конвенция инди-игр!,translated,76
+vntext.sq#1718,vntext.sq,BILLIE,"I'm good! Just a biiit tired. I think I've used up all my social batteries, so now I kinda want some me time, hehe...","Всё хорошо! Просто немного устала. Думаю, я исчерпала весь свой социальный заряд, так что теперь хочется немного побыть наедине с собой, хехе...",translated,117
+vntext.sq#1720,vntext.sq,BILLIE,"Heh, I never thought I'd actually want me time at some point... I was so sick of hanging out with just myself.","Хех, никогда не думала, что мне вообще захочется побыть одной... я так устала от общения только с самой собой.",translated,110
+vntext.sq#1721,vntext.sq,BILLIE,But you know... living with my friends has made it easier for me to like me...,Но знаешь... жизнь с друзьями помогла мне легче себя принимать...,translated,78
+vntext.sq#1738,vntext.sq,BILLIE,"O-Oh! Well... You know when you live with someone, you tend to become very aware of their imperfections?","О-ох! Ну... знаешь, когда живёшь с кем-то, начинаешь очень остро замечать их несовершенства?",translated,104
+vntext.sq#1741,vntext.sq,BILLIE,"Well, I know I'm not always easy to live with, and my friends have their own, uh, quirks too... but at the end of the day, we all make the effort to understand each other.","Ну, я знаю, что со мной не всегда легко жить, да и у моих друзей есть свои, эм, странности... но в конце концов мы все стараемся понять друг друга.",translated,171
+vntext.sq#1742,vntext.sq,BILLIE,"When you live alone... no one's there to challenge you, to help you grow...","Когда живёшь одна... некому бросить тебе вызов, помочь вырасти...",translated,75
+vntext.sq#1743,vntext.sq,BILLIE,"But when you're with friends... when there's someone to forgive you? You learn that maybe being you is okay, as long as you keep trying.","Но когда ты с друзьями... когда есть кому тебя простить? Ты понимаешь, что, возможно, быть собой — это нормально, пока ты продолжаешь стараться.",translated,136
+vntext.sq#1746,vntext.sq,BILLIE,"Heh, thanks, MC!","Хех, спасибо, MC!",translated,16
+vntext.sq#1747,vntext.sq,BILLIE,"Anyway, I'm sorry I can't stay too long... but I'll keep you company one of these days if you wanna like yourself more too!","В общем, извини, что не могу задержаться надолго... но как-нибудь составлю тебе компанию, если тоже захочешь научиться любить себя больше!",translated,123
+vntext.sq#1754,vntext.sq,BILLIE,I'm taking it easy tonight — the streamer house and I will be playing a visual novel about freeing yourself from the cycle of a toxic father-child relationship!,Сегодня отдыхаю — вместе со стримерским домом будем играть в визуальную новеллу про освобождение от цикла токсичных отношений отца и ребёнка!,translated,160
+vntext.sq#1761,vntext.sq,BILLIE,"Hello there, MC!","Привет, MC!",translated,16
+vntext.sq#1763,vntext.sq,BILLIE,"Pretty good. Got a stream scheduled for tonight, but I was in the area so I thought I'd say hi.","Неплохо. На сегодня запланирован стрим, но я была тут поблизости, решила заглянуть поздороваться.",translated,95
+vntext.sq#1764,vntext.sq,BILLIE,"And besides... it wouldn't hurt to get a donut, right?","И вообще... пончик тоже не помешает, да?",translated,54
+vntext.sq#1771,vntext.sq,BILLIE,Ever thought of like... making a quiz that can help people figure out what donut they want?,"Ты никогда не думал, типа... сделать тест, который поможет людям понять, какой пончик им нужен?",translated,91
+vntext.sq#1774,vntext.sq,BILLIE,"Hehe, sounds good! It could also be a way for you to keep track of what people usually end up needing...","Хехе, звучит здорово! Заодно это могло бы помочь тебе отслеживать, что людям обычно в итоге нужно...",translated,104
+vntext.sq#1775,vntext.sq,BILLIE,"But don't worry, I don't need a quiz right now, or for you to guess what I need.","Но не переживай, мне сейчас не нужен ни тест, ни то, чтобы ты угадывал, что мне нужно.",translated,80
+vntext.sq#1785,vntext.sq,BILLIE,Mind if I have a {$recipe:bloody_mary}? I always like getting that boost of {$moods:courage}!,Не против {$recipe:bloody_mary}? Мне всегда нравится этот заряд {$moods:courage}!,translated,93
+vntext.sq#1793,vntext.sq,BILLIE,Can I have a {$recipe:meaty_pumpkin}? That's one of my favorites!,Можно мне {$recipe:meaty_pumpkin}? Это один из моих любимых!,translated,65
+vntext.sq#1797,vntext.sq,BILLIE,Hey there!,Привет!,translated,10
+vntext.sq#1798,vntext.sq,BILLIE,My friends and I are streaming something later tonight...,Мы с друзьями сегодня вечером будем что-то стримить...,translated,57
+vntext.sq#1799,vntext.sq,BILLIE,"Not really sure if I'll end up being the killer or one of the 'good guys,' heh... Either way, a donut would be great.","Не уверена, окажусь ли я убийцей или одним из «хороших парней», хех... В любом случае, пончик был бы кстати.",translated,117
+vntext.sq#1801,vntext.sq,BILLIE,"Oh, I know! Can I have a {$recipe:mr_smile}? It's just so cute, having a donut smile back at you~","Ох, придумала! Можно мне {$recipe:mr_smile}? Это же так мило, когда пончик улыбается тебе в ответ~",translated,97
+vntext.sq#18765,vntext.sq,BILLIE,Woooh! Good luck with your auditions! You totally got this!,Вуух! Удачи на прослушивании! У тебя точно получится!,translated,59
+vntext.sq#21728,vntext.sq,BILLIE,"Sometimes I overthink what I'm supposed to say... but with this donut, I don't need to do that anymore...","Иногда я слишком много думаю над тем, что сказать... но с этим пончиком мне больше не нужно этого делать...",translated,105
+vntext.sq#21729,vntext.sq,BILLIE,"Sometimes I feel like this is my go-to mood, even without a donut. But the {$flavors:pumpketamine} flavor is a nice bonus.","Иногда мне кажется, что это моё привычное настроение, даже без пончика. Но вкус {$flavors:pumpketamine} — приятный бонус.",translated,122
+vntext.sq#21730,vntext.sq,BILLIE,"Yeah, this is how it's like when I'm lost in a good game — just pure, unadulterated joy!","Да, вот так это ощущается, когда я с головой ухожу в хорошую игру — чистая, беспримесная радость!",translated,88
+vntext.sq#21731,vntext.sq,BILLIE,"Yeah, that's it! The taste of {$flavors:ubecstacy} — is the taste of a victory well-earned!","Да, вот оно! Вкус {$flavors:ubecstacy} — это вкус заслуженной победы!",translated,91
+vntext.sq#21732,vntext.sq,BILLIE,Maybe I can explore new games with my videos... yeah...,"Может, стоит исследовать новые игры в видео... да...",translated,55
+vntext.sq#21733,vntext.sq,BILLIE,"With this donut, it's a lot easier to talk to people. I don't feel self-conscious at all!",С этим пончиком намного проще разговаривать с людьми. Я вообще не чувствую скованности!,translated,89
+vntext.sq#21734,vntext.sq,BILLIE,"...It's usually hard for me to get in this headspace. Not because I don't like being ${sincere}, but because I'd rather not get judged. So this donut... it gives me the safety of a trusted friend.","...Обычно мне сложно войти в это состояние. Не потому что мне не нравится быть ${sincere}, а потому что я не хочу, чтобы меня осуждали. Так что этот пончик... дарит мне безопасность, как рядом с надёжным другом.",translated,196
+vntext.sq#21735,vntext.sq,BILLIE,"Hm. I'm feeling sharp, like I can see everything coming from a mile away — and I can defend, attack, or do whatever's needed.","Хм. Я чувствую себя собранной, будто вижу всё за милю — и могу защищаться, атаковать или делать что угодно нужное.",translated,125
+vntext.sq#21736,vntext.sq,BILLIE,"Feels like I'm back in high school, discovering DOLALFS for the first time...","Такое чувство, будто я снова в старшей школе, впервые открываю для себя DOLALFS...",translated,77
+vntext.sq#21738,vntext.sq,BILLIE,Whoa! This is so delicious! Who knew donuts could be this interesting?,"Ого! Это так вкусно! Кто бы мог подумать, что пончики могут быть такими интересными?",translated,70
+vntext.sq#21739,vntext.sq,BILLIE,"It's pretty good! Though honestly, you can do better than this.","Довольно неплохо! Хотя, если честно, ты можешь лучше.",translated,63
+vntext.sq#21740,vntext.sq,BILLIE,"I wish you got my order right, though.","Жаль только, что ты не угадал с заказом.",translated,38
+vntext.sq#21741,vntext.sq,BILLIE,"Anyway, have a stream scheduled in a bit. See ya!","В общем, у меня скоро стрим по расписанию. Увидимся!",translated,49
+vntext.sq#21744,vntext.sq,BILLIE,"Thank you, MC!","Спасибо, MC!",translated,14
+vntext.sq#21746,vntext.sq,BILLIE,This donut really shouldn't be served to customers.,Этот пончик реально не стоило подавать клиентам.,translated,51
+vntext.sq#21751,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#21752,vntext.sq,BILLIE,A lovely donut to sit back and {$moods:relax} with... maybe I can even play an open world RPG with good music...,"Милый пончик, чтобы откинуться и {$moods:relax}... может, даже поиграю в открытую РПГ с хорошей музыкой...",translated,112
+vntext.sq#21753,vntext.sq,BILLIE,A {$flavors:pumpketamine} donut... just what I'd want if I were playing a game of DOLALFS.,"Пончик {$flavors:pumpketamine}... именно то, что нужно, если бы я сейчас играла в DOLALFS.",translated,90
+vntext.sq#21754,vntext.sq,BILLIE,"When I stream and get to share my experiences in gaming with people, this is how it feels... heh...","Когда я стримлю и делюсь игровым опытом с людьми, вот так это ощущается... хех...",translated,99
+vntext.sq#21755,vntext.sq,BILLIE,This {$flavors:ubecstacy} donut... this is like those moments when you're so close to winning you can practically taste it.,"Этот пончик {$flavors:ubecstacy}... это как те моменты, когда до победы рукой подать, и ты уже чувствуешь её вкус.",translated,123
+vntext.sq#21756,vntext.sq,BILLIE,Heh... I'm suddenly hit with ideas for collaborations... but will they find it cool?,Хех... меня вдруг накрыло идеями для коллабов... но покажутся ли они им крутыми?,translated,84
+vntext.sq#21757,vntext.sq,BILLIE,Heh. It's easier for me to be brave when I'm behind the screen... but this donut's showing me how it's like to be [i] truly [/i] {$moods:courageous}.,"Хех. Мне легче быть смелой за экраном... но этот пончик показывает мне, каково это — быть [i] по-настоящему [/i] {$moods:courageous}.",translated,149
+vntext.sq#21758,vntext.sq,BILLIE,"It feels like I can just say what's on my mind, which is a bit silly, heh... but maybe it's not [i] that [/i] silly to be more open...","Такое чувство, что можно просто сказать то, что на уме, это немного глупо, хех... но, может, быть более открытой — не [i] такая [/i] уж и глупость...",translated,134
+vntext.sq#21759,vntext.sq,BILLIE,There's this intense clarity that happens when you're having a good game. This feels exactly like that!,"Есть такая сильная ясность, которая приходит в хорошей игре. Это ощущается точно так же!",translated,103
+vntext.sq#21760,vntext.sq,BILLIE,You know those console sounds that remind us of our childhood? This donut's giving me the same feeling.,"Знаешь те консольные звуки, что напоминают о детстве? Этот пончик дарит то же самое чувство.",translated,103
+vntext.sq#21761,vntext.sq,BILLIE,"You know, sometimes I wonder if people see me and think I'm like a donut without any glaze at all...","Знаешь, иногда я думаю, видят ли во мне люди пончик вообще без глазури...",translated,100
+vntext.sq#21762,vntext.sq,BILLIE,"Oooh man, I'm so obsessed with this donut! It's everything I've ever wanted from a dessert!","Оох, я прям одержима этим пончиком! Это всё, чего я когда-либо хотела от десерта!",translated,91
+vntext.sq#21763,vntext.sq,BILLIE,"Mm, delicious. Some of the elements could be better though!","Ммм, вкусно. Хотя некоторые элементы могли бы быть и получше!",translated,59
+vntext.sq#21764,vntext.sq,BILLIE,"... Excuse me, but is this all there is? I was expecting something more...","...Извини, но это всё? Я ожидала чего-то большего...",translated,74
+vntext.sq#21765,vntext.sq,BILLIE,"Anyway, see you around!","В общем, увидимся!",translated,23
+vntext.sq#55637,vntext.sq,BILLIE,Hmm... I don't think this is it.,"Хмм... не думаю, что это то.",translated,32
+vntext.sq#55638,vntext.sq,BILLIE,"Do you mind making me another, MC?","Не против сделать мне другой, MC?",translated,34
+vntext.sq#55640,vntext.sq,BILLIE,...Still not the donut I wanted. Maybe tonight is not the night for the Right Donut.,"...Всё ещё не тот пончик, что я хотел. Может, сегодня не вечер для Того Самого Пончика.",translated,84
+vntext.sq#55642,vntext.sq,BILLIE,"Nice, thanks so much!","Класс, большое спасибо!",translated,21
+vntext.sq#55643,vntext.sq,BILLIE,"Well, I suppose I'll come back some other time then!","Ну, тогда, наверное, зайду в другой раз!",translated,52
+vntext.sq#55648,vntext.sq,BILLIE,"Hmm... Still not what I asked for, but I guess it's not too bad.","Хмм... всё ещё не то, что я просил, но, наверное, не так уж плохо.",translated,64
+vntext.sq#55650,vntext.sq,BILLIE,"Hey, no worries. I think I can roll with this...","Эй, не переживай. Думаю, справлюсь с этим...",translated,48
+vntext.sq#68117,vntext.sq,BILLIE,Are you really serving me a donut with no glaze?,Ты правда подаёшь мне пончик без глазури?,translated,48
+vntext.sq#68119,vntext.sq,BILLIE,"Oh. The glaze is different, isn't it?","Ох. Глазурь не та, да?",translated,37
+vntext.sq#68121,vntext.sq,BILLIE,"Hey, what gives? There's not even enough glaze to cover the whole donut…","Эй, в чём дело? Тут даже не хватает глазури, чтобы покрыть весь пончик…",translated,72
+vntext.sq#68123,vntext.sq,BILLIE,"Um, is this really ready? The toppings aren't even here!","Эм, это правда готово? Тут даже нет топпингов!",translated,56
+vntext.sq#68125,vntext.sq,BILLIE,Huh? What's with the toppings? They're different from what I asked for!,"Хм? Что с топпингами? Они не те, что я просила!",translated,71
+vntext.sq#68127,vntext.sq,BILLIE,"Not a lot of toppings, huh? Did you run out?","Не особо много топпингов, да? У тебя закончились?",translated,44
+vntext.sq#68129,vntext.sq,BILLIE,Huh? Where's the drizzle?,Хм? Где потёки?,translated,25
+vntext.sq#68131,vntext.sq,BILLIE,"Wait, this is the wrong kind of drizzle.","Погоди, это не тот вид потёков.",translated,40
+vntext.sq#68133,vntext.sq,BILLIE,"Huh. With this tiny amount of drizzle, you might as well put nothing at all…",Хм. С таким крошечным количеством потёков с тем же успехом мог бы вообще ничего не класть…,translated,76
+vntext.sq#68135,vntext.sq,BILLIE,"MC, pay more attention to your work. You totally forgot to add the filling!","МС, будь внимательнее к своей работе. Ты совсем забыл добавить начинку!",translated,75
+vntext.sq#68137,vntext.sq,BILLIE,Oh no! Looks like you got my filling wrong.,"Ох нет! Похоже, ты перепутал мою начинку.",translated,43
+vntext.sq#68139,vntext.sq,BILLIE,"Uh, is it just me or is your donut kind of... funny-looking?","Эм, мне кажется, или твой пончик выглядит как-то... забавно?",translated,60
+vntext.sq#68141,vntext.sq,BILLIE,"I don't have to pay for all this extra stuff, do I? Cos there's a lot I didn't ask for...","Мне же не нужно платить за всё это лишнее, да? Потому что тут много того, чего я не просила...",translated,89
+vntext.sq#68145,vntext.sq,BILLIE,"Uh, aren't you forgetting the glaze?","Эм, ты не забываешь про глазурь?",translated,36
+vntext.sq#68147,vntext.sq,BILLIE,Hold on! I'm pretty sure I asked for a different glaze!,"Погоди! Довольно уверена, что просила другую глазурь!",translated,55
+vntext.sq#68149,vntext.sq,BILLIE,You can't be serious. There's hardly any glaze!,Ты не серьёзно. Тут почти нет глазури!,translated,47
+vntext.sq#68151,vntext.sq,BILLIE,Are you out of toppings? You should've told me beforehand instead of serving me an empty donut.,"У тебя закончились топпинги? Тебе стоило сказать мне заранее, а не подавать пустой пончик.",translated,95
+vntext.sq#68153,vntext.sq,BILLIE,"Wait, what's with the toppings? These are different.","Погоди, что с топпингами? Они не те.",translated,52
+vntext.sq#68155,vntext.sq,BILLIE,"Hey, what gives? This donut barely has any toppings on it!","Эй, в чём дело? На этом пончике почти нет топпингов!",translated,58
+vntext.sq#68157,vntext.sq,BILLIE,"Shouldn't there be drizzle or something, or am I wrong?","Разве тут не должно быть потёков или чего-то такого, или я ошибаюсь?",translated,55
+vntext.sq#68159,vntext.sq,BILLIE,Something feels off… hmm... oh! The drizzle is completely wrong!,Что-то не так… хмм... ох! Потёки совсем не те!,translated,64
+vntext.sq#68161,vntext.sq,BILLIE,Can't I have a donut with more drizzle on it? This is a little disappointing.,Разве нельзя дать мне пончик с бо́льшим количеством потёков? Немного разочаровывающе.,translated,77
+vntext.sq#68163,vntext.sq,BILLIE,"Wait, why doesn't this donut have any filling? That's a killjoy!","Погоди, почему в этом пончике нет начинки? Вот засада!",translated,64
+vntext.sq#68165,vntext.sq,BILLIE,"Whoa, wrong filling. Which is fine, but... yeah. Just thought you should know, hehe!","Ого, не та начинка. Что ладно, но... ага. Просто подумала, тебе стоит знать, хехе!",translated,84
+vntext.sq#68167,vntext.sq,BILLIE,"Seriously, what's with this donut? It looks really weird.","Серьёзно, что с этим пончиком? Он выглядит правда странно.",translated,57
+vntext.sq#68169,vntext.sq,BILLIE,"Oh, wow. Don't remember asking for all of that…","Ох, вау. Не помню, чтобы просила всё это…",translated,47
+vntext.sq#68173,vntext.sq,BILLIE,"Wait, why doesn't this have any glaze?","Погоди, почему тут нет глазури?",translated,38
+vntext.sq#68175,vntext.sq,BILLIE,"Wait, this glaze is different. What's going on here?","Погоди, глазурь не та. Что тут происходит?",translated,52
+vntext.sq#68177,vntext.sq,BILLIE,Is this really all of the glaze you can give me? There's hardly anything!,"Это правда вся глазурь, что ты можешь мне дать? Тут почти ничего!",translated,73
+vntext.sq#68179,vntext.sq,BILLIE,"Yo, are you even paying attention to your work? There aren't any toppings on my donut!","Йо, ты вообще внимателен к своей работе? На моём пончике нет топпингов!",translated,86
+vntext.sq#68181,vntext.sq,BILLIE,Seems to be a mix up. The toppings are different. Pity you can't restart like in video games... or can you?,"Похоже, тут путаница. Топпинги не те. Жаль, что нельзя перезапустить как в видеоиграх... или можно?",translated,107
+vntext.sq#68183,vntext.sq,BILLIE,"I wanted more toppings on my donut, you know. Shame, was really hyped for it.","Хотела побольше топпингов на своём пончике, знаешь. Жаль, а я так предвкушала.",translated,77
+vntext.sq#68185,vntext.sq,BILLIE,No drizzle at all? Did you double check my order?,Совсем без потёков? Ты перепроверил мой заказ?,translated,49
+vntext.sq#68187,vntext.sq,BILLIE,"Umm... I'm afraid you got the drizzle wrong. Sorry, don't mean to complain, but ummm, just saying.","Эм... боюсь, ты перепутал потёки. Прости, не хочу жаловаться, но эм, просто говорю.",translated,98
+vntext.sq#68189,vntext.sq,BILLIE,Hardly any drizzle… that really sucks.,Потёков почти нет… это реально отстой.,translated,38
+vntext.sq#68191,vntext.sq,BILLIE,Where's the filling? I thought this donut was supposed to have some!,"Где начинка? Мне казалось, в этом пончике должна была быть какая-то!",translated,68
+vntext.sq#68193,vntext.sq,BILLIE,"Hey, don't sweat it! Mistakes happen! Looks like you used the wrong flavor of filling.","Эй, не парься! Ошибки случаются! Похоже, ты использовал не тот вкус начинки.",translated,86
+vntext.sq#68195,vntext.sq,BILLIE,"You're usually better than this, MC. Your donut... it's not wrong... but it looks way off.","Обычно ты лучше, МС. Твой пончик... не то чтобы неправильный... но выглядит совсем не так.",translated,90
+vntext.sq#68197,vntext.sq,BILLIE,Are you sure this is mine? Cos I didn't ask for any of this.,"Ты уверен, что это мой? Потому что я ничего из этого не просила.",translated,60
+vntext.sq#68199,vntext.sq,BILLIE,"Wait, this is the wrong kind of donut shape.","Погоди, это не тот вид формы пончика.",translated,44
+vntext.sq#68200,vntext.sq,BILLIE,"Still, I'm not turning down a potentially good donut. Let's see how it goes!","Но всё равно, не откажусь от потенциально хорошего пончика. Посмотрим, как пойдёт!",translated,76
+vntext.sq#74935,vntext.sq,BILLIE,"Hey, excuse me?","Эй, извините?",translated,15
+vntext.sq#74937,vntext.sq,BILLIE,"Sorry, this might come off a little weird, but...","Извините, это может прозвучать немного странно, но...",translated,49
+vntext.sq#74938,vntext.sq,BILLIE,Are you Zoey Belladona? From LichTV?,Вы Zoey Belladona? С LichTV?,translated,36
+vntext.sq#74942,vntext.sq,BILLIE,...?,...?,translated,4
+vntext.sq#74947,vntext.sq,BILLIE,Hehehehe~,Хехехехе~,translated,9
+vntext.sq#74950,vntext.sq,BILLIE,"Oh no, omigosh, I'm so sorry. It's just that... well...","Ой нет, боже мой, мне так жаль. Просто... ну...",translated,55
+vntext.sq#74951,vntext.sq,BILLIE,"You really don't skip out on the energy do you? And no, I'm not here for a selfie.","Ты правда не скупишься на энергию, да? И нет, я не за селфи пришла.",translated,82
+vntext.sq#74952,vntext.sq,BILLIE,"I'm Billie! Sorry, no, of course you wouldn't know my name. That's so stupid, haha...","Я Billie! Прости, нет, конечно ты не знаешь моё имя. Как глупо, хаха...",translated,85
+vntext.sq#74953,vntext.sq,BILLIE,"It's me, VengefulArtemis?","Это же я, VengefulArtemis?",translated,25
+vntext.sq#74956,vntext.sq,BILLIE,"Ahaha, that's me! Just a big ol' DOLALFS nerd with some money to spare.","Ахаха, это я! Просто здоровенная задротка DOLALFS с лишними деньгами.",translated,71
+vntext.sq#74959,vntext.sq,BILLIE,"Heh... well, I'm flattered you've heard of me!","Хех... ну, мне льстит, что ты обо мне слышала!",translated,46
+vntext.sq#74960,vntext.sq,BILLIE,But uh... yeah! I just wanted you to know that I think what you've been doing is really impressive.,"Но эм... да! Просто хотела, чтобы ты знала — то, что ты делаешь, реально впечатляет.",translated,99
+vntext.sq#74964,vntext.sq,BILLIE,Not true — it's not everyday that someone blows up as quickly as you. I think you've got what it takes to really make it big.,"Неправда — не каждый день кто-то взлетает так быстро, как ты. Думаю, у тебя есть всё, чтобы добиться по-настоящему больших высот.",translated,125
+vntext.sq#74965,vntext.sq,BILLIE,"But... ahem! I uh, hope I wasn't interrupting your conversation?","Но... кхм! Я эм, надеюсь, не перебила ваш разговор?",translated,64
+vntext.sq#74966,vntext.sq,BILLIE,"I guess I didn't really think this through. I just saw you from across the counter and... I don't know, impulses got the best of me...","Наверное, я не до конца это продумала. Просто увидела тебя через прилавок и... не знаю, порыв взял верх...",translated,134
+vntext.sq#74967,vntext.sq,BILLIE,So yeah... hehehe...,"В общем, да... хехехе...",translated,20
+vntext.sq#74968,vntext.sq,BILLIE,"If you'll excuse me, I'm gonna head back to my booth and hide forever now...","Если позволишь, я вернусь за свой столик и спрячусь там навсегда...",translated,76
+vntext.sq#74971,vntext.sq,BILLIE,"Oh my gosh, really? That'd be so cool!","Боже мой, серьёзно? Это было бы так круто!",translated,38
+vntext.sq#74974,vntext.sq,BILLIE,I'm good with anything you choose! You're the one treating.,"Мне подойдёт всё, что ты выберешь! Ты же угощаешь.",translated,59
+vntext.sq#74975,vntext.sq,BILLIE,I'll uh... I'll just head back first and tidy up the booth. My stuff is kind of all over the place...,Я эм... я сначала вернусь и приберусь за столиком. У меня там вещи разбросаны повсюду...,translated,101
+vntext.sq#74985,vntext.sq,BILLIE,"H-Hello! So yeah, erm, super nice to meet you...","П-привет! Ну да, эм, очень приятно познакомиться...",translated,48
+vntext.sq#74986,vntext.sq,BILLIE,Didn't know you were friends with our MC here.,"Не знала, что ты дружишь с нашим MC.",translated,46
+vntext.sq#74988,vntext.sq,BILLIE,I see... so yeah... guess that means...,"Понятно... ну да... наверное, это значит...",translated,39
+vntext.sq#74989,vntext.sq,BILLIE,Ermm... you come here often?,Эмм... ты часто сюда заходишь?,translated,28
+vntext.sq#74990,vntext.sq,BILLIE,"Oh my god, I can't believe I just said that.","Боже мой, поверить не могу, что я это только что сказала.",translated,44
+vntext.sq#74992,vntext.sq,BILLIE,Oh really?,Правда?,translated,10
+vntext.sq#75002,vntext.sq,BILLIE,Oh! Right now I've been really addicted to Abyssal Helix!,О! Сейчас я реально подсела на Abyssal Helix!,translated,57
+vntext.sq#75003,vntext.sq,BILLIE,Have it on my phone! Check it out!,У меня она на телефоне! Глянь!,translated,34
+vntext.sq#75005,vntext.sq,BILLIE,The nation of Caerulia is plagued by a dragon attack! And what's worse is the Fertility God is nowhere to be found!,"Нация Caerulia страдает от атак дракона! А хуже всего то, что Бог Плодородия куда-то пропал!",translated,115
+vntext.sq#75006,vntext.sq,BILLIE,"It's up to you, the player, to assemble a task force through any means necessary!","Это тебе, игроку, предстоит собрать отряд любыми средствами!",translated,81
+vntext.sq#75007,vntext.sq,BILLIE,And that includes... spending more real world money than I'd like to admit. But the characters are so cute and I can't help myself...,"И это включает... траты реальных денег в объёме, который мне стыдно признавать. Но персонажи такие милые, что я не могу удержаться...",translated,133
+vntext.sq#75010,vntext.sq,BILLIE,What do you mean? Most games are these days. Isn't it great how phones have the processing power to play almost anything?,"Ты о чём? Сейчас почти все игры такие. Разве не круто, что у телефонов теперь хватает мощности почти на всё?",translated,121
+vntext.sq#75014,vntext.sq,BILLIE,Oh really?,Правда?,translated,10
+vntext.sq#75025,vntext.sq,BILLIE,Heh...,Хех...,translated,6
+vntext.sq#75037,vntext.sq,BILLIE,Heh...,Хех...,translated,6
+vntext.sq#75039,vntext.sq,BILLIE,"Wait, really? But I don't think I've ever seen you stream it.","Погоди, серьёзно? Но я вроде никогда не видела, чтобы ты её стримила.",translated,61
+vntext.sq#75041,vntext.sq,BILLIE,"Oh! Yeah, I really get that! My chat does end up backseating a lot of the time, so it's nice to have a game away from streaming!","О! Да, я тебя прекрасно понимаю! Мой чат постоянно лезет с советами, так что приятно иметь игру подальше от стрима!",translated,128
+vntext.sq#75044,vntext.sq,BILLIE,"Now’s as good a time as any. There’s a lot of new player bonuses, and the upcoming banner features a unit that’s pretty strong—","Сейчас самое подходящее время. Куча бонусов для новых игроков, а в грядущем баннере будет довольно сильный юнит—",translated,127
+vntext.sq#75046,vntext.sq,BILLIE,Memories in a war-torn battlefield? I'm already grinding for the best in slot gear!,'Воспоминания на истерзанном войной поле боя'? Я уже гриндю лучшее снаряжение!,translated,83
+vntext.sq#75049,vntext.sq,BILLIE,You’re in Gilded Valkyries?!,Ты в Gilded Valkyries?!,translated,28
+vntext.sq#75051,vntext.sq,BILLIE,Whoa! That’s really impressive! You guys have always been consistent when it comes to raids.,Ого! Это реально впечатляет! Вы всегда стабильно хороши в рейдах.,translated,92
+vntext.sq#75052,vntext.sq,BILLIE,Are you a Day One player or something?,"Ты что, играешь с самого первого дня?",translated,38
+vntext.sq#75057,vntext.sq,BILLIE,...?,...?,translated,4
+vntext.sq#75058,vntext.sq,BILLIE,"Oh, sorry, that's my phone.","Ой, прости, это мой телефон.",translated,27
+vntext.sq#75059,vntext.sq,BILLIE,Wow... I was supposed to meet up with some of my friends but I totally lost track of time...,"Ого... я вообще-то должна была встретиться с друзьями, а совсем потеряла счёт времени...",translated,92
+vntext.sq#75061,vntext.sq,BILLIE,R-Really? I mean — sure!,П-правда? В смысле — конечно!,translated,24
+vntext.sq#75062,vntext.sq,BILLIE,"This has been super great, Zoey. It's nice meeting you!","Это было супер здорово, Зоуи. Приятно познакомиться!",translated,55
+vntext.sq#75063,vntext.sq,BILLIE,"And thanks as well, {$mcName}! I've been buying donuts here for quite awhile; and it's cool to finally sit down and chat with you too!","И тебе тоже спасибо, {$mcName}! Я уже давно покупаю здесь пончики, и классно, что наконец-то удалось посидеть и поболтать с тобой тоже!",translated,134
+vntext.sq#75091,vntext.sq,BILLIE,"Hi, {$mcName}! Have you seen Zoey?","Привет, {$mcName}! Ты не видел Зоуи?",translated,34
+vntext.sq#75093,vntext.sq,BILLIE,Thanks!,Спасибо!,translated,7
+vntext.sq#75094,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75096,vntext.sq,BILLIE,"Hey, Zoey! I'm here!","Привет, Зоуи! Я здесь!",translated,20
+vntext.sq#75098,vntext.sq,BILLIE,Let's go.,Погнали.,translated,9
+vntext.sq#75102,vntext.sq,BILLIE,Game ready!,Игра готова!,translated,11
+vntext.sq#75104,vntext.sq,BILLIE,That's right people!,"Всё верно, народ!",translated,20
+vntext.sq#75106,vntext.sq,BILLIE,For!,Для!,translated,4
+vntext.sq#75109,vntext.sq,BILLIE,Paradise or Inferno!,Рай или Ад!,translated,20
+vntext.sq#75112,vntext.sq,BILLIE,Hmmph!,Хмпф!,translated,6
+vntext.sq#75114,vntext.sq,BILLIE,"Oh... ha! Oh, almost got me there...","Ох... ха! Ох, чуть не поймала меня...",translated,36
+vntext.sq#75115,vntext.sq,BILLIE,"Counter point: you've overstepped, now I'm in the perfect position to unleash my secret technique!","Контраргумент: ты перестаралась, и теперь я в идеальной позиции, чтобы выпустить свою секретную технику!",translated,98
+vntext.sq#75118,vntext.sq,BILLIE,N-No way chat! Just what the hell was that!,"Н-не может быть, чат! Да что это вообще было!",translated,43
+vntext.sq#75128,vntext.sq,BILLIE,"That was amazing, you almost had me there, Zoey.","Это было потрясающе, ты меня чуть не поймала, Зоуи.",translated,48
+vntext.sq#75129,vntext.sq,BILLIE,But now... it's my turn!,Но теперь... моя очередь!,translated,24
+vntext.sq#75133,vntext.sq,BILLIE,Yess! Wooo! I won! G.G. Zoey!,"Дааа! Вуху! Я победила! Джи-джи, Зоуи!",translated,29
+vntext.sq#75136,vntext.sq,BILLIE,"Oh, hey there! S-Sorry, hope it's okay? We were talking about this game, and so we thought: ""Why the hell not, let's have a match?""","Ой, привет! П-прости, надеюсь, всё в порядке? Мы говорили про эту игру и подумали: «А какого чёрта, давай сыграем матч?»",translated,131
+vntext.sq#75142,vntext.sq,BILLIE,"O-Oh... nah, it's nothing like that.","О-ой... не, ничего подобного.",translated,36
+vntext.sq#75144,vntext.sq,BILLIE,"We're not streaming or anything. We both just met up and decided to play a game, that's all.","Мы ничего не стримим. Мы просто встретились и решили сыграть в игру, вот и всё.",translated,92
+vntext.sq#75146,vntext.sq,BILLIE,"Mhmmm! Glad you guys enjoyed the game, but if it's all okay, Zoey and I are just gonna go order some donuts now, and we'd prefer some privacy.","Ага! Рада, что вам понравилась игра, но если не против, мы с Зоуи сейчас пойдём заказывать пончики, и нам бы хотелось немного уединения.",translated,142
+vntext.sq#75149,vntext.sq,BILLIE,"All right, you said you wanted to grab a donut after that game?","Так, ты говорила, что хочешь пончик после этой игры?",translated,63
+vntext.sq#75152,vntext.sq,BILLIE,...?,...?,translated,4
+vntext.sq#75153,vntext.sq,BILLIE,"Oh, yeah, best be direct when fans get overexcited.","А, да, лучше сразу быть прямой, когда фанаты перевозбуждаются.",translated,51
+vntext.sq#75156,vntext.sq,BILLIE,"Oh yeah, I totally get that. But there's nothing wrong with setting some boundaries.","О да, прекрасно понимаю. Но нет ничего плохого в том, чтобы устанавливать границы.",translated,84
+vntext.sq#75158,vntext.sq,BILLIE,"Well, as long as you're polite about it, I don't see it being a problem.","Ну, если ты вежлива при этом, не вижу в этом проблемы.",translated,72
+vntext.sq#75230,vntext.sq,BILLIE,"Awwww, thanks, Zoey.","Аааа, спасибо, Зоуи.",translated,20
+vntext.sq#75234,vntext.sq,BILLIE,You want a second round of [i] 'Fight Esquire' [/i] ?,Хочешь ещё раунд [i] 'Fight Esquire' [/i] ?,translated,53
+vntext.sq#75447,vntext.sq,BILLIE,"Hehehe! The old 'hide in plain sight' strat, never gets old.","Хехехе! Старая стратегия «прятаться на виду», никогда не устаревает.",translated,60
+vntext.sq#75450,vntext.sq,BILLIE,Hiya! How's your day going?,Приветик! Как твой день проходит?,translated,27
+vntext.sq#75454,vntext.sq,BILLIE,Some of them even started writing fanfiction about it. I'll let you know which ship ends up on top.,"Некоторые из них даже начали писать про это фанфики. Дам знать, какой шип в итоге победит.",translated,99
+vntext.sq#75456,vntext.sq,BILLIE,"That's chat for you, you just gotta shoot straight with them sometimes.","Вот такой уж этот чат, иногда с ними просто нужно быть прямолинейной.",translated,71
+vntext.sq#75458,vntext.sq,BILLIE,"Hehe~ Well, I for one, am honored to be part of this fictional polycule.","Хихи~ Ну, я лично польщена быть частью этой вымышленной полиамории.",translated,72
+vntext.sq#75460,vntext.sq,BILLIE,"That's the secret to it I suppose, rumors can seem daunting at times, but just talking it out with your friends helps a lot.","Полагаю, в этом весь секрет, слухи иногда могут пугать, но просто обсудить их с друзьями сильно помогает.",translated,124
+vntext.sq#75461,vntext.sq,BILLIE,"Oh, on that note! Zoey, I've been wanting to ask you something.","О, кстати! Зоуи, я хотела кое-что у тебя спросить.",translated,63
+vntext.sq#75463,vntext.sq,BILLIE,"Well, I've been thinking of getting a new place, and the idea suddenly struck me.","Ну, я тут подумывала подыскать себе новое жильё, и меня вдруг осенила идея.",translated,81
+vntext.sq#75464,vntext.sq,BILLIE,I thought it would be cool if I could room with some fellow streamers.,"Подумала, было бы классно, если бы я могла жить вместе с другими стримерами.",translated,70
+vntext.sq#75465,vntext.sq,BILLIE,"That way it'll be easier to collab, and of course, it's just nice to have some sort of support group.","Так было бы легче коллабиться, и, конечно, просто приятно иметь что-то вроде группы поддержки.",translated,101
+vntext.sq#75466,vntext.sq,BILLIE,Kinda like a streamer house!,Что-то вроде стримерского дома!,translated,28
+vntext.sq#75468,vntext.sq,BILLIE,And I was kinda thinking if... uhmm... you'd like to join?,"И я тут подумала, может... эмм... ты бы хотела присоединиться?",translated,58
+vntext.sq#75470,vntext.sq,BILLIE,Yeah! I think it'll be a blast living with people doing the same thing.,"Да! Думаю, будет классно жить с людьми, которые занимаются тем же самым.",translated,71
+vntext.sq#75475,vntext.sq,BILLIE,"No pressure by the way, take your time.","Кстати, никакого давления, не спеши.",translated,39
+vntext.sq#75540,vntext.sq,BILLIE,Omigosh! That's great! I'm so excited!,Боже мой! Это же здорово! Я так взволнована!,translated,38
+vntext.sq#75543,vntext.sq,BILLIE,That's fine. Don't sweat it!,Всё нормально. Не парься!,translated,28
+vntext.sq#75544,vntext.sq,BILLIE,"Though if you do decide, just let me know!","Хотя если всё же решишься, дай мне знать!",translated,42
+vntext.sq#75545,vntext.sq,BILLIE,"Not to get ahead of myself but just imagine, our very own streamer house! Oh! We should think of a name!","Не хочу забегать вперёд, но представь только, наш собственный стримерский дом! О! Надо придумать название!",translated,104
+vntext.sq#75547,vntext.sq,BILLIE,Huh?,А?,translated,4
+vntext.sq#75551,vntext.sq,BILLIE,"O-Oh, it's you... hello... I don't think I caught your name.","О-ой, это ты... привет... кажется, я не расслышала твоё имя.",translated,60
+vntext.sq#75563,vntext.sq,BILLIE,"Accept what? W-Wait, you don't mean—","Соглашаешься на что? П-погоди, ты же не имеешь в виду—",translated,36
+vntext.sq#75566,vntext.sq,BILLIE,"Ermm... that's cool and all, but... you like... weren't invited.","Эмм... это, конечно, круто и всё такое, но... тебя вроде как... не приглашали.",translated,64
+vntext.sq#75583,vntext.sq,BILLIE,"First off, we can't tell you where the place is, cos like I said, you were not invited.","Во-первых, мы не можем сказать тебе, где это место, потому что, как я уже сказала, тебя не приглашали.",translated,87
+vntext.sq#75590,vntext.sq,BILLIE,"Sorry, but we're gonna have to turn you down.","Извини, но нам придётся тебе отказать.",translated,45
+vntext.sq#75605,vntext.sq,BILLIE,"You sure you okay there, Zoey? You still look pretty shaken up.","Ты точно в порядке, Зоуи? Ты всё ещё выглядишь довольно потрясённой.",translated,63
+vntext.sq#75608,vntext.sq,BILLIE,"That's good to know, but just so you know—","Хорошо это слышать, но просто к твоему сведению—",translated,42
+vntext.sq#75610,vntext.sq,BILLIE,"And of course they made her into a hot girl. I mean, not complaining, but her being a completely normal cow reflected the squire's own mundane roots...","И конечно они сделали из неё горячую девушку. В смысле, я не жалуюсь, но то, что она была совершенно обычной коровой, отражало приземлённые корни самого сквайра...",translated,151
+vntext.sq#75615,vntext.sq,BILLIE,"And really — angel wings? Like, how does that even factor into the story? They did it cos it looked cool!","И правда — ангельские крылья? В смысле, как это вообще связано с сюжетом? Они это сделали просто потому что выглядит круто!",translated,105
+vntext.sq#75618,vntext.sq,BILLIE,"How's it buzzing, Honey Bee?","Как жужжится, Пчёлка?",translated,28
+vntext.sq#75619,vntext.sq,BILLIE,"Haha! You thought it was Zoey, but it was me, Billie!","Ха! Ты подумал, что это Зоуи, а это была я, Билли!",translated,53
+vntext.sq#75620,vntext.sq,BILLIE,"Thought I'd give her catchphrase a try, though how she keeps up that energy, I'll never know...","Подумала, попробую её коронную фразу, хотя как она поддерживает такую энергию — не знаю.",translated,95
+vntext.sq#75622,vntext.sq,BILLIE,Hehehe~ I can never tell whether you're being sarcastic or not.,"Хехехе~ Никогда не могу понять, саркастичен ты или нет.",translated,63
+vntext.sq#75624,vntext.sq,BILLIE,"Haha, all right then. Though speaking of mysteries, I've just solved one!","Ха-ха, ну ладно. Хотя раз уж речь о загадках, одну я только что разгадала!",translated,73
+vntext.sq#75625,vntext.sq,BILLIE,The case of the 'Hunt for my new streamer house' has been closed. Found a place~,Дело о «поисках моего нового стримерского дома» закрыто. Нашла место~,translated,80
+vntext.sq#75626,vntext.sq,BILLIE,"Price is so good, I kind of suspect it might have been a murder site, a sex dungeon, or infested with rats.","Цена такая хорошая, что я подозреваю, там либо было убийство, либо секс-подземелье, либо кишат крысы.",translated,107
+vntext.sq#75627,vntext.sq,BILLIE,"Made a poll on which one people think is more likely, what's your vote on?","Устроила опрос, что люди считают более вероятным, а ты за что голосуешь?",translated,74
+vntext.sq#75634,vntext.sq,BILLIE,Oho! You know what? That does explain the ominous bloodstain I found underneath the carpet.,"Охо! Знаешь что? Это объясняет то зловещее кровавое пятно, которое я нашла под ковром.",translated,91
+vntext.sq#75636,vntext.sq,BILLIE,With all the streaming I've been doing? What's one more set of ears listening to me?,"При всём том, сколько я стримлю? Что для меня ещё одна пара ушей, слушающих меня?",translated,84
+vntext.sq#75639,vntext.sq,BILLIE,That's a pretty specific number~ You a member of the community?,Довольно конкретное число~ Ты состоишь в комьюнити?,translated,63
+vntext.sq#75643,vntext.sq,BILLIE,"Well, I did find what might have been the remains of a Saint Andrew's Cross in one of the closets, so might you may not be too far off.","Ну, я и правда нашла что-то похожее на остатки Андреевского креста в одном из шкафов, так что, возможно, ты не так уж и далёк от истины.",translated,135
+vntext.sq#75646,vntext.sq,BILLIE,Huh? What do you mean — wait... do you even know what a Saint Andrew's Cross is?,"А? Ты о чём — погоди... ты вообще знаешь, что такое Андреевский крест?",translated,80
+vntext.sq#75649,vntext.sq,BILLIE,"It may cause people to scream out god's name, but it definitely ain't holy.","Возможно, из-за него люди кричат имя божье, но точно не в святом смысле.",translated,75
+vntext.sq#75653,vntext.sq,BILLIE,"The game is on then. I've got two cats, a reverse-edged katana, and thousands of hours of killing in-game rats. Let's see who wins.","Значит, игра началась. У меня две кошки, катана с обратной заточкой, и тысячи часов убийства крыс в играх. Посмотрим, кто победит.",translated,131
+vntext.sq#75655,vntext.sq,BILLIE,Hehehe~,Хехехе~,translated,7
+vntext.sq#75656,vntext.sq,BILLIE,Zoey answered 'All of the above'.,Зоуи ответила 'всё вышеперечисленное'.,translated,33
+vntext.sq#75658,vntext.sq,BILLIE,"No can do, life's got an autosave feature.","Не выйдет, у жизни есть функция автосохранения.",translated,42
+vntext.sq#75660,vntext.sq,BILLIE,Sure thing...,Конечно...,translated,13
+vntext.sq#75661,vntext.sq,BILLIE,"Heh... I've been ordering donuts here for a while now, but never realized that... well, you're quite an odd one, Mood Confectioner.","Хех... я уже давно заказываю тут пончики, но никогда не осознавала, что... ну, ты довольно странный, Кондитер настроения.",translated,131
+vntext.sq#75663,vntext.sq,BILLIE,"Oh no, course not! Spending most of my time online, I like to think I'm pretty exposed to the weirdos of the world.","Ой нет, конечно нет! Проводя большую часть времени онлайн, я люблю думать, что довольно неплохо знакома со всеми чудаками этого мира.",translated,115
+vntext.sq#75664,vntext.sq,BILLIE,"It's nice though, finally getting to know the Confectioner behind the counter.",Хотя приятно наконец познакомиться с Кондитером за прилавком.,translated,78
+vntext.sq#75666,vntext.sq,BILLIE,"Speaking of which, I'm always asking you for an order, I'd like to ask for a recommendation.","К слову о том, раз уж я всегда прошу у тебя заказ, хотела бы попросить рекомендацию.",translated,92
+vntext.sq#75667,vntext.sq,BILLIE,Hit me up with whatever donut you're feeling like giving me today. I'll leave everything completely up to you.,"Удиви меня любым пончиком, каким сегодня захочешь. Полностью оставляю это на твоё усмотрение.",translated,110
+vntext.sq#75673,vntext.sq,BILLIE,Sweet! Thanks!,Класс! Спасибо!,translated,14
+vntext.sq#75674,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75675,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75676,vntext.sq,BILLIE,Oh... just... just what the hell is this?,О... просто... что вообще это такое?,translated,41
+vntext.sq#75677,vntext.sq,BILLIE,"When I asked for freestyle, I didn't think you'd get this... uhmmm, creative...","Когда я просила в свободном стиле, я не думала, что получу нечто настолько... эмм, творческое...",translated,79
+vntext.sq#75680,vntext.sq,BILLIE,You got that right.,В этом ты права.,translated,19
+vntext.sq#75681,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75682,vntext.sq,BILLIE,Oh wow! You're in the zone today!,Ого! Сегодня ты прямо в ударе!,translated,33
+vntext.sq#75683,vntext.sq,BILLIE,"This donut's lore must go deep! Forged in the fires of a fallen star, and glazed with the sweet nectar of the obsidian gods!","Лор этого пончика, должно быть, очень глубокий! Выкован в огне падшей звезды и покрыт сладким нектаром обсидиановых богов!",translated,124
+vntext.sq#75684,vntext.sq,BILLIE,Least that's how it feels to me...,"По крайней мере, у меня такое ощущение...",translated,34
+vntext.sq#75685,vntext.sq,BILLIE,Mmmmm! Tasty!,Ммммм! Вкусно!,translated,13
+vntext.sq#75686,vntext.sq,BILLIE,"Heh~ Well, this mood sure brings me back...","Хех~ Ну, это настроение реально возвращает меня в прошлое...",translated,43
+vntext.sq#75687,vntext.sq,BILLIE,"You know, there was a time not too long ago I was part of an E-sports team..","Знаешь, было время не так давно, когда я состояла в киберспортивной команде..",translated,76
+vntext.sq#75689,vntext.sq,BILLIE,Yup! Got a couple of friends together. We tried to make it big in the DOLALFS scene.,Ага! Собрала пару друзей вместе. Пытались пробиться в большую лигу сцены DOLALFS.,translated,84
+vntext.sq#75690,vntext.sq,BILLIE,"Was working out for a while, but... well, once the spotlight's on you, every single mistake you make starts to pile up.","Какое-то время всё шло неплохо, но... ну, стоит попасть в центр внимания, как каждая твоя ошибка начинает копиться.",translated,119
+vntext.sq#75691,vntext.sq,BILLIE,And that was fine for some of my teammates. But after awhile... I guess I just found it all hard to deal with...,"И для некоторых моих товарищей по команде это было нормально. Но через какое-то время... мне, наверное, стало трудно с этим справляться...",translated,112
+vntext.sq#75692,vntext.sq,BILLIE,"Wasn't a good time for me... I sat down and thought about it, and I realized that though the rush of snatching victory from the gnawing jaws of defeat was fun...","Не самое лучшее для меня было время... я села и подумала об этом и поняла, что хотя кайф от вырывания победы из самых пастей поражения был весёлым...",translated,161
+vntext.sq#75693,vntext.sq,BILLIE,My favorite part of the game was just engaging with the story. Why does 'Midnighter' know how to juggle even though he only has one hand?,"Моей любимой частью игры было просто погружение в сюжет. Почему 'Midnighter' умеет жонглировать, хотя у него всего одна рука?",translated,137
+vntext.sq#75694,vntext.sq,BILLIE,"Is 'Hex-girl' really the long lost twin sister of 'Jade Fist'? And if so, will all the fanfics written by their shippers be retroactively tagged as incest?","А правда ли 'Hex-girl' давно потерянная сестра-близнец 'Jade Fist'? И если да, то будут ли все фанфики, написанные их шипперами, задним числом помечены как инцест?",translated,155
+vntext.sq#75695,vntext.sq,BILLIE,"All those sleepless nights reading through the wiki... heh, it felt good mapping out all the juicy breadcrumbs the devs were hinting at.","Все те бессонные ночи, проведённые за чтением вики... хех, было приятно составлять карту всех сочных подсказок, которые подкидывали разработчики.",translated,136
+vntext.sq#75697,vntext.sq,BILLIE,Yup! Heh~,Ага! Хех~,translated,9
+vntext.sq#75698,vntext.sq,BILLIE,"Ahhhh, pretty cool mood you've set me up with.","Аааах, довольно классное настроение ты мне дал.",translated,46
+vntext.sq#75699,vntext.sq,BILLIE,"Not gonna lie, things have been pretty hectic as of late.","Не буду врать, в последнее время всё было довольно суматошно.",translated,57
+vntext.sq#75700,vntext.sq,BILLIE,So this is a welcome feeling.,Так что это приятное чувство.,translated,29
+vntext.sq#75701,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75702,vntext.sq,BILLIE,Paperwork...,Бумажная волокита...,translated,12
+vntext.sq#75704,vntext.sq,BILLIE,You know how much paperwork comes with moving into a new place?,"Знаешь, сколько бумажной волокиты идёт с переездом на новое место?",translated,63
+vntext.sq#75705,vntext.sq,BILLIE,Why oh why did I insist on making sure my signature still looked the same upside down?,"И зачем, зачем я настояла на том, чтобы моя подпись выглядела одинаково и вверх ногами?",translated,86
+vntext.sq#75706,vntext.sq,BILLIE,"Curse my college self. Sounded cool at the time, but after signing my name twenty times in triplicate... ugh...","Будь проклята моя студенческая версия себя. Тогда звучало круто, но после того, как подписала своё имя двадцать раз в трёх экземплярах... уф...",translated,111
+vntext.sq#75707,vntext.sq,BILLIE,Heh... this would've been a nice mood to have for that...,Хех... это было бы неплохое настроение для этого...,translated,57
+vntext.sq#75709,vntext.sq,BILLIE,Hehehe~,Хехехе~,translated,7
+vntext.sq#75710,vntext.sq,BILLIE,"Real talk, I used to kind of be scared of you.","Если серьёзно, раньше я тебя немного побаивалась.",translated,46
+vntext.sq#75712,vntext.sq,BILLIE,It's exactly that kind of straight-faced look that made me think otherwise.,Именно этот твой невозмутимый взгляд и заставлял меня думать иначе.,translated,75
+vntext.sq#75713,vntext.sq,BILLIE,Difficult to tell if you're joking or not. Though maybe I just suck at reading the tone of your voice.,"Трудно понять, шутишь ты или нет. Хотя, может, я просто плохо считываю тон твоего голоса.",translated,102
+vntext.sq#75715,vntext.sq,BILLIE,"Heh, well, glad we ended up talking more eventually.","Хех, ну, рада, что мы в итоге стали больше общаться.",translated,52
+vntext.sq#75716,vntext.sq,BILLIE,"Ahhhh, if they say alcohol is liquid {$moods:courage}, then does that make this kind of donut, donut shaped {$moods:courage}?","Ааах, если говорят, что алкоголь — это жидкая {$moods:courage}, значит ли это, что такой пончик — это {$moods:courage} в форме пончика?",translated,125
+vntext.sq#75718,vntext.sq,BILLIE,And I am most certainly enjoying this one!,И мне этот точно нравится!,translated,42
+vntext.sq#75719,vntext.sq,BILLIE,That day I approached Zoey... whew... wish I could have had one of these... maybe I might have come off as way less awkward.,"В тот день, когда я подошла к Зоуи... уф... вот бы у меня был такой... может, я бы вела себя не так неловко.",translated,124
+vntext.sq#75721,vntext.sq,BILLIE,"Oh man, I can't wait for this streamer house thing to really come together.","Блин, не могу дождаться, когда эта затея со стримерским домом наконец сложится.",translated,75
+vntext.sq#75722,vntext.sq,BILLIE,"After working on my own for a bit, I started to realize that it's nice to wake up in the afternoon to a busy kitchen, know what I mean?","После того как какое-то время работала одна, я начала понимать, что приятно просыпаться днём под шум оживлённой кухни, понимаешь?",translated,135
+vntext.sq#75724,vntext.sq,BILLIE,"Heh, well, maybe you just haven't found the right roommates yet.","Хех, ну, может, ты просто ещё не нашёл подходящих соседей.",translated,64
+vntext.sq#75725,vntext.sq,BILLIE,"Haha~ Bringing on the {$moods:cheer}, I see! Wooo!","Ха-ха~ Вижу, притащил {$moods:cheer}! Вууу!",translated,50
+vntext.sq#75726,vntext.sq,BILLIE,"You know what, at the end of the day, it's always good to come back to the classics!","Знаешь что, в конце концов всегда приятно вернуться к классике!",translated,84
+vntext.sq#75727,vntext.sq,BILLIE,What's not to like about a laugh and a smile?,Что может не нравиться в смехе и улыбке?,translated,45
+vntext.sq#75728,vntext.sq,BILLIE,"Oh man, I can't wait for this streamer house thing to really come together.","Блин, не могу дождаться, когда эта затея со стримерским домом наконец сложится.",translated,75
+vntext.sq#75729,vntext.sq,BILLIE,Think of all the collab ideas! I am so hyped!,Только подумай о всех идеях для коллабов! Я так взволнована!,translated,45
+vntext.sq#75730,vntext.sq,BILLIE,"If Zoey does end up joining, there's this co-op game I've been wanting to play where you have to control different sets of organs in a digestive track!","Если Зоуи всё же присоединится, есть такая кооп-игра, в которую я давно хотела поиграть, где нужно управлять разными органами в пищеварительном тракте!",translated,151
+vntext.sq#75732,vntext.sq,BILLIE,"Glowing reviews. Trust me, the mundane but ever present task of turning food into feces has never been more hype!","Восторженные отзывы. Поверь, обыденная, но вечно актуальная задача превращения еды в фекалии никогда ещё не была такой хайповой!",translated,113
+vntext.sq#75733,vntext.sq,BILLIE,"Oh man, I can't wait for this streamer house thing to really come together.","Блин, не могу дождаться, когда эта затея со стримерским домом наконец сложится.",translated,75
+vntext.sq#75734,vntext.sq,BILLIE,"Got to make an itemized list of things I've got to do. Also, I better start investigating why the place was so cheap... I just hope it's not rats...","Надо составить подробный список дел. Ещё стоит начать разбираться, почему это место было таким дешёвым... надеюсь, дело не в крысах...",translated,148
+vntext.sq#75735,vntext.sq,BILLIE,"Give me ghosts or blood stains or other... steamier bodily fluids. I don't care, as long as it's not rats.","Дайте мне призраков, кровавые пятна или другие... более пикантные телесные жидкости. Мне всё равно, лишь бы не крысы.",translated,106
+vntext.sq#75736,vntext.sq,BILLIE,"Ahhh, this mood... makes me think about why I'm doing this in the first place.","Ааах, это настроение... заставляет меня задуматься, зачем я вообще всё это затеяла.",translated,78
+vntext.sq#75737,vntext.sq,BILLIE,I suppose I've always just really cared for community.,"Наверное, мне всегда было по-настоящему важно комьюнити.",translated,54
+vntext.sq#75738,vntext.sq,BILLIE,"If this all works out, we'll be pouring our shared ${passions} together!","Если всё это получится, мы будем сливать воедино наши общие ${passions}!",translated,72
+vntext.sq#75739,vntext.sq,BILLIE,...?,...?,translated,4
+vntext.sq#75740,vntext.sq,BILLIE,Wait... this is just a regular donut without mood enhancers…?,Погоди... это просто обычный пончик без усилителей настроения…?,translated,61
+vntext.sq#75741,vntext.sq,BILLIE,"Wow, I ask you to give me anything you want and you give me this?","Ого, я прошу тебя дать мне что угодно, а ты даёшь мне это?",translated,65
+vntext.sq#75742,vntext.sq,BILLIE,"Really phoning it in, aren't you?","Ты реально халтуришь, да?",translated,33
+vntext.sq#75745,vntext.sq,BILLIE,Heh... nice try. Tell you what? I'll accept your smooth talk for now...,Хех... неплохая попытка. Знаешь что? Пока приму твою сладкоречивость...,translated,71
+vntext.sq#75747,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75748,vntext.sq,BILLIE,Not bad... not bad at all...,Неплохо... совсем неплохо...,translated,28
+vntext.sq#75749,vntext.sq,BILLIE,"Hmmm, maybe it's the mood you hooked me up with, but if you don't mind, can I ask you a question?","Хмм, может, это настроение, которое ты мне дал, но если не против, можно кое-что спросить?",translated,97
+vntext.sq#75750,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75751,vntext.sq,BILLIE,Hey... I've got a question for you.,Эй... у меня есть к тебе вопрос.,translated,35
+vntext.sq#75753,vntext.sq,BILLIE,"You're always handing out moods to people. Whether it's the euphoria of {$moods:cheer}, or the bittersweet nectar of {$moods:nostalgia}...","Ты всегда раздаёшь людям настроения. То ли это эйфория {$moods:cheer}, то ли горько-сладкий нектар {$moods:nostalgia}...",translated,138
+vntext.sq#75754,vntext.sq,BILLIE,"Whatever the case, the side you get to see of people are always filtered through these moods.","В любом случае, та сторона людей, что тебе видна, всегда отфильтрована через эти настроения.",translated,93
+vntext.sq#75755,vntext.sq,BILLIE,Ever feel that that's stopping you from seeing people for who they really are?,"Тебе никогда не казалось, что это мешает тебе видеть людей такими, какие они на самом деле?",translated,78
+vntext.sq#75757,vntext.sq,BILLIE,"From experience, those end up being the best ones.","По опыту, такие вопросы получаются лучше всего.",translated,50
+vntext.sq#75764,vntext.sq,BILLIE,That so?,Да неужели?,translated,8
+vntext.sq#75775,vntext.sq,BILLIE,Heh... good point.,Хех... хорошая мысль.,translated,18
+vntext.sq#75776,vntext.sq,BILLIE,"That's the thing about Zoey. She puts on a strong face, but deep down she's kind of a bundle of nerves.","Вот в чём фишка с Зоуи. Она держит уверенное лицо, но глубоко внутри она комок нервов.",translated,103
+vntext.sq#75777,vntext.sq,BILLIE,It's obvious that her popularity really came suddenly to her. She worries more than she lets on.,"Очевидно, что её популярность свалилась на неё внезапно. Она переживает больше, чем показывает.",translated,96
+vntext.sq#75778,vntext.sq,BILLIE,And I get that. In this neon nightmare of a world... it's hard to get a break.,И я это понимаю. В этом неоновом кошмаре мира... трудно получить передышку.,translated,78
+vntext.sq#75779,vntext.sq,BILLIE,"The online world can be a pretty unstable place... and she worries that all it takes is one slip up and... well, she can lose everything.","Онлайн-мир может быть довольно нестабильным местом... и она переживает, что достаточно одного промаха и... ну, она может потерять всё.",translated,137
+vntext.sq#75781,vntext.sq,BILLIE,Live and learn. And I had to do a lot of learning... mostly by myself...,Живи и учись. И мне пришлось многому научиться... в основном самой...,translated,72
+vntext.sq#75782,vntext.sq,BILLIE,I suppose that's why I asked her to join up with me.,"Полагаю, именно поэтому я и предложила ей присоединиться ко мне.",translated,52
+vntext.sq#75783,vntext.sq,BILLIE,When you're trapped in that bubble... being in your own head with nothing but the endless sea of online chat to deal with...,"Когда ты застрял в этом пузыре... наедине со своими мыслями, а вокруг лишь бесконечное море онлайн-чата, с которым приходится справляться...",translated,124
+vntext.sq#75784,vntext.sq,BILLIE,"Well, let's just say it helps to have people you can just talk to off camera.","Ну, скажем так, помогает иметь людей, с которыми можно просто поговорить вне камеры.",translated,77
+vntext.sq#75786,vntext.sq,BILLIE,Gatcha gem for your thoughts?,Гача-камень за твои мысли?,translated,29
+vntext.sq#75795,vntext.sq,BILLIE,I see...,Понятно...,translated,8
+vntext.sq#75796,vntext.sq,BILLIE,"Weird metaphor, but you know what? Own it.","Странная метафора, но знаешь что? Прими это как есть.",translated,42
+vntext.sq#75801,vntext.sq,BILLIE,Heh... nice chat. It's real refreshing.,Хех... приятный разговор. Реально освежает.,translated,39
+vntext.sq#75802,vntext.sq,BILLIE,Here I thought you were just another NPC.,"А я-то думала, ты просто ещё один NPC.",translated,41
+vntext.sq#75804,vntext.sq,BILLIE,And I suppose therein lies that magic you were talking about.,"И, полагаю, вот в чём та самая магия, о которой ты говорил.",translated,61
+vntext.sq#75805,vntext.sq,BILLIE,"Hehe... well, I better be going. Still got to finish up the paperwork for my new place.","Хехе... что ж, мне пора. Ещё нужно доделать бумажную волокиту для нового места.",translated,87
+vntext.sq#75806,vntext.sq,BILLIE,And I can already feel the {$moods:focus} from your donut is going to do wonders...,"И я уже чувствую, что {$moods:focus} от твоего пончика сотворит чудеса...",translated,83
+vntext.sq#75807,vntext.sq,BILLIE,"Luckily, that donut of yours has got me in a good mood for it.","К счастью, этот твой пончик настроил меня на нужный лад для этого.",translated,62
+vntext.sq#75808,vntext.sq,BILLIE,And the {$moods:patience} from your mood enhancers are going to come in real handy.,И {$moods:patience} от твоих усилителей настроения точно пригодится.,translated,83
+vntext.sq#75809,vntext.sq,BILLIE,And that boost from your donut's got me pumped to get it done!,И тот заряд от твоего пончика придал мне сил взяться за это!,translated,62
+vntext.sq#75810,vntext.sq,BILLIE,"Luckily, I'm still feeling the {$moods:courage} from your donut, so I shall face it head on!","К счастью, я всё ещё чувствую {$moods:courage} от твоего пончика, так что встречу это лицом к лицу!",translated,92
+vntext.sq#75811,vntext.sq,BILLIE,And... thanks. I don't usually bring up the past... but it was nice to talk to someone about it...,И... спасибо. Обычно я не поднимаю тему прошлого... но было приятно с кем-то об этом поговорить...,translated,98
+vntext.sq#75812,vntext.sq,BILLIE,"Actually, that's a lie... I want to get back to playing [i] Steamy Love Island III: The Muscle Masquerade [/i] ... it's not just a hentai game, the story's great — I swear!","На самом деле, это ложь... я хочу вернуться к игре в [i] Steamy Love Island III: The Muscle Masquerade [/i] ... это не просто хентай-игра, там реально классный сюжет — клянусь!",translated,172
+vntext.sq#75813,vntext.sq,BILLIE,...!,...!,translated,4
+vntext.sq#75814,vntext.sq,BILLIE,Damn it... those {$moods:sincerity} enhancers sure are effective...,Чёрт... эти усилители {$moods:sincerity} и правда эффективны...,translated,67
+vntext.sq#75816,vntext.sq,BILLIE,"Ermm, y-yeah... sure...","Эмм, д-да... конечно...",translated,23
+vntext.sq#75818,vntext.sq,BILLIE,Never again. Hehe~,Больше никогда. Хехе~,translated,18
+vntext.sq#75820,vntext.sq,BILLIE,Hiya! Hello again!,Приветик! Снова привет!,translated,18
+vntext.sq#75822,vntext.sq,BILLIE,"So, thought you'd like to know...","Так вот, подумала, тебе будет интересно узнать...",translated,33
+vntext.sq#75823,vntext.sq,BILLIE,"I did some digging on the cheap place I got, and turns out... drum roll...","Я покопалась насчёт того дешёвого места, что нашла, и оказалось... барабанная дробь...",translated,74
+vntext.sq#75824,vntext.sq,BILLIE,It was infested with rats... lots and lots of rats.,Оно кишело крысами... кучей-кучей крыс.,translated,51
+vntext.sq#75825,vntext.sq,BILLIE,"So sorry, you guessed wrong. Nice try though.","Извини, ты угадал неправильно. Хотя, неплохая попытка.",translated,45
+vntext.sq#75827,vntext.sq,BILLIE,"Nah, I checked for bodies, none to be found.","Не-а, я проверила на предмет тел, ничего не нашла.",translated,44
+vntext.sq#75829,vntext.sq,BILLIE,"Hehe~ Sure thing, breathe in that copium.","Хехе~ Ну конечно, вдыхай этот копиум.",translated,41
+vntext.sq#75830,vntext.sq,BILLIE,"So sorry, you guessed wrong. Nice try though.","Извини, ты угадал неправильно. Хотя, неплохая попытка.",translated,45
+vntext.sq#75833,vntext.sq,BILLIE,"Hehe~ Sure thing, breathe in that copium.","Хехе~ Ну конечно, вдыхай этот копиум.",translated,41
+vntext.sq#75835,vntext.sq,BILLIE,So congrats! You win!,Так что поздравляю! Ты выиграл!,translated,21
+vntext.sq#75836,vntext.sq,BILLIE,"For your prize, how about I give you a free premium subscription to my channel!",В качестве приза как насчёт бесплатной премиум-подписки на мой канал!,translated,79
+vntext.sq#75839,vntext.sq,BILLIE,"Urghhh, not looking forward to trying to get rid of them. I mean, I'm not scared or anything — like one rat is fine.","Уфффф, совсем не жду с нетерпением попыток от них избавиться. В смысле, я не то чтобы боюсь — одна крыса это нормально.",translated,116
+vntext.sq#75840,vntext.sq,BILLIE,But a swarm of them? A heaping mound of furry flesh where you can't tell where one rat ends and another begins? That's what freaks me out.,"Но целый рой их? Огромная куча пушистой плоти, где не разберёшь, где кончается одна крыса и начинается другая? Вот это меня пугает.",translated,138
+vntext.sq#75841,vntext.sq,BILLIE,"Hrmmm, I should let Zoey know that I'm in for some rat busting!","Хрмм, надо сообщить Зоуи, что я готова истреблять крыс вместе с ней!",translated,63
+vntext.sq#75844,vntext.sq,BILLIE,"Oh, speak of the digital devil! Hiya!","О, лёгок на помине цифровой дьявол! Приветик!",translated,37
+vntext.sq#75845,vntext.sq,BILLIE,...You're looking... a bit off.,...Ты выглядишь... немного не в себе.,translated,31
+vntext.sq#75857,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75869,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#75871,vntext.sq,BILLIE,"Hey Zoey, mind if I ask you something?","Эй, Зоуи, не против, если я кое-что спрошу?",translated,38
+vntext.sq#75873,vntext.sq,BILLIE,How many people have you got watching you in chat?,Сколько человек у тебя смотрит в чате?,translated,50
+vntext.sq#75875,vntext.sq,BILLIE,How many? On average.,Сколько? В среднем.,translated,21
+vntext.sq#75877,vntext.sq,BILLIE,And how many lines of chat did you see that got you nervous?,А сколько строк в чате заставили тебя занервничать?,translated,60
+vntext.sq#75879,vntext.sq,BILLIE,"So, what? [i] Half [/i] of all your followers?","Так что, [i] половина [/i] всех твоих подписчиков?",translated,46
+vntext.sq#75882,vntext.sq,BILLIE,"But that's the thing with toxins, isn't it?","Но в этом-то и суть токсинов, разве нет?",translated,43
+vntext.sq#75883,vntext.sq,BILLIE,"You could have a bloody five star buffet in front of you, but if I told you someone put a drop — just a drop of poison in it...","Представь, что перед тобой роскошный пятизвёздочный шведский стол, но если бы я сказала тебе, что кто-то капнул туда — всего одну каплю яда...",translated,127
+vntext.sq#75884,vntext.sq,BILLIE,"Then that would definitely spoil the meal, wouldn't it?",Разве это не испортило бы всю трапезу?,translated,55
+vntext.sq#75887,vntext.sq,BILLIE,"Make no mistake, I'm not telling you to toughen up, or to just 'get over it'.","Не пойми меня неправильно, я не говорю тебе быть покрепче или просто «перебороть это».",translated,77
+vntext.sq#75888,vntext.sq,BILLIE,Cos true... that's what we tell ourselves is the [i] right [/i] thing to do.,"Потому что, если честно... именно это мы говорим себе, что [i] правильно [/i] делать.",translated,76
+vntext.sq#75889,vntext.sq,BILLIE,"But just because some people lack empathy, doesn't mean we've got to forfeit [i] our [/i] right to [i] feel. [/i]","Но то, что некоторым людям не хватает эмпатии, не значит, что мы должны отказываться от [i] нашего [/i] права [i] чувствовать. [/i]",translated,113
+vntext.sq#75890,vntext.sq,BILLIE,"It does suck. And I guess I just wanted you to know that it's okay for you — the Zoey I'm talking to right now, not Zoey Bee — to [i] feel [/i] that.","Это правда отстойно. И, наверное, я просто хотела, чтобы ты знала — тебе — той Зоуи, с которой я сейчас разговариваю, а не Zoey Bee — можно это [i] чувствовать. [/i]",translated,149
+vntext.sq#75893,vntext.sq,BILLIE,I'm... I'm not saying you should [i] do [/i] anything. I'm just saying how it is.,"Я... я не говорю, что тебе нужно [i] что-то [/i] делать. Я просто описываю, как обстоят дела.",translated,81
+vntext.sq#75894,vntext.sq,BILLIE,But what is it that [i] you [/i] want to do?,Но что [i] ты [/i] сама хочешь сделать?,translated,44
+vntext.sq#75896,vntext.sq,BILLIE,Sounds like a good first step.,Звучит как хороший первый шаг.,translated,30
+vntext.sq#75925,vntext.sq,BILLIE,Heh... that's quite a trick you're pulling there.,Хех... неплохой трюк ты тут провернул.,translated,49
+vntext.sq#75927,vntext.sq,BILLIE,"Well, so what do you think, Zoey?","Ну, и что скажешь, Зоуи?",translated,33
+vntext.sq#75958,vntext.sq,BILLIE,You've got a little brother?,У тебя есть младший брат?,translated,28
+vntext.sq#75968,vntext.sq,BILLIE,Nothing beats the classics.,Ничто не сравнится с классикой.,translated,27
+vntext.sq#75980,vntext.sq,BILLIE,Zoey...,Зоуи...,translated,7
+vntext.sq#75992,vntext.sq,BILLIE,Sure does...,Точно так...,translated,12
+vntext.sq#76057,vntext.sq,BILLIE,"Sadly, life is an MMORPG. We gotta play the game.","Увы, жизнь — это MMORPG. Приходится играть в эту игру.",translated,49
+vntext.sq#76059,vntext.sq,BILLIE,...,...,translated,3
+vntext.sq#76060,vntext.sq,BILLIE,"Well, well, it's pretty cool to see you guys open up like that. Does this mean we're, like, buddies now?","Так-так, довольно круто видеть, как вы оба вот так открываетесь. Это значит, что мы теперь вроде как друзья?",translated,104
+vntext.sq#76062,vntext.sq,BILLIE,Heh...,Хех...,translated,6
+vntext.sq#76064,vntext.sq,BILLIE,You sure you're all right?,Ты точно в порядке?,translated,26
+vntext.sq#76067,vntext.sq,BILLIE,"Heh... well, I better be going too... you take care of yourself, okay?","Хех... что ж, мне тоже пора идти... береги себя, ладно?",translated,70
+vntext.sq#76368,vntext.sq,BILLIE,"Moving van is ready to go! Can I just say, I am buzzing with excitement!","Грузовик готов к отправке! Можно я просто скажу, что я вся дрожу от восторга!",translated,72
+vntext.sq#76372,vntext.sq,BILLIE,That's great! Got a couple of other friends who'll be joining us in the coming months.,Это здорово! У нас ещё пара друзей присоединится в ближайшие месяцы.,translated,86
+vntext.sq#76373,vntext.sq,BILLIE,"Keep an eye on us, {$mcName}. We're gonna make it big!","Следи за нами, {$mcName}. Мы своего добьёмся!",translated,54
+vntext.sq#76375,vntext.sq,BILLIE,"Same here. In fact, I just want to say, I'm so hooked on your donuts. I [i] will [/i] make time to visit!","Аналогично. На самом деле, хочу сказать, я так подсела на твои пончики. Я [i] обязательно [/i] найду время заглянуть!",translated,105
+vntext.sq#76377,vntext.sq,BILLIE,...!,...!,translated,4
+vntext.sq#76378,vntext.sq,BILLIE,"Oh, that's them! Gotta assist, so I'll see you in a bit, okay, Zoey?","Ой, это они! Надо помочь, так что увидимся чуть позже, ладно, Зоуи?",translated,68
+vntext.sq#76419,vntext.sq,BILLIE,Hiya!,Приветик!,translated,5
+vntext.sq#76421,vntext.sq,BILLIE,Glad I... made it in time... whew...,"Рада, что... успела вовремя... уф...",translated,36
+vntext.sq#76423,vntext.sq,BILLIE,You know it! I've been trying to exterminate those little pests one by one!,Ещё как! Пытаюсь истребить этих маленьких вредителей по одному!,translated,75
+vntext.sq#76424,vntext.sq,BILLIE,"And while I would love to another set of hands to help me with it, I just wanna say... I think it's cool that you're taking a break, Zoey.","И хоть я была бы рада ещё паре рук в помощь, просто хочу сказать... думаю, это круто, что ты берёшь перерыв, Зоуи.",translated,138
+vntext.sq#76426,vntext.sq,BILLIE,Yeah... you already seem more relaxed.,Да... ты уже выглядишь более расслабленной.,translated,38
+vntext.sq#76427,vntext.sq,BILLIE,So... cheers to your hiatus — and don't ever be a stranger.,Так что... за твой перерыв — и не пропадай.,translated,59
+vntext.sq#76433,vntext.sq,BILLIE,Let me help you with your stuff.,Давай помогу с вещами.,translated,32
+vntext.sq#76435,vntext.sq,BILLIE,Sure thing...,Конечно...,translated,13
